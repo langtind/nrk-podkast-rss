@@ -28,10 +28,14 @@ UA = "nrk-podkast-rss/1.0 (+https://github.com/%s)" % (
 )
 BYTES_PER_SEC = 24000  # 192 kbps CBR, verifisert mot faktiske Content-Length
 
-_local = threading.local()
+_calls = 0
+_calls_lock = threading.Lock()
 
 
 def fetch(path: str, tries: int = 5) -> dict:
+    global _calls
+    with _calls_lock:
+        _calls += 1
     url = path if path.startswith("http") else API + path
     delay = 1.0
     for attempt in range(tries):
@@ -88,25 +92,35 @@ def all_series() -> list[str]:
     return sorted(ids)
 
 
-def series_meta(sid: str) -> dict:
+def catalog(sid: str) -> tuple[dict, list[dict]]:
+    """Ett kall gir både seriemetadata og de 20 nyeste episodene (sort=desc)."""
     d = fetch(f"/radio/catalog/podcast/{sid}")
     s = d.get("series", {})
+
     def biggest(key):
         imgs = s.get(key) or []
         return imgs[-1]["url"] if imgs else None
-    return {
+
+    meta = {
         "id": sid,
         "title": (s.get("titles") or {}).get("title") or sid,
         "subtitle": ((s.get("titles") or {}).get("subtitle") or "").strip(),
         "category": (s.get("category") or {}).get("name") or "",
         "image": biggest("squareImage") or biggest("image"),
     }
+    head = (d.get("_embedded", {}).get("episodes", {})
+             .get("_embedded", {}).get("episodes", []))
+    return meta, [trim(e) for e in head]
 
 
-def series_episodes(sid: str) -> list[dict]:
+def series_episodes(sid: str, known: set[str] | None = None) -> list[dict]:
+    """Alle episoder. Med `known` stopper vi på første side der alt er kjent."""
     out = []
     for page in paginate(f"/radio/catalog/podcast/{sid}/episodes?page=1&pageSize=50"):
-        out.extend(page["_embedded"]["episodes"])
+        eps = [trim(e) for e in page["_embedded"]["episodes"]]
+        out.extend(eps)
+        if known is not None and all(e["episodeId"] in known for e in eps):
+            break
     return out
 
 
@@ -156,7 +170,7 @@ def rfc2822(iso: str) -> str:
         return format_datetime(datetime.now(timezone.utc))
 
 
-def build_rss(meta: dict, episodes: list[dict], urls: dict, feed_url: str) -> str:
+def build_rss(meta: dict, episodes: list[tuple[str, dict]], feed_url: str) -> str:
     t = escape(meta["title"])
     desc = escape(meta["subtitle"] or meta["title"])
     cat = ITUNES_CATEGORY.get(meta["category"], "Society &amp; Culture")
@@ -190,22 +204,20 @@ def build_rss(meta: dict, episodes: list[dict], urls: dict, feed_url: str) -> st
             f"<link>{SHARE}/{meta['id']}</link></image>"
         )
 
-    for e in episodes:
-        eid = e["episodeId"]
-        url = urls.get(eid)
+    for eid, e in episodes:
+        url = e.get("u")
         if not url:
             continue
-        titles = e.get("titles") or {}
-        title = escape(titles.get("title") or "")
-        sub = escape(titles.get("subtitle") or "")
-        secs = e.get("durationInSeconds") or 0
-        eimg = e.get("image") or img
+        title = escape(e.get("t") or "")
+        sub = escape(e.get("s") or "")
+        secs = e.get("n") or 0
+        eimg = e.get("i") or img
         p += [
             "<item>",
             f"<title>{title}</title>",
             f'<guid isPermaLink="false">{eid}</guid>',
             f"<link>{SHARE}/{meta['id']}/{eid}</link>",
-            f"<pubDate>{rfc2822(e.get('date') or '')}</pubDate>",
+            f"<pubDate>{rfc2822(e.get('d') or '')}</pubDate>",
             f"<description>{sub}</description>",
             f"<itunes:summary>{sub}</itunes:summary>",
             f'<enclosure url="{escape(url)}" type="audio/mpeg"'
@@ -224,39 +236,84 @@ def build_rss(meta: dict, episodes: list[dict], urls: dict, feed_url: str) -> st
 # ---------------------------------------------------------------- cache
 
 CACHE = Path("cache")
+CACHE_VERSION = 2
 
 
 def trim(e: dict) -> dict:
-    """Bare feltene RSS-en trenger — holder minnebruken nede på 59k episoder."""
+    """Bare feltene RSS-en trenger, med korte nøkler — cachen blir 235 filer."""
     imgs = e.get("squareImage") or e.get("image") or []
     return {
         "episodeId": e["episodeId"],
-        "titles": {
-            "title": (e.get("titles") or {}).get("title") or "",
-            "subtitle": (e.get("titles") or {}).get("subtitle") or "",
-        },
-        "date": e.get("date") or "",
-        "durationInSeconds": e.get("durationInSeconds") or 0,
-        "image": imgs[-1]["url"] if imgs else None,
+        "t": (e.get("titles") or {}).get("title") or "",
+        "s": (e.get("titles") or {}).get("subtitle") or "",
+        "d": e.get("date") or "",
+        "n": e.get("durationInSeconds") or 0,
+        "i": imgs[-1]["url"] if imgs else None,
     }
 
 
 def load_cache(sid: str) -> dict:
+    """Returnerer {"meta":…, "episodes":{eid: rec}}. v1-cache oppgraderes."""
     f = CACHE / f"{sid}.json"
-    if f.exists():
-        try:
-            return json.loads(f.read_text())
-        except Exception:
-            return {}
-    return {}
+    if not f.exists():
+        return {"v": CACHE_VERSION, "meta": None, "episodes": {}}
+    try:
+        d = json.loads(f.read_text())
+    except Exception:
+        return {"v": CACHE_VERSION, "meta": None, "episodes": {}}
+    if d.get("v") == CACHE_VERSION:
+        return d
+    # v1 var {episodeId: url}. Behold URL-ene, men metadataen må hentes på nytt.
+    return {"v": CACHE_VERSION, "meta": None,
+            "episodes": {k: {"u": v} for k, v in d.items() if isinstance(v, str)}}
 
 
-def save_cache(sid: str, urls: dict) -> None:
+def save_cache(sid: str, c: dict) -> bool:
     CACHE.mkdir(exist_ok=True)
     f = CACHE / f"{sid}.json"
-    new = json.dumps(urls, ensure_ascii=False, indent=0, sort_keys=True)
-    if not f.exists() or f.read_text() != new:
-        f.write_text(new)
+    txt = json.dumps(c, ensure_ascii=False, indent=0, sort_keys=True)
+    if f.exists() and f.read_text() == txt:
+        return False
+    f.write_text(txt)
+    return True
+
+
+def sync(sid: str, full: bool) -> tuple[str, dict, bool]:
+    """Ett katalog-kall. Dypere paginering bare når toppen har ukjente episoder."""
+    c = load_cache(sid)
+    eps = c["episodes"]
+    try:
+        meta, head = catalog(sid)
+    except Exception as e:
+        log(f"  ! {sid}: {e}")
+        return sid, c, False
+
+    had_meta = c.get("meta") is not None
+    c["meta"] = meta
+    stale = full or not had_meta or any(
+        e["episodeId"] not in eps or "d" not in eps[e["episodeId"]] for e in head)
+
+    if not stale:
+        for e in head:
+            eps[e["episodeId"]].update({k: v for k, v in e.items() if k != "episodeId"})
+        return sid, c, True
+
+    known = None if full else {k for k, v in eps.items() if "d" in v}
+    try:
+        fresh = series_episodes(sid, known)
+    except Exception as e:
+        log(f"  ! {sid}: {e}")
+        return sid, c, False
+
+    live = {e["episodeId"] for e in fresh} | {e["episodeId"] for e in head}
+    for e in fresh:
+        eid = e.pop("episodeId")
+        eps.setdefault(eid, {}).update(e)
+    if full:
+        # Bare en full crawl kan vite at NRK har fjernet en episode.
+        for gone in set(eps) - live:
+            del eps[gone]
+    return sid, c, True
 
 
 # ---------------------------------------------------------------- index
@@ -370,6 +427,8 @@ def main() -> int:
     ap.add_argument("--limit", type=int, default=300,
                     help="episoder i hovedfeeden; 0 = alle")
     ap.add_argument("--workers", type=int, default=12)
+    ap.add_argument("--full", action="store_true",
+                    help="full crawl av alle sider; fanger opp slettede episoder")
     args = ap.parse_args()
 
     base = args.base_url.rstrip("/")
@@ -377,72 +436,75 @@ def main() -> int:
     feeds.mkdir(parents=True, exist_ok=True)
 
     ids = [s.strip() for s in args.series.split(",") if s.strip()] or all_series()
-    log(f"serier: {len(ids)}")
+    log(f"serier: {len(ids)} ({'full crawl' if args.full else 'inkrementell'})")
 
-    # Fase 1 — metadata + episodelister, parallelt over serier.
-    def collect(sid):
-        try:
-            return sid, series_meta(sid), [trim(e) for e in series_episodes(sid)]
-        except Exception as e:
-            log(f"  ! {sid}: {e}")
-            return sid, None, []
-
-    data = {}
+    # Fase 1 — ett katalog-kall per serie; dypere bare der toppen er ukjent.
+    caches = {}
     with ThreadPoolExecutor(args.workers) as ex:
-        for sid, meta, eps in ex.map(collect, ids):
-            if meta:
-                data[sid] = (meta, eps)
-    log(f"episoder: {sum(len(v[1]) for v in data.values())}")
+        for sid, c, ok in ex.map(lambda x: sync(x, args.full), ids):
+            if ok and c.get("meta"):
+                caches[sid] = c
+    total = sum(len(c["episodes"]) for c in caches.values())
+    log(f"episoder: {total}")
 
-    # Fase 2 — ett manifest-kall per ukjent episode, i én global pool.
-    caches = {sid: load_cache(sid) for sid in data}
-    todo = [(sid, e["episodeId"]) for sid, (_, eps) in data.items()
-            for e in eps if not caches[sid].get(e["episodeId"])]
+    # Fase 2 — manifest kun for episoder uten kjent lyd-URL.
+    todo = [(sid, eid) for sid, c in caches.items()
+            for eid, rec in c["episodes"].items() if not rec.get("u")]
     log(f"manifester å hente: {len(todo)}")
-
     if todo:
         done = 0
         lock = threading.Lock()
-
-        def resolve(item):
-            sid, eid = item
-            return sid, eid, audio_url(eid)
-
         with ThreadPoolExecutor(args.workers) as ex:
-            for sid, eid, url in ex.map(resolve, todo):
-                caches[sid][eid] = url
+            for sid, eid, url in ex.map(
+                    lambda it: (it[0], it[1], audio_url(it[1])), todo):
+                caches[sid]["episodes"][eid]["u"] = url
                 with lock:
                     done += 1
                     if done % 500 == 0:
                         log(f"  {done}/{len(todo)}")
 
     # Fase 3 — skriv cache, feeder og indeks.
+    changed = 0
     rows = []
-    for sid, (meta, eps) in data.items():
-        urls = caches[sid]
-        save_cache(sid, urls)
-        eps.sort(key=lambda e: e["date"], reverse=True)
-        playable = [e for e in eps if urls.get(e["episodeId"])]
+    for sid, c in caches.items():
+        changed += save_cache(sid, c)
+        meta = c["meta"]
+        playable = sorted(
+            ((eid, r) for eid, r in c["episodes"].items() if r.get("u") and r.get("d")),
+            key=lambda kv: kv[1]["d"], reverse=True)
         if not playable:
             continue
 
         url = f"{base}/f/{sid}.xml"
         head = playable if args.limit == 0 else playable[: args.limit]
         feeds.joinpath(f"{sid}.xml").write_text(
-            build_rss(meta, head, urls, url), encoding="utf-8")
+            build_rss(meta, head, url), encoding="utf-8")
         if args.limit and len(playable) > args.limit:
-            full = f"{base}/f/{sid}-full.xml"
+            full_url = f"{base}/f/{sid}-full.xml"
             feeds.joinpath(f"{sid}-full.xml").write_text(
                 build_rss({**meta, "title": meta["title"] + " (hele arkivet)"},
-                          playable, urls, full), encoding="utf-8")
+                          playable, full_url), encoding="utf-8")
         rows.append({**meta, "episodes": len(playable),
                      "full": bool(args.limit and len(playable) > args.limit)})
+
+    # Heartbeat med ukesgranularitet: garanterer én commit i uka slik at
+    # GitHub ikke deaktiverer cron-jobben, uten å skitne til hver kjøring.
+    CACHE.mkdir(exist_ok=True)
+    hb = CACHE / ".heartbeat"
+    week = datetime.now(timezone.utc).strftime("%G-W%V")
+    if not hb.exists() or hb.read_text().strip() != week:
+        hb.write_text(week + "\n")
 
     write_index(args.out, base, rows)
     args.out.joinpath("robots.txt").write_text(
         "User-agent: *\nAllow: /\n", encoding="utf-8")
     args.out.joinpath(".nojekyll").write_text("", encoding="utf-8")
-    log(f"ferdig: {len(rows)} feeder i {args.out}")
+    log(f"ferdig: {len(rows)} feeder, {changed} cache-filer endret, {_calls} api-kall")
+
+    out_file = __import__("os").environ.get("GITHUB_OUTPUT")
+    if out_file:
+        with open(out_file, "a") as fh:
+            fh.write(f"changed={changed}\nfeeds={len(rows)}\ncalls={_calls}\n")
     return 0
 
 

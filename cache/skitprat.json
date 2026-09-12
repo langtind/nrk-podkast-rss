@@ -1,44 +1,348 @@
 {
-"l_01e3d86d-d554-4731-a3d8-6dd554f73148": "https://podkast.nrk.no/fil/skitprat/21ded21e-5d2b-4035-8cd8-579a7200c5db_0_ID192MP3.mp3",
-"l_0c450918-dea4-4bb7-8509-18dea4ebb7f1": "https://podkast.nrk.no/fil/skitprat/fe65771a-2949-4c1f-92e3-9d13b3f1432d_0_ID192MP3.mp3",
-"l_0e63a037-32bc-4b4b-a3a0-3732bcdb4b3c": "https://podkast.nrk.no/fil/skitprat/e6077567-6674-4f47-9d65-382fe5131143_0_ID192MP3.mp3",
-"l_120e85cb-eb6c-4fd6-8e85-cbeb6c7fd61f": "https://podkast.nrk.no/fil/skitprat/53e8c9d2-d051-45d3-ad74-2e88e7e86ea7_0_ID192MP3.mp3",
-"l_17ed793d-61e2-4752-ad79-3d61e2175235": "https://podkast.nrk.no/fil/skitprat/7a14bea7-a6f7-4310-8c13-5a5ddf620133_0_ID192MP3.mp3",
-"l_219bdb30-7b46-43f0-9bdb-307b46a3f0e4": "https://podkast.nrk.no/fil/skitprat/50417e77-c67c-496b-9d64-db8db7c80d89_0_ID192MP3.mp3",
-"l_22d98977-fa83-4f0d-9989-77fa832f0d39": "https://podkast.nrk.no/fil/skitprat/28e8253c-07af-46c4-9efe-7b435c699179_0_ID192MP3.mp3",
-"l_24765802-3f40-488f-b658-023f40088f03": "https://podkast.nrk.no/fil/skitprat/bcb3929d-f234-4240-b1ba-8bec0136fda0_0_ID192MP3.mp3",
-"l_2ca3c07a-e108-4c8c-a3c0-7ae1084c8c73": "https://podkast.nrk.no/fil/skitprat/7d98aeca-2fbe-4b61-a72b-755a9f0083a9_0_ID192MP3.mp3",
-"l_3a88b64a-8d11-4426-88b6-4a8d116426d9": "https://podkast.nrk.no/fil/skitprat/4c989cce-eb13-4910-a123-26ce9672f15e_0_ID192MP3.mp3",
-"l_4458531c-3356-4a02-9853-1c33567a020c": "https://podkast.nrk.no/fil/skitprat/fa91b1ca-13fe-48f1-b22c-840b98e6e0de_0_ID192MP3.mp3",
-"l_452e0670-a456-4e75-ae06-70a4562e75fc": "https://podkast.nrk.no/fil/skitprat/4b3462e6-03de-40ff-a8ae-23ff11703940_0_ID192MP3.mp3",
-"l_54f0ad95-f5ce-4033-b0ad-95f5cef033c8": "https://podkast.nrk.no/fil/skitprat/a39a9a2f-ef19-491a-a291-71b3e62cd3eb_0_ID192MP3.mp3",
-"l_553c66cf-771c-464c-bc66-cf771c364c68": "https://podkast.nrk.no/fil/skitprat/78c55acf-672c-4226-955a-ce51e3bf687b_0_ID192MP3.mp3",
-"l_59d4f4e5-2886-45a5-94f4-e52886f5a5ba": "https://podkast.nrk.no/fil/skitprat/ba3f9c10-0898-4e9f-8745-85c8db00faed_0_ID192MP3.mp3",
-"l_5c460425-ca20-4584-8604-25ca20f5843d": "https://podkast.nrk.no/fil/skitprat/d28f8540-1215-48ac-92b5-a4adacbba1c4_0_ID192MP3.mp3",
-"l_778c6764-f7fe-48f9-8c67-64f7fec8f9e3": "https://podkast.nrk.no/fil/skitprat/f9897175-0bc5-4810-85ad-dcd0fac5eca2_0_ID192MP3.mp3",
-"l_77979923-e919-4d4f-9799-23e919cd4fa5": "https://podkast.nrk.no/fil/skitprat/b68c7087-058a-45df-b534-b36c9ee69652_0_ID192MP3.mp3",
-"l_7d80fa95-0e3d-44d8-80fa-950e3d44d894": "https://podkast.nrk.no/fil/skitprat/ca7a705e-83da-4cd9-8cc9-8d7000e20c5b_0_ID192MP3.mp3",
-"l_7e870619-9cab-4de9-8706-199cab7de9f5": "https://podkast.nrk.no/fil/skitprat/3b66dadb-7685-400d-81a4-f46aaa9604a4_0_ID192MP3.mp3",
-"l_87e75e5d-8715-4cc9-a75e-5d87150cc99c": "https://podkast.nrk.no/fil/skitprat/d82a0cc8-47c1-4aec-b7bd-0322d534fd77_0_ID192MP3.mp3",
-"l_8c5c3f63-a6d3-40f0-9c3f-63a6d390f0c5": "https://podkast.nrk.no/fil/skitprat/71aa822b-8ec9-4a45-9bb0-def1f944f51d_0_ID192MP3.mp3",
-"l_908b10dc-828f-4c3b-8b10-dc828fcc3b53": "https://podkast.nrk.no/fil/skitprat/3c01dc2d-c7ea-4050-864d-ba665aa0daa6_0_ID192MP3.mp3",
-"l_99a7ce71-632a-47dc-a7ce-71632ae7dcd2": "https://podkast.nrk.no/fil/skitprat/9ce94b24-62e9-4dbe-b612-c592f2b9f193_0_ID192MP3.mp3",
-"l_9b55e0bd-47f9-4927-95e0-bd47f9692778": "https://podkast.nrk.no/fil/skitprat/62b63169-f8b5-4d3b-a23a-52077049e90b_0_ID192MP3.mp3",
-"l_a35d3f5d-5d02-4b01-9d3f-5d5d026b0133": "https://podkast.nrk.no/fil/skitprat/994e9d54-c226-4b91-89d1-bd61631b110a_0_ID192MP3.mp3",
-"l_a5139a9d-8a6f-40a8-939a-9d8a6f80a881": "https://podkast.nrk.no/fil/skitprat/af2aebef-dbce-47ee-94a0-d483f5954f8b_0_ID192MP3.mp3",
-"l_a8d808f4-79b9-4bdb-9808-f479b9cbdb98": "https://podkast.nrk.no/fil/skitprat/aab7e981-4d10-4d12-8d8f-3b255539464f_0_ID192MP3.mp3",
-"l_ad2cc374-5633-4e39-acc3-745633ce39b6": "https://podkast.nrk.no/fil/skitprat/bd926286-3474-4b00-8ce1-539c3d47fc99_0_ID192MP3.mp3",
-"l_b442d8fa-0536-4c9b-82d8-fa0536dc9b7e": "https://podkast.nrk.no/fil/skitprat/0141c8c2-6d6d-4e6d-91b3-c1ead5629212_0_ID192MP3.mp3",
-"l_b5ce23f9-7e25-481b-8e23-f97e25881b31": "https://podkast.nrk.no/fil/skitprat/2aa253d1-3ee7-49e1-84fa-c0796f52f70c_0_ID192MP3.mp3",
-"l_c6d61c67-97ed-495e-961c-6797edb95ea0": "https://podkast.nrk.no/fil/skitprat/8e1ac64e-7f2c-45cf-9cab-5cf26095feb0_0_ID192MP3.mp3",
-"l_c86ec878-1b29-447d-aec8-781b29e47d18": "https://podkast.nrk.no/fil/skitprat/df5f269e-81f9-43db-91d7-cc8de6cafc6f_0_ID192MP3.mp3",
-"l_c9159aa4-ff0f-464a-959a-a4ff0f164ae2": "https://podkast.nrk.no/fil/skitprat/b1256d28-3187-4e78-bee5-82f2ba8c46ca_0_ID192MP3.mp3",
-"l_d8ff87ee-1bf8-46e4-bf87-ee1bf826e4a0": "https://podkast.nrk.no/fil/skitprat/15e9757e-8dbb-4cc1-a510-f5feedbe2bdf_0_ID192MP3.mp3",
-"l_ddda94ec-e7ea-4e23-9a94-ece7ea1e23e4": "https://podkast.nrk.no/fil/skitprat/a96970cb-edab-4a72-a682-d6fe78f0da62_0_ID192MP3.mp3",
-"l_e6cbec70-9dab-46cb-8bec-709dab16cbef": "https://podkast.nrk.no/fil/skitprat/90b9d6fb-4f54-484b-9802-8384c7cc772e_0_ID192MP3.mp3",
-"l_ed584e16-8d86-4f5c-984e-168d863f5c96": "https://podkast.nrk.no/fil/skitprat/c58d9cd4-63b7-409b-abd4-812ba295c17c_0_ID192MP3.mp3",
-"l_ef8c9ea1-7fc4-4138-8c9e-a17fc4113838": "https://podkast.nrk.no/fil/skitprat/d1cd107c-174b-4fd0-8ae7-caad3e7bcd26_0_ID192MP3.mp3",
-"l_f24df6dc-abcf-42de-8df6-dcabcfd2de52": "https://podkast.nrk.no/fil/skitprat/a2b64b65-99ba-4703-8a23-4bfd1b83073f_0_ID192MP3.mp3",
-"l_f36f6a6c-8655-4036-af6a-6c8655903605": "https://podkast.nrk.no/fil/skitprat/ba0ebbc8-5ad8-4b25-a8aa-60f10cd86baa_0_ID192MP3.mp3",
-"l_f8cd007f-6c77-4fed-8d00-7f6c772fed26": "https://podkast.nrk.no/fil/skitprat/b5ea2493-e97d-43a5-bc73-beac9359b247_0_ID192MP3.mp3"
+"episodes": {
+"l_01e3d86d-d554-4731-a3d8-6dd554f73148": {
+"d": "2022-03-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1352,
+"s": "Jens og Isak deler sine beste isfisketips, og diskuterer fenomenet glamping. Begge hater å kjøre bil i Oslo, men har en genial løsning.  ",
+"t": "Isfiske, glamping og gavetabbe ",
+"u": "https://podkast.nrk.no/fil/skitprat/21ded21e-5d2b-4035-8cd8-579a7200c5db_0_ID192MP3.mp3"
+},
+"l_0c450918-dea4-4bb7-8509-18dea4ebb7f1": {
+"d": "2022-02-20T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1383,
+"s": "Isak sammenligner \"Farmen kjendis\" med Ludo, og Jens overbeviser Isak om å ta med rifle på rypejakt og deler sin verste turopplevelse. ",
+"t": "Farmen, vinterjakt og minneskap ",
+"u": "https://podkast.nrk.no/fil/skitprat/fe65771a-2949-4c1f-92e3-9d13b3f1432d_0_ID192MP3.mp3"
+},
+"l_0e63a037-32bc-4b4b-a3a0-3732bcdb4b3c": {
+"d": "2022-03-20T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1558,
+"s": "Isak «Strikkeren» har med strikketøy på revejakt og Jens sydde bevervotter i Canada. Isak blir svett når han må dele sitt flaueste øyeblikk.",
+"t": "Strikking, bevervotter og flause ",
+"u": "https://podkast.nrk.no/fil/skitprat/e6077567-6674-4f47-9d65-382fe5131143_0_ID192MP3.mp3"
+},
+"l_120e85cb-eb6c-4fd6-8e85-cbeb6c7fd61f": {
+"d": "2023-03-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1553,
+"s": "Jens og Isak har besøk av den legendariske fangstmannen John S. Opdahl, som forteller utrolige historier fra et langt jegerliv.",
+"t": "Spesial: Fangstlegenden John S. Opdahl",
+"u": "https://podkast.nrk.no/fil/skitprat/53e8c9d2-d051-45d3-ad74-2e88e7e86ea7_0_ID192MP3.mp3"
+},
+"l_17ed793d-61e2-4752-ad79-3d61e2175235": {
+"d": "2023-04-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1922,
+"s": "Det er vår på Grønland, Isak syr isbjørnbukse og Jens får være med hvalfangst, men det er så vidt han kommer hjem igjen! ",
+"t": "Vårløsning, isfjell og hvalfangst",
+"u": "https://podkast.nrk.no/fil/skitprat/7a14bea7-a6f7-4310-8c13-5a5ddf620133_0_ID192MP3.mp3"
+},
+"l_219bdb30-7b46-43f0-9bdb-307b46a3f0e4": {
+"d": "2023-04-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1831,
+"s": "Isak har vært på stige-fiske, Jens har sett tidenes nordlys og begge er enige om at truger er helt håpløst på tur.",
+"t": "Nordlys, stige-fiske og trugehat",
+"u": "https://podkast.nrk.no/fil/skitprat/50417e77-c67c-496b-9d64-db8db7c80d89_0_ID192MP3.mp3"
+},
+"l_22d98977-fa83-4f0d-9989-77fa832f0d39": {
+"d": "2023-04-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1434,
+"s": "Isak er klar for selfangst i Vestisen, mens Jens skal tilbake til Mongolia og ri på rein.",
+"t": "Selfangst, Mongolia og dametips",
+"u": "https://podkast.nrk.no/fil/skitprat/28e8253c-07af-46c4-9efe-7b435c699179_0_ID192MP3.mp3"
+},
+"l_24765802-3f40-488f-b658-023f40088f03": {
+"d": "2022-09-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1354,
+"s": "Jens og Isak har vært på villreinjakt, som ble mer komisk enn de hadde sett for seg. De deler også sine beste lokketips på revejakt.",
+"t": "Villreinjakt, revelokking og ulvedilemma",
+"u": "https://podkast.nrk.no/fil/skitprat/bcb3929d-f234-4240-b1ba-8bec0136fda0_0_ID192MP3.mp3"
+},
+"l_2ca3c07a-e108-4c8c-a3c0-7ae1084c8c73": {
+"d": "2022-05-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1484,
+"s": "Isak sliter med gnagsår av turskoene, mens Jens mener han er herdet. Gutta har oppdaget en tv-serie de begge har klart å se ferdig.  ",
+"t": "Tursko, kløv og serietips ",
+"u": "https://podkast.nrk.no/fil/skitprat/7d98aeca-2fbe-4b61-a72b-755a9f0083a9_0_ID192MP3.mp3"
+},
+"l_3a88b64a-8d11-4426-88b6-4a8d116426d9": {
+"d": "2022-03-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1457,
+"s": "Jens har endelig funnet en han vil dra på ekspedisjon med, men Isak er redd for hjemlengsel. Og valpen til Jens har fått en ny uvane.",
+"t": "Grønland, uvaner og dobbeldate",
+"u": "https://podkast.nrk.no/fil/skitprat/4c989cce-eb13-4910-a123-26ce9672f15e_0_ID192MP3.mp3"
+},
+"l_4458531c-3356-4a02-9853-1c33567a020c": {
+"d": "2022-10-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1089,
+"s": "Isak har vært på harejakt og klikker av byggesaksbyråkrati, mens Jens gir deg svaret på hvordan tamponger kan brukes som mår-felle! \n",
+"t": "Harejakt, byggekaos og praktiske tamponger",
+"u": "https://podkast.nrk.no/fil/skitprat/fa91b1ca-13fe-48f1-b22c-840b98e6e0de_0_ID192MP3.mp3"
+},
+"l_452e0670-a456-4e75-ae06-70a4562e75fc": {
+"d": "2022-02-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 107,
+"s": "Hør en smakebit fra den kommende podkasten med Jens Kvernmo og Isak Dreyer.",
+"t": "Kommer 11. februar: Skitprat med Jens og Isak",
+"u": "https://podkast.nrk.no/fil/skitprat/4b3462e6-03de-40ff-a8ae-23ff11703940_0_ID192MP3.mp3"
+},
+"l_54f0ad95-f5ce-4033-b0ad-95f5cef033c8": {
+"d": "2022-04-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1346,
+"s": "Jens og Isak prøver å snakke om beverjakt, men får latterkrampe. Isak utfordres: Hva ville han gjort om han var statsminister for en dag?  ",
+"t": "Beverjakt, statsminister og nybegynnertips ",
+"u": "https://podkast.nrk.no/fil/skitprat/a39a9a2f-ef19-491a-a291-71b3e62cd3eb_0_ID192MP3.mp3"
+},
+"l_553c66cf-771c-464c-bc66-cf771c364c68": {
+"d": "2022-09-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1064,
+"s": "Jens og Isak er hjemme etter flere måneder på Grønland, og Jens forteller om nervepirrende hvaljakt med inuittene. ",
+"t": "Hjem fra Grønland og klare for jakt",
+"u": "https://podkast.nrk.no/fil/skitprat/78c55acf-672c-4226-955a-ce51e3bf687b_0_ID192MP3.mp3"
+},
+"l_59d4f4e5-2886-45a5-94f4-e52886f5a5ba": {
+"d": "2022-10-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1186,
+"s": "Jens og Isak deler sine beste historier og flauser fra skogsfugl-jakta og gutta drømmer om et liv som cowboy og indianer. ",
+"t": "Skogsfugljakt, hestesanking og cowboyliv",
+"u": "https://podkast.nrk.no/fil/skitprat/ba3f9c10-0898-4e9f-8745-85c8db00faed_0_ID192MP3.mp3"
+},
+"l_5c460425-ca20-4584-8604-25ca20f5843d": {
+"d": "2022-05-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1694,
+"s": "Jens og Isak deler tips og historier om fisking i fjellvann. Isak har prøvd å fly med hund, og Jens må avsløre sin største guilty pleasure. ",
+"t": "Fisketips, mark og flytrøbbel",
+"u": "https://podkast.nrk.no/fil/skitprat/d28f8540-1215-48ac-92b5-a4adacbba1c4_0_ID192MP3.mp3"
+},
+"l_778c6764-f7fe-48f9-8c67-64f7fec8f9e3": {
+"d": "2022-09-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1176,
+"s": "Årets rypejakt er i gang og Jens og Isak deler sine beste tips for å lykkes. De hisser seg også opp over trenden med helikopter-jakt.",
+"t": "Rypejakt, helikopter-sinne og hundespising",
+"u": "https://podkast.nrk.no/fil/skitprat/f9897175-0bc5-4810-85ad-dcd0fac5eca2_0_ID192MP3.mp3"
+},
+"l_77979923-e919-4d4f-9799-23e919cd4fa5": {
+"d": "2022-11-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1727,
+"s": "Jens forteller hvorfor rådyrjakta betyr så mye, og gutta avslører noen skitne rekorder på tur. Jens tester hvor god Isak er på lokke-lyder.",
+"t": "Rådyrjakt, skitne rekorder og lokke-quiz!",
+"u": "https://podkast.nrk.no/fil/skitprat/b68c7087-058a-45df-b534-b36c9ee69652_0_ID192MP3.mp3"
+},
+"l_7d80fa95-0e3d-44d8-80fa-950e3d44d894": {
+"d": "2023-04-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1786,
+"s": "Jens mimrer tilbake til Finnmarksløpet tidligere i vinter, hvor han hallusinerte i 35 minus og gutta lar seg imponere over kjønnsdriften.",
+"t": "Finnmarksløpet, hallusinasjon og kjønnsdrift",
+"u": "https://podkast.nrk.no/fil/skitprat/ca7a705e-83da-4cd9-8cc9-8d7000e20c5b_0_ID192MP3.mp3"
+},
+"l_7e870619-9cab-4de9-8706-199cab7de9f5": {
+"d": "2022-03-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1378,
+"s": "Jens er ferdig med å fryse, mens Isak nekter å bruke stillongs på tur. Gutta tar for seg tips mot dørstokkmila og hvordan lage snus på tur. ",
+"t": "Kuldetips, panserpung og snus ",
+"u": "https://podkast.nrk.no/fil/skitprat/3b66dadb-7685-400d-81a4-f46aaa9604a4_0_ID192MP3.mp3"
+},
+"l_87e75e5d-8715-4cc9-a75e-5d87150cc99c": {
+"d": "2023-02-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1680,
+"s": "Jens forbereder seg til Finnmarksløpet, mens Isak har vært på telttur med «Funkygine» og havnet i våpentrøbbel med politiet. ",
+"t": "Hundekjøring, polititrøbbel og «Funkygine»",
+"u": "https://podkast.nrk.no/fil/skitprat/d82a0cc8-47c1-4aec-b7bd-0322d534fd77_0_ID192MP3.mp3"
+},
+"l_8c5c3f63-a6d3-40f0-9c3f-63a6d390f0c5": {
+"d": "2022-08-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 45,
+"s": "Nye episoder av Skitprat med Jens og Isak kommer snart!",
+"t": "Kommer 3.september",
+"u": "https://podkast.nrk.no/fil/skitprat/71aa822b-8ec9-4a45-9bb0-def1f944f51d_0_ID192MP3.mp3"
+},
+"l_908b10dc-828f-4c3b-8b10-dc828fcc3b53": {
+"d": "2023-03-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1975,
+"s": "Jens og Isak mister hverandre i isødet på Grønland. Jens må følge sporene til Isak, som fører rett ut i utrygg is. \n\n",
+"t": "Isak forsvinner i isødet",
+"u": "https://podkast.nrk.no/fil/skitprat/3c01dc2d-c7ea-4050-864d-ba665aa0daa6_0_ID192MP3.mp3"
+},
+"l_99a7ce71-632a-47dc-a7ce-71632ae7dcd2": {
+"d": "2022-02-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1455,
+"s": "Isak oppsummerer Farmen, og lærer Jens hva mining er. Gutta oppdager at de er uenig om lengde på staver, men helt enige om svart arbeid. ",
+"t": "Penger, kjendis og skistaver ",
+"u": "https://podkast.nrk.no/fil/skitprat/9ce94b24-62e9-4dbe-b612-c592f2b9f193_0_ID192MP3.mp3"
+},
+"l_9b55e0bd-47f9-4927-95e0-bd47f9692778": {
+"d": "2022-02-11T06:02:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1235,
+"s": "Jens trenger en hårklipp og Isak drar fram kniven. Gutta forteller om Femundløpet og om den vakreste plassen å stå i hockey og tømme ryggen.",
+"t": "Hårklipp, hundeløp og hockey",
+"u": "https://podkast.nrk.no/fil/skitprat/62b63169-f8b5-4d3b-a23a-52077049e90b_0_ID192MP3.mp3"
+},
+"l_a35d3f5d-5d02-4b01-9d3f-5d5d026b0133": {
+"d": "2022-04-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1639,
+"s": "Jens og Isak mener «barflekktida» er årets høydepunkt og beste tida for telt. Gutta diskuterer feller, og hva man gir til en som har alt. ",
+"t": "Vårtur, telttips og gavehysteri ",
+"u": "https://podkast.nrk.no/fil/skitprat/994e9d54-c226-4b91-89d1-bd61631b110a_0_ID192MP3.mp3"
+},
+"l_a5139a9d-8a6f-40a8-939a-9d8a6f80a881": {
+"d": "2022-06-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1724,
+"s": "Jens og Isak forklarer hvordan du skal trene for å bli en god skytter. Jens avslører hvilken låt han dro på gitar etter festen. ",
+"t": "Skyting, nachspiel og øde øy",
+"u": "https://podkast.nrk.no/fil/skitprat/af2aebef-dbce-47ee-94a0-d483f5954f8b_0_ID192MP3.mp3"
+},
+"l_a8d808f4-79b9-4bdb-9808-f479b9cbdb98": {
+"d": "2023-03-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1683,
+"s": "Jens og Isak forteller (nesten) alt om Grønlandseventyret og Jens har forsket seg frem til naturens beste dopapir.",
+"t": "Grønland, hvalrossjakt og dopapir",
+"u": "https://podkast.nrk.no/fil/skitprat/aab7e981-4d10-4d12-8d8f-3b255539464f_0_ID192MP3.mp3"
+},
+"l_ad2cc374-5633-4e39-acc3-745633ce39b6": {
+"d": "2022-06-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1721,
+"s": "Jens og Isak elsker legender, og mener alle bør ha et forbilde. Gutta forteller om en lærerik jaktdag, Isak deler drøy historie fra Farmen.",
+"t": "Legender, radio og jakttabbe ",
+"u": "https://podkast.nrk.no/fil/skitprat/bd926286-3474-4b00-8ce1-539c3d47fc99_0_ID192MP3.mp3"
+},
+"l_b442d8fa-0536-4c9b-82d8-fa0536dc9b7e": {
+"d": "2022-04-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1629,
+"s": "Jens og Isak deler båltips, og historier om da det gikk galt. Jens hjelper en lytter som vil begynne med jakt, og Isak deler en vill drøm. ",
+"t": "Båltips, jaktstart og hotellfrokost ",
+"u": "https://podkast.nrk.no/fil/skitprat/0141c8c2-6d6d-4e6d-91b3-c1ead5629212_0_ID192MP3.mp3"
+},
+"l_b5ce23f9-7e25-481b-8e23-f97e25881b31": {
+"d": "2022-10-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1232,
+"s": "Oktober er høytid fra å sove ute og Jens forteller om leirplassen fra helvete. Gutta diskuterer også om trofébilder på jakt er innafor.",
+"t": "Leirplass, kokegrop og trofébilder på jakt",
+"u": "https://podkast.nrk.no/fil/skitprat/2aa253d1-3ee7-49e1-84fa-c0796f52f70c_0_ID192MP3.mp3"
+},
+"l_c6d61c67-97ed-495e-961c-6797edb95ea0": {
+"d": "2022-04-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1501,
+"s": "Isak har fryseren full av gås, og sliter med at han må spise opp alt. Jens om hvordan han trener opp valpen Mika til å bli klar for jakt.",
+"t": "Gåsetaco, valpetrening og viltloven ",
+"u": "https://podkast.nrk.no/fil/skitprat/8e1ac64e-7f2c-45cf-9cab-5cf26095feb0_0_ID192MP3.mp3"
+},
+"l_c86ec878-1b29-447d-aec8-781b29e47d18": {
+"d": "2022-05-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1414,
+"s": "Jens gjør det til sport å pakke lite på tur,  Isak deler et smart triks han lærte av faren. Og hva mener de er den beste turegenskapen? ",
+"t": "Pakkeliste, fetthunger og MGP ",
+"u": "https://podkast.nrk.no/fil/skitprat/df5f269e-81f9-43db-91d7-cc8de6cafc6f_0_ID192MP3.mp3"
+},
+"l_c9159aa4-ff0f-464a-959a-a4ff0f164ae2": {
+"d": "2023-04-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1691,
+"s": "Jens og Isak får være med på seljakt og blir kjent med Toku, som blir som en mor for dem på Grønland. ",
+"t": "Seljakt, mor Toku og urbefolkningen",
+"u": "https://podkast.nrk.no/fil/skitprat/b1256d28-3187-4e78-bee5-82f2ba8c46ca_0_ID192MP3.mp3"
+},
+"l_d8ff87ee-1bf8-46e4-bf87-ee1bf826e4a0": {
+"d": "2022-09-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1297,
+"s": "Jens og Isak har vært på rypejakt og deler sine beste tips for å lykkes. De innrømmer også at de kan få dårlig samvittighet på jakt.",
+"t": "Rypejakt, Dagsnytt 18 og dårlig samvittighet",
+"u": "https://podkast.nrk.no/fil/skitprat/15e9757e-8dbb-4cc1-a510-f5feedbe2bdf_0_ID192MP3.mp3"
+},
+"l_ddda94ec-e7ea-4e23-9a94-ece7ea1e23e4": {
+"d": "2022-10-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 2374,
+"s": "Jens har vært på brølejakt og levd ut guttedrømmen i Mongolia, mens Isak har hatt en nær døden-opplevelse.",
+"t": "Brølejakt, Mongolia-tur og kullosforgiftning",
+"u": "https://podkast.nrk.no/fil/skitprat/a96970cb-edab-4a72-a682-d6fe78f0da62_0_ID192MP3.mp3"
+},
+"l_e6cbec70-9dab-46cb-8bec-709dab16cbef": {
+"d": "2022-10-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1240,
+"s": "Isak røper sin favoritt i Norges tøffeste og Jens forteller hvordan sansene reddet ham fra et skremmende møte med bjørn i Canada.",
+"t": "Norges tøffeste, skjerpa sanser og telttips",
+"u": "https://podkast.nrk.no/fil/skitprat/90b9d6fb-4f54-484b-9802-8384c7cc772e_0_ID192MP3.mp3"
+},
+"l_ed584e16-8d86-4f5c-984e-168d863f5c96": {
+"d": "2022-02-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1520,
+"s": "Jens har fått en ny valp, og forteller om da han ble anmeldt. Isak deler interiørtips, og svarer på hvilke egenskaper en kjæreste må ha. ",
+"t": "Hundeliv, interiørtips og drømmedame ",
+"u": "https://podkast.nrk.no/fil/skitprat/c58d9cd4-63b7-409b-abd4-812ba295c17c_0_ID192MP3.mp3"
+},
+"l_ef8c9ea1-7fc4-4138-8c9e-a17fc4113838": {
+"d": "2022-02-11T06:01:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1500,
+"s": "Jens og Isak elsker revejakt, men ikke alle liker at de deler bilder fra jakta. Isak forteller drøy historie om en hund på biltur.",
+"t": "Revejakt, kallenavn og dritutfordring ",
+"u": "https://podkast.nrk.no/fil/skitprat/d1cd107c-174b-4fd0-8ae7-caad3e7bcd26_0_ID192MP3.mp3"
+},
+"l_f24df6dc-abcf-42de-8df6-dcabcfd2de52": {
+"d": "2023-03-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1742,
+"s": "Jens og Isak forteller hvordan det gikk da de skulle skaffe seg eget hundespann på Grønland. Det var enklere sagt enn gjort! ",
+"t": "Grønlandshund, sledebygging og hvalkuk",
+"u": "https://podkast.nrk.no/fil/skitprat/a2b64b65-99ba-4703-8a23-4bfd1b83073f_0_ID192MP3.mp3"
+},
+"l_f36f6a6c-8655-4036-af6a-6c8655903605": {
+"d": "2022-05-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1522,
+"s": "Jens ble livredd på sin første tiurleik, og Isak har lært seg hvorfor han alltid skal stole på hunden. Onkel Jens deler barnevakttips. ",
+"t": "Tiurleik, barnevakt og tårer ",
+"u": "https://podkast.nrk.no/fil/skitprat/ba0ebbc8-5ad8-4b25-a8aa-60f10cd86baa_0_ID192MP3.mp3"
+},
+"l_f8cd007f-6c77-4fed-8d00-7f6c772fed26": {
+"d": "2022-05-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"n": 1416,
+"s": "Isak har begynt å gå med kniv i beltet på jobb etter at han traff Jens. Gutta prater om kanoturer og sin første langtur helt alene.  ",
+"t": "Kano, kniv og polferd ",
+"u": "https://podkast.nrk.no/fil/skitprat/b5ea2493-e97d-43a5-bc73-beac9359b247_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "skitprat",
+"image": "https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg",
+"subtitle": "Villmarkas Jens Kvernmo og Norges tøffeste Isak Dreyer er to kompiser som elsker naturen, livet og skitprat. Send e-post til Skitprat@nrk.no!",
+"title": "Skitprat med Jens og Isak"
+},
+"v": 2
 }

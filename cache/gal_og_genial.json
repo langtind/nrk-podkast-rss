@@ -1,12 +1,92 @@
 {
-"l_15396992-2b53-4119-b969-922b53d119ca": "https://podkast.nrk.no/fil/gal_og_genial/3af7eb42-a249-4eaa-9974-48c855ce8ab4_0_ID192MP3.mp3",
-"l_29c3767b-4cba-4b06-8376-7b4cbadb0660": "https://podkast.nrk.no/fil/gal_og_genial/fbf35da1-0254-4d99-92cd-d52a5bf5487f_0_ID192MP3.mp3",
-"l_2d7062ca-8306-4461-b062-ca8306e4613b": "https://podkast.nrk.no/fil/gal_og_genial/47db3c24-0a6c-4c51-bc67-268bf532d693_0_ID192MP3.mp3",
-"l_31594605-4c51-47e5-9946-054c51e7e5e4": "https://podkast.nrk.no/fil/gal_og_genial/e03c1c91-5fe7-4b09-8616-d78c8ca39c97_0_ID192MP3.mp3",
-"l_6d627019-fdd3-41ef-a270-19fdd381efc5": "https://podkast.nrk.no/fil/gal_og_genial/57d162cf-d31f-430c-b742-c5c94faeab10_0_ID192MP3.mp3",
-"l_7213b359-48b6-4760-93b3-5948b6576080": "https://podkast.nrk.no/fil/gal_og_genial/5b16ed54-6b98-4217-be98-ca0e85b2515f_0_ID192MP3.mp3",
-"l_7ca46b83-d445-4fba-a46b-83d445cfba8c": "https://podkast.nrk.no/fil/gal_og_genial/1791ad62-e40c-4e86-99f1-0c61f15eaabc_0_ID192MP3.mp3",
-"l_d1ebb1e1-6890-4b56-abb1-e168902b567f": "https://podkast.nrk.no/fil/gal_og_genial/e65f328e-82bb-44ef-9af6-a0d20b9ffa1a_0_ID192MP3.mp3",
-"l_faad0a66-f575-42eb-ad0a-66f575b2eb7a": "https://podkast.nrk.no/fil/gal_og_genial/41db05ab-73c6-442d-b20b-9df50bfc4f6d_0_ID192MP3.mp3",
-"l_facbc02c-0d76-4c81-8bc0-2c0d76ac81d6": "https://podkast.nrk.no/fil/gal_og_genial/e73d9eaa-5031-4da8-ad57-1840f49eb9b6_0_ID192MP3.mp3"
+"episodes": {
+"l_15396992-2b53-4119-b969-922b53d119ca": {
+"d": "2022-08-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"n": 1451,
+"s": "Dette er historien om geniet som gjorde så lite ut av seg at det tok 100 år før resten av verden ble klar over de viktige oppdagelsene hans",
+"t": "Henry Cavendish & den ekstreme blygheten",
+"u": "https://podkast.nrk.no/fil/gal_og_genial/3af7eb42-a249-4eaa-9974-48c855ce8ab4_0_ID192MP3.mp3"
+},
+"l_29c3767b-4cba-4b06-8376-7b4cbadb0660": {
+"d": "2022-09-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"n": 1559,
+"s": "Dette er historien om landjordas raskeste mann, som satte livet på spill for å forske på g-krefter!",
+"t": "John Stapp & de livsfarlige g-kreftene",
+"u": "https://podkast.nrk.no/fil/gal_og_genial/fbf35da1-0254-4d99-92cd-d52a5bf5487f_0_ID192MP3.mp3"
+},
+"l_2d7062ca-8306-4461-b062-ca8306e4613b": {
+"d": "2022-08-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"n": 2038,
+"s": "Dette er historien om en notorisk skjørtejeger og legendarisk kreativ type som ikke kjørte bil eller vasket klær, men som forstod universet!",
+"t": "Albert Einstein & det store dameproblemet",
+"u": "https://podkast.nrk.no/fil/gal_og_genial/47db3c24-0a6c-4c51-bc67-268bf532d693_0_ID192MP3.mp3"
+},
+"l_31594605-4c51-47e5-9946-054c51e7e5e4": {
+"d": "2022-08-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"n": 1513,
+"s": "Dette er historien om fysikeren, matematikeren og den mislykka læreren som stakk nåler i øyet og brukte halve livet på alkymi!",
+"t": "Isaac Newton & jakten på gull og evig liv",
+"u": "https://podkast.nrk.no/fil/gal_og_genial/e03c1c91-5fe7-4b09-8616-d78c8ca39c97_0_ID192MP3.mp3"
+},
+"l_6d627019-fdd3-41ef-a270-19fdd381efc5": {
+"d": "2022-09-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"n": 1764,
+"s": "Dette er historien om verdens første datamaskin, tenkt ut for 180 år siden!",
+"t": "Ada Lovelace & den første datakoden",
+"u": "https://podkast.nrk.no/fil/gal_og_genial/57d162cf-d31f-430c-b742-c5c94faeab10_0_ID192MP3.mp3"
+},
+"l_7213b359-48b6-4760-93b3-5948b6576080": {
+"d": "2022-08-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"n": 1333,
+"s": "Dette er historien om mattegeniet som løste en milliongåte, nektet å ta imot pengene og forsvant! ",
+"t": "Grigori Perelman & det masete mattemiljøet",
+"u": "https://podkast.nrk.no/fil/gal_og_genial/5b16ed54-6b98-4217-be98-ca0e85b2515f_0_ID192MP3.mp3"
+},
+"l_7ca46b83-d445-4fba-a46b-83d445cfba8c": {
+"d": "2022-10-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"n": 1956,
+"s": "Dette er historien om det elektriske geniet som bodde på hotell halve livet, hadde kreative superkrefter og forelska seg i ei due!",
+"t": "Nikola Tesla & spenningskrigen",
+"u": "https://podkast.nrk.no/fil/gal_og_genial/1791ad62-e40c-4e86-99f1-0c61f15eaabc_0_ID192MP3.mp3"
+},
+"l_d1ebb1e1-6890-4b56-abb1-e168902b567f": {
+"d": "2022-09-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"n": 1731,
+"s": "Dette er historien om kvinnen som ble forsker ved en tilfeldighet og revolusjonerte vår oppfatning av sjimpanser",
+"t": "Jane Goodall & livet med apene",
+"u": "https://podkast.nrk.no/fil/gal_og_genial/e65f328e-82bb-44ef-9af6-a0d20b9ffa1a_0_ID192MP3.mp3"
+},
+"l_faad0a66-f575-42eb-ad0a-66f575b2eb7a": {
+"d": "2022-09-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"n": 2425,
+"s": "Dette er historien om tidenes mest kjente nordmann, som utfordret vitenskapen og krysset verdenshavene!",
+"t": "Thor Heyerdahl & de ni livene",
+"u": "https://podkast.nrk.no/fil/gal_og_genial/41db05ab-73c6-442d-b20b-9df50bfc4f6d_0_ID192MP3.mp3"
+},
+"l_facbc02c-0d76-4c81-8bc0-2c0d76ac81d6": {
+"d": "2022-10-04T16:10:00+02:00",
+"i": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"n": 1723,
+"s": "Dette er historien om astronomen som fant opp den vitenskapelige metode og hadde en elg som kjæledyr!",
+"t": "Tycho Brahe & det astronomiske partylivet",
+"u": "https://podkast.nrk.no/fil/gal_og_genial/e73d9eaa-5031-4da8-ad57-1840f49eb9b6_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "gal_og_genial",
+"image": "https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg",
+"subtitle": "Våre største genier var noen skikkelige raringer. I Gal & genial boltrer vi oss i genistrekene OG raritetene til historiens smarteste folk!",
+"title": "Gal & genial"
+},
+"v": 2
 }

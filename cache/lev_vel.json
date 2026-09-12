@@ -1,107 +1,852 @@
 {
-"l_00b3b5ec-f394-46e6-b3b5-ecf39496e6d9": "https://podkast.nrk.no/fil/lev_vel/e82437da-47c7-40aa-ac1a-45fffb1bd8a7_0_ID192MP3.mp3",
-"l_018e6d39-5bb2-474c-8e6d-395bb2774c6d": "https://podkast.nrk.no/fil/lev_vel/a9ba9c25-74cc-47c5-ade9-d48caf257148_0_ID192MP3.mp3",
-"l_01d65fb5-6107-44a3-965f-b5610714a305": "https://podkast.nrk.no/fil/lev_vel/01d65fb5-6107-44a3-965f-b5610714a305_1_ID192MP3.mp3",
-"l_0702299f-2e7f-49ee-8229-9f2e7fd9ee6a": "https://podkast.nrk.no/fil/lev_vel/0702299f-2e7f-49ee-8229-9f2e7fd9ee6a_2_ID192MP3.mp3",
-"l_0b8d02c4-78c5-4924-8d02-c478c56924c4": "https://podkast.nrk.no/fil/lev_vel/0b8d02c4-78c5-4924-8d02-c478c56924c4_ID192MP3.mp3",
-"l_0bf5e1a1-6fb4-4f18-b5e1-a16fb48f18a6": "https://podkast.nrk.no/fil/lev_vel/0bf5e1a1-6fb4-4f18-b5e1-a16fb48f18a6_1_ID192MP3.mp3",
-"l_0cbf7cf8-e2ba-4ebf-bf7c-f8e2ba1ebf45": "https://podkast.nrk.no/fil/lev_vel/0cbf7cf8-e2ba-4ebf-bf7c-f8e2ba1ebf45_1_ID192MP3.mp3",
-"l_0f0cd936-9e78-48ad-8cd9-369e7818ad04": "https://podkast.nrk.no/fil/lev_vel/0f0cd936-9e78-48ad-8cd9-369e7818ad04_1_ID192MP3.mp3",
-"l_0f8229be-cd8f-41d8-8229-becd8fc1d872": "https://podkast.nrk.no/fil/lev_vel/c0b6e08f-60a1-497d-a32e-67e8c786b58a_0_ID192MP3.mp3",
-"l_100fcb4b-7867-4794-8fcb-4b7867d79459": "https://podkast.nrk.no/fil/lev_vel/e18be889-44ff-4752-9c30-729b7650cc35_0_ID192MP3.mp3",
-"l_118bf8d3-8772-4682-8bf8-d38772b68262": "https://podkast.nrk.no/fil/lev_vel/5c0e7d66-5f54-46a1-b440-aed251d95d91_0_ID192MP3.mp3",
-"l_121e3f08-73dd-4944-9e3f-0873ddf944ad": "https://podkast.nrk.no/fil/lev_vel/121e3f08-73dd-4944-9e3f-0873ddf944ad_1_ID192MP3.mp3",
-"l_13b957dd-ddef-41bc-b957-ddddef31bc5d": "https://podkast.nrk.no/fil/lev_vel/ded2efb2-932a-4efe-b938-a6d86a6fb6e0_0_ID192MP3.mp3",
-"l_1713df63-37b4-46d6-93df-6337b4f6d67e": "https://podkast.nrk.no/fil/lev_vel/1713df63-37b4-46d6-93df-6337b4f6d67e_1_ID192MP3.mp3",
-"l_1dc667db-0110-4ccc-8667-db01104ccc15": "https://podkast.nrk.no/fil/lev_vel/2939c8d2-778c-4496-89b2-174d07df48df_0_ID192MP3.mp3",
-"l_25bee5b8-6779-4892-bee5-b86779b89258": "https://podkast.nrk.no/fil/lev_vel/95941a9a-67be-4d81-a4b2-6e89ced4adb0_0_ID192MP3.mp3",
-"l_27370177-6877-4cac-b701-7768776cacd0": "https://podkast.nrk.no/fil/lev_vel/6d4a833c-e137-4db8-bfaf-d2b50652c425_0_ID192MP3.mp3",
-"l_278c4837-63ed-4a76-8c48-3763ed8a7607": "https://podkast.nrk.no/fil/lev_vel/35286c10-7eec-46b7-b9f3-77be890367cd_0_ID192MP3.mp3",
-"l_2e34bfa4-c5c0-49b8-b4bf-a4c5c089b812": "https://podkast.nrk.no/fil/lev_vel/2e34bfa4-c5c0-49b8-b4bf-a4c5c089b812_1_ID192MP3.mp3",
-"l_31b823c4-7248-4c08-b823-c472485c08a6": "https://podkast.nrk.no/fil/lev_vel/120d1b70-d58d-4632-975c-9b5f5e833511_0_ID192MP3.mp3",
-"l_346738f6-a50e-47ed-a738-f6a50ec7ed38": "https://podkast.nrk.no/fil/lev_vel/0500a3bf-d055-4755-95eb-cda13a479414_0_ID192MP3.mp3",
-"l_3831111b-5d56-40b1-b111-1b5d5660b1bb": "https://podkast.nrk.no/fil/lev_vel/16bc347a-5770-4914-bee6-a2b98946bec2_0_ID192MP3.mp3",
-"l_3d816119-4bfe-43ed-8161-194bfe13ed2e": "https://podkast.nrk.no/fil/lev_vel/3d816119-4bfe-43ed-8161-194bfe13ed2e_1_ID192MP3.mp3",
-"l_3e82c25b-8015-4ea0-82c2-5b80156ea056": "https://podkast.nrk.no/fil/lev_vel/3e82c25b-8015-4ea0-82c2-5b80156ea056_1_ID192MP3.mp3",
-"l_41114f86-dbc9-437e-914f-86dbc9837e5c": "https://podkast.nrk.no/fil/lev_vel/41114f86-dbc9-437e-914f-86dbc9837e5c_1_ID192MP3.mp3",
-"l_416e2d9b-9c9a-473f-ae2d-9b9c9ac73fe7": "https://podkast.nrk.no/fil/lev_vel/416e2d9b-9c9a-473f-ae2d-9b9c9ac73fe7_2_ID192MP3.mp3",
-"l_45c8cd4d-c37f-44dc-88cd-4dc37fd4dcb4": "https://podkast.nrk.no/fil/lev_vel/9136c6c0-f353-44ca-8d8a-e8567bd987e8_0_ID192MP3.mp3",
-"l_462d433e-6021-4727-ad43-3e6021d72729": "https://podkast.nrk.no/fil/lev_vel/462d433e-6021-4727-ad43-3e6021d72729_1_ID192MP3.mp3",
-"l_48f4f945-714d-42c9-b4f9-45714d12c9a2": "https://podkast.nrk.no/fil/lev_vel/48f4f945-714d-42c9-b4f9-45714d12c9a2_1_ID192MP3.mp3",
-"l_4ba716b3-961b-4ba4-a716-b3961beba4a9": "https://podkast.nrk.no/fil/lev_vel/4ba716b3-961b-4ba4-a716-b3961beba4a9_1_ID192MP3.mp3",
-"l_53e1d819-2731-44b1-a1d8-192731f4b115": "https://podkast.nrk.no/fil/lev_vel/369ff0e9-fb12-4fa7-85e9-a150dbca4962_0_ID192MP3.mp3",
-"l_548127f3-be8f-42a6-8127-f3be8f12a612": "https://podkast.nrk.no/fil/lev_vel/7f1ee35d-86ed-4c9d-8f28-e90e5b2f0874_0_ID192MP3.mp3",
-"l_56ecc613-50a8-427d-acc6-1350a8527d0f": "https://podkast.nrk.no/fil/lev_vel/56ecc613-50a8-427d-acc6-1350a8527d0f_2_ID192MP3.mp3",
-"l_57ceb110-5ec4-4f56-8eb1-105ec4ef56be": "https://podkast.nrk.no/fil/lev_vel/57ceb110-5ec4-4f56-8eb1-105ec4ef56be_1_ID192MP3.mp3",
-"l_5ce54937-ae88-4c94-a549-37ae886c9475": "https://podkast.nrk.no/fil/lev_vel/c7adfa20-68f0-4ad2-bdc9-87cbbcee157c_0_ID192MP3.mp3",
-"l_5d013b54-d71d-41ba-813b-54d71d61ba64": "https://podkast.nrk.no/fil/lev_vel/5d013b54-d71d-41ba-813b-54d71d61ba64_1_ID192MP3.mp3",
-"l_5ef47b4e-65d6-4788-b47b-4e65d6178803": "https://podkast.nrk.no/fil/lev_vel/5ef47b4e-65d6-4788-b47b-4e65d6178803_2_ID192MP3.mp3",
-"l_5f3bf6e5-41a5-4868-bbf6-e541a5286879": "https://podkast.nrk.no/fil/lev_vel/5f3bf6e5-41a5-4868-bbf6-e541a5286879_1_ID192MP3.mp3",
-"l_5fb1342a-3358-4c25-b134-2a3358fc252b": "https://podkast.nrk.no/fil/lev_vel/5fb1342a-3358-4c25-b134-2a3358fc252b_1_ID192MP3.mp3",
-"l_6a72b485-756f-4a08-b2b4-85756f6a0880": "https://podkast.nrk.no/fil/lev_vel/6a72b485-756f-4a08-b2b4-85756f6a0880_2_ID192MP3.mp3",
-"l_6c9b8cde-e891-4b2e-9b8c-dee8915b2ee9": "https://podkast.nrk.no/fil/lev_vel/eeac1c00-04fa-4f93-86be-22de3699ecbd_0_ID192MP3.mp3",
-"l_71e80079-62b8-4af2-a800-7962b81af2dd": "https://podkast.nrk.no/fil/lev_vel/71e80079-62b8-4af2-a800-7962b81af2dd_2_ID192MP3.mp3",
-"l_72c3ba7a-2537-4d76-83ba-7a2537dd7676": "https://podkast.nrk.no/fil/lev_vel/8562a082-39ea-484a-9d6a-ce077ecbca9f_0_ID192MP3.mp3",
-"l_73d086a1-eaa9-4ce9-9086-a1eaa98ce9de": "https://podkast.nrk.no/fil/lev_vel/4ced0abd-db91-4696-a6ad-66b2b89e40e6_0_ID192MP3.mp3",
-"l_742cc4e7-a86d-4acb-acc4-e7a86d6acbcb": "https://podkast.nrk.no/fil/lev_vel/248a4367-ff47-4f79-a466-70e1c8a0e3ba_0_ID192MP3.mp3",
-"l_758553e9-9191-4bce-8553-e991915bce99": "https://podkast.nrk.no/fil/lev_vel/4ec5ec28-b92f-4ab2-ac54-faf4954aea53_0_ID192MP3.mp3",
-"l_76abfe2c-af17-4046-abfe-2caf179046c0": "https://podkast.nrk.no/fil/lev_vel/76abfe2c-af17-4046-abfe-2caf179046c0_1_ID192MP3.mp3",
-"l_77ed8baa-e8ae-4575-ad8b-aae8ae2575dd": "https://podkast.nrk.no/fil/lev_vel/a0ebd840-b836-4edc-9da5-4a7c80a04a09_0_ID192MP3.mp3",
-"l_78099b40-c94f-454c-899b-40c94fa54c47": "https://podkast.nrk.no/fil/lev_vel/78099b40-c94f-454c-899b-40c94fa54c47_1_ID192MP3.mp3",
-"l_7e2ed4b9-f385-4ea6-aed4-b9f3850ea6ea": "https://podkast.nrk.no/fil/lev_vel/d9ebd0de-56d4-4e3d-b50a-2ea5fce6a350_0_ID192MP3.mp3",
-"l_7e6f376d-d76d-42c6-af37-6dd76d92c6e4": "https://podkast.nrk.no/fil/lev_vel/7e6f376d-d76d-42c6-af37-6dd76d92c6e4_1_ID192MP3.mp3",
-"l_80b253a6-eec7-4446-b253-a6eec76446ef": "https://podkast.nrk.no/fil/lev_vel/eeadae28-75ee-4bed-bbdd-c270b563fea8_0_ID192MP3.mp3",
-"l_8570d011-ec78-4687-b0d0-11ec7886872a": "https://podkast.nrk.no/fil/lev_vel/8570d011-ec78-4687-b0d0-11ec7886872a_1_ID192MP3.mp3",
-"l_8d54ae28-4e27-44d2-94ae-284e2704d2d9": "https://podkast.nrk.no/fil/lev_vel/8d54ae28-4e27-44d2-94ae-284e2704d2d9_1_ID192MP3.mp3",
-"l_90ff98c1-4941-4503-bf98-c1494135032b": "https://podkast.nrk.no/fil/lev_vel/cf4ab54d-8820-4c4a-98ad-bc9b61bad9d0_0_ID192MP3.mp3",
-"l_927ea129-af1a-4436-bea1-29af1a2436b8": "https://podkast.nrk.no/fil/lev_vel/927ea129-af1a-4436-bea1-29af1a2436b8_1_ID192MP3.mp3",
-"l_92eb1064-7d5a-4db4-ab10-647d5a5db479": "https://podkast.nrk.no/fil/lev_vel/8dc5932e-17d5-40ef-9fd9-4bed8295ad57_0_ID192MP3.mp3",
-"l_950c1165-79dc-43e3-8c11-6579dc53e37d": "https://podkast.nrk.no/fil/lev_vel/950c1165-79dc-43e3-8c11-6579dc53e37d_1_ID192MP3.mp3",
-"l_975c08e1-c37d-4615-9c08-e1c37d361561": "https://podkast.nrk.no/fil/lev_vel/975c08e1-c37d-4615-9c08-e1c37d361561_1_ID192MP3.mp3",
-"l_9d332e40-4620-4231-b32e-40462032318f": "https://podkast.nrk.no/fil/lev_vel/c6ddb213-5262-4d34-bda3-2bdfbcf1b092_0_ID192MP3.mp3",
-"l_9d662281-b7fe-4700-a622-81b7fef7002c": "https://podkast.nrk.no/fil/lev_vel/9d662281-b7fe-4700-a622-81b7fef7002c_1_ID192MP3.mp3",
-"l_a0778777-d0fc-429d-b787-77d0fcf29d01": "https://podkast.nrk.no/fil/lev_vel/a0778777-d0fc-429d-b787-77d0fcf29d01_2_ID192MP3.mp3",
-"l_a097bedb-3737-4df3-97be-db3737fdf38a": "https://podkast.nrk.no/fil/lev_vel/0df6cfb8-d969-424f-96f0-89e6c2ec5cf8_0_ID192MP3.mp3",
-"l_a1161de5-72f8-4bfc-961d-e572f88bfc75": "https://podkast.nrk.no/fil/lev_vel/a1161de5-72f8-4bfc-961d-e572f88bfc75_1_ID192MP3.mp3",
-"l_a11c92d5-9d21-452c-9c92-d59d21552cfe": "https://podkast.nrk.no/fil/lev_vel/a11c92d5-9d21-452c-9c92-d59d21552cfe_1_ID192MP3.mp3",
-"l_a36076fb-86f2-42b4-a076-fb86f2a2b41e": "https://podkast.nrk.no/fil/lev_vel/a36076fb-86f2-42b4-a076-fb86f2a2b41e_1_ID192MP3.mp3",
-"l_a6278662-37ea-4ef4-a786-6237ea6ef4d4": "https://podkast.nrk.no/fil/lev_vel/a6278662-37ea-4ef4-a786-6237ea6ef4d4_1_ID192MP3.mp3",
-"l_a694c780-cc63-43e0-94c7-80cc63e3e055": "https://podkast.nrk.no/fil/lev_vel/a694c780-cc63-43e0-94c7-80cc63e3e055_1_ID192MP3.mp3",
-"l_a81739db-5abb-490f-9739-db5abb890ff0": "https://podkast.nrk.no/fil/lev_vel/a81739db-5abb-490f-9739-db5abb890ff0_1_ID192MP3.mp3",
-"l_aac284d9-b317-41aa-8284-d9b317d1aa97": "https://podkast.nrk.no/fil/lev_vel/53f2578e-0334-42e6-8437-7930a28aa424_0_ID192MP3.mp3",
-"l_ab19853c-145f-472e-9985-3c145f372eac": "https://podkast.nrk.no/fil/lev_vel/ab19853c-145f-472e-9985-3c145f372eac_1_ID192MP3.mp3",
-"l_ad7ade97-e64d-41f1-bade-97e64d41f1ad": "https://podkast.nrk.no/fil/lev_vel/ad7ade97-e64d-41f1-bade-97e64d41f1ad_1_ID192MP3.mp3",
-"l_b02824c4-1c8f-4549-a824-c41c8fb5492c": "https://podkast.nrk.no/fil/lev_vel/ca33684f-ccbf-40ef-8041-70f7981f8651_0_ID192MP3.mp3",
-"l_b1f612ec-3ecc-4311-b612-ec3ecca311fb": "https://podkast.nrk.no/fil/lev_vel/b1f612ec-3ecc-4311-b612-ec3ecca311fb_1_ID192MP3.mp3",
-"l_b1f76b4b-b946-492f-b76b-4bb946692fc6": "https://podkast.nrk.no/fil/lev_vel/b1f76b4b-b946-492f-b76b-4bb946692fc6_1_ID192MP3.mp3",
-"l_b309d9aa-bdb4-41ed-89d9-aabdb421edbb": "https://podkast.nrk.no/fil/lev_vel/b309d9aa-bdb4-41ed-89d9-aabdb421edbb_1_ID192MP3.mp3",
-"l_b38420ea-fa59-40e1-8420-eafa59a0e158": "https://podkast.nrk.no/fil/lev_vel/0e7404bf-1343-4062-a5c8-f30c0e9a5c8d_0_ID192MP3.mp3",
-"l_b94e5cc7-1489-4565-8e5c-c71489456569": "https://podkast.nrk.no/fil/lev_vel/b94e5cc7-1489-4565-8e5c-c71489456569_2_ID192MP3.mp3",
-"l_ba6ca092-e0f5-43a2-aca0-92e0f513a2ce": "https://podkast.nrk.no/fil/lev_vel/8a484b1b-fd1f-4eeb-9f53-6e1cb396bda3_0_ID192MP3.mp3",
-"l_bac00bb5-a5b0-47ea-800b-b5a5b017ea92": "https://podkast.nrk.no/fil/lev_vel/8c5dca01-fb23-4f06-be9e-64ff9cb080e9_0_ID192MP3.mp3",
-"l_be9e5e5d-01ad-4945-9e5e-5d01ad2945cb": "https://podkast.nrk.no/fil/lev_vel/be9e5e5d-01ad-4945-9e5e-5d01ad2945cb_1_ID192MP3.mp3",
-"l_c0337627-2ea2-4426-b376-272ea2c426a8": "https://podkast.nrk.no/fil/lev_vel/1cc8d213-f9fa-482d-bf90-5ed4b6333ac8_0_ID192MP3.mp3",
-"l_c20425b0-f2d5-401b-8425-b0f2d5201bf1": "https://podkast.nrk.no/fil/lev_vel/c20425b0-f2d5-401b-8425-b0f2d5201bf1_1_ID192MP3.mp3",
-"l_c888b58b-432b-4625-88b5-8b432be62530": "https://podkast.nrk.no/fil/lev_vel/c888b58b-432b-4625-88b5-8b432be62530_1_ID192MP3.mp3",
-"l_cc6d719d-c4d2-46e1-ad71-9dc4d2d6e1e7": "https://podkast.nrk.no/fil/lev_vel/cc6d719d-c4d2-46e1-ad71-9dc4d2d6e1e7_2_ID192MP3.mp3",
-"l_ceaeccb8-fb21-46cd-aecc-b8fb2186cda5": "https://podkast.nrk.no/fil/lev_vel/ceaeccb8-fb21-46cd-aecc-b8fb2186cda5_ID192MP3.mp3",
-"l_d05db103-04fa-4646-9db1-0304fa0646d2": "https://podkast.nrk.no/fil/lev_vel/d05db103-04fa-4646-9db1-0304fa0646d2_2_ID192MP3.mp3",
-"l_d2647f07-33af-49e0-a47f-0733af49e06f": "https://podkast.nrk.no/fil/lev_vel/d2647f07-33af-49e0-a47f-0733af49e06f_1_ID192MP3.mp3",
-"l_d4522dd7-63b3-4074-922d-d763b3807470": "https://podkast.nrk.no/fil/lev_vel/ba555cec-1228-4ff4-bc4d-e067525301c7_0_ID192MP3.mp3",
-"l_d676fc9d-7528-47b5-b6fc-9d752887b580": "https://podkast.nrk.no/fil/lev_vel/d676fc9d-7528-47b5-b6fc-9d752887b580_1_ID192MP3.mp3",
-"l_db6601de-1938-4f5d-a601-de19387f5d6a": "https://podkast.nrk.no/fil/lev_vel/57aac91b-cb64-46a2-b340-d390f705c7be_0_ID192MP3.mp3",
-"l_dd27741e-af5c-4130-a774-1eaf5c61308c": "https://podkast.nrk.no/fil/lev_vel/dd27741e-af5c-4130-a774-1eaf5c61308c_1_ID192MP3.mp3",
-"l_de40b942-7415-4ac4-80b9-427415eac42d": "https://podkast.nrk.no/fil/lev_vel/35c01332-315a-48bb-9847-061d183f218d_0_ID192MP3.mp3",
-"l_e0eb19b6-d40e-4835-ab19-b6d40ed83556": "https://podkast.nrk.no/fil/lev_vel/e0eb19b6-d40e-4835-ab19-b6d40ed83556_1_ID192MP3.mp3",
-"l_e3f68a0b-3224-4456-b68a-0b322454565d": "https://podkast.nrk.no/fil/lev_vel/e3f68a0b-3224-4456-b68a-0b322454565d_1_ID192MP3.mp3",
-"l_e6afc5d8-87d5-47ea-afc5-d887d5c7eae5": "https://podkast.nrk.no/fil/lev_vel/e6afc5d8-87d5-47ea-afc5-d887d5c7eae5_1_ID192MP3.mp3",
-"l_e81d0d98-84af-4724-9d0d-9884afe724de": "https://podkast.nrk.no/fil/lev_vel/e81d0d98-84af-4724-9d0d-9884afe724de_4_ID192MP3.mp3",
-"l_e832d4eb-ecb8-49b8-b2d4-ebecb889b8b5": "https://podkast.nrk.no/fil/lev_vel/e832d4eb-ecb8-49b8-b2d4-ebecb889b8b5_1_ID192MP3.mp3",
-"l_e84e7b2b-d70b-4080-8e7b-2bd70bd08062": "https://podkast.nrk.no/fil/lev_vel/e84e7b2b-d70b-4080-8e7b-2bd70bd08062_1_ID192MP3.mp3",
-"l_ec5b0f71-25cb-49d8-9b0f-7125cb99d892": "https://podkast.nrk.no/fil/lev_vel/ec5b0f71-25cb-49d8-9b0f-7125cb99d892_2_ID192MP3.mp3",
-"l_ef2713cc-9ec1-4bdf-a713-cc9ec12bdfdb": "https://podkast.nrk.no/fil/lev_vel/ef2713cc-9ec1-4bdf-a713-cc9ec12bdfdb_1_ID192MP3.mp3",
-"l_f8f4e197-ad91-4c26-b4e1-97ad91ac265d": "https://podkast.nrk.no/fil/lev_vel/f8f4e197-ad91-4c26-b4e1-97ad91ac265d_1_ID192MP3.mp3",
-"l_f96c0141-74d6-45ff-ac01-4174d655ff98": "https://podkast.nrk.no/fil/lev_vel/e05eb0b7-8124-42a8-a383-4b3ef4001bd8_0_ID192MP3.mp3",
-"l_f99b0060-9a3c-4ddf-9b00-609a3c3ddff4": "https://podkast.nrk.no/fil/lev_vel/f99b0060-9a3c-4ddf-9b00-609a3c3ddff4_1_ID192MP3.mp3",
-"l_fb14f478-4747-46f2-94f4-784747e6f28e": "https://podkast.nrk.no/fil/lev_vel/fb14f478-4747-46f2-94f4-784747e6f28e_1_ID192MP3.mp3"
+"episodes": {
+"l_00b3b5ec-f394-46e6-b3b5-ecf39496e6d9": {
+"d": "2025-05-23T12:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 845,
+"s": "Linnéa drakk sin første energidrikk i dag. Og hvordan har det gått med PMSen?",
+"t": "BONUS: – Jeg sprakk",
+"u": "https://podkast.nrk.no/fil/lev_vel/e82437da-47c7-40aa-ac1a-45fffb1bd8a7_0_ID192MP3.mp3"
+},
+"l_018e6d39-5bb2-474c-8e6d-395bb2774c6d": {
+"d": "2025-04-29T11:45:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 1142,
+"s": "Oliver angrer på at han ble med på koffeinpausen, og Linnéa har grått. Vi går også gjennom innboksen fra lytterne.",
+"t": "BONUS: Første dag uten koffein",
+"u": "https://podkast.nrk.no/fil/lev_vel/a9ba9c25-74cc-47c5-ade9-d48caf257148_0_ID192MP3.mp3"
+},
+"l_01d65fb5-6107-44a3-965f-b5610714a305": {
+"d": "2025-12-24T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3264,
+"s": "Hvordan setter man seg gode nyttårsforsett og hvordan unngå å falle av? Vanecoach Andreas Lycke gir deg rådene du trenger.",
+"t": "Nyttårsforsett",
+"u": "https://podkast.nrk.no/fil/lev_vel/01d65fb5-6107-44a3-965f-b5610714a305_1_ID192MP3.mp3"
+},
+"l_0702299f-2e7f-49ee-8229-9f2e7fd9ee6a": {
+"d": "2025-10-08T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 4484,
+"s": "Leser man symptomlisten til ADHD er det lett å kjenne seg igjen, men hva er det som skiller vanlig strev fra en ADHD-diagnose?",
+"t": "Lurer du på om du har ADHD?",
+"u": "https://podkast.nrk.no/fil/lev_vel/0702299f-2e7f-49ee-8229-9f2e7fd9ee6a_2_ID192MP3.mp3"
+},
+"l_0b8d02c4-78c5-4924-8d02-c478c56924c4": {
+"d": "2025-11-05T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3556,
+"s": "Hvordan sparer du smart uten å ofre det som gir livet glede? Siviløkonom og forfatter Kjersti Grønset gir deg nøkkelen.",
+"t": "Sparing",
+"u": "https://podkast.nrk.no/fil/lev_vel/0b8d02c4-78c5-4924-8d02-c478c56924c4_ID192MP3.mp3"
+},
+"l_0bf5e1a1-6fb4-4f18-b5e1-a16fb48f18a6": {
+"d": "2025-08-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 1013,
+"s": "Siviløkonom Kjersti Grønseth og Linnéa Myhre snakker om hvordan flytte et lån og hvordan få kontroll på gjelda man har.",
+"t": "BONUS: Få kontroll på gjelda",
+"u": "https://podkast.nrk.no/fil/lev_vel/0bf5e1a1-6fb4-4f18-b5e1-a16fb48f18a6_1_ID192MP3.mp3"
+},
+"l_0cbf7cf8-e2ba-4ebf-bf7c-f8e2ba1ebf45": {
+"d": "2026-06-24T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3624,
+"s": "For noen er pappa den ultimate superhelten og klippen i livet, for andre er han en kilde til konstant frustrasjon og utrygghet. Psykolog Geir Løkling gir oss innsikt i relasjonen mellom far og datter.",
+"t": "«Far og datter»-forholdet",
+"u": "https://podkast.nrk.no/fil/lev_vel/0cbf7cf8-e2ba-4ebf-bf7c-f8e2ba1ebf45_1_ID192MP3.mp3"
+},
+"l_0f0cd936-9e78-48ad-8cd9-369e7818ad04": {
+"d": "2026-09-09T05:00:00+02:00",
+"i": "https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q",
+"n": 2747,
+"s": "Hvor nyttig er skippertak? Og hvordan lærer du deg pensum mest effektivt før eksamen? Læringsforsker Olav Schewe har tipsene som gjør studietiden lettere.",
+"t": "Vil du studere smartere?",
+"u": "https://podkast.nrk.no/fil/lev_vel/0f0cd936-9e78-48ad-8cd9-369e7818ad04_1_ID192MP3.mp3"
+},
+"l_0f8229be-cd8f-41d8-8229-becd8fc1d872": {
+"d": "2025-04-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 411,
+"s": "Etter å ha hatt det kjipt i mange år, bestemte Linnéa seg en dag for at hun ville ha det bedre.",
+"t": "BONUS: Derfor lager jeg podkast",
+"u": "https://podkast.nrk.no/fil/lev_vel/c0b6e08f-60a1-497d-a32e-67e8c786b58a_0_ID192MP3.mp3"
+},
+"l_100fcb4b-7867-4794-8fcb-4b7867d79459": {
+"d": "2025-04-02T06:01:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3992,
+"s": "Hvis det «bare» er kalorier inn og ut, hvorfor sliter så mange med å gå ned i vekt? Professor Jorunn Sundgot-Borgen svarer.",
+"t": "Mat og følelser",
+"u": "https://podkast.nrk.no/fil/lev_vel/e18be889-44ff-4752-9c30-729b7650cc35_0_ID192MP3.mp3"
+},
+"l_118bf8d3-8772-4682-8bf8-d38772b68262": {
+"d": "2025-04-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 4031,
+"s": "Når er det mer enn bare PMS? Og hvorfor tyr mange til godteskåla før mensen? Kvinnehelse-spesialist Guri Majak svarer.",
+"t": "Syklus",
+"u": "https://podkast.nrk.no/fil/lev_vel/5c0e7d66-5f54-46a1-b440-aed251d95d91_0_ID192MP3.mp3"
+},
+"l_121e3f08-73dd-4944-9e3f-0873ddf944ad": {
+"d": "2025-10-29T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3855,
+"s": "Føler du deg maktesløs når verden er i en så urolig tid? Og finnes det en riktig eller feil måte å engasjere seg på?",
+"t": "Avmakt, empati og engasjement",
+"u": "https://podkast.nrk.no/fil/lev_vel/121e3f08-73dd-4944-9e3f-0873ddf944ad_1_ID192MP3.mp3"
+},
+"l_13b957dd-ddef-41bc-b957-ddddef31bc5d": {
+"d": "2025-04-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 112,
+"s": "En påminner om at i morgen, 28. april, starter Linnéa og Olivers koffeinpause. Bli med og lev to uker uten koffein!",
+"t": "BONUS: Koffeinpausen starter i morgen",
+"u": "https://podkast.nrk.no/fil/lev_vel/ded2efb2-932a-4efe-b938-a6d86a6fb6e0_0_ID192MP3.mp3"
+},
+"l_1713df63-37b4-46d6-93df-6337b4f6d67e": {
+"d": "2025-12-17T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3948,
+"s": "Hva ligger bak friksjonen som oppstår når familien samles? Familieterapeut Dora Thorhallsdottir gir deg verktøyene.",
+"t": "Slik takler du familien",
+"u": "https://podkast.nrk.no/fil/lev_vel/1713df63-37b4-46d6-93df-6337b4f6d67e_1_ID192MP3.mp3"
+},
+"l_1dc667db-0110-4ccc-8667-db01104ccc15": {
+"d": "2025-05-08T12:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 809,
+"s": "Linnéa forteller om hvordan helgen har gått og svarer på lytternes opplevelser i innboksen. Bare fire dager igjen...",
+"t": "BONUS: Ti dager uten koffein",
+"u": "https://podkast.nrk.no/fil/lev_vel/2939c8d2-778c-4496-89b2-174d07df48df_0_ID192MP3.mp3"
+},
+"l_25bee5b8-6779-4892-bee5-b86779b89258": {
+"d": "2025-05-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 4273,
+"s": "Blir du sint når du egentlig er såret? Psykolog Aksel Inge Sinding forklarer hvordan du kan forstå egne følelser – og partnerens.",
+"t": "Du føler mer enn du tror",
+"u": "https://podkast.nrk.no/fil/lev_vel/95941a9a-67be-4d81-a4b2-6e89ced4adb0_0_ID192MP3.mp3"
+},
+"l_27370177-6877-4cac-b701-7768776cacd0": {
+"d": "2025-05-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 4229,
+"s": "Alt du må vite om kokain, cannabis og MDMA. Rusforsker Thomas Clausen forklarer.",
+"t": "Rus",
+"u": "https://podkast.nrk.no/fil/lev_vel/6d4a833c-e137-4db8-bfaf-d2b50652c425_0_ID192MP3.mp3"
+},
+"l_278c4837-63ed-4a76-8c48-3763ed8a7607": {
+"d": "2025-08-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 5524,
+"s": "Spesialist i klinisk nevropsykologi Tomas Myklebust lærte Linnéa å sove godt. I denne episoden gir han deg alle rådene!",
+"t": "Veien til god søvn",
+"u": "https://podkast.nrk.no/fil/lev_vel/35286c10-7eec-46b7-b9f3-77be890367cd_0_ID192MP3.mp3"
+},
+"l_2e34bfa4-c5c0-49b8-b4bf-a4c5c089b812": {
+"d": "2026-01-07T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3998,
+"s": "Rådene på sosiale medier spriker i ulike retninger. Hva bør kvinner vite om trening? Idrettsfysiolog Gina Flugstad Øistuen svarer.",
+"t": "Hvordan bør kvinner trene?",
+"u": "https://podkast.nrk.no/fil/lev_vel/2e34bfa4-c5c0-49b8-b4bf-a4c5c089b812_1_ID192MP3.mp3"
+},
+"l_31b823c4-7248-4c08-b823-c472485c08a6": {
+"d": "2025-06-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 4234,
+"s": "Hva er nøkkelen til lykke – penger, brusende glede eller hardt arbeid? Lykkeforsker Lisa Vivoll Straume gir oss svar.",
+"t": "Dette gjør deg lykkelig",
+"u": "https://podkast.nrk.no/fil/lev_vel/120d1b70-d58d-4632-975c-9b5f5e833511_0_ID192MP3.mp3"
+},
+"l_346738f6-a50e-47ed-a738-f6a50ec7ed38": {
+"d": "2025-06-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3828,
+"s": "Hvor mange hudpleieprodukter må du egentlig ha for å ta vare på huden, og kan solkrem være farlig? Kjemiker Alexander Sandtorv svarer.",
+"t": "Hva er det beste for huden?",
+"u": "https://podkast.nrk.no/fil/lev_vel/0500a3bf-d055-4755-95eb-cda13a479414_0_ID192MP3.mp3"
+},
+"l_3831111b-5d56-40b1-b111-1b5d5660b1bb": {
+"d": "2025-07-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3482,
+"s": "Har samfunnet, og ikke minst kvinner, for mange krav til menn i dag? Psykologspesialist Kim Edgar Karlsen svarer.",
+"t": "Forstå mannen bedre",
+"u": "https://podkast.nrk.no/fil/lev_vel/16bc347a-5770-4914-bee6-a2b98946bec2_0_ID192MP3.mp3"
+},
+"l_3d816119-4bfe-43ed-8161-194bfe13ed2e": {
+"d": "2025-12-10T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3827,
+"s": "Hvordan vet du om ensomheten du kjenner på kan være hjelpsom eller problematisk? Psykolog Anne Hilde Vassbø Hagen gir oss svar.",
+"t": "Ensomhet",
+"u": "https://podkast.nrk.no/fil/lev_vel/3d816119-4bfe-43ed-8161-194bfe13ed2e_1_ID192MP3.mp3"
+},
+"l_3e82c25b-8015-4ea0-82c2-5b80156ea056": {
+"d": "2026-09-02T05:00:00+02:00",
+"i": "https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q",
+"n": 3122,
+"s": "Hvordan oppstår narsissisme? Og hva gjør du hvis samboeren din viser seg å være en? Nevropsykolog Mia Tuft tar oss gjennom 14 ​kjennetegn på narsissisme.",
+"t": "Slik avslører du en narsissist",
+"u": "https://podkast.nrk.no/fil/lev_vel/3e82c25b-8015-4ea0-82c2-5b80156ea056_1_ID192MP3.mp3"
+},
+"l_41114f86-dbc9-437e-914f-86dbc9837e5c": {
+"d": "2025-10-15T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3958,
+"s": "Hva er tegnene man bør se etter for å unngå å bli utbrent? Psykologspesialist Henrik Børsting Jacobsen forklarer.",
+"t": "Utbrenthet",
+"u": "https://podkast.nrk.no/fil/lev_vel/41114f86-dbc9-437e-914f-86dbc9837e5c_1_ID192MP3.mp3"
+},
+"l_416e2d9b-9c9a-473f-ae2d-9b9c9ac73fe7": {
+"d": "2026-05-13T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3064,
+"s": "Hvorfor blir en hendelse et traume for noen, men ikke for andre? Og hva gjør du når et traume har satt seg i kroppen? \nEtt av svarene handler om hvordan du møter deg selv, mener psykologspesialist Mari Kjølseth Bræin.",
+"t": "Hvordan leve med traumer",
+"u": "https://podkast.nrk.no/fil/lev_vel/416e2d9b-9c9a-473f-ae2d-9b9c9ac73fe7_2_ID192MP3.mp3"
+},
+"l_45c8cd4d-c37f-44dc-88cd-4dc37fd4dcb4": {
+"d": "2025-04-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 2672,
+"s": "Hva er forskjellen på selvfølelse og selvtillit? Kristina Miljeteig har forsket på selvfølelse, og gir oss svar.",
+"t": "Selvfølelsen styrer livet ditt",
+"u": "https://podkast.nrk.no/fil/lev_vel/9136c6c0-f353-44ca-8d8a-e8567bd987e8_0_ID192MP3.mp3"
+},
+"l_462d433e-6021-4727-ad43-3e6021d72729": {
+"d": "2026-01-28T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3445,
+"s": "Hva er forskjellen på baksnakking og ventilering? Psykoterapeut Glenn Rolfsen gir oss råd om hvordan vi kan bli mer bevisste.",
+"t": "Baksnakking",
+"u": "https://podkast.nrk.no/fil/lev_vel/462d433e-6021-4727-ad43-3e6021d72729_1_ID192MP3.mp3"
+},
+"l_48f4f945-714d-42c9-b4f9-45714d12c9a2": {
+"d": "2026-01-09T05:00:00+01:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1522,
+"s": "Linnéa åpner opp om sitt eget forhold til å trene, og hvordan det gikk fra å være en slags straff, til å bli noe lystbetont.",
+"t": "Bonus: Slik ble jeg glad i trening",
+"u": "https://podkast.nrk.no/fil/lev_vel/48f4f945-714d-42c9-b4f9-45714d12c9a2_1_ID192MP3.mp3"
+},
+"l_4ba716b3-961b-4ba4-a716-b3961beba4a9": {
+"d": "2026-03-25T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 4015,
+"s": "Det finnes et hav av forskjellige preparater, men hvordan velger man riktig prevensjon? Gynekolog Siri Kløkstad gir deg råd.",
+"t": "Prevensjon",
+"u": "https://podkast.nrk.no/fil/lev_vel/4ba716b3-961b-4ba4-a716-b3961beba4a9_1_ID192MP3.mp3"
+},
+"l_53e1d819-2731-44b1-a1d8-192731f4b115": {
+"d": "2025-05-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 5220,
+"s": "Hva betyr «perimenopause» og «postmenopause»? Lege Marianne Natvik forklarer overgangsalderen.",
+"t": "Alt om overgangsalderen",
+"u": "https://podkast.nrk.no/fil/lev_vel/369ff0e9-fb12-4fa7-85e9-a150dbca4962_0_ID192MP3.mp3"
+},
+"l_548127f3-be8f-42a6-8127-f3be8f12a612": {
+"d": "2025-07-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 472,
+"s": "Synes du det er vanskelig å sette grenser overfor partneren? Psykolog Benjamin Silseth forklarer hvordan du kan gjøre det.",
+"t": "Bonus: Grensesetting i forholdet",
+"u": "https://podkast.nrk.no/fil/lev_vel/7f1ee35d-86ed-4c9d-8f28-e90e5b2f0874_0_ID192MP3.mp3"
+},
+"l_56ecc613-50a8-427d-acc6-1350a8527d0f": {
+"d": "2025-12-03T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3348,
+"s": "Hvor vanlig er det å bli etter å ha blitt bedratt og hva skal til for å redde forholdet? Parterapeut Andreas Løes Narum svarer.",
+"t": "Å overleve utroskap",
+"u": "https://podkast.nrk.no/fil/lev_vel/56ecc613-50a8-427d-acc6-1350a8527d0f_2_ID192MP3.mp3"
+},
+"l_57ceb110-5ec4-4f56-8eb1-105ec4ef56be": {
+"d": "2025-09-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3520,
+"s": "Hvorfor snakker alle om vagusnerven? Og hvorfor er den så viktig? Professor Henrik Børsting Jacobsen er tilbake.",
+"t": "Vagusnerven",
+"u": "https://podkast.nrk.no/fil/lev_vel/57ceb110-5ec4-4f56-8eb1-105ec4ef56be_1_ID192MP3.mp3"
+},
+"l_5ce54937-ae88-4c94-a549-37ae886c9475": {
+"d": "2025-05-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 4741,
+"s": "Hvorfor er det så vanskelig å snakke om penger? Samfunnspsykolog Ingvild Stjernen Tisløv svarer.",
+"t": "Økonomi og følelser",
+"u": "https://podkast.nrk.no/fil/lev_vel/c7adfa20-68f0-4ad2-bdc9-87cbbcee157c_0_ID192MP3.mp3"
+},
+"l_5d013b54-d71d-41ba-813b-54d71d61ba64": {
+"d": "2026-04-08T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3059,
+"s": "Har sosiale medier gjort at vi har høyere krav til gravide? Og hvorfor kan graviditeten bli en identitetskrise for så mange? Kvinnehelsefysioterapeut Ingrid Loftås svarer.",
+"t": "Graviditet og kropp",
+"u": "https://podkast.nrk.no/fil/lev_vel/5d013b54-d71d-41ba-813b-54d71d61ba64_1_ID192MP3.mp3"
+},
+"l_5ef47b4e-65d6-4788-b47b-4e65d6178803": {
+"d": "2026-05-27T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 2494,
+"s": "Hvorfor blir noen arveoppgjør så betente at familien går i stykker? Og hva kan du gjøre for å forhindre det? Advokat Anne-Sofie Rolfsjord har erfaring med årelange arvekonflikter og gir råd til hvordan du skal unngå fremtidig familiekonflikt.",
+"t": "Slik unngår du arvekonflikten",
+"u": "https://podkast.nrk.no/fil/lev_vel/5ef47b4e-65d6-4788-b47b-4e65d6178803_2_ID192MP3.mp3"
+},
+"l_5f3bf6e5-41a5-4868-bbf6-e541a5286879": {
+"d": "2025-09-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 1101,
+"s": "Hvordan kan man navigere sjalusi mellom barn? Og kan man reparere det selv som voksen? Psykolog Andreas Løes Narum forklarer.",
+"t": "Er søskensjalusi uungåelig?",
+"u": "https://podkast.nrk.no/fil/lev_vel/5f3bf6e5-41a5-4868-bbf6-e541a5286879_1_ID192MP3.mp3"
+},
+"l_5fb1342a-3358-4c25-b134-2a3358fc252b": {
+"d": "2025-09-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 4163,
+"s": "Hva gjør scrollingen med oss og hvorfor er det så vanskelig å slutte med det? Hjerneforsker og lege Ole Petter Hjelle svarer.",
+"t": "Tar scrolling over livet ditt?",
+"u": "https://podkast.nrk.no/fil/lev_vel/5fb1342a-3358-4c25-b134-2a3358fc252b_1_ID192MP3.mp3"
+},
+"l_6a72b485-756f-4a08-b2b4-85756f6a0880": {
+"d": "2025-09-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1401,
+"s": "Hvor mye klarer du å kutte av egen skjermtid på mobilen? 15 NRK-profiler skal konkurrere om å få lavest skjermtid på to uker. Følg med på nrk.no/nyttig.",
+"t": "Bli med på scrollechallenge!",
+"u": "https://podkast.nrk.no/fil/lev_vel/6a72b485-756f-4a08-b2b4-85756f6a0880_2_ID192MP3.mp3"
+},
+"l_6c9b8cde-e891-4b2e-9b8c-dee8915b2ee9": {
+"d": "2025-05-02T12:30:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 1680,
+"s": "Fem dager uten koffein. Flere skriver at de har fått muskelsmerter, så Linnéa slår på tråden til koffeineksperten.",
+"t": "BONUS: Har du muskelsmerter?",
+"u": "https://podkast.nrk.no/fil/lev_vel/eeac1c00-04fa-4f93-86be-22de3699ecbd_0_ID192MP3.mp3"
+},
+"l_71e80079-62b8-4af2-a800-7962b81af2dd": {
+"d": "2026-05-20T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 2498,
+"s": "Når kan du skylde på sjefens udugelighet, tafatte kollegaer og dårlig lønn – og når bør du ta en kikk i speilet? Psykolog Rebekka Egeland gir råd til deg som vil ha det bedre på jobb og deg som er på vei ut døra.",
+"t": "Er jobben din giftig?",
+"u": "https://podkast.nrk.no/fil/lev_vel/71e80079-62b8-4af2-a800-7962b81af2dd_2_ID192MP3.mp3"
+},
+"l_72c3ba7a-2537-4d76-83ba-7a2537dd7676": {
+"d": "2025-07-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3621,
+"s": "Hanna-Martine Baller (26) har opplevd mye motgang. Hvordan bruker hun takknemlighet og tilgivelse for å få det bedre?",
+"t": "Hanna-Martine: Å takle traumer",
+"u": "https://podkast.nrk.no/fil/lev_vel/8562a082-39ea-484a-9d6a-ce077ecbca9f_0_ID192MP3.mp3"
+},
+"l_73d086a1-eaa9-4ce9-9086-a1eaa98ce9de": {
+"d": "2025-06-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3997,
+"s": "Sier ja når du egentlig mener nei – eller lar deg overkjøre i nære relasjoner? Psykolog Benjamin Silseth hjelper deg.",
+"t": "Slik setter du grenser",
+"u": "https://podkast.nrk.no/fil/lev_vel/4ced0abd-db91-4696-a6ad-66b2b89e40e6_0_ID192MP3.mp3"
+},
+"l_742cc4e7-a86d-4acb-acc4-e7a86d6acbcb": {
+"d": "2025-04-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 698,
+"s": "Koffein-praten med Hans Kristian Stadheim har satt tankene i sving. Linnéa var nemlig ikke helt ærlig om eget koffeinforbruk.",
+"t": "BONUS: Et oppgjør med meg selv",
+"u": "https://podkast.nrk.no/fil/lev_vel/248a4367-ff47-4f79-a466-70e1c8a0e3ba_0_ID192MP3.mp3"
+},
+"l_758553e9-9191-4bce-8553-e991915bce99": {
+"d": "2025-06-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3458,
+"s": "Hva er viktigst for deg? Lisa Vivoll Straume lærer oss å finne hvilke verdier vi har. Send denne til en venn og gjør det sammen!",
+"t": "Verdier",
+"u": "https://podkast.nrk.no/fil/lev_vel/4ec5ec28-b92f-4ab2-ac54-faf4954aea53_0_ID192MP3.mp3"
+},
+"l_76abfe2c-af17-4046-abfe-2caf179046c0": {
+"d": "2026-02-25T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3579,
+"s": "Mentaltrener Anders Meland har jobbet med både jagerflypiloter og toppidrettsutøvere, før han ble hentet inn av Nicolai Tangen til Oljefondet. Han gir oss sine beste triks for å trene selvdisiplinen.",
+"t": "Slik får du bedre selvdisiplin",
+"u": "https://podkast.nrk.no/fil/lev_vel/76abfe2c-af17-4046-abfe-2caf179046c0_1_ID192MP3.mp3"
+},
+"l_77ed8baa-e8ae-4575-ad8b-aae8ae2575dd": {
+"d": "2025-07-04T12:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1814,
+"s": "Linnéa har lest den populære selvhjelpsboka «The Let Them Theory» av Mel Robbins og gir deg sin ærlige vurdering.",
+"t": "Linnéa leser: «Let Them-teorien»",
+"u": "https://podkast.nrk.no/fil/lev_vel/a0ebd840-b836-4edc-9da5-4a7c80a04a09_0_ID192MP3.mp3"
+},
+"l_78099b40-c94f-454c-899b-40c94fa54c47": {
+"d": "2026-05-06T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 2553,
+"s": "Visste du at hjernen stort sett er bygd opp av fett? Klinisk ernæringsfysiolog Jacob Juel Christensen forklarer alt du trenger å vite om fett.",
+"t": "Ernæring: Fett (3:3)",
+"u": "https://podkast.nrk.no/fil/lev_vel/78099b40-c94f-454c-899b-40c94fa54c47_1_ID192MP3.mp3"
+},
+"l_7e2ed4b9-f385-4ea6-aed4-b9f3850ea6ea": {
+"d": "2025-07-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 590,
+"s": "Kjenner du noen du mistenker at har et rusproblem? Rusforsker Thomas Clausen forklarer hvordan du kan gå frem for å hjelpe.",
+"t": "Bonus: Rus - hvordan hjelpe?",
+"u": "https://podkast.nrk.no/fil/lev_vel/d9ebd0de-56d4-4e3d-b50a-2ea5fce6a350_0_ID192MP3.mp3"
+},
+"l_7e6f376d-d76d-42c6-af37-6dd76d92c6e4": {
+"d": "2026-03-18T04:55:00+01:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 591,
+"s": "«Ultraprosessert mat», «lavkarbo» og «fasting» er temaer veldig mange av podkastens lytterne ønsker at vi lager episoder om. Linnéa forklarer hvorfor det er vanskelig.",
+"t": "Bonus: Hvordan skal vi snakke om ernæring?",
+"u": "https://podkast.nrk.no/fil/lev_vel/7e6f376d-d76d-42c6-af37-6dd76d92c6e4_1_ID192MP3.mp3"
+},
+"l_80b253a6-eec7-4446-b253-a6eec76446ef": {
+"d": "2025-07-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3893,
+"s": "Når skal man gi slipp på gamle venner og hvorfor er det så vanskelig å få nye som voksen? Forfatter Malene Vilnes-Bakke svarer.",
+"t": "Slik får du venner som voksen",
+"u": "https://podkast.nrk.no/fil/lev_vel/eeadae28-75ee-4bed-bbdd-c270b563fea8_0_ID192MP3.mp3"
+},
+"l_8570d011-ec78-4687-b0d0-11ec7886872a": {
+"d": "2026-02-18T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 2904,
+"s": "Hva er egentlig fenomenet «høytfungerende depresjon» eller «smilende depresjon»? Psykolog Sondre Risholm Liverød forklarer.",
+"t": "Høytfungerende depresjon",
+"u": "https://podkast.nrk.no/fil/lev_vel/8570d011-ec78-4687-b0d0-11ec7886872a_1_ID192MP3.mp3"
+},
+"l_8d54ae28-4e27-44d2-94ae-284e2704d2d9": {
+"d": "2026-04-15T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 2755,
+"s": "Hvorfor har vi blitt så redde for karbohydrater? Klinisk ernæringsfysiolog Jacob Juel Christiensen gir oss svar i en tredelt serie om næringsstoffenes hovedgrupper.",
+"t": "Ernæring: Karbohydrater (2:3)",
+"u": "https://podkast.nrk.no/fil/lev_vel/8d54ae28-4e27-44d2-94ae-284e2704d2d9_1_ID192MP3.mp3"
+},
+"l_90ff98c1-4941-4503-bf98-c1494135032b": {
+"d": "2025-07-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 933,
+"s": "Kristina Miljeteig har forsket på selvfølelse og gir deg råd til hva du kan gjøre for å styrke barnet ditt sin selvfølelse.",
+"t": "Bonus: Gi barnet god selvfølelse",
+"u": "https://podkast.nrk.no/fil/lev_vel/cf4ab54d-8820-4c4a-98ad-bc9b61bad9d0_0_ID192MP3.mp3"
+},
+"l_927ea129-af1a-4436-bea1-29af1a2436b8": {
+"d": "2026-03-18T05:05:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 2044,
+"s": "I en tredelt serie snakker Linnéa med klinisk ernæringsfysiolog Jacob Juel Christiensen om næringstoffenes hovedgrupper: Protein, karbohydrater og fett.",
+"t": "Ernæring: Protein (1:3)",
+"u": "https://podkast.nrk.no/fil/lev_vel/927ea129-af1a-4436-bea1-29af1a2436b8_1_ID192MP3.mp3"
+},
+"l_92eb1064-7d5a-4db4-ab10-647d5a5db479": {
+"d": "2025-07-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 827,
+"s": "Aksel Inge Sinding forklarer hvorfor vi kan ha en tendens til å gå i forsvar når vi krangler med partneren.",
+"t": "Bonus: Derfor går du i forsvar",
+"u": "https://podkast.nrk.no/fil/lev_vel/8dc5932e-17d5-40ef-9fd9-4bed8295ad57_0_ID192MP3.mp3"
+},
+"l_950c1165-79dc-43e3-8c11-6579dc53e37d": {
+"d": "2026-04-29T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3347,
+"s": "Hva er det vi sliter med i jakten på en kjæreste og hvilke feller er det vi stadig går i? Psykolog Marius Stavang gir oss svar.",
+"t": "Derfor er du fortsatt singel",
+"u": "https://podkast.nrk.no/fil/lev_vel/950c1165-79dc-43e3-8c11-6579dc53e37d_1_ID192MP3.mp3"
+},
+"l_975c08e1-c37d-4615-9c08-e1c37d361561": {
+"d": "2026-03-11T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3232,
+"s": "Har du alltid hatt lyst til å like å løpe, men falt av eller ikke fått det helt til? Løpecoach Veronica Undseth gir deg oppskriften på å knekke løpekoden.",
+"t": "Slik blir du glad i å løpe",
+"u": "https://podkast.nrk.no/fil/lev_vel/975c08e1-c37d-4615-9c08-e1c37d361561_1_ID192MP3.mp3"
+},
+"l_9d332e40-4620-4231-b32e-40462032318f": {
+"d": "2025-08-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 3032,
+"s": "Tomas Myklebust svarer på spørsmål om søvn fra lytterne.",
+"t": "BONUS: Lytterspørsmål om søvn",
+"u": "https://podkast.nrk.no/fil/lev_vel/c6ddb213-5262-4d34-bda3-2bdfbcf1b092_0_ID192MP3.mp3"
+},
+"l_9d662281-b7fe-4700-a622-81b7fef7002c": {
+"d": "2026-03-13T05:00:00+01:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1111,
+"s": "Det tok mange år, men i fjor ble Linnéa bitt av «løpebasillen». Hva var det som gjorde at løping gikk fra straff til ren glede?",
+"t": "Bonus: Slik knakk jeg løpekoden",
+"u": "https://podkast.nrk.no/fil/lev_vel/9d662281-b7fe-4700-a622-81b7fef7002c_1_ID192MP3.mp3"
+},
+"l_a0778777-d0fc-429d-b787-77d0fcf29d01": {
+"d": "2026-02-04T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3887,
+"s": "Hva gjør at vi blir vår egen verste fiende og hvordan kan man håndtere sin indre kritiker? Psykolog Aksel Inge Sinding svarer.",
+"t": "Selvkritikk",
+"u": "https://podkast.nrk.no/fil/lev_vel/a0778777-d0fc-429d-b787-77d0fcf29d01_2_ID192MP3.mp3"
+},
+"l_a097bedb-3737-4df3-97be-db3737fdf38a": {
+"d": "2025-04-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 730,
+"s": "Sliter du med å huske ting du har lært? Linnéa gir deg fem tips til hvordan du kan huske alt du ikke vil glemme.",
+"t": "BONUS: Fem tips til å huske ting",
+"u": "https://podkast.nrk.no/fil/lev_vel/0df6cfb8-d969-424f-96f0-89e6c2ec5cf8_0_ID192MP3.mp3"
+},
+"l_a1161de5-72f8-4bfc-961d-e572f88bfc75": {
+"d": "2026-09-01T05:00:00+02:00",
+"i": "https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g",
+"n": 1712,
+"s": "Hvordan har Linnéa taklet en sommer uten alkohol? Og hva skal til for å unngå vinterdepresjon? Linnéa oppsummerer sommeren og setter nye mål for september.",
+"t": "På hjertet: Hvordan motivere seg for høsten",
+"u": "https://podkast.nrk.no/fil/lev_vel/a1161de5-72f8-4bfc-961d-e572f88bfc75_1_ID192MP3.mp3"
+},
+"l_a11c92d5-9d21-452c-9c92-d59d21552cfe": {
+"d": "2026-04-22T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3174,
+"s": "Hvorfor kan vi bli så redde for hai eller å få en alvorlig sykdom selv om det er usannsynlig? Psykolog Lars Dehli forklarer.",
+"t": "Katastrofetanker",
+"u": "https://podkast.nrk.no/fil/lev_vel/a11c92d5-9d21-452c-9c92-d59d21552cfe_1_ID192MP3.mp3"
+},
+"l_a36076fb-86f2-42b4-a076-fb86f2a2b41e": {
+"d": "2026-01-30T05:00:00+01:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1133,
+"s": "Linnéa oppsummerer årets første månedschallenge, sjekker inn med lytterne, og gir deg en utfordring for februar: Null baksnakking!",
+"t": "Månedschallenge: Har Linnéa klaget mindre?",
+"u": "https://podkast.nrk.no/fil/lev_vel/a36076fb-86f2-42b4-a076-fb86f2a2b41e_1_ID192MP3.mp3"
+},
+"l_a6278662-37ea-4ef4-a786-6237ea6ef4d4": {
+"d": "2025-11-26T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3303,
+"s": "Kan man unngå den verste fyllesyken? Kjemiker Alexander Sandtorv forklarer hvilke grep du kan ta og hva som bare er myter.",
+"t": "Bakrus",
+"u": "https://podkast.nrk.no/fil/lev_vel/a6278662-37ea-4ef4-a786-6237ea6ef4d4_1_ID192MP3.mp3"
+},
+"l_a694c780-cc63-43e0-94c7-80cc63e3e055": {
+"d": "2025-12-01T05:00:00+01:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1616,
+"s": "Linnéa har lest en ny bok, «Alt jeg har lært om ledelse» av Nicolai Tangen, og er overrasket over hva hun satt igjen med.",
+"t": "Linnéa leser: Alt jeg har lært av Nicolai Tangen",
+"u": "https://podkast.nrk.no/fil/lev_vel/a694c780-cc63-43e0-94c7-80cc63e3e055_1_ID192MP3.mp3"
+},
+"l_a81739db-5abb-490f-9739-db5abb890ff0": {
+"d": "2025-09-22T15:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1359,
+"s": "Linnéa sjekker inn med hjerneforsker Ole Petter Hjelle og noen av «taperne». Følg med underveis på nrk.no/nyttig.",
+"t": "Scrollechallenge: Syv deltakere er ute",
+"u": "https://podkast.nrk.no/fil/lev_vel/a81739db-5abb-490f-9739-db5abb890ff0_1_ID192MP3.mp3"
+},
+"l_aac284d9-b317-41aa-8284-d9b317d1aa97": {
+"d": "2025-04-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 1536,
+"s": "Linnéa og TikTok-stjerne Oliver Bergset bestemmer seg for å leve uten koffein i to uker. Tar du utfordringa? Vi starter 28. april!",
+"t": "BONUS: To uker uten koffein",
+"u": "https://podkast.nrk.no/fil/lev_vel/53f2578e-0334-42e6-8437-7930a28aa424_0_ID192MP3.mp3"
+},
+"l_ab19853c-145f-472e-9985-3c145f372eac": {
+"d": "2025-09-25T13:30:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1190,
+"s": "Det er bare fire dager igjen av konkurransen og det er én deltaker som har tatt opp konkurransen mot Linnéa og Kristoffer.",
+"t": "Scrollechallenge: Hvem vinner?",
+"u": "https://podkast.nrk.no/fil/lev_vel/ab19853c-145f-472e-9985-3c145f372eac_1_ID192MP3.mp3"
+},
+"l_ad7ade97-e64d-41f1-bade-97e64d41f1ad": {
+"d": "2026-06-01T05:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1339,
+"s": "Er «maxxing» av livet bra? Og hvordan skal man egentlig trene etter fødsel? Linnéa oppsummerer måneden og svarer på spørsmål fra lytterne.",
+"t": "Bonus: Linnéa svarer",
+"u": "https://podkast.nrk.no/fil/lev_vel/ad7ade97-e64d-41f1-bade-97e64d41f1ad_1_ID192MP3.mp3"
+},
+"l_b02824c4-1c8f-4549-a824-c41c8fb5492c": {
+"d": "2025-08-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3967,
+"s": "Hva gjør alkohol med kroppen vår? Og hvordan påvirker det genmaterialet? Forsker i nevropsykologi og psykolog Ragnhild Bø svarer.",
+"t": "Sannheten om alkohol",
+"u": "https://podkast.nrk.no/fil/lev_vel/ca33684f-ccbf-40ef-8041-70f7981f8651_0_ID192MP3.mp3"
+},
+"l_b1f612ec-3ecc-4311-b612-ec3ecca311fb": {
+"d": "2026-07-01T05:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1602,
+"s": "Lev vel tar sommerferie og er tilbake i ny innpakning i august, men først oppsummerer Linnéa månedens mål og svarer på spørsmål fra lytterne.",
+"t": "Bonus: En sommer uten alkohol?",
+"u": "https://podkast.nrk.no/fil/lev_vel/b1f612ec-3ecc-4311-b612-ec3ecca311fb_1_ID192MP3.mp3"
+},
+"l_b1f76b4b-b946-492f-b76b-4bb946692fc6": {
+"d": "2025-09-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1280,
+"s": "Linnéa har vært innom flere av profilene som deltar, og har funnet en innstilling som kan spare deg for unødvendig skjermtid. Se mer på nrk.no/nyttig.",
+"t": "Scrollechallenge: 26 min i skjermtid",
+"u": "https://podkast.nrk.no/fil/lev_vel/b1f76b4b-b946-492f-b76b-4bb946692fc6_1_ID192MP3.mp3"
+},
+"l_b309d9aa-bdb4-41ed-89d9-aabdb421edbb": {
+"d": "2026-01-14T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3412,
+"s": "Hva gjør du når følelsene tar overhånd og du mister det? Blir du utagerende eller stille? Psykolog Jørgen Flor forklarer hvorfor.",
+"t": "Derfor klikker det for deg",
+"u": "https://podkast.nrk.no/fil/lev_vel/b309d9aa-bdb4-41ed-89d9-aabdb421edbb_1_ID192MP3.mp3"
+},
+"l_b38420ea-fa59-40e1-8420-eafa59a0e158": {
+"d": "2025-08-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3915,
+"s": "Hva bør man unngå når man krangler med partneren? Psykologspesialist Eva Tryti gir oss svar.",
+"t": "Hvordan krangle bedre",
+"u": "https://podkast.nrk.no/fil/lev_vel/0e7404bf-1343-4062-a5c8-f30c0e9a5c8d_0_ID192MP3.mp3"
+},
+"l_b94e5cc7-1489-4565-8e5c-c71489456569": {
+"d": "2026-06-17T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 2566,
+"s": "Hva skjer med magen når du blir stressa? Og hvordan kan vi sørge for at den har det best mulig? Professor Siv Kjølsrud Bøhn forteller oss hvordan tarmfloraen påvirker helsen vår.",
+"t": "Hvordan påvirker tarmen psyken?",
+"u": "https://podkast.nrk.no/fil/lev_vel/b94e5cc7-1489-4565-8e5c-c71489456569_2_ID192MP3.mp3"
+},
+"l_ba6ca092-e0f5-43a2-aca0-92e0f513a2ce": {
+"d": "2025-07-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 734,
+"s": "Hvordan kan du tilrettelegge for at barnet ditt får et godt forhold til mat og kropp? Professor Jorunn Sundgot-Borgen svarer.",
+"t": "Bonus: Barnets forhold til mat",
+"u": "https://podkast.nrk.no/fil/lev_vel/8a484b1b-fd1f-4eeb-9f53-6e1cb396bda3_0_ID192MP3.mp3"
+},
+"l_bac00bb5-a5b0-47ea-800b-b5a5b017ea92": {
+"d": "2025-05-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 543,
+"s": "BONUS: Hva slags effekt får du av energidrikk eller pre-workout på trening? Hans Kristian Stadheim svarer.",
+"t": "BONUS: Koffein og trening",
+"u": "https://podkast.nrk.no/fil/lev_vel/8c5dca01-fb23-4f06-be9e-64ff9cb080e9_0_ID192MP3.mp3"
+},
+"l_be9e5e5d-01ad-4945-9e5e-5d01ad2945cb": {
+"d": "2025-09-29T14:30:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 1237,
+"s": "Blir det Henning Bang, Kristoffer Olsen eller Linnéa som stikker av med seieren?",
+"t": "Scrollechallenge: Vinneren kåres",
+"u": "https://podkast.nrk.no/fil/lev_vel/be9e5e5d-01ad-4945-9e5e-5d01ad2945cb_1_ID192MP3.mp3"
+},
+"l_c0337627-2ea2-4426-b376-272ea2c426a8": {
+"d": "2025-04-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 4549,
+"s": "Når er stress farlig? Og kan man bruke stress til sin fordel? Stressforsker Henrik Børsting Jacobsen svarer Linnéa Myhre.",
+"t": "Stress",
+"u": "https://podkast.nrk.no/fil/lev_vel/1cc8d213-f9fa-482d-bf90-5ed4b6333ac8_0_ID192MP3.mp3"
+},
+"l_c20425b0-f2d5-401b-8425-b0f2d5201bf1": {
+"d": "2025-11-12T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3457,
+"s": "Hva skal til for å ha et godt sexliv, og hvorfor synes vi det er så vanskelig å snakke om? Sexolog Trude Lian gir svar.",
+"t": "Bli mer komfortabel med sex",
+"u": "https://podkast.nrk.no/fil/lev_vel/c20425b0-f2d5-401b-8425-b0f2d5201bf1_1_ID192MP3.mp3"
+},
+"l_c888b58b-432b-4625-88b5-8b432be62530": {
+"d": "2026-08-26T05:00:00+02:00",
+"i": "https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q",
+"n": 2915,
+"s": "August er høysesong for brudd og flere parforhold ryker etter konfliktfylte ferier. Men hva er det egentlig som får kjærligheten til å vare? Parterapeut Stine Kase har rådene som kan reparere forholdet og gjøre deg til en bedre partner.",
+"t": "Slik unngår du brudd",
+"u": "https://podkast.nrk.no/fil/lev_vel/c888b58b-432b-4625-88b5-8b432be62530_1_ID192MP3.mp3"
+},
+"l_cc6d719d-c4d2-46e1-ad71-9dc4d2d6e1e7": {
+"d": "2025-09-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3718,
+"s": "Hva er de største forskjellene på kvinner og menn når det kommer til trening og ernæring? Ernæringsfysiolog Kristin Jonvik svarer.",
+"t": "Kvinner, trening og ernæring",
+"u": "https://podkast.nrk.no/fil/lev_vel/cc6d719d-c4d2-46e1-ad71-9dc4d2d6e1e7_2_ID192MP3.mp3"
+},
+"l_ceaeccb8-fb21-46cd-aecc-b8fb2186cda5": {
+"d": "2025-10-22T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3741,
+"s": "Hvor lang tid tar det å komme over eksen? Og hvorfor gjør kjærlighetssorg så vondt i kroppen? Psykolog Sissel Gran forklarer.",
+"t": "Kjærlighetssorg",
+"u": "https://podkast.nrk.no/fil/lev_vel/ceaeccb8-fb21-46cd-aecc-b8fb2186cda5_ID192MP3.mp3"
+},
+"l_d05db103-04fa-4646-9db1-0304fa0646d2": {
+"d": "2026-06-10T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 2996,
+"s": "Psykologiprofessor Silje Reme mener vi har mer kontroll over smerte enn vi tror.",
+"t": "Kan du tenke deg ut av smerte?",
+"u": "https://podkast.nrk.no/fil/lev_vel/d05db103-04fa-4646-9db1-0304fa0646d2_2_ID192MP3.mp3"
+},
+"l_d2647f07-33af-49e0-a47f-0733af49e06f": {
+"d": "2026-02-11T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3698,
+"s": "Hvorfor kan forholdet mellom mor og datter være så anstrengt i voksen alder? Familieterapeut Dora Thorhallsdottir svarer.",
+"t": "«Mor og datter»-forholdet",
+"u": "https://podkast.nrk.no/fil/lev_vel/d2647f07-33af-49e0-a47f-0733af49e06f_1_ID192MP3.mp3"
+},
+"l_d4522dd7-63b3-4074-922d-d763b3807470": {
+"d": "2025-07-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3163,
+"s": "Hvorfor er det så vanskelig å slutte å snuse? Psykolog Ella Aase Anker forklarer hva du gjør feil.",
+"t": "Derfor snuser du fortsatt",
+"u": "https://podkast.nrk.no/fil/lev_vel/ba555cec-1228-4ff4-bc4d-e067525301c7_0_ID192MP3.mp3"
+},
+"l_d676fc9d-7528-47b5-b6fc-9d752887b580": {
+"d": "2025-12-29T05:00:00+01:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 2336,
+"s": "Sett deg ned sammen med Linnéa og lag dine nyttårsforsett og mål for 2026. Og bli med på årets første challenge: Månedsmål.",
+"t": "Bonus: Sett dine mål for 2026",
+"u": "https://podkast.nrk.no/fil/lev_vel/d676fc9d-7528-47b5-b6fc-9d752887b580_1_ID192MP3.mp3"
+},
+"l_db6601de-1938-4f5d-a601-de19387f5d6a": {
+"d": "2025-05-13T12:00:00+02:00",
+"i": "https://gfx.nrk.no/aWtcN2X2zc3LVQ1grww9XgunIGVXhXzbDWsJz-YFB94Q",
+"n": 1845,
+"s": "Linnéa og Oliver oppsummerer to uker uten koffein.",
+"t": "BONUS: Har du drukket koffein i dag?",
+"u": "https://podkast.nrk.no/fil/lev_vel/57aac91b-cb64-46a2-b340-d390f705c7be_0_ID192MP3.mp3"
+},
+"l_dd27741e-af5c-4130-a774-1eaf5c61308c": {
+"d": "2025-09-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3516,
+"s": "Hva er mest utfordrende; å være sjalu eller å være mottaker av sjalusi? Psykolog Andreas Løes Narum forklarer.",
+"t": "Sjalusi er ikke kjærlighet",
+"u": "https://podkast.nrk.no/fil/lev_vel/dd27741e-af5c-4130-a774-1eaf5c61308c_1_ID192MP3.mp3"
+},
+"l_de40b942-7415-4ac4-80b9-427415eac42d": {
+"d": "2025-04-16T07:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3661,
+"s": "Hva skjer når kroppen får «for mye» koffein? Hans Kristian Stadheim, som har forsket på koffein ved NIH, svarer Linnéa Myhre.",
+"t": "Koffein",
+"u": "https://podkast.nrk.no/fil/lev_vel/35c01332-315a-48bb-9847-061d183f218d_0_ID192MP3.mp3"
+},
+"l_e0eb19b6-d40e-4835-ab19-b6d40ed83556": {
+"d": "2026-02-27T05:00:00+01:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1362,
+"s": "Klarte Linnéa en hel måned uten baksnakking? Og hvilket fyllord skal hun slutte å si i mars?",
+"t": "Månedschallenge: – Jeg tar selvkritikk",
+"u": "https://podkast.nrk.no/fil/lev_vel/e0eb19b6-d40e-4835-ab19-b6d40ed83556_1_ID192MP3.mp3"
+},
+"l_e3f68a0b-3224-4456-b68a-0b322454565d": {
+"d": "2026-04-01T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3270,
+"s": "Skal vi kaste alle plastflasker, skjærebrett og treningsklær? Kjemiker Alexander Sandtorv gir oss råd til hvordan vi kan forholde oss til alt vi hører om mikroplast.",
+"t": "Mikroplast",
+"u": "https://podkast.nrk.no/fil/lev_vel/e3f68a0b-3224-4456-b68a-0b322454565d_1_ID192MP3.mp3"
+},
+"l_e6afc5d8-87d5-47ea-afc5-d887d5c7eae5": {
+"d": "2025-11-03T05:00:00+01:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1057,
+"s": "Linnéa har slitt mange år med depresjon, men disse grepene gjorde at hun har unngått vinterdepresjonen de siste ti årene.",
+"t": "Bonus: Slik unngår jeg vinterdepresjon",
+"u": "https://podkast.nrk.no/fil/lev_vel/e6afc5d8-87d5-47ea-afc5-d887d5c7eae5_1_ID192MP3.mp3"
+},
+"l_e81d0d98-84af-4724-9d0d-9884afe724de": {
+"d": "2026-06-03T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3037,
+"s": "Gruer du deg til å dra på stranda? Forsker Trine Tetlie Eik Nes gir deg innsikt i hvorfor samfunnet har blitt så kroppsfokusert, og hva du kan gjøre for å føle deg litt bedre med kroppen din denne sommeren.",
+"t": "Bli glad i kroppen din",
+"u": "https://podkast.nrk.no/fil/lev_vel/e81d0d98-84af-4724-9d0d-9884afe724de_4_ID192MP3.mp3"
+},
+"l_e832d4eb-ecb8-49b8-b2d4-ebecb889b8b5": {
+"d": "2025-11-19T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3338,
+"s": "Hvordan blir man god på å snakke foran folk? Kommunikasjon- og formidlingstrener Berit Boman svarer.",
+"t": "Presentasjonsangst",
+"u": "https://podkast.nrk.no/fil/lev_vel/e832d4eb-ecb8-49b8-b2d4-ebecb889b8b5_1_ID192MP3.mp3"
+},
+"l_e84e7b2b-d70b-4080-8e7b-2bd70bd08062": {
+"d": "2026-03-30T05:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1860,
+"s": "Et av Linnéas nyttårsforsett henger allerede i en tynn tråd, så hun ringer vanecoach Andreas Lycke for å få hjelp.",
+"t": "Bonus: – Jeg har gått på en smell",
+"u": "https://podkast.nrk.no/fil/lev_vel/e84e7b2b-d70b-4080-8e7b-2bd70bd08062_1_ID192MP3.mp3"
+},
+"l_ec5b0f71-25cb-49d8-9b0f-7125cb99d892": {
+"d": "2026-05-01T05:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1021,
+"s": "Motivasjonen er tilbake, men Linnéa sliter fortsatt med et av målene, noe de mest oppmerksomme av lytterne har fått med seg.",
+"t": "Bonus: Knakk motivasjonskoden",
+"u": "https://podkast.nrk.no/fil/lev_vel/ec5b0f71-25cb-49d8-9b0f-7125cb99d892_2_ID192MP3.mp3"
+},
+"l_ef2713cc-9ec1-4bdf-a713-cc9ec12bdfdb": {
+"d": "2025-10-01T05:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3613,
+"s": "Lurer du på om du skal bytte jobb eller ta sjansen på å gå en helt annen karrierevei? Karriereveileder Elaine Bloom gir deg svar.",
+"t": "Å bytte karriere",
+"u": "https://podkast.nrk.no/fil/lev_vel/ef2713cc-9ec1-4bdf-a713-cc9ec12bdfdb_1_ID192MP3.mp3"
+},
+"l_f8f4e197-ad91-4c26-b4e1-97ad91ac265d": {
+"d": "2025-08-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3202,
+"s": "Blir du overveldet av tanken på budsjett, utgifter og kontoutskrifter? Da er denne episoden for deg.",
+"t": "Få kontroll på økonomien",
+"u": "https://podkast.nrk.no/fil/lev_vel/f8f4e197-ad91-4c26-b4e1-97ad91ac265d_1_ID192MP3.mp3"
+},
+"l_f96c0141-74d6-45ff-ac01-4174d655ff98": {
+"d": "2025-08-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg",
+"n": 1775,
+"s": "Linnéa har nå gått et helt år uten å drikke alkohol. Hvordan har det vært og hvordan ser hun på det nå?",
+"t": "BONUS: Et år uten alkohol",
+"u": "https://podkast.nrk.no/fil/lev_vel/e05eb0b7-8124-42a8-a383-4b3ef4001bd8_0_ID192MP3.mp3"
+},
+"l_f99b0060-9a3c-4ddf-9b00-609a3c3ddff4": {
+"d": "2026-03-04T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3062,
+"s": "Blir du ofte usikker på hva du skal si i gruppesamtaler? Psykolog Jonas Sharma-Bakkevig gir deg rådene for å bli trygg i sosiale settinger.",
+"t": "Bli sosialt trygg",
+"u": "https://podkast.nrk.no/fil/lev_vel/f99b0060-9a3c-4ddf-9b00-609a3c3ddff4_1_ID192MP3.mp3"
+},
+"l_fb14f478-4747-46f2-94f4-784747e6f28e": {
+"d": "2026-01-21T05:00:00+01:00",
+"i": "https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ",
+"n": 3205,
+"s": "Er du lei av å glemme navn og ting? Tidligere verdensmester Oddbjørn By lærer oss hvordan trene hukommelsen vår i hverdagen.",
+"t": "Slik får du bedre hukommelse",
+"u": "https://podkast.nrk.no/fil/lev_vel/fb14f478-4747-46f2-94f4-784747e6f28e_1_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Kultur og samfunn",
+"id": "lev_vel",
+"image": "https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q",
+"subtitle": "Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.",
+"title": "Lev vel"
+},
+"v": 2
 }

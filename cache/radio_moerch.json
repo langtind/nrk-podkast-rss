@@ -1,115 +1,916 @@
 {
-"l_0156e23c-8b57-4ec1-96e2-3c8b574ec12b": "https://podkast.nrk.no/fil/radio_moerch/844f458d-7073-441e-83a3-72e222ae4acf_0_ID192MP3.mp3",
-"l_0783bc2c-24f0-410e-83bc-2c24f0010ee5": "https://podkast.nrk.no/fil/radio_moerch/424f968e-1797-429d-9f51-b1a9298e5aaf_0_ID192MP3.mp3",
-"l_0b3eabbe-d3c5-4a1b-beab-bed3c50a1bba": "https://podkast.nrk.no/fil/radio_moerch/b2ca2e14-51a6-4218-b219-055334b25254_0_ID192MP3.mp3",
-"l_0c3866ae-77ad-46fc-b866-ae77ad66fcfc": "https://podkast.nrk.no/fil/radio_moerch/72322603-0092-4d32-b2db-706b2880056f_0_ID192MP3.mp3",
-"l_0f8d61cb-8994-430c-8d61-cb8994730ce4": "https://podkast.nrk.no/fil/radio_moerch/59ea353c-d5ee-4beb-889a-029fc318a9fc_0_ID192MP3.mp3",
-"l_119f9e44-a3ba-4eae-9f9e-44a3ba0eae5f": "https://podkast.nrk.no/fil/radio_moerch/119f9e44-a3ba-4eae-9f9e-44a3ba0eae5f_1_ID192MP3.mp3",
-"l_11a8ad09-7fc3-44c8-a8ad-097fc3f4c899": "https://podkast.nrk.no/fil/radio_moerch/f00f4502-c92b-4552-b42b-4bd0b634a2f9_0_ID192MP3.mp3",
-"l_1309d3d6-ef1c-4530-89d3-d6ef1c253048": "https://podkast.nrk.no/fil/radio_moerch/dea38a60-94d8-432d-b304-76c53b0510f4_0_ID192MP3.mp3",
-"l_16440143-e690-4a37-8401-43e6907a37f5": "https://podkast.nrk.no/fil/radio_moerch/e0688ca9-a899-4154-8faf-b83a7338021a_0_ID192MP3.mp3",
-"l_16f76207-a04e-4770-b762-07a04ec7706a": "https://podkast.nrk.no/fil/radio_moerch/5bd3c5cc-0c9e-4b42-b33b-e53c86ded0a7_0_ID192MP3.mp3",
-"l_20309b0e-9787-4f85-b09b-0e9787af853c": "https://podkast.nrk.no/fil/radio_moerch/bbd2f7ed-443d-4ae1-b395-fdc21ae060e2_0_ID192MP3.mp3",
-"l_21dc536c-eb40-4a21-9c53-6ceb402a21a3": "https://podkast.nrk.no/fil/radio_moerch/21dc536c-eb40-4a21-9c53-6ceb402a21a3_1_ID192MP3.mp3",
-"l_21f3ee3f-c0df-4db7-b3ee-3fc0df4db773": "https://podkast.nrk.no/fil/radio_moerch/21f3ee3f-c0df-4db7-b3ee-3fc0df4db773_1_ID192MP3.mp3",
-"l_252fc608-496e-47dd-afc6-08496e27dd54": "https://podkast.nrk.no/fil/radio_moerch/b048fd5c-3c56-43e0-bd7d-d6ebf322ec41_0_ID192MP3.mp3",
-"l_2a23fd56-0752-470b-a3fd-560752170b6b": "https://podkast.nrk.no/fil/radio_moerch/9eb45053-99eb-4eb2-8d87-b5251351a224_0_ID192MP3.mp3",
-"l_2a28030e-b621-486d-a803-0eb621d86d86": "https://podkast.nrk.no/fil/radio_moerch/b8332192-8ea3-4992-9973-f554820b4d04_0_ID192MP3.mp3",
-"l_2c42f986-fddf-4cb1-82f9-86fddf2cb1c0": "https://podkast.nrk.no/fil/radio_moerch/c24d0022-0308-4bf6-b5b8-402d7fb7badb_0_ID192MP3.mp3",
-"l_2f2de8ce-ca78-4ca1-ade8-ceca784ca170": "https://podkast.nrk.no/fil/radio_moerch/273d7b47-0fb6-42e3-8860-44411425508e_0_ID192MP3.mp3",
-"l_3137e2f8-294c-4ee2-b7e2-f8294ccee25e": "https://podkast.nrk.no/fil/radio_moerch/ceb7f452-b23b-48ca-a659-6ed304b6f961_0_ID192MP3.mp3",
-"l_3176c3b0-e132-4179-b6c3-b0e132c179c2": "https://podkast.nrk.no/fil/radio_moerch/12b1aca4-2c79-4372-808a-ba937a322115_0_ID192MP3.mp3",
-"l_3358a7ff-dcf3-4843-98a7-ffdcf308431b": "https://podkast.nrk.no/fil/radio_moerch/88cb9c39-da41-4c30-a2fc-e89b337ead5e_0_ID192MP3.mp3",
-"l_3423253e-f704-496f-a325-3ef704296f28": "https://podkast.nrk.no/fil/radio_moerch/61a6b166-b3e9-4a37-bc81-c2122f57031a_0_ID192MP3.mp3",
-"l_3477a1c1-c6da-40f9-b7a1-c1c6da60f945": "https://podkast.nrk.no/fil/radio_moerch/7251ae07-6d2a-495f-90cf-12fce02fb2ff_0_ID192MP3.mp3",
-"l_3539dd0b-1b1c-401d-b9dd-0b1b1ca01dad": "https://podkast.nrk.no/fil/radio_moerch/3539dd0b-1b1c-401d-b9dd-0b1b1ca01dad_1_ID192MP3.mp3",
-"l_3648ced1-1a27-4dea-88ce-d11a27bdea6f": "https://podkast.nrk.no/fil/radio_moerch/d26bab23-1ec8-443e-9078-982ae9cea957_0_ID192MP3.mp3",
-"l_378c0d3c-6b4c-4ac8-8c0d-3c6b4c6ac886": "https://podkast.nrk.no/fil/radio_moerch/378c0d3c-6b4c-4ac8-8c0d-3c6b4c6ac886_1_ID192MP3.mp3",
-"l_3a4bd237-cca2-467a-8bd2-37cca2d67a91": "https://podkast.nrk.no/fil/radio_moerch/28194514-ecb5-45f3-a9e6-7de41d77c612_0_ID192MP3.mp3",
-"l_3b9cc2fc-3162-4120-9cc2-fc316221200a": "https://podkast.nrk.no/fil/radio_moerch/f6ce297e-d13c-4fa9-8b07-e8e8519c1ea7_0_ID192MP3.mp3",
-"l_3e3d9114-e4ac-449d-bd91-14e4ac549d1a": "https://podkast.nrk.no/fil/radio_moerch/8377869a-6447-44d0-b7f9-57f716cf0957_0_ID192MP3.mp3",
-"l_3f10c648-573e-45ae-90c6-48573e95aea5": "https://podkast.nrk.no/fil/radio_moerch/1cfdad79-d5ef-41b8-a2c2-1a4fdbfb045d_0_ID192MP3.mp3",
-"l_423c55c9-f8e7-47bc-bc55-c9f8e7b7bcc0": "https://podkast.nrk.no/fil/radio_moerch/ae0ceebf-991d-4858-bb02-62b392f04ac2_0_ID192MP3.mp3",
-"l_47504042-15b2-4e56-9040-4215b22e5624": "https://podkast.nrk.no/fil/radio_moerch/47504042-15b2-4e56-9040-4215b22e5624_1_ID192MP3.mp3",
-"l_498b9802-7da4-449d-8b98-027da4049d67": "https://podkast.nrk.no/fil/radio_moerch/498b9802-7da4-449d-8b98-027da4049d67_1_ID192MP3.mp3",
-"l_5162b057-21e7-4776-a2b0-5721e7e776a8": "https://podkast.nrk.no/fil/radio_moerch/9e410718-3f84-432b-92a0-b967c8ebe79f_0_ID192MP3.mp3",
-"l_55065b51-55d5-45ca-865b-5155d585cae4": "https://podkast.nrk.no/fil/radio_moerch/55065b51-55d5-45ca-865b-5155d585cae4_1_ID192MP3.mp3",
-"l_55cc8cb1-6adf-4f63-8c8c-b16adf2f6379": "https://podkast.nrk.no/fil/radio_moerch/55cc8cb1-6adf-4f63-8c8c-b16adf2f6379_1_ID192MP3.mp3",
-"l_5785d040-110e-478f-85d0-40110e378f2e": "https://podkast.nrk.no/fil/radio_moerch/64415842-0c08-4df4-b05e-b621be2e6e20_0_ID192MP3.mp3",
-"l_5b73eebd-664a-48c8-b3ee-bd664a08c825": "https://podkast.nrk.no/fil/radio_moerch/1168372a-9178-4209-b59d-12a8c486685a_0_ID192MP3.mp3",
-"l_5c033082-9273-4721-8330-829273f7213d": "https://podkast.nrk.no/fil/radio_moerch/7ea2b3c7-8dc1-4b30-8ea1-251575be48f9_0_ID192MP3.mp3",
-"l_5d39021f-4f1c-4260-b902-1f4f1ca260a3": "https://podkast.nrk.no/fil/radio_moerch/509b1545-079b-4759-ba92-fba148b17fc3_0_ID192MP3.mp3",
-"l_5d3eafdf-a93a-4d1d-beaf-dfa93a9d1d29": "https://podkast.nrk.no/fil/radio_moerch/b0dd0e62-d9f1-4fc6-bcd2-019754272ea6_0_ID192MP3.mp3",
-"l_5d9e0683-2c23-42cb-9e06-832c2352cbd0": "https://podkast.nrk.no/fil/radio_moerch/5d9e0683-2c23-42cb-9e06-832c2352cbd0_1_ID192MP3.mp3",
-"l_5e4227dc-3ca3-4df3-8227-dc3ca3ddf3a1": "https://podkast.nrk.no/fil/radio_moerch/2277bbfc-d224-4811-83f1-65551faabcec_0_ID192MP3.mp3",
-"l_61d46d46-dbd4-4b49-946d-46dbd4eb494c": "https://podkast.nrk.no/fil/radio_moerch/f945e764-8097-49bf-b1fa-de5d24dec0d8_0_ID192MP3.mp3",
-"l_6737e206-6bc9-426d-b7e2-066bc9526d15": "https://podkast.nrk.no/fil/radio_moerch/eded7bd6-3719-4760-b0c3-3e6c4c0c016b_0_ID192MP3.mp3",
-"l_67e45d05-2d12-474d-a45d-052d12b74d4c": "https://podkast.nrk.no/fil/radio_moerch/6fe27389-86fd-40ca-8bbd-ec93dd67be8d_0_ID192MP3.mp3",
-"l_6834a74d-60ad-423c-b4a7-4d60ad723ce8": "https://podkast.nrk.no/fil/radio_moerch/e2e3b666-fa32-4db2-845c-6463c36bd5dc_0_ID192MP3.mp3",
-"l_6ab0597a-9019-4137-b059-7a90194137be": "https://podkast.nrk.no/fil/radio_moerch/5438f5ca-afbf-490b-81f5-2796d0278904_0_ID192MP3.mp3",
-"l_6c9c67c6-4e48-4242-9c67-c64e4862428d": "https://podkast.nrk.no/fil/radio_moerch/ddbe614f-0595-49f2-9be7-2ab8948bca28_0_ID192MP3.mp3",
-"l_6f4853b8-3e75-4475-8853-b83e75f475d3": "https://podkast.nrk.no/fil/radio_moerch/6f4853b8-3e75-4475-8853-b83e75f475d3_1_ID192MP3.mp3",
-"l_6fb5b55d-176f-4b81-b5b5-5d176fbb812b": "https://podkast.nrk.no/fil/radio_moerch/6fb5b55d-176f-4b81-b5b5-5d176fbb812b_1_ID192MP3.mp3",
-"l_71c5e6a1-a3ac-4531-85e6-a1a3ac4531a7": "https://podkast.nrk.no/fil/radio_moerch/3670cd49-8343-4224-9615-d2efea61a543_0_ID192MP3.mp3",
-"l_723bb333-025c-4601-bbb3-33025c2601dc": "https://podkast.nrk.no/fil/radio_moerch/723bb333-025c-4601-bbb3-33025c2601dc_1_ID192MP3.mp3",
-"l_79b91c45-85af-4fe2-b91c-4585af7fe257": "https://podkast.nrk.no/fil/radio_moerch/a7257b43-a88c-4e26-a946-d6a68dd1a939_0_ID192MP3.mp3",
-"l_7c045084-b503-4712-8450-84b5034712b1": "https://podkast.nrk.no/fil/radio_moerch/5419a866-39d2-4bff-9443-96e3c2b16db5_0_ID192MP3.mp3",
-"l_7cba255a-024a-4e35-ba25-5a024aae352b": "https://podkast.nrk.no/fil/radio_moerch/7cba255a-024a-4e35-ba25-5a024aae352b_1_ID192MP3.mp3",
-"l_82d80daa-82c8-4d2c-980d-aa82c86d2c88": "https://podkast.nrk.no/fil/radio_moerch/eac5c113-ea3e-4f76-be9a-fd50099236de_0_ID192MP3.mp3",
-"l_834f4d97-0a9c-4575-8f4d-970a9ce57583": "https://podkast.nrk.no/fil/radio_moerch/5e196daf-18e7-445b-835c-536a4e3bb571_0_ID192MP3.mp3",
-"l_871c87a2-9621-4199-9c87-a29621e1996b": "https://podkast.nrk.no/fil/radio_moerch/3a30db59-e876-4892-b03d-b9a182d86be5_0_ID192MP3.mp3",
-"l_87cbc903-dcec-4f1e-8bc9-03dcecdf1e8e": "https://podkast.nrk.no/fil/radio_moerch/87cbc903-dcec-4f1e-8bc9-03dcecdf1e8e_1_ID192MP3.mp3",
-"l_886a1576-8ffe-4b73-aa15-768ffebb7303": "https://podkast.nrk.no/fil/radio_moerch/02f28f5b-d966-4f9b-8fe4-d9d7dfb241b2_0_ID192MP3.mp3",
-"l_886d35f0-d11f-47a0-ad35-f0d11fd7a088": "https://podkast.nrk.no/fil/radio_moerch/78fda468-f7cd-4fb2-863a-e1136a69f400_0_ID192MP3.mp3",
-"l_8a2b135a-d7b0-4343-ab13-5ad7b0434358": "https://podkast.nrk.no/fil/radio_moerch/8a2b135a-d7b0-4343-ab13-5ad7b0434358_1_ID192MP3.mp3",
-"l_8cc639df-26f7-4a0e-8639-df26f7ba0e5f": "https://podkast.nrk.no/fil/radio_moerch/58a260ae-9486-4b75-afdc-829c4d2b8fd1_0_ID192MP3.mp3",
-"l_8d02813f-f749-4ae7-8281-3ff749cae79a": "https://podkast.nrk.no/fil/radio_moerch/44421ad7-6e2e-449e-a84b-b1710f133823_0_ID192MP3.mp3",
-"l_9161f477-3e81-4262-a1f4-773e81d26232": "https://podkast.nrk.no/fil/radio_moerch/ab01af49-5710-4362-9c2a-b13c2fd4e8ff_0_ID192MP3.mp3",
-"l_927820dc-e93d-4c41-b820-dce93d3c41d0": "https://podkast.nrk.no/fil/radio_moerch/b2f0d297-976e-417f-b160-9d2873d0c56e_0_ID192MP3.mp3",
-"l_952e5b77-1e6f-4f44-ae5b-771e6f7f4483": "https://podkast.nrk.no/fil/radio_moerch/9e05b7ec-9097-4c4f-9408-2c3b5bb9d9b0_0_ID192MP3.mp3",
-"l_9719ab8f-3156-45ac-99ab-8f3156e5ac43": "https://podkast.nrk.no/fil/radio_moerch/9719ab8f-3156-45ac-99ab-8f3156e5ac43_1_ID192MP3.mp3",
-"l_973e8cc5-dacc-456c-be8c-c5daccc56cc9": "https://podkast.nrk.no/fil/radio_moerch/96fce972-9c30-4aef-8412-9cc296bd8d1c_0_ID192MP3.mp3",
-"l_9841d037-ac57-4f31-81d0-37ac576f31e2": "https://podkast.nrk.no/fil/radio_moerch/9841d037-ac57-4f31-81d0-37ac576f31e2_2_ID192MP3.mp3",
-"l_9a50f0f9-e712-498d-90f0-f9e712b98d3f": "https://podkast.nrk.no/fil/radio_moerch/d72e1f10-b2e1-48c3-a25f-69364b0e2bc3_0_ID192MP3.mp3",
-"l_a07a544c-4ae0-4d18-ba54-4c4ae05d18bd": "https://podkast.nrk.no/fil/radio_moerch/0807ae11-391c-440d-896d-7ed081f3ddfd_0_ID192MP3.mp3",
-"l_a1fc0427-23ce-43cc-bc04-2723ce83ccb2": "https://podkast.nrk.no/fil/radio_moerch/2e792fbb-520c-4850-8c94-328d4348d671_0_ID192MP3.mp3",
-"l_a28cff10-911f-455c-8cff-10911fd55c2d": "https://podkast.nrk.no/fil/radio_moerch/c2623472-0161-476f-bd97-6b883e0d3666_0_ID192MP3.mp3",
-"l_a28de400-7562-4c7b-8de4-007562ac7b8b": "https://podkast.nrk.no/fil/radio_moerch/1490c7d3-a130-48e6-85aa-01e69a8d8ce5_0_ID192MP3.mp3",
-"l_a5157e8d-7fdc-41ae-957e-8d7fdce1ae91": "https://podkast.nrk.no/fil/radio_moerch/275d8b48-b55c-4bc8-bcb3-64eba0f0ec3e_0_ID192MP3.mp3",
-"l_a5ccb55b-5a79-4371-8cb5-5b5a79c3710a": "https://podkast.nrk.no/fil/radio_moerch/26961ca7-da37-4b2a-a7a3-4b6a4ae7f09c_0_ID192MP3.mp3",
-"l_a7de1cf9-f5d2-4ffd-9e1c-f9f5d27ffdad": "https://podkast.nrk.no/fil/radio_moerch/18b22462-555d-4c70-aa3b-d6ce1603622a_0_ID192MP3.mp3",
-"l_ab11ffae-0a97-4d5e-91ff-ae0a97ad5e99": "https://podkast.nrk.no/fil/radio_moerch/ab11ffae-0a97-4d5e-91ff-ae0a97ad5e99_1_ID192MP3.mp3",
-"l_bb182e78-bb76-49a6-982e-78bb76b9a6b2": "https://podkast.nrk.no/fil/radio_moerch/bb182e78-bb76-49a6-982e-78bb76b9a6b2_1_ID192MP3.mp3",
-"l_bd18fa2f-8ec6-4f4c-98fa-2f8ec6cf4cf7": "https://podkast.nrk.no/fil/radio_moerch/69d3dd7c-e2f4-4326-aca8-5134b790d1ec_0_ID192MP3.mp3",
-"l_be06f395-447a-4f48-86f3-95447aef48ed": "https://podkast.nrk.no/fil/radio_moerch/be06f395-447a-4f48-86f3-95447aef48ed_1_ID192MP3.mp3",
-"l_be708197-ec4c-40d1-b081-97ec4c80d121": "https://podkast.nrk.no/fil/radio_moerch/d8d45af5-95ee-4b59-a2b2-49cf53facfc9_0_ID192MP3.mp3",
-"l_beb7a455-3a5b-465a-b7a4-553a5b565acc": "https://podkast.nrk.no/fil/radio_moerch/beb7a455-3a5b-465a-b7a4-553a5b565acc_1_ID192MP3.mp3",
-"l_c18f6821-a054-49e1-8f68-21a05459e1bf": "https://podkast.nrk.no/fil/radio_moerch/c18f6821-a054-49e1-8f68-21a05459e1bf_1_ID192MP3.mp3",
-"l_c19c87ca-c638-42f5-9c87-cac638e2f5f8": "https://podkast.nrk.no/fil/radio_moerch/c19c87ca-c638-42f5-9c87-cac638e2f5f8_1_ID192MP3.mp3",
-"l_c236d220-1232-4d8f-b6d2-2012320d8f8f": "https://podkast.nrk.no/fil/radio_moerch/2942fa5f-e50b-484d-b881-c4913d061644_0_ID192MP3.mp3",
-"l_c2a39b93-13b3-4890-a39b-9313b36890dc": "https://podkast.nrk.no/fil/radio_moerch/cc873f6d-791e-4774-873c-b04b82c40404_0_ID192MP3.mp3",
-"l_c792c7cb-c978-4019-92c7-cbc978e0190a": "https://podkast.nrk.no/fil/radio_moerch/13ca4f9d-0bdb-4022-ab80-1d9336f8d0da_0_ID192MP3.mp3",
-"l_c8e5a732-2fd1-4546-a5a7-322fd1d54694": "https://podkast.nrk.no/fil/radio_moerch/7f6b6226-5472-4662-951d-25442804e42d_0_ID192MP3.mp3",
-"l_c9466d4b-47be-4a3b-866d-4b47be2a3bd7": "https://podkast.nrk.no/fil/radio_moerch/c9466d4b-47be-4a3b-866d-4b47be2a3bd7_1_ID192MP3.mp3",
-"l_ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb": "https://podkast.nrk.no/fil/radio_moerch/ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb_1_ID192MP3.mp3",
-"l_cde20b77-ad7d-4618-a20b-77ad7d16182e": "https://podkast.nrk.no/fil/radio_moerch/e4226a05-0490-469c-9f3c-0c031c799483_0_ID192MP3.mp3",
-"l_d06d0e5a-71f0-4755-ad0e-5a71f0d755f7": "https://podkast.nrk.no/fil/radio_moerch/9eba1d3f-1911-4586-9af5-1d88d9f1efe8_0_ID192MP3.mp3",
-"l_d14958be-fe19-42ed-8958-befe1982ede7": "https://podkast.nrk.no/fil/radio_moerch/b3d56d8b-64f1-4f53-8a2b-e725c113c58d_0_ID192MP3.mp3",
-"l_d90db975-5de3-472a-8db9-755de3572af3": "https://podkast.nrk.no/fil/radio_moerch/d90db975-5de3-472a-8db9-755de3572af3_1_ID192MP3.mp3",
-"l_d9fff266-0bcf-4525-bff2-660bcfd525b8": "https://podkast.nrk.no/fil/radio_moerch/b1df44b4-cc7f-4bfa-a37c-f7f3cffa63ee_0_ID192MP3.mp3",
-"l_da799897-396d-441e-b998-97396de41e02": "https://podkast.nrk.no/fil/radio_moerch/0a66c260-77f9-4087-8b98-668d4f6481d6_0_ID192MP3.mp3",
-"l_de9eefe5-9d0d-4bf5-9eef-e59d0dabf5e8": "https://podkast.nrk.no/fil/radio_moerch/b65904b6-867f-4b5b-b736-90af19dca3aa_0_ID192MP3.mp3",
-"l_df28575e-f5fe-47a9-a857-5ef5fef7a96c": "https://podkast.nrk.no/fil/radio_moerch/8703dfe0-a922-4d05-ae2d-73b08d1a5221_0_ID192MP3.mp3",
-"l_e79a9df1-6a51-40b6-9a9d-f16a5100b63e": "https://podkast.nrk.no/fil/radio_moerch/e79a9df1-6a51-40b6-9a9d-f16a5100b63e_1_ID192MP3.mp3",
-"l_e86d8076-26f3-42d4-ad80-7626f3e2d423": "https://podkast.nrk.no/fil/radio_moerch/6e3fd3af-31a8-4a61-9311-d3a7da73a7f7_0_ID192MP3.mp3",
-"l_ea5187d3-4ef3-4ec9-9187-d34ef3dec931": "https://podkast.nrk.no/fil/radio_moerch/ea5187d3-4ef3-4ec9-9187-d34ef3dec931_1_ID192MP3.mp3",
-"l_eab081a0-1479-47d5-b081-a01479b7d584": "https://podkast.nrk.no/fil/radio_moerch/a787d7ff-978e-4d4c-ba09-6b8263eda415_0_ID192MP3.mp3",
-"l_f1f5393f-2856-4b3c-b539-3f2856ab3c50": "https://podkast.nrk.no/fil/radio_moerch/0c989952-c54e-4737-acdb-a43bcb7664c4_0_ID192MP3.mp3",
-"l_f3406600-b144-4008-8066-00b144000869": "https://podkast.nrk.no/fil/radio_moerch/ad4426fa-37cf-4365-8eac-d5c38d301d53_0_ID192MP3.mp3",
-"l_f54b0a65-a11a-4691-8b0a-65a11a26915b": "https://podkast.nrk.no/fil/radio_moerch/d6ef11b7-1e73-4b7b-ab7e-c14c32de5060_0_ID192MP3.mp3",
-"l_f57a0aef-2258-458b-ba0a-ef2258358bb5": "https://podkast.nrk.no/fil/radio_moerch/de913afd-f512-4d9a-a7f0-8a19220b4a22_0_ID192MP3.mp3",
-"l_f70ca132-eecf-4b67-8ca1-32eecf9b673d": "https://podkast.nrk.no/fil/radio_moerch/c65dc3c4-7f9a-44a0-af5b-ad2ad4f7a3c4_0_ID192MP3.mp3",
-"l_f74a0cdb-74af-4099-8a0c-db74afe099e1": "https://podkast.nrk.no/fil/radio_moerch/c5e90745-a402-4f72-a944-38e120a9ecd9_0_ID192MP3.mp3",
-"l_fc382179-397d-4c3e-b821-79397d1c3e20": "https://podkast.nrk.no/fil/radio_moerch/ad5f5295-eecc-4cc0-833a-f55e5aefe27c_0_ID192MP3.mp3",
-"l_fd1253c2-e6a6-4365-9253-c2e6a65365e9": "https://podkast.nrk.no/fil/radio_moerch/cb01a39a-e4c2-4ec5-9f5f-bbf1f2586197_0_ID192MP3.mp3"
+"episodes": {
+"l_0156e23c-8b57-4ec1-96e2-3c8b574ec12b": {
+"d": "2024-10-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/3eAW-OmzofFRJO6sY5ivxQuiPQzD2uSla7PKrm8nrpmA",
+"n": 4697,
+"s": "Det er ikke lett å snakke og tenke godt om humor. Her har Lars med seg en han synes klarer det.",
+"t": "Lars Berrum + Ida Lødemel Tvedt om humor",
+"u": "https://podkast.nrk.no/fil/radio_moerch/844f458d-7073-441e-83a3-72e222ae4acf_0_ID192MP3.mp3"
+},
+"l_0783bc2c-24f0-410e-83bc-2c24f0010ee5": {
+"d": "2025-03-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/znNfOU6sL3qO254E9ZymDgXhL0Kw1VCNsdbAqMY7_iYg",
+"n": 4582,
+"s": "Erlend har planer om å grille den ferske politiske lederen. Men siden Ensomhetspartiet ikke har et partiprogram, må det lages først.",
+"t": "Partileder Else Kåss Furuseth",
+"u": "https://podkast.nrk.no/fil/radio_moerch/424f968e-1797-429d-9f51-b1a9298e5aaf_0_ID192MP3.mp3"
+},
+"l_0b3eabbe-d3c5-4a1b-beab-bed3c50a1bba": {
+"d": "2024-02-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/8-p6GsHQnK01R4ukYUoCHQPtItEF13i-OCgZvCZ-zxfw",
+"n": 3745,
+"s": "– Ville du backa meg, utenriksminister? Espen må svare på mye forskjellig, også om han ville utlevert Erlend om ham gjorde det Assange gjorde.",
+"t": "Utenriksminister Espen Barth Eide",
+"u": "https://podkast.nrk.no/fil/radio_moerch/b2ca2e14-51a6-4218-b219-055334b25254_0_ID192MP3.mp3"
+},
+"l_0c3866ae-77ad-46fc-b866-ae77ad66fcfc": {
+"d": "2025-07-28T06:08:00+02:00",
+"i": "https://gfx.nrk.no/yP4E6TTYuv46YEw3lZqS5QJiXNJU-FN6kNqoBoaO475Q",
+"n": 2016,
+"s": "Ville Hermstad stanset klimakrisen hvis det førte til at han selv ble bitte liten?",
+"t": "MDG: Arild Hermstad",
+"u": "https://podkast.nrk.no/fil/radio_moerch/72322603-0092-4d32-b2db-706b2880056f_0_ID192MP3.mp3"
+},
+"l_0f8d61cb-8994-430c-8d61-cb8994730ce4": {
+"d": "2024-04-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/h4xn6aQYQlaOAb-yx91WeAFF0lFD7ytYvvI5cnibqbsQ",
+"n": 7344,
+"s": "Redaktør, kristenmann og intelligent fyr. Også sionist da! Det gønnes på -men aller først har Vebjørn en høne å plukke med Erlend.\n(Episoden ble spilt inn 18.mars. )",
+"t": "Redaktør Vebjørn Selbekk #2",
+"u": "https://podkast.nrk.no/fil/radio_moerch/59ea353c-d5ee-4beb-889a-029fc318a9fc_0_ID192MP3.mp3"
+},
+"l_119f9e44-a3ba-4eae-9f9e-44a3ba0eae5f": {
+"d": "2026-06-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 2997,
+"s": "Mimir er på plass! Vi snakker om folkelig gambling, demokratisk kryptoreklame og fotballrelaterte sjekketips på mammaforum.",
+"t": "VM ER I GANG!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/119f9e44-a3ba-4eae-9f9e-44a3ba0eae5f_1_ID192MP3.mp3"
+},
+"l_11a8ad09-7fc3-44c8-a8ad-097fc3f4c899": {
+"d": "2024-10-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/HADaTBwaz9Pz29US1CJFtQklzu1RRRQHu5JuONW6Y_Pg",
+"n": 4231,
+"s": "– Hva er favoritt-metallet ditt? Erlend lærer smalltalk av Dagsnytt 18s lengstlevende programleder.",
+"t": "Debatt-dronning Sigrid Sollund",
+"u": "https://podkast.nrk.no/fil/radio_moerch/f00f4502-c92b-4552-b42b-4bd0b634a2f9_0_ID192MP3.mp3"
+},
+"l_1309d3d6-ef1c-4530-89d3-d6ef1c253048": {
+"d": "2024-09-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/y_afZwuONKQSA-lYqwrgqg_vd54081HyyRHcXK6b4RaA",
+"n": 5640,
+"s": "– Hva vil det si å være smart? Erlend lanserer sin teori til filosof Lars Svendsen, og får den grundig utbrodert.",
+"t": "Filosof Lars Svendsen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/dea38a60-94d8-432d-b304-76c53b0510f4_0_ID192MP3.mp3"
+},
+"l_16440143-e690-4a37-8401-43e6907a37f5": {
+"d": "2024-01-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/ISm2w1T3bDkhWC8K9om6iQVXykW_2yxORKbk-u1_AvGA",
+"n": 4514,
+"s": "Amalie Stuve er første gjest ut i 2024. Vi snakker om nyttårsforsetter, revyer, løping og barndom. ",
+"t": "Amalie Stuve er tilbake igjen!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/e0688ca9-a899-4154-8faf-b83a7338021a_0_ID192MP3.mp3"
+},
+"l_16f76207-a04e-4770-b762-07a04ec7706a": {
+"d": "2025-07-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nGCOaA2dwmipofqlhzE3UQQdtpuNMsr5Lbm24DLwTqsw",
+"n": 1936,
+"s": "Ville Bergstø dyttet en tykk person foran et tog for å redde to liv?",
+"t": "SV: Kirsti Bergstø",
+"u": "https://podkast.nrk.no/fil/radio_moerch/5bd3c5cc-0c9e-4b42-b33b-e53c86ded0a7_0_ID192MP3.mp3"
+},
+"l_20309b0e-9787-4f85-b09b-0e9787af853c": {
+"d": "2025-07-28T06:05:00+02:00",
+"i": "https://gfx.nrk.no/rlKGCnwAz9GRMtTZlWREiwKc_yiwTZ3r2Q7rvsW9mHkg",
+"n": 1537,
+"s": "Hvorfor skal en incel stemme Venstre? Er det en logisk grunn til at man ikke skal ha seg med et lik?",
+"t": "Venstre: Guri Melby",
+"u": "https://podkast.nrk.no/fil/radio_moerch/bbd2f7ed-443d-4ae1-b395-fdc21ae060e2_0_ID192MP3.mp3"
+},
+"l_21dc536c-eb40-4a21-9c53-6ceb402a21a3": {
+"d": "2026-06-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 2933,
+"s": "Slik gikk det når en som er disponert for avhengighet tilbrakte en kveld på kasino.",
+"t": "Gambling i Atlantic City",
+"u": "https://podkast.nrk.no/fil/radio_moerch/21dc536c-eb40-4a21-9c53-6ceb402a21a3_1_ID192MP3.mp3"
+},
+"l_21f3ee3f-c0df-4db7-b3ee-3fc0df4db773": {
+"d": "2026-06-30T11:07:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 3200,
+"s": "Alle konspirasjonsteoriers mor og nattens tre kamper - straffekonk er gøy!",
+"t": "Vi har landet i Dallas",
+"u": "https://podkast.nrk.no/fil/radio_moerch/21f3ee3f-c0df-4db7-b3ee-3fc0df4db773_1_ID192MP3.mp3"
+},
+"l_252fc608-496e-47dd-afc6-08496e27dd54": {
+"d": "2023-03-12T08:00:28+01:00",
+"i": "https://gfx.nrk.no/lc2w39t1QiLWO4PiChfZLApY0YO7XOxYJrb4D2tGHb0g",
+"n": 4185,
+"s": "Humor er in igjen! Og tilhører fedme fortiden?",
+"t": "Fanny Vaager",
+"u": "https://podkast.nrk.no/fil/radio_moerch/b048fd5c-3c56-43e0-bd7d-d6ebf322ec41_0_ID192MP3.mp3"
+},
+"l_2a23fd56-0752-470b-a3fd-560752170b6b": {
+"d": "2024-03-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/eXclxbDck37IFG4YvG3BlgFR-FU23lfGFmw_hu4KuU4A",
+"n": 5331,
+"s": "– Dødstraff kan være utfallet! Julian Assange-aktivist Gisle Selnes mener USA prøver å skremme andre varslere. Hva er det som foregår egentlig?",
+"t": "Assange-aktivist Gisle Selnes",
+"u": "https://podkast.nrk.no/fil/radio_moerch/9eb45053-99eb-4eb2-8d87-b5251351a224_0_ID192MP3.mp3"
+},
+"l_2a28030e-b621-486d-a803-0eb621d86d86": {
+"d": "2024-09-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/6kIbguYkyMbt213JmO7HrQv4oXpOEk5sH6tBWh1gx4JQ",
+"n": 5940,
+"s": "– Det er 88% sjanse for at menneskeheten overlever,  sier fremtidsforskeren Anders Sandberg. Hvorfor har han såpass med troa?",
+"t": "Fremtidsforsker Anders Sandberg",
+"u": "https://podkast.nrk.no/fil/radio_moerch/b8332192-8ea3-4992-9973-f554820b4d04_0_ID192MP3.mp3"
+},
+"l_2c42f986-fddf-4cb1-82f9-86fddf2cb1c0": {
+"d": "2024-11-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/vCKu92t8TjlpApXmQNL-dQuX03gRCUPBgd3XWkIWjA1A",
+"n": 4581,
+"s": "– Hvorfor er russiske barn så sjukt flinke til å tegne? Isalill er fra grensebyen Kirkenes og har har sett dem i aksjon.",
+"t": "Isalill Kolpus fra Nytt på nytt",
+"u": "https://podkast.nrk.no/fil/radio_moerch/c24d0022-0308-4bf6-b5b8-402d7fb7badb_0_ID192MP3.mp3"
+},
+"l_2f2de8ce-ca78-4ca1-ade8-ceca784ca170": {
+"d": "2025-01-30T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Jp7JafqUndT1rHPkFEuPtAn7FvxNwlXbVhN6OzK403Kg",
+"n": 6642,
+"s": "– Nå er det safe space her, eller? Rødt-Mímir tester ut nye politiske ideer på Erlend.",
+"t": "Mímir Kristjánsson #5",
+"u": "https://podkast.nrk.no/fil/radio_moerch/273d7b47-0fb6-42e3-8860-44411425508e_0_ID192MP3.mp3"
+},
+"l_3137e2f8-294c-4ee2-b7e2-f8294ccee25e": {
+"d": "2025-02-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/PVfwcVTrW1K7UbCMBw2JtwLLmiw8rL8uiF0Ggees8Brw",
+"n": 4872,
+"s": "Han har klesstil, karisma og masse følgere i sosiale medier  – men har aldri hatt pass. Erlend spør ut Safari om hans ganske så usannsynlige liv.",
+"t": "Papirløs flyktning Safari Shabani",
+"u": "https://podkast.nrk.no/fil/radio_moerch/ceb7f452-b23b-48ca-a659-6ed304b6f961_0_ID192MP3.mp3"
+},
+"l_3176c3b0-e132-4179-b6c3-b0e132c179c2": {
+"d": "2023-10-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/AizWcS6fHkPhOQ5N3m0q9gAbxs3Oa4o7wYArmtrHT5zQ",
+"n": 5704,
+"s": "Stand up-komiker Dag Sørås er på besøk, og det snakkes om Israel, vaksiner, nervøsitet og mye mer.",
+"t": "Dag Sørås",
+"u": "https://podkast.nrk.no/fil/radio_moerch/12b1aca4-2c79-4372-808a-ba937a322115_0_ID192MP3.mp3"
+},
+"l_3358a7ff-dcf3-4843-98a7-ffdcf308431b": {
+"d": "2023-02-27T00:04:48+01:00",
+"i": "https://gfx.nrk.no/5YJJHqre6dd91kCncjB0Ew6V4HflYaGe23r2i94F9XFw",
+"n": 5679,
+"s": "\"Lassegg\" er en norsk Youtube-legende. Men hva skjedde med ham? \n\nAdvarsel: selvmords-preik. Trenger du noen å snakke med? Kontakt: Mental helses hjelpetelefon; 116 123.\n\nSe andre hjelpetjenester her: \nhttps://www.helsenorge.no/psykisk-helse/trenger-du-noen-a-snakke-med/#hjelpetelefoner-og-chat",
+"t": "Lasse Gjertsen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/88cb9c39-da41-4c30-a2fc-e89b337ead5e_0_ID192MP3.mp3"
+},
+"l_3423253e-f704-496f-a325-3ef704296f28": {
+"d": "2024-05-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/rkyoTSsoEy9NXMRrTYL1DARETXplojFePaVh65Za3jxw",
+"n": 5924,
+"s": "– Nå lager vi en ordentlig dystopi! Lena Lindgren har skrevet bok om algoritmer. Erlend og Lena er begge litt redde for hvor bra VR kan bli.",
+"t": "Skribent Lena Lindgren",
+"u": "https://podkast.nrk.no/fil/radio_moerch/61a6b166-b3e9-4a37-bc81-c2122f57031a_0_ID192MP3.mp3"
+},
+"l_3477a1c1-c6da-40f9-b7a1-c1c6da60f945": {
+"d": "2024-06-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/MLL2BOe57bibwDeIfxpOyQCgWfEVyOeSq1QfPSM_Tauw",
+"n": 5121,
+"s": "– Du var for feig! Komiker Henrik Fladseth mener Erlend burde fortsatt med stand-up.",
+"t": "Komiker Henrik Fladseth",
+"u": "https://podkast.nrk.no/fil/radio_moerch/7251ae07-6d2a-495f-90cf-12fce02fb2ff_0_ID192MP3.mp3"
+},
+"l_3539dd0b-1b1c-401d-b9dd-0b1b1ca01dad": {
+"d": "2026-05-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/MYQ8r2O2Y4bTNcK13OABtA9zlraYk5_vvvrNlBXolguQ",
+"n": 3370,
+"s": "Hvem er landslagets nerd? Og hvem er den søte jenta i klassen? Erlend hjelper Solbakken med å finpusse taktikken før VM.",
+"t": "Landslagstrener Ståle Solbakken",
+"u": "https://podkast.nrk.no/fil/radio_moerch/3539dd0b-1b1c-401d-b9dd-0b1b1ca01dad_1_ID192MP3.mp3"
+},
+"l_3648ced1-1a27-4dea-88ce-d11a27bdea6f": {
+"d": "2023-05-15T06:00:40+02:00",
+"i": "https://gfx.nrk.no/5B6hEVqpeTK7rvQLugFZSAkaAW1RVmnP-mxwA0Q3QFXQ",
+"n": 2830,
+"s": "Var opptatt denne uka, så her er en liten indre monolog.",
+"t": "Meg selv! AI, Ananas og Tesla",
+"u": "https://podkast.nrk.no/fil/radio_moerch/d26bab23-1ec8-443e-9078-982ae9cea957_0_ID192MP3.mp3"
+},
+"l_378c0d3c-6b4c-4ac8-8c0d-3c6b4c6ac886": {
+"d": "2026-07-18T12:10:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 3688,
+"s": "Det er bare å si takk! Vi hyller våre norske favoritter fra VM 2026.",
+"t": "Våre favoritter på landslaget",
+"u": "https://podkast.nrk.no/fil/radio_moerch/378c0d3c-6b4c-4ac8-8c0d-3c6b4c6ac886_1_ID192MP3.mp3"
+},
+"l_3a4bd237-cca2-467a-8bd2-37cca2d67a91": {
+"d": "2023-05-21T06:00:58+02:00",
+"i": "https://gfx.nrk.no/lhPkdmHSFlSYuCKXazEwGgL4Y5Z8F5Na7r1w-l1teKuA",
+"n": 3107,
+"s": "To (u)populære komikere møtes hos Radio Mørch; Meg selv og Vegar Tryggeseid.",
+"t": "Vegar Tryggeseid",
+"u": "https://podkast.nrk.no/fil/radio_moerch/28194514-ecb5-45f3-a9e6-7de41d77c612_0_ID192MP3.mp3"
+},
+"l_3b9cc2fc-3162-4120-9cc2-fc316221200a": {
+"d": "2024-02-29T06:00:00+01:00",
+"i": "https://gfx.nrk.no/jKorGQVAbxY9zWJhhytUpQNowWafrKcqrw8JdZaxxQsA",
+"n": 5056,
+"s": "Det bor to små genredigerte barn i Kina!  Erlend snakker med molekylærbiologen om alt CRISPR kan gjøre: designbabyer, bio-våpen og kentaurer.",
+"t": "Sigrid Bratlie om CRISPR",
+"u": "https://podkast.nrk.no/fil/radio_moerch/f6ce297e-d13c-4fa9-8b07-e8e8519c1ea7_0_ID192MP3.mp3"
+},
+"l_3e3d9114-e4ac-449d-bd91-14e4ac549d1a": {
+"d": "2024-03-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/bRwLsRUJZW1JpuSa8OSmnAYlZ13X5lZHb67PB0ICkOZQ",
+"n": 7035,
+"s": "– Hva vil det si i praksis, dét å la barna lide litt? Forfatter Birger Emanuelsen har skrevet bok om oppvekst og foreldreskap.",
+"t": "Forfatter/far Birger Emanuelsen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/8377869a-6447-44d0-b7f9-57f716cf0957_0_ID192MP3.mp3"
+},
+"l_3f10c648-573e-45ae-90c6-48573e95aea5": {
+"d": "2024-01-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/R9zFhVP0W_BEFUOAYGx_MA8yjAs97vqdNT67J1L97ojA",
+"n": 5213,
+"s": "Kokain, politiker-intelligens og privat helseomsorg. En dypt engasjerende samtale med FpU-leder Simen Velle. ",
+"t": "FPU-leder Simen Velle",
+"u": "https://podkast.nrk.no/fil/radio_moerch/1cfdad79-d5ef-41b8-a2c2-1a4fdbfb045d_0_ID192MP3.mp3"
+},
+"l_423c55c9-f8e7-47bc-bc55-c9f8e7b7bcc0": {
+"d": "2023-06-26T06:00:10+02:00",
+"i": "https://gfx.nrk.no/YEfI1IPnJbzHSXYXRcLi2AJ81Xmh5iyvyQxzCenKqMvA",
+"n": 2966,
+"s": "Berrum, Stuve, Lia, mamma og pappa, Joachim Førsund. Jeg knoter det til og bruker telefonen min til å lage kul nødløsning!",
+"t": "Berrum, Stuve, Lia, Mamma&Pappa, Joachim Førsund",
+"u": "https://podkast.nrk.no/fil/radio_moerch/ae0ceebf-991d-4858-bb02-62b392f04ac2_0_ID192MP3.mp3"
+},
+"l_47504042-15b2-4e56-9040-4215b22e5624": {
+"d": "2026-06-17T06:25:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 2323,
+"s": "Hvordan er stemningen i Boston? Erlend ringer Mimir direkte fra Gillette Stadium",
+"t": "For en kamp!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/47504042-15b2-4e56-9040-4215b22e5624_1_ID192MP3.mp3"
+},
+"l_498b9802-7da4-449d-8b98-027da4049d67": {
+"d": "2026-07-16T08:45:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 4762,
+"s": "Å være sur for å ryke ut mot England, er å være et godt lag. Vi har konvertert de vanskelige følelsene til håp for fremtiden.",
+"t": "Etter semifinalene",
+"u": "https://podkast.nrk.no/fil/radio_moerch/498b9802-7da4-449d-8b98-027da4049d67_1_ID192MP3.mp3"
+},
+"l_5162b057-21e7-4776-a2b0-5721e7e776a8": {
+"d": "2025-07-28T06:07:00+02:00",
+"i": "https://gfx.nrk.no/qhddEgmmPcEKUhgc7XWkOQBmvQPgo6UsnhhzrooYovEQ",
+"n": 1894,
+"s": "Har Martinussen drømt om væpnet revolusjon? Hvorfor er hun skeptisk til kjæledyr?",
+"t": "Rødt: Marie Sneve Martinussen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/9e410718-3f84-432b-92a0-b967c8ebe79f_0_ID192MP3.mp3"
+},
+"l_55065b51-55d5-45ca-865b-5155d585cae4": {
+"d": "2026-07-05T18:50:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 3174,
+"s": "Erlend har spurt klarsynte i New York om resultatet mellom Norge og Brasil.",
+"t": "Mirakler skjer!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/55065b51-55d5-45ca-865b-5155d585cae4_1_ID192MP3.mp3"
+},
+"l_55cc8cb1-6adf-4f63-8c8c-b16adf2f6379": {
+"d": "2026-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 3570,
+"s": "Vi har vært på ekspedisjon og opplevd \"no autentisk shit\" i lille Ecuador",
+"t": "Mimir har landet",
+"u": "https://podkast.nrk.no/fil/radio_moerch/55cc8cb1-6adf-4f63-8c8c-b16adf2f6379_1_ID192MP3.mp3"
+},
+"l_5785d040-110e-478f-85d0-40110e378f2e": {
+"d": "2023-11-30T06:00:00+01:00",
+"i": "https://gfx.nrk.no/12T3AWVTi8EBY95xaD7X4A2X545cs2eRKWHv_ORlPSYQ",
+"n": 4399,
+"s": "Magnus Devold og jeg snakker om gamle Twitter-helter, humor og store karriereøyeblikk. Jeg svarer også på noen spørsmål fra dere. ",
+"t": "Magnus Devold",
+"u": "https://podkast.nrk.no/fil/radio_moerch/64415842-0c08-4df4-b05e-b621be2e6e20_0_ID192MP3.mp3"
+},
+"l_5b73eebd-664a-48c8-b3ee-bd664a08c825": {
+"d": "2025-07-28T06:01:00+02:00",
+"i": "https://gfx.nrk.no/fq9YqsJKEehYphzx5x3wpwIYn4lcvfVsmh_ocp1XxPgw",
+"n": 1849,
+"s": "Er Vedum begeistret for tastatursnarveier? Og hvor var han egentlig 11. september?",
+"t": "Sp: Trygve Slagsvold Vedum",
+"u": "https://podkast.nrk.no/fil/radio_moerch/1168372a-9178-4209-b59d-12a8c486685a_0_ID192MP3.mp3"
+},
+"l_5c033082-9273-4721-8330-829273f7213d": {
+"d": "2025-03-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/NbySSZ_sNb-sGdxHJbJoHwIUMXo0WstGVYFIG3WhmLlA",
+"n": 5388,
+"s": "– Det er som å spy, sier kunstneren når han snakker om det å male. Det er rett og slett ikke mulig for ham å la være.",
+"t": "Maler William Heimdal",
+"u": "https://podkast.nrk.no/fil/radio_moerch/7ea2b3c7-8dc1-4b30-8ea1-251575be48f9_0_ID192MP3.mp3"
+},
+"l_5d39021f-4f1c-4260-b902-1f4f1ca260a3": {
+"d": "2025-07-28T06:02:00+02:00",
+"i": "https://gfx.nrk.no/XMTPykRQQcgxbLKjfy-HgQeTZ9NrH4nGaJv4PuDA7PSA",
+"n": 1850,
+"s": "Hvem smittet hvem med covid? Og hvorfor kaller Solberg Erlend for kommunist?",
+"t": "Høyre: Erna Solberg",
+"u": "https://podkast.nrk.no/fil/radio_moerch/509b1545-079b-4759-ba92-fba148b17fc3_0_ID192MP3.mp3"
+},
+"l_5d3eafdf-a93a-4d1d-beaf-dfa93a9d1d29": {
+"d": "2023-08-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Bnq_Vepqic1w2ZjOlBNZUQcojgfFu43nmm5FSqQDP-JQ",
+"n": 4281,
+"s": "Podkasten er endelig tilbake! Dagens gjest: Vebjørn Selbekk. Det er han som publiserte karikaturtegningene og var med på Farmen! God fornøyelse!",
+"t": "Vebjørn Selbekk",
+"u": "https://podkast.nrk.no/fil/radio_moerch/b0dd0e62-d9f1-4fc6-bcd2-019754272ea6_0_ID192MP3.mp3"
+},
+"l_5d9e0683-2c23-42cb-9e06-832c2352cbd0": {
+"d": "2026-07-14T03:15:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 3861,
+"s": "Vi bearbeider følelsene våre, mobiliserer mot VAR og hyller heltene på bussen.",
+"t": "Etter folkefesten",
+"u": "https://podkast.nrk.no/fil/radio_moerch/5d9e0683-2c23-42cb-9e06-832c2352cbd0_1_ID192MP3.mp3"
+},
+"l_5e4227dc-3ca3-4df3-8227-dc3ca3ddf3a1": {
+"d": "2023-10-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WMH0PX4IbSPFFkPn6KTl_gayO3T9dd2bq8pf_JFWyrSw",
+"n": 5420,
+"s": "Svenske tilstander, skandaler og vindkraft med tidligere FrP-politiker Ove Vanebo.",
+"t": "Ove Vanebo",
+"u": "https://podkast.nrk.no/fil/radio_moerch/2277bbfc-d224-4811-83f1-65551faabcec_0_ID192MP3.mp3"
+},
+"l_61d46d46-dbd4-4b49-946d-46dbd4eb494c": {
+"d": "2023-06-19T02:21:55+02:00",
+"i": "https://gfx.nrk.no/UIYCfo3XO37ZTF_Milcw2QV0rdGKccZj4oE2GehcjUZg",
+"n": 4777,
+"s": "Han er medieviter og broren til Sigrid! Vi snakker om media, norsk journalistikk og livet som middelklassemann, litt Nord Stream så klart. Og litt USA.",
+"t": "Tellef Raabe",
+"u": "https://podkast.nrk.no/fil/radio_moerch/f945e764-8097-49bf-b1fa-de5d24dec0d8_0_ID192MP3.mp3"
+},
+"l_6737e206-6bc9-426d-b7e2-066bc9526d15": {
+"d": "2023-11-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/wnuv-EDFUBsBVWlWulSGgQPYDifkA60hkKdObn3LxOfA",
+"n": 4678,
+"s": "Komiker Marlene Stavrum er her og snakker med meg om humor, reality-TV, mobbing og masse mer. ",
+"t": "Marlene Stavrum",
+"u": "https://podkast.nrk.no/fil/radio_moerch/eded7bd6-3719-4760-b0c3-3e6c4c0c016b_0_ID192MP3.mp3"
+},
+"l_67e45d05-2d12-474d-a45d-052d12b74d4c": {
+"d": "2023-03-27T06:00:33+02:00",
+"i": "https://gfx.nrk.no/5B6hEVqpeTK7rvQLugFZSAkaAW1RVmnP-mxwA0Q3QFXQ",
+"n": 4353,
+"s": "Komiker Amalie Stuve elsker å stille spørsmål. I dag stiller hun dem til meg.",
+"t": "Amalie Stuve",
+"u": "https://podkast.nrk.no/fil/radio_moerch/6fe27389-86fd-40ca-8bbd-ec93dd67be8d_0_ID192MP3.mp3"
+},
+"l_6834a74d-60ad-423c-b4a7-4d60ad723ce8": {
+"d": "2024-05-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/DjZikVEyYCYq8MF1lQl4bQtqxvFnIW__F4g8vxU8vKXQ",
+"n": 5735,
+"s": "Lederen i AUF veddet 150.000 kr med nestlederen -om  hvilken jobb hun tar etter avgang. I denne episoden jazzes det videre om Norges fremtid.",
+"t": "AUF-leder Astrid Hoem",
+"u": "https://podkast.nrk.no/fil/radio_moerch/e2e3b666-fa32-4db2-845c-6463c36bd5dc_0_ID192MP3.mp3"
+},
+"l_6ab0597a-9019-4137-b059-7a90194137be": {
+"d": "2024-03-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/DQF6i7koBRBhgraqn3RqbgHeqcqgHUM7swbNMWy3r5IQ",
+"n": 4898,
+"s": "– Hvorfor jobber egentlig Pørni i Barnevernet? Henriette og Erlend er jo serieskapere begge to, så i denne episoden blir det endel bransjeprat.",
+"t": "Serieskaper Henriette Steenstrup",
+"u": "https://podkast.nrk.no/fil/radio_moerch/5438f5ca-afbf-490b-81f5-2796d0278904_0_ID192MP3.mp3"
+},
+"l_6c9c67c6-4e48-4242-9c67-c64e4862428d": {
+"d": "2025-01-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/blEozZ88dGiXr8uWy-Ug7gNi18EN0jOS1qK36r5MbU9A",
+"n": 5161,
+"s": "Mannen er historisk økonom og redaktør av høyresidens Minerva. Og geopolitikken nå om dagen minner ham om én spesiell scene i Ringenes herre.",
+"t": "Høyresidens Nils August Andresen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/ddbe614f-0595-49f2-9be7-2ab8948bca28_0_ID192MP3.mp3"
+},
+"l_6f4853b8-3e75-4475-8853-b83e75f475d3": {
+"d": "2026-07-06T03:00:00+02:00",
+"i": "https://gfx.nrk.no/GhPiReeX_kcOaAqe0WEISAomT2If3t9bORPsGUCaZHCw",
+"n": 1712,
+"s": "I dag var det vi som stod for sambaen! Vi analyserer spillerprestasjoner og spår kampens mest ikoniske bilder.",
+"t": "Etter Norge - Brasil",
+"u": "https://podkast.nrk.no/fil/radio_moerch/6f4853b8-3e75-4475-8853-b83e75f475d3_1_ID192MP3.mp3"
+},
+"l_6fb5b55d-176f-4b81-b5b5-5d176fbb812b": {
+"d": "2026-06-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Vmer3ga9IixkDI-1CVYrLw5HMENoCs1u0c5FF5S8uWRw",
+"n": 4573,
+"s": "Hat av vikingestetikk, VAR som kranglekontent og nepotisme på det norske landslaget.",
+"t": "Intellektuelle fotballhooligans Bernhard Ellefsen og Markus Slettholm",
+"u": "https://podkast.nrk.no/fil/radio_moerch/6fb5b55d-176f-4b81-b5b5-5d176fbb812b_1_ID192MP3.mp3"
+},
+"l_71c5e6a1-a3ac-4531-85e6-a1a3ac4531a7": {
+"d": "2023-09-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mZgsCYrnw4mHIuln9MwfNw5L9X6nysfltvX8zgVw2UPQ",
+"n": 4255,
+"s": "Bernt Hulsker om tiden etter skandalen, om VAR, om fotballutstyr og om å bytte favorittfot.",
+"t": "Bernt Hulsker",
+"u": "https://podkast.nrk.no/fil/radio_moerch/3670cd49-8343-4224-9615-d2efea61a543_0_ID192MP3.mp3"
+},
+"l_723bb333-025c-4601-bbb3-33025c2601dc": {
+"d": "2026-07-07T09:50:00+02:00",
+"i": "https://gfx.nrk.no/g19k_5x5HlBfHGgSqe3RCgtEIkLNIAFIPrhAB1m4Pwlw",
+"n": 1675,
+"s": "Det beste nå er å komme seg hjem. To gladslitne gutter oppsummerer mesterskapet så langt.",
+"t": "Fra flyplassen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/723bb333-025c-4601-bbb3-33025c2601dc_1_ID192MP3.mp3"
+},
+"l_79b91c45-85af-4fe2-b91c-4585af7fe257": {
+"d": "2025-07-28T06:06:00+02:00",
+"i": "https://gfx.nrk.no/dv9I4iF_ph9kAgRcYIymhQv-39UqX6HXPvQvHDVZAqmg",
+"n": 1961,
+"s": "Ville Jesus vært anti-woke? Hva er det mest ulovlige Ulstein har gjort?",
+"t": "KrF: Dag-Inge Ulstein",
+"u": "https://podkast.nrk.no/fil/radio_moerch/a7257b43-a88c-4e26-a946-d6a68dd1a939_0_ID192MP3.mp3"
+},
+"l_7c045084-b503-4712-8450-84b5034712b1": {
+"d": "2024-06-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/otMTRmHwh9yMFn85dI0AygujeXFEBL19Ix3mFWoAhpSQ",
+"n": 5003,
+"s": "– ChatGPT sin versjon 4 kan være litt creepy, sier KI-eksperten. I denne episoden hører du hvorfor.",
+"t": "KI-ekspert Inga Strümke",
+"u": "https://podkast.nrk.no/fil/radio_moerch/5419a866-39d2-4bff-9443-96e3c2b16db5_0_ID192MP3.mp3"
+},
+"l_7cba255a-024a-4e35-ba25-5a024aae352b": {
+"d": "2026-06-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 2489,
+"s": "Fotball, politikk og litt reisebrev fra en fotballbane i New York City",
+"t": "Ødegaard kommer til å smelle!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/7cba255a-024a-4e35-ba25-5a024aae352b_1_ID192MP3.mp3"
+},
+"l_82d80daa-82c8-4d2c-980d-aa82c86d2c88": {
+"d": "2025-02-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/uidDqAtkzaxMRIEhQ3LXWg_7e0f6-SO2odGgw3s9xP2w",
+"n": 4720,
+"s": "Det finnes fire kategorier Amerika-hatere, sier Thomas Seltzer. Erlend leter etter hvilken kategori han faller under.\nDenne episoden ble spilt inn 04.februar.",
+"t": "Thomas Seltzer elsker Amerika",
+"u": "https://podkast.nrk.no/fil/radio_moerch/eac5c113-ea3e-4f76-be9a-fd50099236de_0_ID192MP3.mp3"
+},
+"l_834f4d97-0a9c-4575-8f4d-970a9ce57583": {
+"d": "2023-06-12T05:00:54+02:00",
+"i": "https://gfx.nrk.no/XTheWyMq1tuO9QDGFS4YwwgcX8Rodn4QEBhl78w4yTUQ",
+"n": 6267,
+"s": "Om soving, festing og humor.",
+"t": "Linnéa Myhre",
+"u": "https://podkast.nrk.no/fil/radio_moerch/5e196daf-18e7-445b-835c-536a4e3bb571_0_ID192MP3.mp3"
+},
+"l_871c87a2-9621-4199-9c87-a29621e1996b": {
+"d": "2024-08-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/6cMfnXRRg0QfgBEkv-9BbQVplwO29i6FMlcbgrYA36hg",
+"n": 5246,
+"s": "– Jogging, laks og kildevann, liksom! Samfunnsviter og rusaktivist Jon Olsen mener moralismen står sterkt her i landet.",
+"t": "Rusaktivist Jon Flovik Olsen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/3a30db59-e876-4892-b03d-b9a182d86be5_0_ID192MP3.mp3"
+},
+"l_87cbc903-dcec-4f1e-8bc9-03dcecdf1e8e": {
+"d": "2026-06-30T22:57:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 1166,
+"s": "En stor dag for norsk fotball! Direkte fra pressebussen med journalister fra over 20 land.",
+"t": "På bussen fra Norge - Elfenbenskysten",
+"u": "https://podkast.nrk.no/fil/radio_moerch/87cbc903-dcec-4f1e-8bc9-03dcecdf1e8e_1_ID192MP3.mp3"
+},
+"l_886a1576-8ffe-4b73-aa15-768ffebb7303": {
+"d": "2023-07-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bCbUlCBVoOEndoMZIfYzTAaSh-ow-qjnrH0kNBNc_jOA",
+"n": 4635,
+"s": "Gucci Gaute og jeg snakker om edgelords og grønn hverdag.",
+"t": "Gucci Gaute",
+"u": "https://podkast.nrk.no/fil/radio_moerch/02f28f5b-d966-4f9b-8fe4-d9d7dfb241b2_0_ID192MP3.mp3"
+},
+"l_886d35f0-d11f-47a0-ad35-f0d11fd7a088": {
+"d": "2024-08-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/v4fvz4E3_aSlB9MhgAtp0wO5nNrXA7-vzP4jVYf-3h6A",
+"n": 5437,
+"s": "– Vi er på vei mot 3,8 til 4 graders oppvarming,  sier klimakriger og Bellona-grunder Frederic Hauge. Okeeej, så hva gjør vi nå?",
+"t": "Klimakriger Frederic Hauge",
+"u": "https://podkast.nrk.no/fil/radio_moerch/78fda468-f7cd-4fb2-863a-e1136a69f400_0_ID192MP3.mp3"
+},
+"l_8a2b135a-d7b0-4343-ab13-5ad7b0434358": {
+"d": "2026-06-23T07:25:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 1669,
+"s": "I en bil kjørt av en journalist fra The New Yorker prøver gutta å sette ord på følelsene etter kampen.",
+"t": "I bilen fra Norge - Senegal",
+"u": "https://podkast.nrk.no/fil/radio_moerch/8a2b135a-d7b0-4343-ab13-5ad7b0434358_1_ID192MP3.mp3"
+},
+"l_8cc639df-26f7-4a0e-8639-df26f7ba0e5f": {
+"d": "2025-07-28T06:04:00+02:00",
+"i": "https://gfx.nrk.no/2GPy4Em35sV9nzeSMTxOcQChul75bAd0yZwLE3eZcfaQ",
+"n": 1953,
+"s": "Har venstresida tatt feil om innvandring? Og bør vi innføre stats-salat?",
+"t": "Ap: Jonas Gahr Støre",
+"u": "https://podkast.nrk.no/fil/radio_moerch/58a260ae-9486-4b75-afdc-829c4d2b8fd1_0_ID192MP3.mp3"
+},
+"l_8d02813f-f749-4ae7-8281-3ff749cae79a": {
+"d": "2023-09-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/FspjPV6XSyQNjx2Uj0gxHwGDMyJBO4SoMHMXudW0kxfQ",
+"n": 2973,
+"s": "Fetisha og jeg ble kjent da vi var med på TV-programmet Gym. Jeg vil vite mer om henne, og har invitert henne til podkasten.",
+"t": "Fetisha Williams",
+"u": "https://podkast.nrk.no/fil/radio_moerch/44421ad7-6e2e-449e-a84b-b1710f133823_0_ID192MP3.mp3"
+},
+"l_9161f477-3e81-4262-a1f4-773e81d26232": {
+"d": "2024-12-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/z7TfX5E3TrAf97CEfoz1-QGVI5_QBfSXqEZbxCvOCO-A",
+"n": 5695,
+"s": "Galvan er norsk kurder fra Mysen og tidligere rapper. Finnes det NOE bedre utgangspunkt for å snakke innvandring og integrering?",
+"t": "Komiker Galvan Mehidi",
+"u": "https://podkast.nrk.no/fil/radio_moerch/ab01af49-5710-4362-9c2a-b13c2fd4e8ff_0_ID192MP3.mp3"
+},
+"l_927820dc-e93d-4c41-b820-dce93d3c41d0": {
+"d": "2024-02-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/QuTphqH6hNRTRALWfh3fiAA2ZL7NlqZbB9Wty338EyAQ",
+"n": 4826,
+"s": "Klatrer og youtuber som \"egentlig ikke gjør så mye farlig\". Så hvorfor leste han da inn testamente på telefonen sist han var i Las Vegas?",
+"t": "Klatrestjerne Magnus Midtbø",
+"u": "https://podkast.nrk.no/fil/radio_moerch/b2f0d297-976e-417f-b160-9d2873d0c56e_0_ID192MP3.mp3"
+},
+"l_952e5b77-1e6f-4f44-ae5b-771e6f7f4483": {
+"d": "2023-12-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/xLgu4vcBG6UR1e0BFmDodQ3aOhXWh3g1TLQwr7A00OxA",
+"n": 5234,
+"s": "En samtale om Israel og Palestina, med journalist Sidsel Wold. ",
+"t": "Sidsel Wold",
+"u": "https://podkast.nrk.no/fil/radio_moerch/9e05b7ec-9097-4c4f-9408-2c3b5bb9d9b0_0_ID192MP3.mp3"
+},
+"l_9719ab8f-3156-45ac-99ab-8f3156e5ac43": {
+"d": "2026-06-27T01:40:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 1840,
+"s": "Vi stoler på deg, Ståle. Men vi trenger likevel å snakke om følelsene våre nå.",
+"t": "Etter Norge - Frankrike",
+"u": "https://podkast.nrk.no/fil/radio_moerch/9719ab8f-3156-45ac-99ab-8f3156e5ac43_1_ID192MP3.mp3"
+},
+"l_973e8cc5-dacc-456c-be8c-c5daccc56cc9": {
+"d": "2023-10-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GWgCIPAELDjs6dE2VOFUFAT07Bsz20ePgmIVWojdB0yw",
+"n": 7577,
+"s": "Verdens beste sjakkspiller er gjest i verdens beste podkast.",
+"t": "Magnus Carlsen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/96fce972-9c30-4aef-8412-9cc296bd8d1c_0_ID192MP3.mp3"
+},
+"l_9841d037-ac57-4f31-81d0-37ac576f31e2": {
+"d": "2026-06-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/tAXZnqeOblBv7G5e2LTALQijMek9WH8m1zOcnVOubZNQ",
+"n": 4545,
+"s": "Hvordan står det til i USA om dagen, sånn egentlig? En utenrikskommentator og en Trump-nyanserer diskuterer krigen i Iran, amerikansk sosialdemokrati og Madman-teorien.",
+"t": "Utenrikskommentator Ayesha Wolasmal og USA-entusiast Ketil Solvik Olsen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/9841d037-ac57-4f31-81d0-37ac576f31e2_2_ID192MP3.mp3"
+},
+"l_9a50f0f9-e712-498d-90f0-f9e712b98d3f": {
+"d": "2024-01-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YEfI1IPnJbzHSXYXRcLi2AJ81Xmh5iyvyQxzCenKqMvA",
+"n": 5214,
+"s": "Simulering, religion, usynlige sykdommer og aktivisme er bare noe av det det går i når Lars Berrum er gjest. Igjen!",
+"t": "Lars Berrum 2.0",
+"u": "https://podkast.nrk.no/fil/radio_moerch/d72e1f10-b2e1-48c3-a25f-69364b0e2bc3_0_ID192MP3.mp3"
+},
+"l_a07a544c-4ae0-4d18-ba54-4c4ae05d18bd": {
+"d": "2024-04-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0AeT2e2cEcLHIde7AQKCQg75N4ZUt6QHJgH-Ovbu5aFg",
+"n": 6403,
+"s": "Erlend har besøkt proff- og landslagsspiller Morten Thorsby i Italla! Han har «ambisiøs-gutt-syndrom», sier han. Hva betyr dét på banen?",
+"t": "Fotballproff Morten Thorsby",
+"u": "https://podkast.nrk.no/fil/radio_moerch/0807ae11-391c-440d-896d-7ed081f3ddfd_0_ID192MP3.mp3"
+},
+"l_a1fc0427-23ce-43cc-bc04-2723ce83ccb2": {
+"d": "2023-06-05T10:18:49+02:00",
+"i": "https://gfx.nrk.no/sXBKesV5-6H5SGmnC-qkxg1OQ_lFsTeUqThaGKcTCPmA",
+"n": 5497,
+"s": "Noen gjester blir man aldri lei av. Mímir er tilbake!",
+"t": "Mímir Kristjánsson er tilbake!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/2e792fbb-520c-4850-8c94-328d4348d671_0_ID192MP3.mp3"
+},
+"l_a28cff10-911f-455c-8cff-10911fd55c2d": {
+"d": "2023-04-03T05:00:19+02:00",
+"i": "https://gfx.nrk.no/33owUNkxep8DWDNwsC5ctQ2Cy1GGQhCwu8yIPyqp7OvQ",
+"n": 4334,
+"s": "Meme-kongen er faktisk min kompis fra videregående!",
+"t": "@Utlending.memes aka Javad El Bakali",
+"u": "https://podkast.nrk.no/fil/radio_moerch/c2623472-0161-476f-bd97-6b883e0d3666_0_ID192MP3.mp3"
+},
+"l_a28de400-7562-4c7b-8de4-007562ac7b8b": {
+"d": "2024-11-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/HwHL26teyHQwyNY77u7L9g5ZrwreaUSBlxmI4qpASkCw",
+"n": 5032,
+"s": "– Jeg må tilstå noe.. Erlend forteller Mímir Kristjánsson om følelsene sine etter USA-valget.",
+"t": "Politiker (og husgjest!) Mímir Kristjánsson",
+"u": "https://podkast.nrk.no/fil/radio_moerch/1490c7d3-a130-48e6-85aa-01e69a8d8ce5_0_ID192MP3.mp3"
+},
+"l_a5157e8d-7fdc-41ae-957e-8d7fdce1ae91": {
+"d": "2024-08-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RY28wLiNqpRw7q9dwCIfMQjOxsFRCxE94KGAaII7fmhg",
+"n": 5694,
+"s": "Han er ikke helt fotball-viter, men fullbefaren utenriksjournalist. Europa brenner, la oss snakke om fotball!",
+"t": "Journalist Eirik Grasaas-Stavenes",
+"u": "https://podkast.nrk.no/fil/radio_moerch/275d8b48-b55c-4bc8-bcb3-64eba0f0ec3e_0_ID192MP3.mp3"
+},
+"l_a5ccb55b-5a79-4371-8cb5-5b5a79c3710a": {
+"d": "2023-12-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw",
+"n": 5907,
+"s": "Jeg har plukka ut noen øyeblikk jeg likte fra året som har gått. Takk til alle som har hørt på. Høres igjen 4. januar!",
+"t": "Høydepunkter fra 2023",
+"u": "https://podkast.nrk.no/fil/radio_moerch/26961ca7-da37-4b2a-a7a3-4b6a4ae7f09c_0_ID192MP3.mp3"
+},
+"l_a7de1cf9-f5d2-4ffd-9e1c-f9f5d27ffdad": {
+"d": "2023-11-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw",
+"n": 5531,
+"s": "Mímir og jeg snakker om krigen i Midtøsten.",
+"t": "Mímir Kristjánsson igjen!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/18b22462-555d-4c70-aa3b-d6ce1603622a_0_ID192MP3.mp3"
+},
+"l_ab11ffae-0a97-4d5e-91ff-ae0a97ad5e99": {
+"d": "2026-07-19T12:20:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 2367,
+"s": "Erlend heier på Spania, Mimir heier på Viking og Trump lyver om å kunne noe som helst om fotball. Nå er det straks finale!",
+"t": "Vi varmer opp til finale!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/ab11ffae-0a97-4d5e-91ff-ae0a97ad5e99_1_ID192MP3.mp3"
+},
+"l_bb182e78-bb76-49a6-982e-78bb76b9a6b2": {
+"d": "2026-06-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/faqNyPPauU-YXH69ebq87QlJ8WL6X3C8s6egrNMXTWsA",
+"n": 3853,
+"s": "Thorsby slet både med skade i leggen og for lite spilletid. Med hardt arbeid og kreativ taktikk kom han likevel til VM.",
+"t": "Landslagsspiller Morten Thorsby",
+"u": "https://podkast.nrk.no/fil/radio_moerch/bb182e78-bb76-49a6-982e-78bb76b9a6b2_1_ID192MP3.mp3"
+},
+"l_bd18fa2f-8ec6-4f4c-98fa-2f8ec6cf4cf7": {
+"d": "2023-04-17T06:00:44+02:00",
+"i": "https://gfx.nrk.no/lS2qn4KqvdUtN47Jnxx5EgwgxIlcsTxvb3OuliqbUKgA",
+"n": 5937,
+"s": "Nikolai Melamed Kleivan er journalist i Morgenbladet. I denne episoden forteller han om Jura, en ukrainsk soldat som forsvant.\n\n\n\n",
+"t": "Nikolai Melamed Kleivan",
+"u": "https://podkast.nrk.no/fil/radio_moerch/69d3dd7c-e2f4-4326-aca8-5134b790d1ec_0_ID192MP3.mp3"
+},
+"l_be06f395-447a-4f48-86f3-95447aef48ed": {
+"d": "2026-07-20T22:00:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 2928,
+"s": "Dette har vært klink, klasse, togetherness på globalt nivå.",
+"t": "Tusen takk for reisen!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/be06f395-447a-4f48-86f3-95447aef48ed_1_ID192MP3.mp3"
+},
+"l_be708197-ec4c-40d1-b081-97ec4c80d121": {
+"d": "2024-01-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/OXNi8uCH_4GOlkI-wuT-Vw0wI4tiohY-kyG4QcJtfgtA",
+"n": 5778,
+"s": "Kunne krigen i Ukraina vært unngått? Er vestens kritikk av VM i Qatar dobbeltmoralsk? Klassekampens Ole Øyvind Sand Holth er gjest Obs: Episoden ble spilt inn 21. desember. ",
+"t": "Ole Øyvind Sand Holth",
+"u": "https://podkast.nrk.no/fil/radio_moerch/d8d45af5-95ee-4b59-a2b2-49cf53facfc9_0_ID192MP3.mp3"
+},
+"l_beb7a455-3a5b-465a-b7a4-553a5b565acc": {
+"d": "2026-07-11T03:43:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 3951,
+"s": "Er Haaland immun mot berømmelse? Dette og andre analyser av landslaget fra to spente menn.",
+"t": "Vi varmer opp til Norge-England",
+"u": "https://podkast.nrk.no/fil/radio_moerch/beb7a455-3a5b-465a-b7a4-553a5b565acc_1_ID192MP3.mp3"
+},
+"l_c18f6821-a054-49e1-8f68-21a05459e1bf": {
+"d": "2026-07-04T11:20:00+02:00",
+"i": "https://gfx.nrk.no/X3JIxpvbLuMdsONm8m-IQwyJT98HHUy-P1dbiOqBmRKA",
+"n": 2842,
+"s": "Hva har VAR, Kennedy, Epstein og 9/11 til felles?",
+"t": "VAR og 9/11",
+"u": "https://podkast.nrk.no/fil/radio_moerch/c18f6821-a054-49e1-8f68-21a05459e1bf_1_ID192MP3.mp3"
+},
+"l_c19c87ca-c638-42f5-9c87-cac638e2f5f8": {
+"d": "2026-07-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 4267,
+"s": "Vi har noen teorier om forfallet i brasiliansk fotball. Og om VAR-konspirasjoner.",
+"t": "Er katolikker bedre i fotball?",
+"u": "https://podkast.nrk.no/fil/radio_moerch/c19c87ca-c638-42f5-9c87-cac638e2f5f8_1_ID192MP3.mp3"
+},
+"l_c236d220-1232-4d8f-b6d2-2012320d8f8f": {
+"d": "2025-07-28T06:03:00+02:00",
+"i": "https://gfx.nrk.no/8TpAdCQseXQ4qiRXz0oRdQn_aL3yH1dlpCur2EcXaF5w",
+"n": 1778,
+"s": "Støre kan fransk. Hvor godt kan Listhaug engelsk?",
+"t": "FrP: Sylvi Listhaug",
+"u": "https://podkast.nrk.no/fil/radio_moerch/2942fa5f-e50b-484d-b881-c4913d061644_0_ID192MP3.mp3"
+},
+"l_c2a39b93-13b3-4890-a39b-9313b36890dc": {
+"d": "2024-12-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/A-JbYhgpWp95EHZP7dr4egOXqayZKZIdU6UitKK4ROzA",
+"n": 5616,
+"s": "– Er VG Oscar Westerlins muppets? Slike type brennende etiske spørsmål må redaktøren av Norges største avis stille seg hver dag.",
+"t": "VG-redaktør Gard Steiro",
+"u": "https://podkast.nrk.no/fil/radio_moerch/cc873f6d-791e-4774-873c-b04b82c40404_0_ID192MP3.mp3"
+},
+"l_c792c7cb-c978-4019-92c7-cbc978e0190a": {
+"d": "2024-03-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/LFHbO__fPnIgMtnxlYpagw2a0hdDUEMuzSIx6la9fLOg",
+"n": 7268,
+"s": "– Jeg hører helt stoner ut! Lege/skuespiller/smarting Anders Danielsen Lie og Erlend snakker om hva bevissthet egentlig ER. Pluss en del annet.",
+"t": "Multitalentet Anders Danielsen Lie",
+"u": "https://podkast.nrk.no/fil/radio_moerch/13ca4f9d-0bdb-4022-ab80-1d9336f8d0da_0_ID192MP3.mp3"
+},
+"l_c8e5a732-2fd1-4546-a5a7-322fd1d54694": {
+"d": "2023-09-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/EE0KguPUw12l5ijJpr6iwQTCbkPY2vavdhes0wd99TMw",
+"n": 6917,
+"s": "Wolfgang Wee om hva han stemmer, Joe Rogan og annet podkast-preik. ",
+"t": "Wolfgang Wee",
+"u": "https://podkast.nrk.no/fil/radio_moerch/7f6b6226-5472-4662-951d-25442804e42d_0_ID192MP3.mp3"
+},
+"l_c9466d4b-47be-4a3b-866d-4b47be2a3bd7": {
+"d": "2026-06-24T13:45:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 2248,
+"s": "Komiker Adam Friedland skammer seg over å være fotballsupporter og forsvarer drikkepausene",
+"t": "Fotballsupporter Adam Friedland",
+"u": "https://podkast.nrk.no/fil/radio_moerch/c9466d4b-47be-4a3b-866d-4b47be2a3bd7_1_ID192MP3.mp3"
+},
+"l_ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb": {
+"d": "2026-06-16T08:15:00+02:00",
+"i": "https://gfx.nrk.no/8rh1r5CwppA2mft9UGYCEw2xLbKZq9k1TRuTtkdPiY3A",
+"n": 2545,
+"s": "Er vi semifinaleklare? Erlend er på plass i Boston med landslagsdrakt og fotballsko med knotter.",
+"t": "Erlend på Norge-trening",
+"u": "https://podkast.nrk.no/fil/radio_moerch/ca76a56b-c438-4fa6-b6a5-6bc4383fa6fb_1_ID192MP3.mp3"
+},
+"l_cde20b77-ad7d-4618-a20b-77ad7d16182e": {
+"d": "2023-11-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/jIaVRKtl8kICG6rubf8kag2ohMnHKBm_QINtP2hyq8TQ",
+"n": 4705,
+"s": "Medieviter (og bror til artisten Sigrid) Tellef Raabe er i Oslo en tur, og stikker innom for å snakke om woke, ytringsfrihet og en presse som sliter.",
+"t": "Tellef Raabe én gang til!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/e4226a05-0490-469c-9f3c-0c031c799483_0_ID192MP3.mp3"
+},
+"l_d06d0e5a-71f0-4755-ad0e-5a71f0d755f7": {
+"d": "2023-05-01T06:00:10+02:00",
+"i": "https://gfx.nrk.no/YEfI1IPnJbzHSXYXRcLi2AJ81Xmh5iyvyQxzCenKqMvA",
+"n": 5442,
+"s": "Lars kom på besøk. Vi snakka om fantasier, dagdrømming, hytte og framtida.",
+"t": "Lars Berrum",
+"u": "https://podkast.nrk.no/fil/radio_moerch/9eba1d3f-1911-4586-9af5-1d88d9f1efe8_0_ID192MP3.mp3"
+},
+"l_d14958be-fe19-42ed-8958-befe1982ede7": {
+"d": "2023-09-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/AtPeFygCaBHLV7v0mnYW7grLW7qa9ITQCMbPGIDdAD9A",
+"n": 4218,
+"s": "Maria Stavang snakker om det perfekte liv og sexy DMs, og vi får en oppklaring i Bar Boca-hendelsen.",
+"t": "Maria Stavang",
+"u": "https://podkast.nrk.no/fil/radio_moerch/b3d56d8b-64f1-4f53-8a2b-e725c113c58d_0_ID192MP3.mp3"
+},
+"l_d90db975-5de3-472a-8db9-755de3572af3": {
+"d": "2026-07-12T15:25:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 3572,
+"s": "Det er ikke sorg, det er ikke raseri. Bare tomhet. Er dette det ærefulle nederlaget? Vi oppsummerer, hyller og ser fremover.",
+"t": "Etter Norge - England",
+"u": "https://podkast.nrk.no/fil/radio_moerch/d90db975-5de3-472a-8db9-755de3572af3_1_ID192MP3.mp3"
+},
+"l_d9fff266-0bcf-4525-bff2-660bcfd525b8": {
+"d": "2023-03-05T21:01:21+01:00",
+"i": "https://gfx.nrk.no/5B6hEVqpeTK7rvQLugFZSAkaAW1RVmnP-mxwA0Q3QFXQ",
+"n": 5664,
+"s": "Christer deler historier som kan tyde på at han er ond.",
+"t": "Christer Falck",
+"u": "https://podkast.nrk.no/fil/radio_moerch/b1df44b4-cc7f-4bfa-a37c-f7f3cffa63ee_0_ID192MP3.mp3"
+},
+"l_da799897-396d-441e-b998-97396de41e02": {
+"d": "2025-04-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Jp7JafqUndT1rHPkFEuPtAn7FvxNwlXbVhN6OzK403Kg",
+"n": 4421,
+"s": "Hvem bedre til å oppsummere vonde, nye tider enn gode gamle Mímir Kristjánsson? \n--\nNB: Nå er det tidlig sommerferie. Sett derfor stjerne på oss, for fra midten av juli er vi nemlig tilbake med Radio Mørchs storstilte valgdekning! Da skal ledere fra alle de store norske partiene inn i studio, én etter én :).",
+"t": "Mímir Kristjánsson #6",
+"u": "https://podkast.nrk.no/fil/radio_moerch/0a66c260-77f9-4087-8b98-668d4f6481d6_0_ID192MP3.mp3"
+},
+"l_de9eefe5-9d0d-4bf5-9eef-e59d0dabf5e8": {
+"d": "2023-03-19T06:00:07+01:00",
+"i": "https://gfx.nrk.no/2-EdVzIjMMkY6hqQkniFIQ1E1FiKMLngnalC7C5qDUfg",
+"n": 5211,
+"s": "Rare scenarioer og Steinar ringer HBO.\n\nUPDATE: FIKK IKKE TILBAKE BILLIG HBO.",
+"t": "Steinar Klouman Hallert",
+"u": "https://podkast.nrk.no/fil/radio_moerch/b65904b6-867f-4b5b-b736-90af19dca3aa_0_ID192MP3.mp3"
+},
+"l_df28575e-f5fe-47a9-a857-5ef5fef7a96c": {
+"d": "2023-05-08T06:00:11+02:00",
+"i": "https://gfx.nrk.no/d_gxxOWZROgAMEUtxIOphgudBxrH2_hI7aMUDKrUQG9w",
+"n": 3076,
+"s": "Min venn Bjørn Asgeirsson aka «Hva er det?» aka «@pappahjerne» aka «Znorky».",
+"t": "Bjørn Asgeirsson",
+"u": "https://podkast.nrk.no/fil/radio_moerch/8703dfe0-a922-4d05-ae2d-73b08d1a5221_0_ID192MP3.mp3"
+},
+"l_e79a9df1-6a51-40b6-9a9d-f16a5100b63e": {
+"d": "2026-06-29T12:00:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 2928,
+"s": "Er det greit at Curaçao i praksis er Nederlands b-lag?",
+"t": "Fotballkolonialisme",
+"u": "https://podkast.nrk.no/fil/radio_moerch/e79a9df1-6a51-40b6-9a9d-f16a5100b63e_1_ID192MP3.mp3"
+},
+"l_e86d8076-26f3-42d4-ad80-7626f3e2d423": {
+"d": "2023-04-24T05:00:34+02:00",
+"i": "https://gfx.nrk.no/WO9LcFDAP3F1Q0AF3DqB1gSmiORRr3WFlMImqtzWqJtw",
+"n": 3037,
+"s": "Anine Kierulf er jurist, førsteamanuensis og spesialrådgiver. Hun kan masse om konstitusjonelle spørsmål, menneskerettigheter og ytringsfrihet.",
+"t": "Anine Kierulf",
+"u": "https://podkast.nrk.no/fil/radio_moerch/6e3fd3af-31a8-4a61-9311-d3a7da73a7f7_0_ID192MP3.mp3"
+},
+"l_ea5187d3-4ef3-4ec9-9187-d34ef3dec931": {
+"d": "2026-07-02T13:15:00+02:00",
+"i": "https://gfx.nrk.no/nlCTDSJ-flrqsIkmFevUxwspuubqdUu_GXTGD4nALJHA",
+"n": 2189,
+"s": "Bør vi hvile spillere for å vinne bronse? Fra baksetet svarer vi på spørsmål fra lytterne.",
+"t": "36 minutter i en førerløs taxi",
+"u": "https://podkast.nrk.no/fil/radio_moerch/ea5187d3-4ef3-4ec9-9187-d34ef3dec931_1_ID192MP3.mp3"
+},
+"l_eab081a0-1479-47d5-b081-a01479b7d584": {
+"d": "2023-02-26T14:30:00+01:00",
+"i": "https://gfx.nrk.no/sXBKesV5-6H5SGmnC-qkxg1OQ_lFsTeUqThaGKcTCPmA",
+"n": 4482,
+"s": "Mímir! Frittalende populær politiker for Rødt.",
+"t": "Mímir Kristjánsson",
+"u": "https://podkast.nrk.no/fil/radio_moerch/a787d7ff-978e-4d4c-ba09-6b8263eda415_0_ID192MP3.mp3"
+},
+"l_f1f5393f-2856-4b3c-b539-3f2856ab3c50": {
+"d": "2023-11-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Baho-61PepVCprJdm7Np2w3hC-P46U1Df6oqZoskRnJA",
+"n": 5362,
+"s": "Nikolai Torgersen var hjemløs alkoholiker. I dag selger han kunst for titalls millioner.",
+"t": "Nikolai Torgersen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/0c989952-c54e-4737-acdb-a43bcb7664c4_0_ID192MP3.mp3"
+},
+"l_f3406600-b144-4008-8066-00b144000869": {
+"d": "2023-04-10T06:00:25+02:00",
+"i": "https://gfx.nrk.no/FjtrA8q1gbKiUnRgua5VPwXLqgcsk7VFHsgXM-deWQ9A",
+"n": 3657,
+"s": "Hva er det morsomste Harald Eia mener han har laga? ",
+"t": "Harald Eia",
+"u": "https://podkast.nrk.no/fil/radio_moerch/ad4426fa-37cf-4365-8eac-d5c38d301d53_0_ID192MP3.mp3"
+},
+"l_f54b0a65-a11a-4691-8b0a-65a11a26915b": {
+"d": "2025-01-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7JQQAYCGAtRQO6UMEgpyxAXaJ43-WySk1itSk9d1KUAQ",
+"n": 5658,
+"s": "Gutta har mindre klær på, men kjeftamentet funker mer enn godt nok. De glemte dessverre å snakke om bryllupet til Lars.",
+"t": "Med Lars Berrum på Granca",
+"u": "https://podkast.nrk.no/fil/radio_moerch/d6ef11b7-1e73-4b7b-ab7e-c14c32de5060_0_ID192MP3.mp3"
+},
+"l_f57a0aef-2258-458b-ba0a-ef2258358bb5": {
+"d": "2024-02-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/RONf1IFxjUnM6G-I6D6wiA02-38IM7owwRNe4m8ktu3Q",
+"n": 5671,
+"s": "Hun har nettopp hoppet av Farmen, men Erlend ville heller prate om kunstig intelligens. Dét kan Anne-Katrine nemlig veldig mye om!",
+"t": "Anne-Kat. Hærland om kunstig intelligens",
+"u": "https://podkast.nrk.no/fil/radio_moerch/de913afd-f512-4d9a-a7f0-8a19220b4a22_0_ID192MP3.mp3"
+},
+"l_f70ca132-eecf-4b67-8ca1-32eecf9b673d": {
+"d": "2024-02-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/HcrExoq_visKlz_uiK2M6AhYIdSE7ro8jwZZwIlGpYbQ",
+"n": 5921,
+"s": "Stadig flere kvinner stemmer til venstre, stadig flere menn til høyre. Forfatter og redaktør Magnus Marsdal og Erlend utforsker hvorfor.",
+"t": "Venstresidas Magnus Marsdal",
+"u": "https://podkast.nrk.no/fil/radio_moerch/c65dc3c4-7f9a-44a0-af5b-ad2ad4f7a3c4_0_ID192MP3.mp3"
+},
+"l_f74a0cdb-74af-4099-8a0c-db74afe099e1": {
+"d": "2024-04-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/pFQjPc1OETJH_lV-gheg6gZ16CoPzPBPok2_fCIyg4Vw",
+"n": 5317,
+"s": "– Idag hadde jeg punchet ham i nesa, sier Kurt om Idol-dommeren som kalte ham en hobbit.",
+"t": "Hele Norges Kurt Nilsen",
+"u": "https://podkast.nrk.no/fil/radio_moerch/c5e90745-a402-4f72-a944-38e120a9ecd9_0_ID192MP3.mp3"
+},
+"l_fc382179-397d-4c3e-b821-79397d1c3e20": {
+"d": "2023-12-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/2-EdVzIjMMkY6hqQkniFIQ1E1FiKMLngnalC7C5qDUfg",
+"n": 4150,
+"s": "Jeg svarer på spørsmål fra lyttere og Steinar hjelper til. ",
+"t": "Steinar Klouman Hallert igjen!",
+"u": "https://podkast.nrk.no/fil/radio_moerch/ad5f5295-eecc-4cc0-833a-f55e5aefe27c_0_ID192MP3.mp3"
+},
+"l_fd1253c2-e6a6-4365-9253-c2e6a65365e9": {
+"d": "2023-10-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nHMvB7992e-l2gMCtpuiZQVcdNKE7QROjxfB3Mj0y6Fg",
+"n": 4883,
+"s": "Nok kjendiser! Min venn Thorleif er på besøk.",
+"t": "Thorleif",
+"u": "https://podkast.nrk.no/fil/radio_moerch/cb01a39a-e4c2-4ec5-9f5f-bbf1f2586197_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "radio_moerch",
+"image": "https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw",
+"subtitle": "Erlend Mørch snakker med folk han gjerne vil snakke med. Ofte gøy, alltid interessant.",
+"title": "Radio Mørch"
+},
+"v": 2
 }

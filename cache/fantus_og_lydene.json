@@ -1,10 +1,76 @@
 {
-"l_02c27d37-e6e0-4ee8-827d-37e6e05ee820": "https://podkast.nrk.no/fil/fantus_og_lydene/39126837-20dd-4b5f-9e54-fbdf096dfc30_0_ID192MP3.mp3",
-"l_204e83aa-0694-4131-8e83-aa0694213127": "https://podkast.nrk.no/fil/fantus_og_lydene/604afadd-8854-4e01-b272-34624f5aeab8_0_ID192MP3.mp3",
-"l_48a20c52-7b72-4dd5-a20c-527b722dd538": "https://podkast.nrk.no/fil/fantus_og_lydene/b7c35111-930c-4c8c-8021-16182fa27384_0_ID192MP3.mp3",
-"l_8f9d369d-7be9-415b-9d36-9d7be9815b12": "https://podkast.nrk.no/fil/fantus_og_lydene/d347a693-f49c-4358-8534-4b48e0be0f33_0_ID192MP3.mp3",
-"l_a8708c24-ab5c-4602-b08c-24ab5c760295": "https://podkast.nrk.no/fil/fantus_og_lydene/4ec2bea2-e70d-4c09-877e-3f9e688370a0_0_ID192MP3.mp3",
-"l_ba6f82ea-5d80-4bc4-af82-ea5d808bc441": "https://podkast.nrk.no/fil/fantus_og_lydene/81e5fb74-9038-4e0b-910a-b5de6b644c23_0_ID192MP3.mp3",
-"l_bb79dc67-95a8-48cd-b9dc-6795a868cd70": "https://podkast.nrk.no/fil/fantus_og_lydene/e8355c3b-dd2f-427d-b0fa-bef559277a41_0_ID192MP3.mp3",
-"l_eca84f9a-e32b-4974-a84f-9ae32b39747d": "https://podkast.nrk.no/fil/fantus_og_lydene/87307422-a736-46ba-8921-e611e0c40582_0_ID192MP3.mp3"
+"episodes": {
+"l_02c27d37-e6e0-4ee8-827d-37e6e05ee820": {
+"d": "2025-04-11T06:02:00+02:00",
+"i": "https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA",
+"n": 621,
+"s": "Kan du brøle like høyt som en løve? Eller trampe like hardt som en elefant?  Fantus drar til jungelen, bli med du også!",
+"t": "Jungelen",
+"u": "https://podkast.nrk.no/fil/fantus_og_lydene/39126837-20dd-4b5f-9e54-fbdf096dfc30_0_ID192MP3.mp3"
+},
+"l_204e83aa-0694-4131-8e83-aa0694213127": {
+"d": "2025-06-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA",
+"n": 515,
+"s": "Noen på bondegården sier mjau, noen grynter og andre kakler. Men hvem er det Fantus møter som roper kykeliky?",
+"t": "Bondegården",
+"u": "https://podkast.nrk.no/fil/fantus_og_lydene/604afadd-8854-4e01-b272-34624f5aeab8_0_ID192MP3.mp3"
+},
+"l_48a20c52-7b72-4dd5-a20c-527b722dd538": {
+"d": "2024-12-13T06:06:00+01:00",
+"i": "https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA",
+"n": 618,
+"s": "Hører du forskjell på en sau og et lam? Og hva sier ei stor ku? Fantus besøker fjøset.",
+"t": "Fjøset",
+"u": "https://podkast.nrk.no/fil/fantus_og_lydene/b7c35111-930c-4c8c-8021-16182fa27384_0_ID192MP3.mp3"
+},
+"l_8f9d369d-7be9-415b-9d36-9d7be9815b12": {
+"d": "2024-12-13T06:05:00+01:00",
+"i": "https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA",
+"n": 591,
+"s": "Fantus besøker en barnehage og hører både latter og klapping. Men hvem er det som gråter?",
+"t": "Barnehagen",
+"u": "https://podkast.nrk.no/fil/fantus_og_lydene/d347a693-f49c-4358-8534-4b48e0be0f33_0_ID192MP3.mp3"
+},
+"l_a8708c24-ab5c-4602-b08c-24ab5c760295": {
+"d": "2025-06-13T06:04:00+02:00",
+"i": "https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA",
+"n": 594,
+"s": "Fantus hermer etter lydene fra korpset: både trompeten, tubaen og trommen. Bli med du også!",
+"t": "Korpset",
+"u": "https://podkast.nrk.no/fil/fantus_og_lydene/4ec2bea2-e70d-4c09-877e-3f9e688370a0_0_ID192MP3.mp3"
+},
+"l_ba6f82ea-5d80-4bc4-af82-ea5d808bc441": {
+"d": "2024-12-13T06:03:00+01:00",
+"i": "https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA",
+"n": 618,
+"s": "På bussholdeplassen hører Fantus mange lyder! Hunder bjeffer, biler tuter og folk prater og synger, men hva er det som uler så fælt?",
+"t": "Bussholdeplassen",
+"u": "https://podkast.nrk.no/fil/fantus_og_lydene/81e5fb74-9038-4e0b-910a-b5de6b644c23_0_ID192MP3.mp3"
+},
+"l_bb79dc67-95a8-48cd-b9dc-6795a868cd70": {
+"d": "2024-12-13T06:02:00+01:00",
+"i": "https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA",
+"n": 584,
+"s": "Fantus lager plaskelyder i badekaret, leker med badeanda – og promper litt.",
+"t": "Badet",
+"u": "https://podkast.nrk.no/fil/fantus_og_lydene/e8355c3b-dd2f-427d-b0fa-bef559277a41_0_ID192MP3.mp3"
+},
+"l_eca84f9a-e32b-4974-a84f-9ae32b39747d": {
+"d": "2024-12-13T06:04:00+01:00",
+"i": "https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA",
+"n": 616,
+"s": "Fantus hører mange lyder i skogen: det kvekkes og kvitres og bruses og knekkes. Men hvem er det som brummer?",
+"t": "Skogen",
+"u": "https://podkast.nrk.no/fil/fantus_og_lydene/87307422-a736-46ba-8921-e611e0c40582_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Barn",
+"id": "fantus_og_lydene",
+"image": "https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA",
+"subtitle": "Bæ, voff, plask, promp og tut! Hvilke lyder finnes egentlig på badet, i barnehagen, fjøset, skogen eller på bussholdeplassen? Bli med Fantus og lek med alle lydene.",
+"title": "Fantus og lydene"
+},
+"v": 2
 }

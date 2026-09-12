@@ -2,14 +2,21 @@ name: update feeds
 
 on:
   schedule:
-    # Skjevt klokkeslett: GitHub utsetter cron-jobber mest på runde tider.
-    - cron: "17 4 * * *"
+    # Inkrementell: ett katalog-kall per serie, ~235 kall.
+    - cron: "*/15 * * * *"
+    # Full crawl mandag natt — eneste måten å oppdage at NRK har fjernet
+    # en episode. Skjevt klokkeslett; runde tider er mest overbooket.
+    - cron: "43 3 * * 1"
   workflow_dispatch:
     inputs:
       series:
         description: "Komma-separert delmengde (tomt = alle)"
         required: false
         default: ""
+      full:
+        description: "Full crawl av alle sider"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -24,6 +31,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    outputs:
+      changed: ${{ steps.build.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
 
@@ -32,23 +41,34 @@ jobs:
           python-version: "3.12"
 
       - name: Bygg feeder
+        id: build
         run: |
+          FULL=""
+          if [ "${{ github.event.schedule }}" = "43 3 * * 1" ] \
+             || [ "${{ inputs.full }}" = "true" ]; then
+            FULL="--full"
+          fi
           python build.py \
             --base-url "${BASE_URL:-https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}}" \
             --series "${{ inputs.series }}" \
             --workers 12 \
-            --out site
+            --out site $FULL
         env:
           BASE_URL: ${{ vars.BASE_URL }}
 
       - name: Commit cache
         run: |
-          # Heartbeat: uten en commit deaktiverer GitHub cron-jobben etter 60 dager.
-          date -u +%Y-%m-%dT%H:%M:%SZ > cache/.heartbeat
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add cache
-          git diff --quiet --cached || git commit -m "chore: refresh audio-url cache"
+          if git diff --quiet --cached; then
+            echo "ingen cache-endringer"
+            exit 0
+          fi
+          git commit -m "chore: refresh episode cache"
+          # Kjøringer serialiseres av concurrency-gruppa, men en manuell
+          # dispatch kan likevel ha flyttet remote under oss.
+          git pull --rebase --autostash -q origin main || true
           git push
 
       - uses: actions/configure-pages@v5
@@ -58,6 +78,10 @@ jobs:
 
   deploy:
     needs: build
+    # Planlagte kjøringer uten endringer produserer identisk HTML — ikke bruk
+    # et Pages-bygg på det. Manuelle kjøringer deployer alltid, siden de som
+    # regel kommer etter en kodeendring.
+    if: github.event_name != 'schedule' || needs.build.outputs.changed != '0'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

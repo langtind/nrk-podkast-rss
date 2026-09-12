@@ -1,119 +1,948 @@
 {
-"l_002a9fa2-1c3d-4df7-aa9f-a21c3dbdf798": "https://podkast.nrk.no/fil/musikkrommet/179a7803-e001-431c-8b6b-c9d1dab1bca7_0_ID192MP3.mp3",
-"l_036676c4-4ac2-49b7-a676-c44ac2a9b71f": "https://podkast.nrk.no/fil/musikkrommet/719d142b-8e7e-404a-abe8-3ec478483f9b_0_ID192MP3.mp3",
-"l_0420270c-ba23-4e6b-a027-0cba232e6b2e": "https://podkast.nrk.no/fil/musikkrommet/376dd765-a851-4f8e-b531-da8b15d15a82_0_ID192MP3.mp3",
-"l_0c7af1e4-47f0-4863-baf1-e447f0f863d1": "https://podkast.nrk.no/fil/musikkrommet/aa7f3d83-89f4-4371-b0e6-e75914559b17_0_ID192MP3.mp3",
-"l_0e11c08a-c85b-456b-91c0-8ac85bf56b17": "https://podkast.nrk.no/fil/musikkrommet/065bac0f-c059-428e-b98f-e96791792ee3_0_ID192MP3.mp3",
-"l_0f15fcbd-e12c-46e7-95fc-bde12c26e750": "https://podkast.nrk.no/fil/musikkrommet/62ba6b6b-e810-4769-944f-01d39ea04490_0_ID192MP3.mp3",
-"l_10fee7c7-d13c-4e93-bee7-c7d13cbe9377": "https://podkast.nrk.no/fil/musikkrommet/a8c8ebe0-7046-42d3-91df-da8b5a175023_0_ID192MP3.mp3",
-"l_1108cfdd-3723-443b-88cf-dd3723643b76": "https://podkast.nrk.no/fil/musikkrommet/eac804c9-3a79-47c7-806d-06c6aedc7a31_0_ID192MP3.mp3",
-"l_15d2e846-1f4e-437a-92e8-461f4ec37a6c": "https://podkast.nrk.no/fil/musikkrommet/018a2fd7-6d7d-43c8-b736-99cff8e13bed_0_ID192MP3.mp3",
-"l_15deb4aa-0e3c-46c2-9eb4-aa0e3c46c2a9": "https://podkast.nrk.no/fil/musikkrommet/a476aa24-4172-4191-b8e3-17c4f50fabb4_0_ID192MP3.mp3",
-"l_1a0b0a5f-e2d9-49d7-8b0a-5fe2d9e9d7fc": "https://podkast.nrk.no/fil/musikkrommet/6cb62bc7-9c91-487e-8cb0-8766bc710a2f_0_ID192MP3.mp3",
-"l_1ebea773-8453-439d-bea7-738453a39d45": "https://podkast.nrk.no/fil/musikkrommet/4a2435de-b19d-4b4d-8948-ba42ae825c6e_0_ID192MP3.mp3",
-"l_20c97aa1-b911-4af3-897a-a1b9119af31c": "https://podkast.nrk.no/fil/musikkrommet/654a68b8-1d78-4c63-b097-ad5c525d2a95_0_ID192MP3.mp3",
-"l_235878e5-6b66-4494-9878-e56b667494d1": "https://podkast.nrk.no/fil/musikkrommet/82071a08-49c0-4c56-8dd4-576df342eb3d_0_ID192MP3.mp3",
-"l_2623f5b0-2e21-42a4-a3f5-b02e2102a435": "https://podkast.nrk.no/fil/musikkrommet/bd242a37-c94d-44ee-ab99-422a24d864dc_0_ID192MP3.mp3",
-"l_2d726e25-0956-4ad0-b26e-250956cad069": "https://podkast.nrk.no/fil/musikkrommet/b021c559-249b-4be3-912e-fe7f387122d5_0_ID192MP3.mp3",
-"l_3326546e-17cf-401e-a654-6e17cff01eec": "https://podkast.nrk.no/fil/musikkrommet/f8b0a271-661d-470c-9ed7-136fbf2ae336_0_ID192MP3.mp3",
-"l_35395637-76bb-40f5-b956-3776bba0f5bb": "https://podkast.nrk.no/fil/musikkrommet/8a7f03ea-9b7c-4a1f-b14d-a7b07a778d3b_0_ID192MP3.mp3",
-"l_38d6a457-22be-4afa-96a4-5722becafac0": "https://podkast.nrk.no/fil/musikkrommet/21eaf213-7f86-48e6-859e-32928dcd052b_0_ID192MP3.mp3",
-"l_3d1a8639-c19e-476e-9a86-39c19e476e12": "https://podkast.nrk.no/fil/musikkrommet/1d23c5d1-09f0-49f7-bb35-89127bd3357e_0_ID192MP3.mp3",
-"l_4054faa4-ae8a-4b17-94fa-a4ae8abb17e8": "https://podkast.nrk.no/fil/musikkrommet/6fa092b4-de3f-4996-ad19-1a1d7cbaec10_0_ID192MP3.mp3",
-"l_41fc86aa-9c10-4046-bc86-aa9c1050461f": "https://podkast.nrk.no/fil/musikkrommet/20ca1451-914c-45d0-a2e4-dba02e1a9569_0_ID192MP3.mp3",
-"l_4316a4d0-da3a-43c5-96a4-d0da3ae3c598": "https://podkast.nrk.no/fil/musikkrommet/24da5635-680c-4baf-913b-b13be58073a8_0_ID192MP3.mp3",
-"l_44736f6a-0a67-4a19-b36f-6a0a677a198d": "https://podkast.nrk.no/fil/musikkrommet/02420138-511c-413f-8829-5cff11dee226_0_ID192MP3.mp3",
-"l_4509fba6-2fca-4a70-89fb-a62fcaea70e8": "https://podkast.nrk.no/fil/musikkrommet/f1cbba25-1af3-45a8-952d-b3e9a9d984b2_0_ID192MP3.mp3",
-"l_4a8ac581-a2b6-412a-8ac5-81a2b6312a10": "https://podkast.nrk.no/fil/musikkrommet/62b36c6d-46cb-429d-be57-95a755727ef2_0_ID192MP3.mp3",
-"l_4bc19d21-505d-461e-819d-21505d061ef7": "https://podkast.nrk.no/fil/musikkrommet/b7fdb2ef-c79f-45fb-ae6b-e73755c5485e_0_ID192MP3.mp3",
-"l_4d9c0e5c-edac-4271-9c0e-5cedace271e8": "https://podkast.nrk.no/fil/musikkrommet/5d0e21e4-770f-4ebf-a488-e2ee54027c2a_0_ID192MP3.mp3",
-"l_4dd5e6f8-7a9c-46aa-95e6-f87a9c06aa20": "https://podkast.nrk.no/fil/musikkrommet/55a91bea-a59b-4751-9e8c-9d6369657f52_0_ID192MP3.mp3",
-"l_4e51ef83-9ec0-4992-91ef-839ec0699244": "https://podkast.nrk.no/fil/musikkrommet/6966bc0b-6b7f-4f54-b43a-023ebc6684f5_0_ID192MP3.mp3",
-"l_5129d729-a75c-48d7-a9d7-29a75cb8d778": "https://podkast.nrk.no/fil/musikkrommet/de91f96a-1a82-4385-92fe-74de5a273d32_0_ID192MP3.mp3",
-"l_5816d7ab-b468-41c0-96d7-abb46821c034": "https://podkast.nrk.no/fil/musikkrommet/f02f6126-8510-420b-a15e-3b5b8a24b918_0_ID192MP3.mp3",
-"l_5936eb65-be38-4f50-b6eb-65be38bf502a": "https://podkast.nrk.no/fil/musikkrommet/ec4d0765-87b1-400b-99da-cb77d5d5534c_0_ID192MP3.mp3",
-"l_5b4813e5-4a9c-410f-8813-e54a9c710f4c": "https://podkast.nrk.no/fil/musikkrommet/8f0e8bd1-2b20-4f3a-b3f0-8401c350d890_0_ID192MP3.mp3",
-"l_5bf81f08-ccfa-4d38-b81f-08ccfacd380d": "https://podkast.nrk.no/fil/musikkrommet/7bfc7650-4fc0-4b18-8fd8-4ee588e953d9_0_ID192MP3.mp3",
-"l_5dc74890-e881-432f-8748-90e881932f12": "https://podkast.nrk.no/fil/musikkrommet/b3872e17-741b-42a1-8fb2-6d3684de152a_0_ID192MP3.mp3",
-"l_5edd80fa-acd1-4c1a-9d80-faacd15c1aca": "https://podkast.nrk.no/fil/musikkrommet/a4a09c28-cf53-497a-a8ac-71f3365789d2_0_ID192MP3.mp3",
-"l_628a8538-fcd0-44b2-8a85-38fcd034b298": "https://podkast.nrk.no/fil/musikkrommet/76868a75-227c-4060-bd21-ad497980a1be_0_ID192MP3.mp3",
-"l_635b1c66-daad-41a2-9b1c-66daad71a298": "https://podkast.nrk.no/fil/musikkrommet/8cf2e7b0-ac47-4592-bb6e-2fe7542f1578_0_ID192MP3.mp3",
-"l_66a7153f-c90f-44be-a715-3fc90fc4be7e": "https://podkast.nrk.no/fil/musikkrommet/0feaeefd-8228-484d-9ee6-f0b7278d16a0_0_ID192MP3.mp3",
-"l_66cdc2e6-9d08-4401-8dc2-e69d08f4015d": "https://podkast.nrk.no/fil/musikkrommet/0d038c74-fa14-4c61-9705-aadfb9ea0c5d_0_ID192MP3.mp3",
-"l_6926d155-4d66-4441-a6d1-554d66844155": "https://podkast.nrk.no/fil/musikkrommet/b207d868-a136-445a-b353-617d587eeac6_0_ID192MP3.mp3",
-"l_699347fd-323f-4c00-9347-fd323fcc0056": "https://podkast.nrk.no/fil/musikkrommet/addbb700-5013-4093-b75d-6339fe829978_0_ID192MP3.mp3",
-"l_6a7d6773-3066-4cec-bd67-7330661cecc1": "https://podkast.nrk.no/fil/musikkrommet/7d197397-1735-4432-9e50-6c4f437bee79_0_ID192MP3.mp3",
-"l_6a8047e5-53d3-4e48-8047-e553d3ee48e7": "https://podkast.nrk.no/fil/musikkrommet/a9b3e0da-eea7-483f-832e-dcfbf7f98ae2_0_ID192MP3.mp3",
-"l_6bb1bb6d-0b4c-437e-b1bb-6d0b4ca37e7c": "https://podkast.nrk.no/fil/musikkrommet/40c0d1ad-fa16-420c-a2ac-3e90372b8c79_0_ID192MP3.mp3",
-"l_6cf69310-083c-45a2-b693-10083c55a200": "https://podkast.nrk.no/fil/musikkrommet/331d90c3-a51d-4362-9a4e-b36834c56a7a_0_ID192MP3.mp3",
-"l_6dadb86f-4938-4258-adb8-6f49388258d1": "https://podkast.nrk.no/fil/musikkrommet/24c9515b-a3ec-472a-a83d-bb768cb3135c_0_ID192MP3.mp3",
-"l_6f11766e-3999-427f-9176-6e3999227ffb": "https://podkast.nrk.no/fil/musikkrommet/663ae45d-c2ab-4c4a-b365-57a0aabb8035_0_ID192MP3.mp3",
-"l_73d0f230-844c-424e-90f2-30844c424e96": "https://podkast.nrk.no/fil/musikkrommet/9c1bf944-d52f-4db3-9020-ff1d07ee5663_0_ID192MP3.mp3",
-"l_780942cc-3a06-45d5-8942-cc3a06d5d5df": "https://podkast.nrk.no/fil/musikkrommet/74ad2047-c51d-49a2-9f8e-688714b86202_0_ID192MP3.mp3",
-"l_78ba4b24-243d-45a9-ba4b-24243d95a991": "https://podkast.nrk.no/fil/musikkrommet/b9683c68-9a39-44eb-a848-de4094c7f478_0_ID192MP3.mp3",
-"l_797c51d1-b764-41b8-bc51-d1b76481b8a8": "https://podkast.nrk.no/fil/musikkrommet/fc5c9356-b305-4581-9c5f-841f7b4d34cf_0_ID192MP3.mp3",
-"l_7be4b025-d747-416c-a4b0-25d747716c87": "https://podkast.nrk.no/fil/musikkrommet/1d6ace38-dc8f-448b-809f-6e5d9463c75e_0_ID192MP3.mp3",
-"l_7c9f0695-d115-45af-9f06-95d115b5af35": "https://podkast.nrk.no/fil/musikkrommet/ad629b91-8594-4d93-a92b-2717959857f8_0_ID192MP3.mp3",
-"l_7d206513-4187-410f-a065-134187c10fa1": "https://podkast.nrk.no/fil/musikkrommet/eb5f6a79-dbfe-4663-a1a6-207c72291c5c_0_ID192MP3.mp3",
-"l_7e123c5e-ae9b-4c0f-923c-5eae9bbc0f0f": "https://podkast.nrk.no/fil/musikkrommet/cc508bae-b6df-4eb3-9bc2-59b22348bb09_0_ID192MP3.mp3",
-"l_7e5bbc19-306e-4092-9bbc-19306e909267": "https://podkast.nrk.no/fil/musikkrommet/7cb642be-f38a-4826-a124-b6bbb21fb484_0_ID192MP3.mp3",
-"l_80918da4-9ea8-4880-918d-a49ea80880f8": "https://podkast.nrk.no/fil/musikkrommet/c2db3fbd-d2f3-4fa3-878c-dd4011a3ebac_0_ID192MP3.mp3",
-"l_810b06bd-479a-4a27-8b06-bd479a2a277c": "https://podkast.nrk.no/fil/musikkrommet/f6cb3c7f-ee8d-4da3-85a0-fac7bdf1ca74_0_ID192MP3.mp3",
-"l_8206c8f0-796f-4727-86c8-f0796fe72779": "https://podkast.nrk.no/fil/musikkrommet/7283288b-e441-41cb-b0dc-3dc779c764c5_0_ID192MP3.mp3",
-"l_841f6615-022f-4f85-9f66-15022f0f8509": "https://podkast.nrk.no/fil/musikkrommet/dfb7d7c0-5395-4d32-bdf7-fb4b8b09393a_0_ID192MP3.mp3",
-"l_84866f41-59e3-49b7-866f-4159e349b776": "https://podkast.nrk.no/fil/musikkrommet/b9a2fe5b-dac7-4342-8ef2-8c23f2032ad2_0_ID192MP3.mp3",
-"l_8593212b-da21-4dbf-9321-2bda210dbf1f": "https://podkast.nrk.no/fil/musikkrommet/5288d82b-5469-4fb4-b511-018f1a7d5ed3_0_ID192MP3.mp3",
-"l_88c390da-43d5-4114-8390-da43d5e114a8": "https://podkast.nrk.no/fil/musikkrommet/fbc47c0e-35de-4830-b76a-63cff102f79a_0_ID192MP3.mp3",
-"l_8a24c7d1-ed39-487b-a4c7-d1ed39f87b1b": "https://podkast.nrk.no/fil/musikkrommet/698ba7cb-aa8a-4916-ac88-d2683aa0b5d7_0_ID192MP3.mp3",
-"l_8b5b9c6e-8696-40b6-9b9c-6e8696d0b6f9": "https://podkast.nrk.no/fil/musikkrommet/01d6ffab-aedb-4ecb-b3bf-405fe96ff69d_0_ID192MP3.mp3",
-"l_8d95d2db-b579-49fe-95d2-dbb579a9feca": "https://podkast.nrk.no/fil/musikkrommet/5a4059d6-e98d-4481-b029-b4bbd111215b_0_ID192MP3.mp3",
-"l_8de9a29f-e00b-4c26-a9a2-9fe00b2c26f6": "https://podkast.nrk.no/fil/musikkrommet/26a176db-cfa4-42c9-be2d-745d90221a70_0_ID192MP3.mp3",
-"l_90647508-d5a9-4237-a475-08d5a972376a": "https://podkast.nrk.no/fil/musikkrommet/53f37dfa-42bd-42c1-8ab4-6743d944d9eb_0_ID192MP3.mp3",
-"l_918fbacd-ccb4-4e96-8fba-cdccb41e96da": "https://podkast.nrk.no/fil/musikkrommet/afd9f2c7-e1c1-4882-8a31-2d1d5d4d0a5b_0_ID192MP3.mp3",
-"l_92e40064-37cd-4cab-a400-6437cdacab64": "https://podkast.nrk.no/fil/musikkrommet/17c76dd6-db04-4533-9845-dc07d7fd879e_0_ID192MP3.mp3",
-"l_93cb42e2-4055-40d2-8b42-e2405520d230": "https://podkast.nrk.no/fil/musikkrommet/0deecc38-2c58-41d9-ba4f-cf15a3ff2dd8_0_ID192MP3.mp3",
-"l_96029928-dd6d-4ad9-8299-28dd6dbad99d": "https://podkast.nrk.no/fil/musikkrommet/d3cdc7c2-d1b8-4ce6-836d-79ae4a7a0c6e_0_ID192MP3.mp3",
-"l_96791bb3-7988-4f6f-b91b-b37988bf6fde": "https://podkast.nrk.no/fil/musikkrommet/d07ea24f-e28b-43b9-a18d-fef92eccd8e9_0_ID192MP3.mp3",
-"l_9fe3a012-cea1-4a1c-a3a0-12cea13a1cdc": "https://podkast.nrk.no/fil/musikkrommet/ade632a1-e986-4308-bc58-92e3c10b29fe_0_ID192MP3.mp3",
-"l_a07c437a-7d36-431c-bc43-7a7d36e31cb8": "https://podkast.nrk.no/fil/musikkrommet/be828701-49ba-45be-8cde-8504006f23bd_0_ID192MP3.mp3",
-"l_a0a6588c-29bc-48b4-a658-8c29bc08b415": "https://podkast.nrk.no/fil/musikkrommet/7ef5841e-2aa5-4075-9f37-17b4bf4f81aa_0_ID192MP3.mp3",
-"l_a16cbfdf-b849-4990-acbf-dfb8496990f0": "https://podkast.nrk.no/fil/musikkrommet/9f42f976-3f1f-4452-a100-331040e2cd45_0_ID192MP3.mp3",
-"l_a59ad48b-7677-4d56-9ad4-8b7677ad5640": "https://podkast.nrk.no/fil/musikkrommet/8c24acc8-0507-4015-9a2e-94bea65e7a71_0_ID192MP3.mp3",
-"l_a9da44fa-f772-4b52-9a44-faf772fb522a": "https://podkast.nrk.no/fil/musikkrommet/dd1b9378-0206-4271-a162-f6147eb445d2_0_ID192MP3.mp3",
-"l_aeef1b82-3ff9-4616-af1b-823ff966167f": "https://podkast.nrk.no/fil/musikkrommet/e51ac5eb-1782-4d16-a700-9cc746c18147_0_ID192MP3.mp3",
-"l_b1503bc3-8c0e-4cb7-903b-c38c0eacb7af": "https://podkast.nrk.no/fil/musikkrommet/c2475c65-a1e8-41ea-a40d-c1cea9439744_0_ID192MP3.mp3",
-"l_b3fc47d6-4bc5-4709-bc47-d64bc58709b0": "https://podkast.nrk.no/fil/musikkrommet/131a49f7-c848-42ee-b646-89bcd2f7c6ec_0_ID192MP3.mp3",
-"l_b414a7c0-aa78-4158-94a7-c0aa78c1586e": "https://podkast.nrk.no/fil/musikkrommet/6a72feba-f1c1-4e7c-9e0a-e52d68b7f27f_0_ID192MP3.mp3",
-"l_b8ac4179-34d8-42ba-ac41-7934d8a2ba75": "https://podkast.nrk.no/fil/musikkrommet/05d21273-660f-4142-9322-fed5a13566f9_0_ID192MP3.mp3",
-"l_b9095957-8511-4ebd-8959-5785115ebde9": "https://podkast.nrk.no/fil/musikkrommet/f803ef93-6503-45fd-a219-47342e38df28_0_ID192MP3.mp3",
-"l_b990c9de-8f45-40b3-90c9-de8f4500b3aa": "https://podkast.nrk.no/fil/musikkrommet/5b737574-dc4d-455e-acbc-19701c3c1498_0_ID192MP3.mp3",
-"l_babdf8e5-ee85-4f51-bdf8-e5ee856f51ac": "https://podkast.nrk.no/fil/musikkrommet/db9ab92f-6aed-4a52-b639-a107cf1b789f_0_ID192MP3.mp3",
-"l_bb256f4e-deee-443b-a56f-4edeeea43bab": "https://podkast.nrk.no/fil/musikkrommet/dcaf620e-6b7d-473c-8997-ac3bbf8a950f_0_ID192MP3.mp3",
-"l_bca315d0-2d9b-4f98-a315-d02d9bef98cb": "https://podkast.nrk.no/fil/musikkrommet/9a2912ac-f313-4d2e-bc17-cb0396fb8f74_0_ID192MP3.mp3",
-"l_be5e8202-f614-452e-9e82-02f614952eca": "https://podkast.nrk.no/fil/musikkrommet/07450e67-c866-4b48-a21b-e2f34e1402ea_0_ID192MP3.mp3",
-"l_be83df90-1a1f-4f25-83df-901a1f6f2591": "https://podkast.nrk.no/fil/musikkrommet/fb4f7182-76d6-46ad-960f-e121eae1a9fa_0_ID192MP3.mp3",
-"l_bf6ceb97-4bb2-4711-aceb-974bb2e711e2": "https://podkast.nrk.no/fil/musikkrommet/40f2d217-914d-4c26-a258-191ca2608a18_0_ID192MP3.mp3",
-"l_c09aa873-abfa-4ec2-9aa8-73abfabec2aa": "https://podkast.nrk.no/fil/musikkrommet/71b452c2-020f-43a5-915b-31837a8a9aac_0_ID192MP3.mp3",
-"l_c142c5d4-3e44-4bee-82c5-d43e44abee3e": "https://podkast.nrk.no/fil/musikkrommet/91df52f5-7e3f-4c46-8287-32d4c9f4c632_0_ID192MP3.mp3",
-"l_c3a39eab-3151-4615-a39e-ab3151e61569": "https://podkast.nrk.no/fil/musikkrommet/7cf45c35-93d7-4233-b43e-8d44e3e5ac2b_0_ID192MP3.mp3",
-"l_c4bbe6a6-bf31-4880-bbe6-a6bf312880e9": "https://podkast.nrk.no/fil/musikkrommet/59c044e0-1a4f-4731-ac77-9edf957ddcb9_0_ID192MP3.mp3",
-"l_c7ded823-8887-4f3d-9ed8-238887df3d1e": "https://podkast.nrk.no/fil/musikkrommet/208ebf8d-66c9-4122-ad94-4ef857f038dc_0_ID192MP3.mp3",
-"l_c853d703-e623-4818-93d7-03e623f81888": "https://podkast.nrk.no/fil/musikkrommet/2a8fe6a9-346c-47ff-8646-4e06af7c3d26_0_ID192MP3.mp3",
-"l_c89698f2-cc22-4a35-9698-f2cc226a359f": "https://podkast.nrk.no/fil/musikkrommet/33a1eba8-0254-49b5-984e-12c5f11fa56d_0_ID192MP3.mp3",
-"l_d09dfe32-a164-42fd-9dfe-32a164c2fdfe": "https://podkast.nrk.no/fil/musikkrommet/a66248d4-dafa-4d58-b2cf-f31a4ef5a13e_0_ID192MP3.mp3",
-"l_d0f60ddd-e809-4b09-b60d-dde809ab0931": "https://podkast.nrk.no/fil/musikkrommet/c9fec13e-d2ce-4c9f-b316-3acf5e7c5cc1_0_ID192MP3.mp3",
-"l_d14ddd37-e0c5-40b8-8ddd-37e0c5d0b83e": "https://podkast.nrk.no/fil/musikkrommet/16d4a96c-6105-410f-ae5a-7806f046edae_0_ID192MP3.mp3",
-"l_d254013c-8ba4-42eb-9401-3c8ba422eb59": "https://podkast.nrk.no/fil/musikkrommet/d049cd52-7c72-4635-8095-89f1d09396b4_0_ID192MP3.mp3",
-"l_d27fce1a-5645-4cf8-bfce-1a56454cf8a8": "https://podkast.nrk.no/fil/musikkrommet/2cd79728-5753-4361-8742-721a685dfb6a_0_ID192MP3.mp3",
-"l_d7e016ce-4862-4c4c-a016-ce4862bc4cac": "https://podkast.nrk.no/fil/musikkrommet/677892ce-7a02-4503-b550-07eaebb2bd70_0_ID192MP3.mp3",
-"l_e756694b-80b1-42a2-9669-4b80b182a216": "https://podkast.nrk.no/fil/musikkrommet/1ab770d5-6f18-46d1-a5b3-fa0efa3bed29_0_ID192MP3.mp3",
-"l_ecb59f5c-64b1-49f5-b59f-5c64b1f9f55c": "https://podkast.nrk.no/fil/musikkrommet/a473ef7b-740e-45a8-9767-18635a7990c0_0_ID192MP3.mp3",
-"l_ed7ab24c-4d46-4263-bab2-4c4d465263a2": "https://podkast.nrk.no/fil/musikkrommet/8938d6ee-9c3b-49c5-a656-7c2311c0a932_0_ID192MP3.mp3",
-"l_f3073bba-61eb-436c-873b-ba61ebd36cb8": "https://podkast.nrk.no/fil/musikkrommet/2a77759d-9358-4250-a065-5cfa751da6c0_0_ID192MP3.mp3",
-"l_f30efbbc-bb92-4c0c-8efb-bcbb92ac0ced": "https://podkast.nrk.no/fil/musikkrommet/ba28a715-9d6a-4f95-b43e-998e26ae5a17_0_ID192MP3.mp3",
-"l_f7d5359a-ee79-4604-9535-9aee79660464": "https://podkast.nrk.no/fil/musikkrommet/b0eab480-89c1-459e-af24-00f18e8d23bd_0_ID192MP3.mp3",
-"l_fc3de56c-1c75-43ca-bde5-6c1c75c3caa3": "https://podkast.nrk.no/fil/musikkrommet/11ed9ee5-d922-4188-9bb3-6308695d8171_0_ID192MP3.mp3",
-"l_fd18ecd7-42a5-47e7-98ec-d742a5f7e74b": "https://podkast.nrk.no/fil/musikkrommet/8fc98169-f827-4dd8-9f1c-6859285de1ad_0_ID192MP3.mp3",
-"l_fdc9027b-2017-4c64-8902-7b2017cc64a4": "https://podkast.nrk.no/fil/musikkrommet/6649b633-43d7-46f4-8209-09d34600d626_0_ID192MP3.mp3",
-"l_feb36b52-3ea9-42da-b36b-523ea932dad4": "https://podkast.nrk.no/fil/musikkrommet/67f564c4-3e73-4eef-a0ca-49fb1d92a889_0_ID192MP3.mp3"
+"episodes": {
+"l_002a9fa2-1c3d-4df7-aa9f-a21c3dbdf798": {
+"d": "2021-08-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/kdHM1INM9XGbYB-Injd5tgPzn4Kjp30lV7vNVByF6g_Q",
+"n": 959,
+"s": "Hun kom fra det ukjente og er blitt årets største popsensasjon. Men har Disney lagt en slu plan for å skape en superstjerne på rekordtid?",
+"t": "Olivia Rodrigo: 18-åringen som tok over 2021",
+"u": "https://podkast.nrk.no/fil/musikkrommet/179a7803-e001-431c-8b6b-c9d1dab1bca7_0_ID192MP3.mp3"
+},
+"l_036676c4-4ac2-49b7-a676-c44ac2a9b71f": {
+"d": "2021-12-31T06:00:00+01:00",
+"i": "https://gfx.nrk.no/XHph4hewcJG-g-XodffPUAo7zSQ0SJjhct6FIg7njOGw",
+"n": 1658,
+"s": "Disco er tilbake på hitlistene, men på små klubber i Oslo har den regjert i over 20 år. Med tre unge karer i spissen ble oslodisco et internasjonalt fenomen, og det tok fullstendig av med yngstemann Todd Terje. Men i hjembyen ble de møtt med en kald skulder. ",
+"t": "Oslodisco: Undertrykt på hjemmebane",
+"u": "https://podkast.nrk.no/fil/musikkrommet/719d142b-8e7e-404a-abe8-3ec478483f9b_0_ID192MP3.mp3"
+},
+"l_0420270c-ba23-4e6b-a027-0cba232e6b2e": {
+"d": "2022-11-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/njNCVtwFyTVz6IagrSm-KQX6o5A2unS-vuJN-ADLt_Xg",
+"n": 1382,
+"s": "Hvordan ble Michelle Ullestad sitt opphold på psykiatrisk sykehus første steg mot å stå på scenen på P3 Gull?",
+"t": "Michelle Ullestad: Urørt som rører",
+"u": "https://podkast.nrk.no/fil/musikkrommet/376dd765-a851-4f8e-b531-da8b15d15a82_0_ID192MP3.mp3"
+},
+"l_0c7af1e4-47f0-4863-baf1-e447f0f863d1": {
+"d": "2023-03-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/u7uABwi_24-dGRJ4AViKLAX6qYDOsiXtuIzncZ9-oFTw",
+"n": 2089,
+"s": "“Dark Side of the Moon” av Pink Floyd får stadig nye fans 50 år etter utgivelsen, og trender nå også på TikTok. Anna snakker med kollega Oddvin Aune om hva det er som gjør den udødelig, til tross for kontroversene knytta til bandet i dag.",
+"t": "Pink Floyd: Det udødelige albumet",
+"u": "https://podkast.nrk.no/fil/musikkrommet/aa7f3d83-89f4-4371-b0e6-e75914559b17_0_ID192MP3.mp3"
+},
+"l_0e11c08a-c85b-456b-91c0-8ac85bf56b17": {
+"d": "2022-09-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/7Vse0zB7Hefzd_YPtv306QTmidfAZU2eRQuvEaZZUBrw",
+"n": 1275,
+"s": "På bare fem år har Bad Bunny fra Puerto Rico gått fra å pakke varer i matbutikk til å rive ned språkbarrierer i musikken og bli en av verdens største popartister. Hvordan har han fått til det? Og hva i all verden har wrestling med suksessen hans å gjøre?",
+"t": "Bad Bunny: Verdens tøffeste kjæledegge",
+"u": "https://podkast.nrk.no/fil/musikkrommet/065bac0f-c059-428e-b98f-e96791792ee3_0_ID192MP3.mp3"
+},
+"l_0f15fcbd-e12c-46e7-95fc-bde12c26e750": {
+"d": "2022-11-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/b7gXqYeVyncO4EQA53bElQNG9uAM0yPnvdHqdOE6YbpA",
+"n": 1467,
+"s": "Hvordan førte ondsinnede rykter til et samarbeid mellom to av de største samiske popstjernene?",
+"t": "ISÁK + Agnete: Slår tilbake mot ryktene",
+"u": "https://podkast.nrk.no/fil/musikkrommet/62ba6b6b-e810-4769-944f-01d39ea04490_0_ID192MP3.mp3"
+},
+"l_10fee7c7-d13c-4e93-bee7-c7d13cbe9377": {
+"d": "2022-06-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nsYJL34mrkTBacEaY1RiXQDLsswEX4aWmmccd4QuoYsg",
+"n": 1532,
+"s": "Norgesaktuelle Burna Boy har klart kunststykket å ta musikken sin ut av Nigeria og gjøre den megapopulær over hele verden. Hvordan har han klart det? Og hva er det Burna Boy gjør som har ført til at han nå er den største afrikanske artisten i vår tid?",
+"t": "Burna Boy: Den afrikanske giganten",
+"u": "https://podkast.nrk.no/fil/musikkrommet/a8c8ebe0-7046-42d3-91df-da8b5a175023_0_ID192MP3.mp3"
+},
+"l_1108cfdd-3723-443b-88cf-dd3723643b76": {
+"d": "2021-09-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/kd2dXdCQX5DMGqLLJlxangW5djIX54pwA-lpziFCYYbQ",
+"n": 1398,
+"s": "Verdens største rapper ble skutt på åpen gate for 25 år siden. Tupac Shakur sto i midten av historiens største rapkonflikt, samtidig som det pågikk en krig inne i ham. Forutså 2Pac sin egen skjebne?",
+"t": "2Pac: Skuddene i Las Vegas",
+"u": "https://podkast.nrk.no/fil/musikkrommet/eac804c9-3a79-47c7-806d-06c6aedc7a31_0_ID192MP3.mp3"
+},
+"l_15d2e846-1f4e-437a-92e8-461f4ec37a6c": {
+"d": "2022-02-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YKhutuIAufU34IiuNY1Olw-VoJQPX6g0vdFowIRi5ZRw",
+"n": 1827,
+"s": "Aurora ble oppdaget ved en tilfeldighet, da en selvkomponert julegave til foreldrene kastet henne ut i rampelyset. Men i livet som artist har den særegne Aurora slåss for å få være seg selv. ",
+"t": "Aurora: Outsider på innsiden",
+"u": "https://podkast.nrk.no/fil/musikkrommet/018a2fd7-6d7d-43c8-b736-99cff8e13bed_0_ID192MP3.mp3"
+},
+"l_15deb4aa-0e3c-46c2-9eb4-aa0e3c46c2a9": {
+"d": "2024-03-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/9xOMqaEZ4BeDoOXGFYrPmg6NEwWYmdKgim7hc0ulLuUQ",
+"n": 878,
+"s": "Med låta “Water” fikk Tyla ikke bare en hit med debutsingelen, den unge artisten fra Sør-Afrika satte også en ny sjanger på kartet. Hvem er Tyla og hvordan fikk hun den sør-afrikanske subsjangeren amapiano inn på de vestlige hitlistene?",
+"t": "Tyla: Sør-Afrikas nye stjerneskudd sprer amapiano",
+"u": "https://podkast.nrk.no/fil/musikkrommet/a476aa24-4172-4191-b8e3-17c4f50fabb4_0_ID192MP3.mp3"
+},
+"l_1a0b0a5f-e2d9-49d7-8b0a-5fe2d9e9d7fc": {
+"d": "2024-11-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Y44jc6fVtYgV4hiL4ebRMA0wcwqLSOqe44BPjOni805Q",
+"n": 1152,
+"s": "Anakin Justin fra Klett utenfor Trondheim ble tidligere i høst kåret til «Årets Urørt» under finalen på Rockefeller. Han overbeviste både publikum og juryen med sin tilbakelente rapstil og trønderske dialekt.  Men hvordan havna 20-åringen der?",
+"t": "Anakin Justin: Gjør trønderdialekt sexy",
+"u": "https://podkast.nrk.no/fil/musikkrommet/6cb62bc7-9c91-487e-8cb0-8766bc710a2f_0_ID192MP3.mp3"
+},
+"l_1ebea773-8453-439d-bea7-738453a39d45": {
+"d": "2022-08-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/TDOvHP1dS9WLRdXHfgApSQVku8tf8NXajDwq9oGobzTw",
+"n": 2109,
+"s": "Beyoncé har i løpet av 25 år i rampelyset tatt større kontroll over hva fansen får vite om henne. Hvordan styrer hun hitmaskinen hun selv har skapt, og hva skjedde da hun mistet kontrollen over den?",
+"t": "Beyoncé: Dronningen",
+"u": "https://podkast.nrk.no/fil/musikkrommet/4a2435de-b19d-4b4d-8948-ba42ae825c6e_0_ID192MP3.mp3"
+},
+"l_20c97aa1-b911-4af3-897a-a1b9119af31c": {
+"d": "2024-09-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Dk-jIREsomEU7NxvxUB1tQLXRa22Fcdo5Gh462Avd6Gw",
+"n": 2248,
+"s": "Chappell Roan har på kort tid blitt din favorittartist sin favorittartist. Nylig ble hun kåret til årets beste nye artist, hun har en megahit i “Good Luck, Babe!” og spilt store festivaler. Tilsynelatende har hun fått suksess over natten, men i virkeligheten har hun jobbet målrettet og veien til toppen har vært lang og hard. Hva skjedde da hun endelig fikk det hun ønsket seg?",
+"t": "Chappell Roan: Ikke bare \"Good Luck, Babe!\"",
+"u": "https://podkast.nrk.no/fil/musikkrommet/654a68b8-1d78-4c63-b097-ad5c525d2a95_0_ID192MP3.mp3"
+},
+"l_235878e5-6b66-4494-9878-e56b667494d1": {
+"d": "2022-11-04T04:00:00+01:00",
+"i": "https://gfx.nrk.no/8d2tNZrp4W-dujAU2bIaQAm-pZd5ZhyjwIE6M0C8iTYQ",
+"n": 1959,
+"s": "Halvveis ut i karrieren er David Bowie en megastjerne som er rik på suksessen. Han har lagt fra seg alle karakterene fansen har blitt vant til å se ham ikle seg. Men det skal vise seg at Bowie har ett alter ego igjen, og når han presenterer det blir hele verden sjokkert.",
+"t": "David Bowie: Derfor lever legenden videre (2:2)",
+"u": "https://podkast.nrk.no/fil/musikkrommet/82071a08-49c0-4c56-8dd4-576df342eb3d_0_ID192MP3.mp3"
+},
+"l_2623f5b0-2e21-42a4-a3f5-b02e2102a435": {
+"d": "2024-03-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/5aSFdcYkZ3opEvnMuqdiAAIm9n5_iJ74DWZC3F0p1wyQ",
+"n": 1443,
+"s": "Bak artistnavnet Ora the Molecule skjuler det seg en norsk-guatemalsk kvinne ved navn Nora Schjelderup som har vært på en reise verden rundt siden hun var barn. Hvordan endte hun opp med å lage discoen sin alene i en hytte i skogen ved Tyrifjorden?",
+"t": "Ora the Molecule: Den nye discodronninga",
+"u": "https://podkast.nrk.no/fil/musikkrommet/bd242a37-c94d-44ee-ab99-422a24d864dc_0_ID192MP3.mp3"
+},
+"l_2d726e25-0956-4ad0-b26e-250956cad069": {
+"d": "2022-02-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/EQc2q1A1YXPLUMTFcMQrgQ5Bkm_vEOf4j41hT7SM4rQQ",
+"n": 2241,
+"s": "Röyksopp har fra de møttes som kids i 1988 nerdet på synthene, og med det blitt noen av våre største verdensstjerner. I fjor ga de ut sin første utgivelse på åtte år - et ambisiøst trippelalbum. Men mystikken er tykkere rundt hitmaskinen enn noen gang.\n\nPS: Lørdag 17. juni kan du se blant annet Röyksopp i den nye dokumentarserien \"Ekstase - historien om nordisk elektronika\" i NRK TV.\n\n",
+"t": "Röyksopp: Menneskene bak maskinen",
+"u": "https://podkast.nrk.no/fil/musikkrommet/b021c559-249b-4be3-912e-fe7f387122d5_0_ID192MP3.mp3"
+},
+"l_3326546e-17cf-401e-a654-6e17cff01eec": {
+"d": "2022-05-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/xS1a7cFOgPiPOscXF8NLSg8Hvs5NtwpqeKWFmOZ61BhQ",
+"n": 1586,
+"s": "Flamenco, trekantdrama fra 1200-tallet og døden er ikke det vi forbinder med popmusikk i dag. Likevel er det nettopp dette Rosalía har brukt i musikken som nå har tatt verden med storm. Hvordan har hun klart å gjenopplive den gamle spanske folkemusikken og gjøre det om til nyskapende og ellevill pop?",
+"t": "Rosalía: Flørter med fortiden",
+"u": "https://podkast.nrk.no/fil/musikkrommet/f8b0a271-661d-470c-9ed7-136fbf2ae336_0_ID192MP3.mp3"
+},
+"l_35395637-76bb-40f5-b956-3776bba0f5bb": {
+"d": "2024-08-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/yaUrFzdP18BXJvW8jRBHtALnGeJVi5QExOkX6b8YHUlA",
+"n": 1943,
+"s": "Moyka har bygd musikerkarrieren stein for stein. Men hva skjedde da hun endelig nådde milepælen som et debutalbum er – og hvordan kom hun seg videre til fjorårets oppfølger? Og hvordan havnet låta hennes i siste scene i Netflix sin hit-serie \"Young Royals\"? Anna og Jakob møtte Moyka etter konserten hennes på Øyafestivalen for en prat om dette og mer.",
+"t": "Moyka: Fra Nesbyen til Netflix",
+"u": "https://podkast.nrk.no/fil/musikkrommet/8a7f03ea-9b7c-4a1f-b14d-a7b07a778d3b_0_ID192MP3.mp3"
+},
+"l_38d6a457-22be-4afa-96a4-5722becafac0": {
+"d": "2022-10-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/sjNjdnWpmeK748a3BjTWWAR9FiL7LxxGCIazPeX2Y76Q",
+"n": 1864,
+"s": "Hvordan har en polkaspillende komiker som parodierer andres låter klart å være på hitlistene i fire forskjellige tiår? ",
+"t": "Weird Al Yankovic: Nerdenes hevn",
+"u": "https://podkast.nrk.no/fil/musikkrommet/21eaf213-7f86-48e6-859e-32928dcd052b_0_ID192MP3.mp3"
+},
+"l_3d1a8639-c19e-476e-9a86-39c19e476e12": {
+"d": "2021-08-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/rZds77pAX0D2QwrY6wdjPQ23_7azsI35fLTupQsMX3ow",
+"n": 2244,
+"s": "Musikkrommet gir deg artistmøter fra Øyafestivalen 2022. I dette bonussporet hører du Sandeeps intervju med Musti før konserten hennes på \"hjemmebane\" i Tøyenparken.",
+"t": "Bonusspor: Musti",
+"u": "https://podkast.nrk.no/fil/musikkrommet/1d23c5d1-09f0-49f7-bb35-89127bd3357e_0_ID192MP3.mp3"
+},
+"l_4054faa4-ae8a-4b17-94fa-a4ae8abb17e8": {
+"d": "2024-06-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Ce3F2mpQ09NY_kQyzkjfAg7mhxW56WGeK5FqEZyuRn3g",
+"n": 2313,
+"s": "Gjennom sin snart 15 år lange karriere har Lemaitre gang på gang befestet sin posisjon blant Norges dyktigste produsenter innen elektronika. Hvordan får de til det? Og hvordan har reisen fra gutterommet på Ullern i Oslo, til store mansions i Los Angeles vært?",
+"t": "Lemaitre: Blir ikke mer moro enn du lager sjæl",
+"u": "https://podkast.nrk.no/fil/musikkrommet/6fa092b4-de3f-4996-ad19-1a1d7cbaec10_0_ID192MP3.mp3"
+},
+"l_41fc86aa-9c10-4046-bc86-aa9c1050461f": {
+"d": "2022-03-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/hRGHohwoLB_EkGdiRtC7_wmzC0fSwUfiSxbuBftVMoBQ",
+"n": 1410,
+"s": "Pussy Riot var tidlig ute med å advare russere og verden mot Vladimir Putin. I år er det 10 år siden de ble arrestert og straffet hardt for å bruke musikk til å demonstrere mot landets stadig mer maktsyke leder. Hva har bevegelsen Pussy Riot hatt å si for dagens Russland? ",
+"t": "Pussy Riot: Punk mot Putin",
+"u": "https://podkast.nrk.no/fil/musikkrommet/20ca1451-914c-45d0-a2e4-dba02e1a9569_0_ID192MP3.mp3"
+},
+"l_4316a4d0-da3a-43c5-96a4-d0da3ae3c598": {
+"d": "2022-05-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/xwY8Ggyu_WMvrlT1E6O-WATojcYYZpcjRpoQR-_bUPhQ",
+"n": 1858,
+"s": "Kendrick Lamar er endelig tilbake! Rapperen har med sine jordnære og realistiske tekster, kombinert med vanvittig flow og musikalsk teft, blitt et forbilde for folk over hele kloden. Men hvordan ble Kendrick vår tids viktigste rapper? Og hva har romskip med det å gjøre?",
+"t": "Kendrick Lamar: Perspektivenes poet",
+"u": "https://podkast.nrk.no/fil/musikkrommet/24da5635-680c-4baf-913b-b13be58073a8_0_ID192MP3.mp3"
+},
+"l_44736f6a-0a67-4a19-b36f-6a0a677a198d": {
+"d": "2021-12-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/CtebE1IZ3A71rjM6BpuHLgqmo5V3ydh6bkJr0u2hmTnQ",
+"n": 2120,
+"s": "En av norgeshistoriens største rockestjerner er død. Hans-Erik Dyvik Husby ble 49 år gammel. Hertis fronta Turboneger i 17 år og Musikkrommet hedrer hans minne og gir deg historien om Hank von Helvete.",
+"t": "Hank von Helvete: Tidenes norske frontfigur",
+"u": "https://podkast.nrk.no/fil/musikkrommet/02420138-511c-413f-8829-5cff11dee226_0_ID192MP3.mp3"
+},
+"l_4509fba6-2fca-4a70-89fb-a62fcaea70e8": {
+"d": "2024-05-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/ae2ubkzakqoZ-og3G1D_SQH7CqUG_ygbvZ3aNie0Xxcg",
+"n": 2746,
+"s": "Billie Eilish er en av klodens aller største popstjerner og har vokst opp i rampelyset siden hun ga ut sin første låt som 13-åring. Nå har hun nettopp gitt ut sitt tredje album og den enorme fanskaren hyller henne. Billie Eilish fremstår som stemmen til sin generasjon, men hvorfor vil hun ikke være det?",
+"t": "Billie Eilish: Stemmen til Gen Z",
+"u": "https://podkast.nrk.no/fil/musikkrommet/f1cbba25-1af3-45a8-952d-b3e9a9d984b2_0_ID192MP3.mp3"
+},
+"l_4a8ac581-a2b6-412a-8ac5-81a2b6312a10": {
+"d": "2021-09-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/QuKKWRf7tPaamqazdg6ELwJmtXkLteHLSpfkecEfBKIg",
+"n": 1011,
+"s": "Kanyes tiende plateutgivelse er hans mest kaotiske noensinne. Hvorfor skaper hans hyllest til mamma så mye drama?",
+"t": "Kanye West: Kaoset rundt Donda",
+"u": "https://podkast.nrk.no/fil/musikkrommet/62b36c6d-46cb-429d-be57-95a755727ef2_0_ID192MP3.mp3"
+},
+"l_4bc19d21-505d-461e-819d-21505d061ef7": {
+"d": "2022-01-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/_Mf2GC819Uf6DJ8D3FZ0egUaKkEbRbdPKSgWgaCvdmWA",
+"n": 2151,
+"s": "Som tenåring sverget Abel Tesfaye at han ville ta sitt eget liv hvis han ikke lyktes med musikken. Et halvt liv senere er han som The Weeknd blitt verdens største mannlige popstjerne. Og det hele startet med en skjebnesvanger helg.\n\n",
+"t": "The Weeknd: Helgen som endret alt",
+"u": "https://podkast.nrk.no/fil/musikkrommet/b7fdb2ef-c79f-45fb-ae6b-e73755c5485e_0_ID192MP3.mp3"
+},
+"l_4d9c0e5c-edac-4271-9c0e-5cedace271e8": {
+"d": "2024-04-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GRGA0SVJt4UQFwiJiJkMnA-bEzFZVmM8OE119R5OqGiw",
+"n": 1855,
+"s": "Beyoncé ble i år historisk som den første kvinnelige svarte artisten som topper country-listene i USA. Hvorfor har ikke det skjedd før? Og hvordan børster det nye albumet hennes \"Cowboy Carter\" støv av en dyster historie om countrysjangeren?",
+"t": "Beyoncé: Svart countrys skjulte historie",
+"u": "https://podkast.nrk.no/fil/musikkrommet/5d0e21e4-770f-4ebf-a488-e2ee54027c2a_0_ID192MP3.mp3"
+},
+"l_4dd5e6f8-7a9c-46aa-95e6-f87a9c06aa20": {
+"d": "2024-12-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/UG3sAhSN0QyZG3Y-hwNUTQzPZjJS7e48C1Mt6SAu7ckw",
+"n": 2898,
+"s": "15 år etter debuten virker det som Tyler, the Creator har blitt voksen. For på sitt åttende album, “Chromakopia” er han mer personlig enn noen gang, både på godt og vondt.  Dette er den siste episoden av Musikkrommet. Redaksjonen takker for følget  til slutten av episoden.",
+"t": "Tyler, the Creator: Endelig voksen?",
+"u": "https://podkast.nrk.no/fil/musikkrommet/55a91bea-a59b-4751-9e8c-9d6369657f52_0_ID192MP3.mp3"
+},
+"l_4e51ef83-9ec0-4992-91ef-839ec0699244": {
+"d": "2024-04-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/t0IOSPFYqcy8d_SPZpjS6Ql8MbPOHf454i754TTmfDJA",
+"n": 2601,
+"s": "5. april var det 30 år siden Kurt Cobain døde og etterlot seg en enorm fanskare i sjokk og tårer. For på starten av 1990-tallet hadde bandet hans Nirvana gjort den alternative rocken til verdens mest populære musikk. Hvordan skjedde egentlig det og hva var det som gjorde Kurt Cobain til et ikon?",
+"t": "Kurt Cobain: Hatet å bli elsket",
+"u": "https://podkast.nrk.no/fil/musikkrommet/6966bc0b-6b7f-4f54-b43a-023ebc6684f5_0_ID192MP3.mp3"
+},
+"l_5129d729-a75c-48d7-a9d7-29a75cb8d778": {
+"d": "2023-09-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GHS15CIoFbqJKsAfZ_qEYg9V3_r5Vryz4LuL6iNFpEmw",
+"n": 1976,
+"s": "Nå er andre og avsluttende del av albumet “Mad Woman” ute, men hva mener egentlig SKAAR med den tittelen? Og hvorfor gjemmer hun seg ofte på do? Dette er bare noe av det vi fikk svar på da vi snakket med henne under årets Øyafestival.",
+"t": "SKAAR: Kampen mot galskap og bedragersyndrom",
+"u": "https://podkast.nrk.no/fil/musikkrommet/de91f96a-1a82-4385-92fe-74de5a273d32_0_ID192MP3.mp3"
+},
+"l_5816d7ab-b468-41c0-96d7-abb46821c034": {
+"d": "2021-09-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WF96EBaxYygGMuF533EILg4zJfbK7vn2haTWObS9XErg",
+"n": 1404,
+"s": "Norske Caroline Ailin har skrevet flere låter med over én milliard strømminger på Spotify. Bodøværingen har jobbet med noen av verdens største popstjerner, men låtskriver-karrieren hennes holdt nesten på å ta slutt før den rakk å komme i gang.",
+"t": "Caroline Ailin: Dua og LIPA",
+"u": "https://podkast.nrk.no/fil/musikkrommet/f02f6126-8510-420b-a15e-3b5b8a24b918_0_ID192MP3.mp3"
+},
+"l_5936eb65-be38-4f50-b6eb-65be38bf502a": {
+"d": "2021-11-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/2BfgKCm4MAO0R7Ra7VmIfgyGbJ_Gl9AR6Ty1bU_0n-Ig",
+"n": 1150,
+"s": "Rapartisten Einár ble drept i Stockholm i oktober. Svenske rappere er tett knyttet til mektige gjenger, og i Norge viser undergrunnsartister genuin innsikt i den kriminelle underverden. Bør vi være redde for gangsterrap?",
+"t": "Gangsterrap i Norden: Frykten sprer seg",
+"u": "https://podkast.nrk.no/fil/musikkrommet/ec4d0765-87b1-400b-99da-cb77d5d5534c_0_ID192MP3.mp3"
+},
+"l_5b4813e5-4a9c-410f-8813-e54a9c710f4c": {
+"d": "2022-03-09T15:20:00+01:00",
+"i": "https://gfx.nrk.no/AhgWurOT80UqeQB55gVp-wBtL-179GYeAXVDwccZk7mw",
+"n": 2042,
+"s": "Verdens største rapper ble skutt på åpen gate for 25 år siden. Christopher Wallace ble dratt inn i historiens største rapkonflikt, men forandret hiphop for hele verden som Biggie Smalls.",
+"t": "The Notorious B.I.G.: Skuddene i L.A.",
+"u": "https://podkast.nrk.no/fil/musikkrommet/8f0e8bd1-2b20-4f3a-b3f0-8401c350d890_0_ID192MP3.mp3"
+},
+"l_5bf81f08-ccfa-4d38-b81f-08ccfacd380d": {
+"d": "2024-10-31T06:00:00+01:00",
+"i": "https://gfx.nrk.no/ZtZ7uZeCHST1Ha3prjUkJg_rIa57rnzDGGg62mjvK7Ow",
+"n": 2549,
+"s": "Gjenbruk av tidligere utgitt musikk i nye låter har blitt vanlig de siste 40 årene, men i det siste virker det som det er blitt mer utbredt. Det føles som flere hits inneholder deler av musikk man har hørt før. Hva er egentlig interpolering og hvorfor er det blitt så vanlig?",
+"t": "Interpolering: Gamle sanger om igjen",
+"u": "https://podkast.nrk.no/fil/musikkrommet/7bfc7650-4fc0-4b18-8fd8-4ee588e953d9_0_ID192MP3.mp3"
+},
+"l_5dc74890-e881-432f-8748-90e881932f12": {
+"d": "2021-12-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/5HOfwqOJe2GAhANq-0Ionwxc1JI28j9E1qlmswmpLeiw",
+"n": 1430,
+"s": "Nasjonalskatten Sissel Kyrkjebø kunne blitt vår største verdensstjerne. For 25 år siden fikk hun nemlig en mulighet de fleste bare kan drømme om. Hva var det som skjedde?",
+"t": "Sissel: Norges mest hørte stemme",
+"u": "https://podkast.nrk.no/fil/musikkrommet/b3872e17-741b-42a1-8fb2-6d3684de152a_0_ID192MP3.mp3"
+},
+"l_5edd80fa-acd1-4c1a-9d80-faacd15c1aca": {
+"d": "2022-10-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/_MAqtqUJB6LaEVbsqDluUwulLURWilb9Rids71nHo2Rw",
+"n": 2003,
+"s": "Da Emilie Nicolas viste fram stemmen og musikken sin for et stort publikum var alle enige om at hun kom til å bli den nye norske superstjernen. Men så forsvant hun, og var borte lenge. Hva var det som skjedde? Og hvordan påvirket pausen henne?\n\n",
+"t": "Emilie Nicolas: På egne premisser",
+"u": "https://podkast.nrk.no/fil/musikkrommet/a4a09c28-cf53-497a-a8ac-71f3365789d2_0_ID192MP3.mp3"
+},
+"l_628a8538-fcd0-44b2-8a85-38fcd034b298": {
+"d": "2023-06-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/9nzONcchDJlgyzDJ0BySYQO3Imta-k8c_GoVlewKr80A",
+"n": 1288,
+"s": "23 år gamle Ice Spice har det siste året tatt hiphopverden med storm. Men hvem er hun? Det finner Jakob ut når han tar en prat med Nate fra StudioP3.",
+"t": "Ice Spice: Hiphopens nye stjerne",
+"u": "https://podkast.nrk.no/fil/musikkrommet/76868a75-227c-4060-bd21-ad497980a1be_0_ID192MP3.mp3"
+},
+"l_635b1c66-daad-41a2-9b1c-66daad71a298": {
+"d": "2023-04-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/r71HXjyIiSJxh61LeAv0NgsoIdRFNBstgd5p-F0Kc-pQ",
+"n": 1522,
+"s": "Hvordan har det seg at den norske artisten Peder Elias spiller for rundt 100 publikummere i sitt eget hjemland, men tiltrekker 10 000 i Sør-Korea? Anna har fått besøk av Peder Elias for å høre hvordan han opplever suksessen i Asia.",
+"t": "Peder Elias: Big in Korea",
+"u": "https://podkast.nrk.no/fil/musikkrommet/8cf2e7b0-ac47-4592-bb6e-2fe7542f1578_0_ID192MP3.mp3"
+},
+"l_66a7153f-c90f-44be-a715-3fc90fc4be7e": {
+"d": "2022-11-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iZz2aAXFHvq5Ry9y1eonvgvBsvKhehJxrGr6YhMgFqmA",
+"n": 3123,
+"s": "David Bowie ville blitt 75 år i 2022, samtidig som det er 50 år siden det store gjennombruddet. Han utviklet popmusikken og ikke minst artisten som konsept gjennom de mange karakterene han skapte og ikledde seg. Men hvordan iscenesatte David Bowie seg selv i sin lange og svært innholdsrike karriere? Og hvorfor gjorde han det? ",
+"t": "David Bowie: Slik skapte han legenden (1:2)",
+"u": "https://podkast.nrk.no/fil/musikkrommet/0feaeefd-8228-484d-9ee6-f0b7278d16a0_0_ID192MP3.mp3"
+},
+"l_66cdc2e6-9d08-4401-8dc2-e69d08f4015d": {
+"d": "2022-08-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/PAiJ0vNyeEI26_8pa6Af0wJ-qFPt3nJv9a-XtTcGFYlg",
+"n": 2470,
+"s": "Hvorfor fikk fansen hakeslepp da Joni Mitchell dukka opp på festivalscenen i sommer?",
+"t": "Joni Mitchell: Begge sider av livet",
+"u": "https://podkast.nrk.no/fil/musikkrommet/0d038c74-fa14-4c61-9705-aadfb9ea0c5d_0_ID192MP3.mp3"
+},
+"l_6926d155-4d66-4441-a6d1-554d66844155": {
+"d": "2024-05-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/4D9okZ3uyr7IiUZRD1sGTw07zv_5UxfbeTVWkqVmccRg",
+"n": 2251,
+"s": "Marcus & Martinus ble oppdaget som bittesmå knøtt i MGPjr og ble enorme stjerner for de yngste i årene etter. Men å kvitte seg med barnestjernestempelet da de ble eldre var ikke lett, så hvordan fant tvillingene løsningen?",
+"t": "Marcus & Martinus: Barnestjernenes voksesmerter",
+"u": "https://podkast.nrk.no/fil/musikkrommet/b207d868-a136-445a-b353-617d587eeac6_0_ID192MP3.mp3"
+},
+"l_699347fd-323f-4c00-9347-fd323fcc0056": {
+"d": "2021-11-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/h9pIfnLTMs2ZIZbZCf4pUAQJDddtxN6h8W4w2RzE9lWg",
+"n": 1332,
+"s": "«All I Want For Christmas Is You» er større enn noen gang, til tross for at den snart er 30 år gammel. Hvordan skapte Mariah Carey monsterhiten som har erobret alle julelister? Og hvorfor fører låta til nye drapstrusler hver jul?\n",
+"t": " Mariah Carey: Slik skapte hun et julemonster",
+"u": "https://podkast.nrk.no/fil/musikkrommet/addbb700-5013-4093-b75d-6339fe829978_0_ID192MP3.mp3"
+},
+"l_6a7d6773-3066-4cec-bd67-7330661cecc1": {
+"d": "2022-12-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/h6Th9eHmDLBTUFiAq1MdfQM8Yq9G1opqIqZd7PL7moLQ",
+"n": 2308,
+"s": "Frank Ocean har fått den type legendestatus som musikere bare får etter at de dør. Hans få utgivelser med lange mellomrom gjør fansen nærmest besatt av tanken på at han skal komme med ny musikk igjen. Men hvorfor er Frank Ocean så mystisk og uforutsigbar?",
+"t": "Frank Ocean: Komplisert kjærlighet",
+"u": "https://podkast.nrk.no/fil/musikkrommet/7d197397-1735-4432-9e50-6c4f437bee79_0_ID192MP3.mp3"
+},
+"l_6a8047e5-53d3-4e48-8047-e553d3ee48e7": {
+"d": "2024-08-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/a6NNQr8cYhA3ZVSleyJb_wTO9c85nFVtuxjeb1xoK7mg",
+"n": 1905,
+"s": "\"Brat summer\" er over. Hvordan gikk albumtittelen til Charli XCX viralt og ga henne sine første hits på nesten ti år? Og viktigere,  hvem er hun egentlig og hva handler musikken bak begrepet om?",
+"t": "Charli XCX: Mer enn en brat",
+"u": "https://podkast.nrk.no/fil/musikkrommet/a9b3e0da-eea7-483f-832e-dcfbf7f98ae2_0_ID192MP3.mp3"
+},
+"l_6bb1bb6d-0b4c-437e-b1bb-6d0b4ca37e7c": {
+"d": "2021-10-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/gHeM5xl6oOYceeDF73zp_AKWs6YoUns1eY5BmVn1ZCoQ",
+"n": 1391,
+"s": "For 50 år siden ga en ukjent artist med navnet Matthew Bones ut én nydelig låt. Så ble han helt borte. Kulturjournalist Ørjan Nilsson bestemmer seg for å finne ut hvor den mystiske artisten ble av.",
+"t": "Gåten Matthew Bones: Artisten som forsvant",
+"u": "https://podkast.nrk.no/fil/musikkrommet/40c0d1ad-fa16-420c-a2ac-3e90372b8c79_0_ID192MP3.mp3"
+},
+"l_6cf69310-083c-45a2-b693-10083c55a200": {
+"d": "2023-08-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/l3RRA4ek3K6ylBUCtZSrogNe7f4h69l6IEgAHRddpAGQ",
+"n": 2064,
+"s": "Hvem var Sinéad O'Connor utover hiten alle kjenner? Og hvorfor er det først etter hennes død at blir hun hyllet for sitt mot og for å være en rebell i musikken?",
+"t": "Sinéad O'Connor: Nothing Compares 2 U",
+"u": "https://podkast.nrk.no/fil/musikkrommet/331d90c3-a51d-4362-9a4e-b36834c56a7a_0_ID192MP3.mp3"
+},
+"l_6dadb86f-4938-4258-adb8-6f49388258d1": {
+"d": "2023-05-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/4tCIkUVUQynP_Oxnfzo11g4F0IcxGC26J-3i6gMzLyew",
+"n": 2081,
+"s": "Eminem forandret rap-gamet da han gjorde sin entré på 90-tallet. Anna prater med sin nye kollega i Musikkrommet, Jakob Naustdal, om hvordan Eminem ble en av verdens største rappere.",
+"t": "Eminem: Verdens beste rapper? ",
+"u": "https://podkast.nrk.no/fil/musikkrommet/24c9515b-a3ec-472a-a83d-bb768cb3135c_0_ID192MP3.mp3"
+},
+"l_6f11766e-3999-427f-9176-6e3999227ffb": {
+"d": "2023-05-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o_4igopV5q93GESYkOn5PQ0uuUMoYM4M6WEYLGEKqDfA",
+"n": 2259,
+"s": "Susanne Sundfør har alltid vært mystisk og uforutsigbar. Nå overrasker hun med det som må være årets varmeste og mest håpefulle album. Hvordan klarer hun å røre og forbløffe oss hver gang hun slipper ny musikk?",
+"t": "Susanne Sundfør: Først og fremst artist",
+"u": "https://podkast.nrk.no/fil/musikkrommet/663ae45d-c2ab-4c4a-b365-57a0aabb8035_0_ID192MP3.mp3"
+},
+"l_73d0f230-844c-424e-90f2-30844c424e96": {
+"d": "2024-01-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/pl8YDS835DvSIP7Gsw5ftAdJIzudUwFCABhPu3rkYnyA",
+"n": 1136,
+"s": "Sophie Ellis-Bextor er tilbake på hitlistene med sin største låt, 22 år etter at den ble utgitt. Anna snakker med Arian Engebø fra StudioP3 om hvordan låta havna der, og hvorfor den bare er én av mange gamle hits som gjør comeback.",
+"t": "Murder on the Dancefloor: Tilbake på hitlisten etter 22 år",
+"u": "https://podkast.nrk.no/fil/musikkrommet/9c1bf944-d52f-4db3-9020-ff1d07ee5663_0_ID192MP3.mp3"
+},
+"l_780942cc-3a06-45d5-8942-cc3a06d5d5df": {
+"d": "2022-04-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/JuQOQAZDO6bNtoZy_9JKKAf8VWdzYj99RL9MArUqKR9A",
+"n": 1119,
+"s": "Alle kjenner a-ha. “Take On Me” er legendarisk og fortsatt den eneste låta fra et norsk band som har toppet tidenes viktigste hitliste. Morten, Pål og Magne ble superstjerner på midten av 1980-tallet og hadde verden for sine føtter. Men hvorfor var det ingen som brydde seg da de satte verdensrekord bare noen få år senere?\n \n",
+"t": "a-ha: Fra braksuksess til boikott",
+"u": "https://podkast.nrk.no/fil/musikkrommet/74ad2047-c51d-49a2-9f8e-688714b86202_0_ID192MP3.mp3"
+},
+"l_78ba4b24-243d-45a9-ba4b-24243d95a991": {
+"d": "2023-06-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/p1SzrpA8PbAy5-5av2HOng0Ejjgedz16jDtCDYd0AwQw",
+"n": 1766,
+"s": "Hva fikk den vellykkede skuespilleren Sverre Breivik til å bytte scene og bli artisten Metteson? Anna snakker med ham om veien til musikken, flyktig kjærlighet og det å finne ut hvem man er på tross av forventningspress.",
+"t": "Metteson: Frihet til å være seg selv",
+"u": "https://podkast.nrk.no/fil/musikkrommet/b9683c68-9a39-44eb-a848-de4094c7f478_0_ID192MP3.mp3"
+},
+"l_797c51d1-b764-41b8-bc51-d1b76481b8a8": {
+"d": "2021-12-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/8Odkl7R4pp9hqM2vEudLGQ8QZNvGLuBpMHRFulGUoNTg",
+"n": 1440,
+"s": "Mange forsto ikke hvorfor Taylor Swift begynte å gi ut nye versjoner av sine gamle album i 2021. Men fansen hennes vet hva som har skjedd. Og de støtter sitt idol i kampen mot mennene som sviktet henne.",
+"t": "Taylor Swift: Popens mektigste historieforteller",
+"u": "https://podkast.nrk.no/fil/musikkrommet/fc5c9356-b305-4581-9c5f-841f7b4d34cf_0_ID192MP3.mp3"
+},
+"l_7be4b025-d747-416c-a4b0-25d747716c87": {
+"d": "2023-04-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Yk0_wwHJnVcHeRchcqAO1QLSaZS1c7YhvnFeRlWC2NGQ",
+"n": 1176,
+"s": "Påske betyr party for mange, og Anna prater med gutta i Broiler for å finne ut om deres hitlåt «Afterski» var med å endre musikken som spilles på nettopp afterski. For har ikke den musikken fått en så tydelig stil at vi kan kalle det en helt egen sjanger? ",
+"t": "Broiler: Hiten som endret afterski",
+"u": "https://podkast.nrk.no/fil/musikkrommet/1d6ace38-dc8f-448b-809f-6e5d9463c75e_0_ID192MP3.mp3"
+},
+"l_7c9f0695-d115-45af-9f06-95d115b5af35": {
+"d": "2024-06-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VJhU0VWzCUcozIy7fRRwZgioFbedcVCUUpAbxCxa6eSg",
+"n": 3568,
+"s": "Gabrielle gjorde pop på norsk stuereint da hun debuterte i 2011. Nå er \"Gabby\" aktuell med sitt femte album på 12 år, men selv om hun har brukt de årene godt er hun likevel redd for tiden.",
+"t": "Gabrielle: Pop-pioneren",
+"u": "https://podkast.nrk.no/fil/musikkrommet/ad629b91-8594-4d93-a92b-2717959857f8_0_ID192MP3.mp3"
+},
+"l_7d206513-4187-410f-a065-134187c10fa1": {
+"d": "2021-08-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/JGlz5Vc1qM5vPmk4Jj2fygl7ocPCy9pEvN7kHDPnQBxA",
+"n": 1079,
+"s": "Travis Scott er pionéren som sprengte grensene mellom livemusikk og gaming. Hvordan gjorde han det?",
+"t": "Travis Scott: Revolusjon i Fortnite",
+"u": "https://podkast.nrk.no/fil/musikkrommet/eb5f6a79-dbfe-4663-a1a6-207c72291c5c_0_ID192MP3.mp3"
+},
+"l_7e123c5e-ae9b-4c0f-923c-5eae9bbc0f0f": {
+"d": "2023-02-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/8d09UQ3AtJnBuIAUAXSZAAOxMmTugiZ4SLbkwzmNNsIg",
+"n": 1481,
+"s": "Gorillaz er etter 25 år og åtte album det desidert største animerte musikkfenomenet verden har sett. Anna og Sandeep finner ut hvordan de ble det.",
+"t": "Gorillaz: Slik ble de tidenes tegneserieband",
+"u": "https://podkast.nrk.no/fil/musikkrommet/cc508bae-b6df-4eb3-9bc2-59b22348bb09_0_ID192MP3.mp3"
+},
+"l_7e5bbc19-306e-4092-9bbc-19306e909267": {
+"d": "2022-12-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/eMC254UUxFsB6Ma4dehMmwF_4YMZg1PnjXc2jlpJ0NFA",
+"n": 1667,
+"s": "Hvordan har bandet fra Bryne fått en så stor og forventningsfull fanbase at de etter en ni års lang pause kunne selge 80 000 billetter på et kvarter?",
+"t": "Kaizers Orchestra: Du skal danse til pipa vår",
+"u": "https://podkast.nrk.no/fil/musikkrommet/7cb642be-f38a-4826-a124-b6bbb21fb484_0_ID192MP3.mp3"
+},
+"l_80918da4-9ea8-4880-918d-a49ea80880f8": {
+"d": "2022-09-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YFg2DKlpk1_sIa3dNnPZYg2A15_M4hY9-a8C44PJrWVg",
+"n": 1309,
+"s": "Pop fra Sør-Korea er større enn noen gang. Men visste du at den enorme populariteten K-pop har fått verden over er en del av en lur plan fra myndighetene i landet? Og ikke nok med det, hvordan har tre nordmenn havna på toppen av den sør-koreanske hitlista?",
+"t": "K-pop: Myk maktdemonstrasjon",
+"u": "https://podkast.nrk.no/fil/musikkrommet/c2db3fbd-d2f3-4fa3-878c-dd4011a3ebac_0_ID192MP3.mp3"
+},
+"l_810b06bd-479a-4a27-8b06-bd479a2a277c": {
+"d": "2023-12-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/T0Bby6jxHPMab29u2AsWAwY__CNyKBOZR2E0fRAbH9aA",
+"n": 2892,
+"s": "Hvordan går man fra å ha toer i musikk og manglende motivasjon, til å inspirere internasjonale stjerner og selge ut Oslo Spektrum? Artisten Dagny besøker Anna i Musikkrommet og forteller om veien hennes til å bli en av landets mest populære popstjerner. ",
+"t": "Dagny: Kunsten å snu på kjipe situasjoner",
+"u": "https://podkast.nrk.no/fil/musikkrommet/f6cb3c7f-ee8d-4da3-85a0-fac7bdf1ca74_0_ID192MP3.mp3"
+},
+"l_8206c8f0-796f-4727-86c8-f0796fe72779": {
+"d": "2022-04-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/uxHKs-6pKaztP5EHau4XGQDqijjWbngUUN3000fzgpnQ",
+"n": 1057,
+"s": "Å bli sett og hørt som artist dreier seg ikke bare om musikken. I dag er du usynlig uten sosiale medier, men Ramón og flere norske artister har knekt koden. Hvordan bruker de Tiktok til å promotere sin nye musikk? Og hva gjør at de lykkes? \n\n",
+"t": "TikTok: En ny bølge norsk musikk",
+"u": "https://podkast.nrk.no/fil/musikkrommet/7283288b-e441-41cb-b0dc-3dc779c764c5_0_ID192MP3.mp3"
+},
+"l_841f6615-022f-4f85-9f66-15022f0f8509": {
+"d": "2023-09-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/HGStwMP88wlmr3iX9UnPcwo6NPmNCXXCh0YY1rgblhtQ",
+"n": 1445,
+"s": "Ravi har fått en renessanse! Artisten bak flere landeplager for 20 år siden har denne sommeren spilt utsolgte konserter for et ungt publikum som brukte bleier da han hadde sin storhetstid. Hvordan har Ravi fått til det?",
+"t": "Ravi: Fortsetter å gi oss utadæsjælåpplevelse",
+"u": "https://podkast.nrk.no/fil/musikkrommet/dfb7d7c0-5395-4d32-bdf7-fb4b8b09393a_0_ID192MP3.mp3"
+},
+"l_84866f41-59e3-49b7-866f-4159e349b776": {
+"d": "2024-02-29T06:00:00+01:00",
+"i": "https://gfx.nrk.no/j0ka2YqYTZheQReM2_IGXQIsNF5Q-gl7mF28MxbIruFA",
+"n": 3285,
+"s": "Artisten og ikke minst gitaristen Fay Wildhagen mistet den store lidenskapen i livet da hun var i starten av tjueåra. For å klare å lage sitt tredje album måtte hun anerkjenne at hun har hatt det dårlig.",
+"t": "Fay Wildhagen: Den store selvransakelsen",
+"u": "https://podkast.nrk.no/fil/musikkrommet/b9a2fe5b-dac7-4342-8ef2-8c23f2032ad2_0_ID192MP3.mp3"
+},
+"l_8593212b-da21-4dbf-9321-2bda210dbf1f": {
+"d": "2022-10-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o5su_O9ESlRfpNxaB0X63gUYQNHzR8-_qYbLByCEdWrg",
+"n": 1318,
+"s": "Hvordan førte en dramatisk ulykke til at Brian Eno fant opp en ny sjanger? Og hva er det med ambient som gjør at pulsen vår senker seg og vi får sjelefred.\n",
+"t": "Brian Eno: Ulykken som førte til ambient",
+"u": "https://podkast.nrk.no/fil/musikkrommet/5288d82b-5469-4fb4-b511-018f1a7d5ed3_0_ID192MP3.mp3"
+},
+"l_88c390da-43d5-4114-8390-da43d5e114a8": {
+"d": "2023-06-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Vv6ObMSM0L-zrXaxkQmo2gwO8_eA1HRjsr3kEsFpq_dw",
+"n": 2067,
+"s": "Tina Turner var en foregangskvinne i musikkhistorien og ble en levende legende og et ikon. Anna snakker med Ragna Nordenborg for å finne ut hvordan hun ble det.",
+"t": "Tina Turner: Dronningen av rock 'n' roll",
+"u": "https://podkast.nrk.no/fil/musikkrommet/fbc47c0e-35de-4830-b76a-63cff102f79a_0_ID192MP3.mp3"
+},
+"l_8a24c7d1-ed39-487b-a4c7-d1ed39f87b1b": {
+"d": "2022-06-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/qIdzYQ71gp6zEaMv-0zrKAZzWJ9Uj7Z7aFF-5agMXf3w",
+"n": 1263,
+"s": "Da Harry Styles startet solokarrieren etter seks år som medlem i One Direction slet han med å finne sin egen musikalske retning. Selv om han var stjerna i boybandet, var det ikke gitt at han skulle lykkes alene. Hva har Harry Styles gjort for å finne sin egen stil?",
+"t": "Harry Styles: Sjef i eget hus",
+"u": "https://podkast.nrk.no/fil/musikkrommet/698ba7cb-aa8a-4916-ac88-d2683aa0b5d7_0_ID192MP3.mp3"
+},
+"l_8b5b9c6e-8696-40b6-9b9c-6e8696d0b6f9": {
+"d": "2022-05-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/SSiMG1CaIOAIKuCSOWaeiQnkoHTQSEw85lz3AKiK31JA",
+"n": 1549,
+"s": "I en glattpolert og megaprodusert musikkverden oppleves Sigrid som en herlig usminka og rå motreaksjon. Hvordan har hun klart å beholde naturligheten i den glinsende popindustrien?",
+"t": "Sigrid: Vanlig utenom det vanlige",
+"u": "https://podkast.nrk.no/fil/musikkrommet/01d6ffab-aedb-4ecb-b3bf-405fe96ff69d_0_ID192MP3.mp3"
+},
+"l_8d95d2db-b579-49fe-95d2-dbb579a9feca": {
+"d": "2023-04-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/58y7MwdkFUu6ngfhr7FtCQZmOEXf45ONRjICh0KQZOkQ",
+"n": 1605,
+"s": "Post Malone slo igjennom over natta og er blitt kjent som en av de triveligste superstjernene, som er spesielt dedikert til fansen sin. Men bak det store smilet skjulte det seg problemer som gjorde at han nesten slutta med musikk. Anna snakker med superfan Benni Gjemble om hva som skjedde.",
+"t": "Post Malone: Åpen Post",
+"u": "https://podkast.nrk.no/fil/musikkrommet/5a4059d6-e98d-4481-b029-b4bbd111215b_0_ID192MP3.mp3"
+},
+"l_8de9a29f-e00b-4c26-a9a2-9fe00b2c26f6": {
+"d": "2024-10-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/y4JyORJ_yu9w1BSf92SoCAD75IWtWTS_IaMHzwFq1ENg",
+"n": 3814,
+"s": "Siden gjennombruddet med \"Ok, jeg lover\" i 2022 har Ramón berørt et stadig voksende publikum med sine nære og ærlige låter. Samtidig har han tatt avstand fra en stor del av seg selv. Den tar han et oppgjør med på sitt andre album \"Torres Tivoli\". Hvordan har oppveksten påvirket dette albumet og hvordan har han endelig klart å omfavne sine spanske røtter?",
+"t": "Ramón: Et oppgjør med seg selv",
+"u": "https://podkast.nrk.no/fil/musikkrommet/26a176db-cfa4-42c9-be2d-745d90221a70_0_ID192MP3.mp3"
+},
+"l_90647508-d5a9-4237-a475-08d5a972376a": {
+"d": "2022-02-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/AoNkvA9JbcDbdcaDHWciDg2tH4dlyiZPFVzemwOA6DsA",
+"n": 1233,
+"s": "Lars Vaular har skrevet alle rap-tekstene til hovedkarakteren Odile i den nye hiphop-serien “Verden er min”. Hvordan var det for Lars, da han skulle sette seg inn i livet til en 30 år gammel kvinne som er midt i en livskrise? Og hva fant han ut om seg selv, da han skulle være en annen?",
+"t": "Lars Vaular: Friheten i å være en annen",
+"u": "https://podkast.nrk.no/fil/musikkrommet/53f37dfa-42bd-42c1-8ab4-6743d944d9eb_0_ID192MP3.mp3"
+},
+"l_918fbacd-ccb4-4e96-8fba-cdccb41e96da": {
+"d": "2022-06-16T14:00:00+02:00",
+"i": "https://gfx.nrk.no/YmVMujlwraM7hDK7TmVIMQO3mdyiDYORwwY36J7EzXYg",
+"n": 2189,
+"s": "For 25 år siden ble Radiohead et av klodens største band da de slapp sitt ikoniske album, OK Computer. Plata fikk skryt verden over for å utvikle den stivna rocken i en mer moderne retning og bandet ble hylla som framtidsvisjonærer. Men hva gjorde denne kommersielle suksessen med Radiohead? Og hvorfor forandra de musikken sin totalt etter dette?",
+"t": "Radiohead: OK, hva skjedde?",
+"u": "https://podkast.nrk.no/fil/musikkrommet/afd9f2c7-e1c1-4882-8a31-2d1d5d4d0a5b_0_ID192MP3.mp3"
+},
+"l_92e40064-37cd-4cab-a400-6437cdacab64": {
+"d": "2022-07-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/xLOUTt4HF3NDJRGgkFTs2gBq3g8D77WDKBbX0iHKzC0A",
+"n": 2660,
+"s": "Norgesaktuelle Björk har trollbundet fans siden 1990-tallet, og med sin utforskende tilnærming til musikk kan hun kalles “den kjølige nordiske popens” store mor. Hvordan ble Björk en pionér helt ulik alle andre?",
+"t": "Björk: Rebellen",
+"u": "https://podkast.nrk.no/fil/musikkrommet/17c76dd6-db04-4533-9845-dc07d7fd879e_0_ID192MP3.mp3"
+},
+"l_93cb42e2-4055-40d2-8b42-e2405520d230": {
+"d": "2021-10-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/cWhsyAYbzBut6tWjFRJ2Kgk5EqpeK63CvfOudN0gjknw",
+"n": 1082,
+"s": "Lil Nas X har av mange blitt stemplet som sjokk-profitør, gimmick og one hit wonder. Mye sto derfor på spill for mannen bak monsterhiten «Old Town Road» da han skulle slippe sitt debutalbum i september. Klarer han å motbevise kritikerne, og vise at han er en ekte artist?",
+"t": "Lil Nas X: Kunsten å sjokkere",
+"u": "https://podkast.nrk.no/fil/musikkrommet/0deecc38-2c58-41d9-ba4f-cf15a3ff2dd8_0_ID192MP3.mp3"
+},
+"l_96029928-dd6d-4ad9-8299-28dd6dbad99d": {
+"d": "2024-02-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/pu2_e7W7FTrS4OMXOLbCqwTY9WhAQS9uv2ui22v55fmw",
+"n": 3387,
+"s": "Da Ole Paus gikk ut av tiden før jul i fjor mistet hele Norge en av de største låtskrivere vi har hatt. Men hvorfor ble mannen som var kjent for både alvor og humor i sangtekstene sine sensurert av NRK?",
+"t": "Ole Paus: Derfor ble han sensurert av NRK",
+"u": "https://podkast.nrk.no/fil/musikkrommet/d3cdc7c2-d1b8-4ce6-836d-79ae4a7a0c6e_0_ID192MP3.mp3"
+},
+"l_96791bb3-7988-4f6f-b91b-b37988bf6fde": {
+"d": "2023-04-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/doVvQI94viGx5KWjm8CThgd8sm2EhpQuojpjRdgd47jQ",
+"n": 2833,
+"s": "Ingen har preget norsk musikkliv i dette årtusenet så sterkt som Karpe. De har bevist hvor stort hiphop kan bli i Norge, og speilet en side av samfunnet som tidligere ikke har blitt sett. Samtidig som de har skapt historiske øyeblikk, har Chirag og Magdi utvidet vår felles forståelse for begrepet «nordmann». ",
+"t": "Karpe: Minner om Norge",
+"u": "https://podkast.nrk.no/fil/musikkrommet/d07ea24f-e28b-43b9-a18d-fef92eccd8e9_0_ID192MP3.mp3"
+},
+"l_9fe3a012-cea1-4a1c-a3a0-12cea13a1cdc": {
+"d": "2022-03-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/LzzA5-3Z90kqq9bmGwCD3QI4SEekcyIvS2rUQ9QrrGkA",
+"n": 2158,
+"s": "Whitney Houston vokste opp med noen av musikkhistoriens største kvinner, og var skjebnebestemt til å bli en legendarisk stjerne.  I år er det ti år siden hun forlot oss, men tragediene som rammet Whitney og familien har overskygget historien om hvem artisten var. Og hvor enorm betydning hun har hatt for dagens popmusikk. ",
+"t": "Whitney Houston: Den største stemmen",
+"u": "https://podkast.nrk.no/fil/musikkrommet/ade632a1-e986-4308-bc58-92e3c10b29fe_0_ID192MP3.mp3"
+},
+"l_a07c437a-7d36-431c-bc43-7a7d36e31cb8": {
+"d": "2023-03-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/gOD9b_7ReNYQE1gji5YmLwRCAB8NsxKdt8kcxBrs1z3Q",
+"n": 1794,
+"s": "Hvordan ble Lana Del Rey det store forbildet til Billie Eilish, Olivia Rodrigo og flere av dagens største popstjerner? Og hvordan gjorde hun  «trist pike» stuerent?\n\n",
+"t": "Lana Del Rey: Slik gjorde hun \"trist pike\" stuerent",
+"u": "https://podkast.nrk.no/fil/musikkrommet/be828701-49ba-45be-8cde-8504006f23bd_0_ID192MP3.mp3"
+},
+"l_a0a6588c-29bc-48b4-a658-8c29bc08b415": {
+"d": "2022-04-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/uubzGq1d7wq2Lrt63cqFkA4qzgSOUtltqT6uPV-gcWjQ",
+"n": 1559,
+"s": "På rekordfart har Marie Ulven gått fra å klimpre på gitaren på soverommet sitt i Horten, til å pryde enorme billboards på Times Square i New York som ikonet girl in red. Hvordan ble hun en av våre største artister? Og hva er det som gjør henne til et fenomen utover sin egen musikk?",
+"t": "girl in red: Ikonet som åpner verden",
+"u": "https://podkast.nrk.no/fil/musikkrommet/7ef5841e-2aa5-4075-9f37-17b4bf4f81aa_0_ID192MP3.mp3"
+},
+"l_a16cbfdf-b849-4990-acbf-dfb8496990f0": {
+"d": "2023-08-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/9N0-m6SaSQuSKNkkM3IglgAQT7n-57NHmRbD2J0TPDtQ",
+"n": 2917,
+"s": "Hvordan gikk Cezinando fra det å være en eplekjekk ballettdanser og veslevoksen raptalent, til en følsom og kritikerrost superstjerne? Og har vi egentlig blitt noe klokere på møbeltyveriet nå når han er tilbake med ny plate?",
+"t": "Cezinando: Big d*ck is back in town",
+"u": "https://podkast.nrk.no/fil/musikkrommet/9f42f976-3f1f-4452-a100-331040e2cd45_0_ID192MP3.mp3"
+},
+"l_a59ad48b-7677-4d56-9ad4-8b7677ad5640": {
+"d": "2024-10-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/-_te_84eeDI9cqHt8GW5DwuS0D_H8fhNLiNL1m4cSDIw",
+"n": 1933,
+"s": "Sabrina Carpenters poplåter med selvsikre og morsomme tekster har regjert på radio og Spotify i år, og hun har tatt 60 år gamle listerekorder. Hvordan klarer hun det når det virker som hun bare gir faen?",
+"t": "Sabrina Carpenter: Gir fullstendig faen",
+"u": "https://podkast.nrk.no/fil/musikkrommet/8c24acc8-0507-4015-9a2e-94bea65e7a71_0_ID192MP3.mp3"
+},
+"l_a9da44fa-f772-4b52-9a44-faf772fb522a": {
+"d": "2023-09-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/AK-RUkJvQDPlzGSLKK5BeQVvSRQhNVMTKWBPc-hMiojA",
+"n": 1597,
+"s": "I snart 10 år har Kjartan Lauritzen underholdt oss med feststemt og køddete rap på Balestrand-dialekt. Men det var først i sommer han endelig klarte å klatre helt til topps på hitlistene, og det med en barnelåt! Hvordan klarte han det?",
+"t": "Kjartan Lauritzen: Til topps med Badebussen",
+"u": "https://podkast.nrk.no/fil/musikkrommet/dd1b9378-0206-4271-a162-f6147eb445d2_0_ID192MP3.mp3"
+},
+"l_aeef1b82-3ff9-4616-af1b-823ff966167f": {
+"d": "2022-01-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/1LiyOupJo_mpIjwwkG0C-ACcgfvcNSejYw_B7hAfS-Eg",
+"n": 1300,
+"s": "Myra fremstår med en selvsikkerhet vi ikke finner maken til i Norge. Men bak rapperens tøffe ytre skjuler det seg en historie om en traumatisk barndom, som Myra har klart å vende til sin fordel.",
+"t": "Myra: Den følsomme fighteren",
+"u": "https://podkast.nrk.no/fil/musikkrommet/e51ac5eb-1782-4d16-a700-9cc746c18147_0_ID192MP3.mp3"
+},
+"l_b1503bc3-8c0e-4cb7-903b-c38c0eacb7af": {
+"d": "2022-04-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/SjtckdxvQDTzkYGWIWBLqwYyjRecmC_WuXcWFOEtFuew",
+"n": 1566,
+"s": "Bandet Fieh leker seg med særpreget fra amerikansk musikk på både 1970- og 90-tallet, og pøser på med liv og spilleglede. Hvordan har de brukt heltene sine til å skape noe vi sjelden hører, nemlig ny norsk soul?\n",
+"t": "Fieh: En lek med tiden",
+"u": "https://podkast.nrk.no/fil/musikkrommet/c2475c65-a1e8-41ea-a40d-c1cea9439744_0_ID192MP3.mp3"
+},
+"l_b3fc47d6-4bc5-4709-bc47-d64bc58709b0": {
+"d": "2023-05-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/l4fsOmUqIWK4yN2878oRKwe32WOwwjihIMD7qVakSSTg",
+"n": 1959,
+"s": "Ed Sheeran er i dag en av verdens aller største artister med enorme hits. Men nylig truet han med å avslutte karrieren. Anna prater med Ronny Brede Aase om hvorfor han gjorde det.",
+"t": "Ed Sheeran: Derfor sluttet han nesten med musikk",
+"u": "https://podkast.nrk.no/fil/musikkrommet/131a49f7-c848-42ee-b646-89bcd2f7c6ec_0_ID192MP3.mp3"
+},
+"l_b414a7c0-aa78-4158-94a7-c0aa78c1586e": {
+"d": "2022-01-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Jip-DkRf980ni9UXJpQsmALAyMsTgC9VHIb6K1Rp9VRg",
+"n": 1396,
+"s": "Chris Holsten var veletablert som engelskspråklig popartist. Men da én låt på norsk plutselig gikk viralt, endte det opp med å forandre hele karrieren hans.",
+"t": "Chris Holsten: Magien i morsmålet",
+"u": "https://podkast.nrk.no/fil/musikkrommet/6a72feba-f1c1-4e7c-9e0a-e52d68b7f27f_0_ID192MP3.mp3"
+},
+"l_b8ac4179-34d8-42ba-ac41-7934d8a2ba75": {
+"d": "2021-08-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bHM9wgTmaH10fG1dradHEALizcTKgAuQP5EtVOIoUp8g",
+"n": 2284,
+"s": "Musikkrommet gir deg artistmøter fra Øyafestivalen 2022. I dette bonussporet hører du Sandeeps intervju med Tøyen Holding etter konserten deres på \"hjemmebane\" i Tøyenparken.",
+"t": "Bonusspor: Tøyen Holding",
+"u": "https://podkast.nrk.no/fil/musikkrommet/05d21273-660f-4142-9322-fed5a13566f9_0_ID192MP3.mp3"
+},
+"l_b9095957-8511-4ebd-8959-5785115ebde9": {
+"d": "2023-03-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/KxFjGmQCQGoq3QujoFmC8wrTxZO7ycW0m66r0oQMApZA",
+"n": 1508,
+"s": "Gucci Caliente er sjelden vare, hun er både produsent og kvinne. Hvorfor er det ikke flere som henne, lurer Anna på. Og er det egentlig så farlig om det nesten bare er menn som produserer musikken vi hører på?",
+"t": "Gucci Caliente: Derfor trengs det flere kvinner som produsenter",
+"u": "https://podkast.nrk.no/fil/musikkrommet/f803ef93-6503-45fd-a219-47342e38df28_0_ID192MP3.mp3"
+},
+"l_b990c9de-8f45-40b3-90c9-de8f4500b3aa": {
+"d": "2024-04-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nYrMTF48vRrlNcv0rUfKGAtu1BjEeN4f2fcJ5FobVW1A",
+"n": 1973,
+"s": "Da Amy Winehouse gikk bort i 2011 ble fansen sjokkert, men ikke overrasket. For historien hennes er en moderne tragedie, og livet hun levde er nå blitt en kinofilm. Hva var det med artisten og personen Amy Winehouse som engasjerte en hel verden?",
+"t": "Amy Winehouse: Berømmelsens pris",
+"u": "https://podkast.nrk.no/fil/musikkrommet/5b737574-dc4d-455e-acbc-19701c3c1498_0_ID192MP3.mp3"
+},
+"l_babdf8e5-ee85-4f51-bdf8-e5ee856f51ac": {
+"d": "2021-10-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/TFVc7L28zzAEdwAzhYXyOQ_iRhesKGNJBX0Xx9v7K3Tg",
+"n": 1164,
+"s": "Den unge sjangeren kan beskrives som pop proppfull av musikalske feil. Hvorfor høres det da så riktig ut?",
+"t": "Hyperpop: Full av feil, likevel perfekt",
+"u": "https://podkast.nrk.no/fil/musikkrommet/db9ab92f-6aed-4a52-b639-a107cf1b789f_0_ID192MP3.mp3"
+},
+"l_bb256f4e-deee-443b-a56f-4edeeea43bab": {
+"d": "2023-05-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/6H5TxG8s1uo6ap2DF8--YQCzqgSyMsEKXvwCAm5YO_-w",
+"n": 1559,
+"s": "Hvordan har Beharie gått fra å ha så mye sceneskrekk at han nekta å synge solo til å bli en Spellemann-vinnende soulartist?",
+"t": "Beharie: Fra sceneskrekk til Spellemann",
+"u": "https://podkast.nrk.no/fil/musikkrommet/dcaf620e-6b7d-473c-8997-ac3bbf8a950f_0_ID192MP3.mp3"
+},
+"l_bca315d0-2d9b-4f98-a315-d02d9bef98cb": {
+"d": "2024-09-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/-uWwydZnNbaOJ3olNjzRoQbCjVkc5-bHGEJHzFIjZFqA",
+"n": 2523,
+"s": "Gjenforeninga til Oasis ble behørig dekket da det ble kjent i slutten av august. Hvorfor er det så store nyheter at Liam og Noel Gallagher er sammen igjen, og blir konsertrekka i 2025 bra? Musikksjef i NRK Mats Borch Bugge svarer på spørsmålene ved å gå gjennom karrieren til brødrene.",
+"t": "Oasis: Det umulige comebacket",
+"u": "https://podkast.nrk.no/fil/musikkrommet/9a2912ac-f313-4d2e-bc17-cb0396fb8f74_0_ID192MP3.mp3"
+},
+"l_be5e8202-f614-452e-9e82-02f614952eca": {
+"d": "2024-08-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/O18_Ql3IUhQaQTL0vu_Ukge4I_EJPhQ0zsZa2lFC-hOg",
+"n": 1519,
+"s": "Hvorfor kaller Rosa Faenskap musikken sin for både en kjærlighetserklæring og en krigserklæring mot svartmetall? Dét og mye annet lurte Anna og Jakob på da de møtte gitarist og vokalist Emil Vestre på Øyafestivalen i august.",
+"t": "Rosa Faenskap: Det behagelige stedet der man kan skrike",
+"u": "https://podkast.nrk.no/fil/musikkrommet/07450e67-c866-4b48-a21b-e2f34e1402ea_0_ID192MP3.mp3"
+},
+"l_be83df90-1a1f-4f25-83df-901a1f6f2591": {
+"d": "2021-12-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/85qczWxwjrhX6NWShcLyCwL1_tV21PgVjNFngyaT12qQ",
+"n": 1644,
+"s": "Halvveis ut i karrieren ble popstjerna George Michael utsatt for et invaderende overgrep av politi og media. Det preget ham resten av livet, men det snakkes det ikke om. Hvordan kunne vi glemme George Michael?",
+"t": "George Michael: Misforstått og latterliggjort",
+"u": "https://podkast.nrk.no/fil/musikkrommet/fb4f7182-76d6-46ad-960f-e121eae1a9fa_0_ID192MP3.mp3"
+},
+"l_bf6ceb97-4bb2-4711-aceb-974bb2e711e2": {
+"d": "2024-03-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/BNItxfk0_6w1N46AdOSI3wVC4oogYMoXWM_Hu4fWZyFA",
+"n": 2347,
+"s": "I Norges storslagne jazzhistorie pekes Radka Toneff på som en av de største stemmene vi har hatt. Hva gjorde henne så enestående? Håvard Bråthen er regissør i NRKs nye TV-serie «Jazzeventyret» og gir oss historien til Radka Toneff.",
+"t": "Radka Toneff: Den store stemmen som stilnet",
+"u": "https://podkast.nrk.no/fil/musikkrommet/40f2d217-914d-4c26-a258-191ca2608a18_0_ID192MP3.mp3"
+},
+"l_c09aa873-abfa-4ec2-9aa8-73abfabec2aa": {
+"d": "2022-03-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/8tKMp94txfHasuT6InDLWwlW_k8cBFfsUqKRBVlE-5eQ",
+"n": 1703,
+"s": "Legendariske stadioner fylles for første gang på lenge opp med ny rock - og bandet som har fått til dette heter The War On Drugs. De er kalt rockens redningsmenn og krediteres for å revitalisere sjangeren. Hvordan klarte de det? ",
+"t": "The War On Drugs: Kunsten å male musikk",
+"u": "https://podkast.nrk.no/fil/musikkrommet/71b452c2-020f-43a5-915b-31837a8a9aac_0_ID192MP3.mp3"
+},
+"l_c142c5d4-3e44-4bee-82c5-d43e44abee3e": {
+"d": "2022-06-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/gzhIXMbL1oBBTxuc-wsbkwgxVRotWWpxNv1y-glSdVbg",
+"n": 1716,
+"s": "For første gang i historien har en poplåt gått til topps på hitlistene nesten 40 år etter at den kom ut. “Running Up That Hill” med Kate Bush har fått en ny og enda større bølge fans etter at den dukka opp i siste sesong av tv-serien “Stranger Things”. Hva har låta gjort for karrieren hennes og hva er det med Kate Bush som gjør henne til en udødelig artist? ",
+"t": "Kate Bush: Running Up That Hill",
+"u": "https://podkast.nrk.no/fil/musikkrommet/91df52f5-7e3f-4c46-8287-32d4c9f4c632_0_ID192MP3.mp3"
+},
+"l_c3a39eab-3151-4615-a39e-ab3151e61569": {
+"d": "2023-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/b2f_BHHo8pVXfdXnrkOiHwIOQTMx82upe8zRS2eNUKDw",
+"n": 2153,
+"s": "Anna og Arian snakker om hvordan Veronica Maggio har blitt den artisten som får flere generasjoner av kjærlighetshungrige nordmenn til å danse oss gjennom vanskene våre og bli glade igjen.",
+"t": "Veronica Maggio: Soundtracket til livet",
+"u": "https://podkast.nrk.no/fil/musikkrommet/7cf45c35-93d7-4233-b43e-8d44e3e5ac2b_0_ID192MP3.mp3"
+},
+"l_c4bbe6a6-bf31-4880-bbe6-a6bf312880e9": {
+"d": "2022-01-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/b8Zwk6zCyPBFcyY2yEHhWwGEXRvpmaqORa0n7IExu8hw",
+"n": 1310,
+"s": "Barndomsdrømmen til Sondre Justad er å spille for 10 000 publikummere i et utsolgt Oslo Spektrum. Men nå har drømmen vokst seg større, og Sondre vil i tillegg knytte bånd mellom fansen som skal på konserten. For å få til det tar han kontakt med Victoria Arnesen, som er hans største fan.",
+"t": "Sondre Justad: Reisen til Spektrum",
+"u": "https://podkast.nrk.no/fil/musikkrommet/59c044e0-1a4f-4731-ac77-9edf957ddcb9_0_ID192MP3.mp3"
+},
+"l_c7ded823-8887-4f3d-9ed8-238887df3d1e": {
+"d": "2023-03-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3Gr385Wd1Fxk3g59SAcg-wWMbuJxmUtMtiu_EfEX9wLw",
+"n": 1353,
+"s": "Miley Cyrus har årets hittil største hit med “Flowers”. Anna snakker med musikkprodusent i P3, Janne Monsen Tveit, om hvorfor det først nå er kred å høre på Miley. Og lurer på om vi har undervurdert henne hele tiden.\n\n",
+"t": "Miley Cyrus: Derfor er \"Flowers\" hennes største hit",
+"u": "https://podkast.nrk.no/fil/musikkrommet/208ebf8d-66c9-4122-ad94-4ef857f038dc_0_ID192MP3.mp3"
+},
+"l_c853d703-e623-4818-93d7-03e623f81888": {
+"d": "2021-11-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/RZQo7BnJUYuIqKHX601BkQ1_lDYoTyE7i-SGFTZ9lzrA",
+"n": 1431,
+"s": "Da ABBA skiltes trodde ingen at de noen gang kunne returnere. 40 år etter er de nå endelig tilbake, både med albumet Voyage og et spektakulært liveshow i 2022. Hvorfor måtte det ta så lang tid før verdens største popgruppe kom sammen igjen?",
+"t": "ABBA: Historiens største comeback",
+"u": "https://podkast.nrk.no/fil/musikkrommet/2a8fe6a9-346c-47ff-8646-4e06af7c3d26_0_ID192MP3.mp3"
+},
+"l_c89698f2-cc22-4a35-9698-f2cc226a359f": {
+"d": "2021-08-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/erXZmUusEK2F1gP2RNbNHAvXhTWocfjPne_GIEDlwQGw",
+"n": 2275,
+"s": "Musikkrommet gir deg artistmøter fra Øyafestivalen 2022. I dette bonussporet hører du Sandeeps intervju med Maciek Ofstad og Marvin Nygaard i Kvelertak før konserten deres i august.",
+"t": "Bonusspor: Kvelertak",
+"u": "https://podkast.nrk.no/fil/musikkrommet/33a1eba8-0254-49b5-984e-12c5f11fa56d_0_ID192MP3.mp3"
+},
+"l_d09dfe32-a164-42fd-9dfe-32a164c2fdfe": {
+"d": "2023-11-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/goo1AnFBzci61oPyjyyQ_QXlOZiTJlKpUuRQLVuRGd2A",
+"n": 1166,
+"s": "Hillari vant Urørtfinalen tidligere i høst og den 18 år gamle artistens musikk er allerede blitt lagt merke til langt utenfor Norges grenser. Og ikke av hvem som helst,  en av de aller største i hiphop og RnB er blitt fan. Anna prater med Urørtsjef Nina Gjertsen om Hillaris gjennombrudd og veien videre.",
+"t": "Hillari: Klar for verden",
+"u": "https://podkast.nrk.no/fil/musikkrommet/a66248d4-dafa-4d58-b2cf-f31a4ef5a13e_0_ID192MP3.mp3"
+},
+"l_d0f60ddd-e809-4b09-b60d-dde809ab0931": {
+"d": "2023-02-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/NX7_IKXCw-Dsaar6zoNwGgM8EqzrbqffA6l9BpeoFozQ",
+"n": 1311,
+"s": "Musikkrommet er tilbake og superstjerna Lizzo spiller sin aller første konsert i Norge. Sandeep og Anna diskuterer hvordan hun gjennom musikken og hele væremåten sin får oss til å føle oss bedre.",
+"t": "Lizzo: Slik får hun deg til å føle deg bedre",
+"u": "https://podkast.nrk.no/fil/musikkrommet/c9fec13e-d2ce-4c9f-b316-3acf5e7c5cc1_0_ID192MP3.mp3"
+},
+"l_d14ddd37-e0c5-40b8-8ddd-37e0c5d0b83e": {
+"d": "2024-09-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/JbDiYdSd7QMFWb9w3EKpSQy2Da_1_rrE9R4R0e2ELd5w",
+"n": 2385,
+"s": "Leonard Cohen var det enorme litterære talentet som ble musiker for å få flere til å høre diktene hans. Med låtene sine gjorde han sex religiøst og religion sexy, men hvordan var karrieren hans før og etter at han fant kjærligheten med norske Marianne Ihlen?",
+"t": "Leonard Cohen: Mannen, myten og Marianne",
+"u": "https://podkast.nrk.no/fil/musikkrommet/16d4a96c-6105-410f-ae5a-7806f046edae_0_ID192MP3.mp3"
+},
+"l_d254013c-8ba4-42eb-9401-3c8ba422eb59": {
+"d": "2022-09-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/MbRw9d9v9SQnSnCh6GWJagm0-yMlUw3sLBHWpvbB8cFg",
+"n": 1751,
+"s": "Hvordan har egentlig Håkan Hellström klart å trekke flere publikummere enn noen andre i Norden - på tross av løgn og anklager om å skamløst stjele andres musikk og uttrykk?\n",
+"t": "Håkan Hellström: Sötaste bror",
+"u": "https://podkast.nrk.no/fil/musikkrommet/d049cd52-7c72-4635-8095-89f1d09396b4_0_ID192MP3.mp3"
+},
+"l_d27fce1a-5645-4cf8-bfce-1a56454cf8a8": {
+"d": "2021-08-20T06:01:00+02:00",
+"i": "https://gfx.nrk.no/gOl3LUcpHZXF5F-s3K7evQ4o-oCayPX6T05V4zA1tLCA",
+"n": 1367,
+"s": "Superstjernene står i kø for å jobbe med Cashmere Cat. Hva er hemmeligheten bak den enorme suksessen hans?",
+"t": "Cashmere Cat: Fra Halden til Hollywood",
+"u": "https://podkast.nrk.no/fil/musikkrommet/2cd79728-5753-4361-8742-721a685dfb6a_0_ID192MP3.mp3"
+},
+"l_d7e016ce-4862-4c4c-a016-ce4862bc4cac": {
+"d": "2023-09-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/3BzfEdFJVdXZtvet0ZOu3wcMHyg1X0BFqWC84TAJiY0w",
+"n": 2571,
+"s": "Kvelertak har turnert verden rundt og hengt med de største i rockehistorien. Men da de nylig ga ut sitt femte album begynte fansen å spekulere - betyr tittelen «Endling» at dette er slutten for bandet?",
+"t": "Kvelertak: Slik ble de Norges største rockeband",
+"u": "https://podkast.nrk.no/fil/musikkrommet/677892ce-7a02-4503-b550-07eaebb2bd70_0_ID192MP3.mp3"
+},
+"l_e756694b-80b1-42a2-9669-4b80b182a216": {
+"d": "2021-10-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/EoIzHq3Cwz21rWtdYRnz0g-pjIPMdfk35LNWzPwlqS5A",
+"n": 1263,
+"s": "Norge har alltid elsket amerikansk country. Men hva synes folk i USA om den nye norske varianten? Malin Pettersen forteller om nordicana og dens reise tilbake til statene.",
+"t": "Nordicana: Drømmen om Amerika",
+"u": "https://podkast.nrk.no/fil/musikkrommet/1ab770d5-6f18-46d1-a5b3-fa0efa3bed29_0_ID192MP3.mp3"
+},
+"l_ecb59f5c-64b1-49f5-b59f-5c64b1f9f55c": {
+"d": "2022-04-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/q0C7aQf8ibeX6Dwwm9iIAw6kF3zVlswFEwJao-fVI1XQ",
+"n": 1987,
+"s": "Forbudet mot homofili ble avskaffet bare ni år før Nils Bech kom til verden. Og selv om det ikke lenger var ulovlig å være homo, merket han etterdønningene i oppveksten. På hvilke måter har Nils Bech åpnet dører og hvordan har han blitt et forbilde ved hjelp av musikken sin?",
+"t": "Nils Bech: Ut av homoforbudets skygge",
+"u": "https://podkast.nrk.no/fil/musikkrommet/a473ef7b-740e-45a8-9767-18635a7990c0_0_ID192MP3.mp3"
+},
+"l_ed7ab24c-4d46-4263-bab2-4c4d465263a2": {
+"d": "2024-11-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/8JRaMwGFuggtiK-g1lW3LgqJZEYglmpH6WA-_ChFrNNw",
+"n": 3010,
+"s": "P3 Gull-aktuelle Kygo er kanskje verdens mest kjente nordmann, og har med sin tropiske EDM fått mange titalls millioner fans over hele kloden. Hvordan ble han så stor?",
+"t": "Kygo: Norges største superstjerne",
+"u": "https://podkast.nrk.no/fil/musikkrommet/8938d6ee-9c3b-49c5-a656-7c2311c0a932_0_ID192MP3.mp3"
+},
+"l_f3073bba-61eb-436c-873b-ba61ebd36cb8": {
+"d": "2024-09-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/m5wQlkBrnr9nnLZWTMSKkw0BPvdtLtpLJMPLmkjtP6xQ",
+"n": 2315,
+"s": "Yoguttene ble et undergrunnsfenomen med sin Bergens-trap og fristiler på starten av forrige tiår. Hva betyr egentlig «$vai», hvordan fant de ut at de kunne rappe, og var fjorårets album egentlig et comeback? Jenny Skavland og Onge Anka svarer når Yoguttene gjør sin aller første podkast noensinne – tatt opp live på Øyafestivalen i august.",
+"t": "Yoguttene: Kan alle rappe?",
+"u": "https://podkast.nrk.no/fil/musikkrommet/2a77759d-9358-4250-a065-5cfa751da6c0_0_ID192MP3.mp3"
+},
+"l_f30efbbc-bb92-4c0c-8efb-bcbb92ac0ced": {
+"d": "2021-11-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7a0kBa8hRpeJ3ogFJs8-lQMHzWuGMvoADqh2GtyUCBCw",
+"n": 1236,
+"s": "Adele er tilbake! Hun ble verdens største artist uten å følge med i tiden. Hvordan klarte hun det?",
+"t": "Adele: Den tidløse popstjerna",
+"u": "https://podkast.nrk.no/fil/musikkrommet/ba28a715-9d6a-4f95-b43e-998e26ae5a17_0_ID192MP3.mp3"
+},
+"l_f7d5359a-ee79-4604-9535-9aee79660464": {
+"d": "2021-10-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/sx7eurh99wI6PLadGlQMLQdGbabET2AOTyKILkgdxsgg",
+"n": 1219,
+"s": "Låta til rapperen Musti er den første på norsk i soundtracket til et av verdens mest populære spill. Hvordan havna hun der og hva vil det bety for karrieren hennes?\n",
+"t": "Musti i FIFA: Døråpner til millioner",
+"u": "https://podkast.nrk.no/fil/musikkrommet/b0eab480-89c1-459e-af24-00f18e8d23bd_0_ID192MP3.mp3"
+},
+"l_fc3de56c-1c75-43ca-bde5-6c1c75c3caa3": {
+"d": "2023-12-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/tTr3vAKN4NI00q96dTO77g811zIXeUNE6w5bK5skyW3w",
+"n": 3464,
+"s": "Ane Brun brakdebuterte for 20 år siden, og er siden blitt en internasjonalt anerkjent artist som spiller med legender fra musikkhistorien. Men det ingen visste var at hun samtidig levde musikerlivet med kronisk sykdom.",
+"t": "Ane Brun: Motgang gjør sterk",
+"u": "https://podkast.nrk.no/fil/musikkrommet/11ed9ee5-d922-4188-9bb3-6308695d8171_0_ID192MP3.mp3"
+},
+"l_fd18ecd7-42a5-47e7-98ec-d742a5f7e74b": {
+"d": "2022-05-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nXsZOrh0Uvb8kEvJDnzROACyjEL4MUh1k87ZBe75BSMQ",
+"n": 1346,
+"s": "Seks unge karer har på rekordtid tatt hiphop-fans og musikkelskere i Norge med storm. Begeistringen er så stor at vi må helt tilbake til 90-tallet for å finne sist gang gutter i gruppe sammen skapte like vill stemning. Hvordan ble Undergrunn Norges aller feteste boyband?",
+"t": "Undergrunn: Urban folkelighet",
+"u": "https://podkast.nrk.no/fil/musikkrommet/8fc98169-f827-4dd8-9f1c-6859285de1ad_0_ID192MP3.mp3"
+},
+"l_fdc9027b-2017-4c64-8902-7b2017cc64a4": {
+"d": "2023-08-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/lwaEGL5ZfA3oWR9Zt5BmAAsC7zKZ8GxM0KlOt-dQQd8A",
+"n": 1809,
+"s": "Det var først da Jonas Benyoub våget å dele sin egen usikkerhet at karrieren tok fart. Nå er han en av Norges mest ettertrakta artister, og han som gjorde Karpe enda kulere. Vi møtte rapperen på Øyafestivalen for å høre hvordan hans musikalske reise har vært til nå, og hva som skjer videre.",
+"t": "Jonas Benyoub: Endelig stolt",
+"u": "https://podkast.nrk.no/fil/musikkrommet/6649b633-43d7-46f4-8209-09d34600d626_0_ID192MP3.mp3"
+},
+"l_feb36b52-3ea9-42da-b36b-523ea932dad4": {
+"d": "2021-09-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/MfHSphbHVBN7_rj522UV6gytayAcUdUq-ql0acra-K3A",
+"n": 1060,
+"s": "Går det an å lage vakker musikk med blokkfløyte og trance-melodier? Det bestemte bergensartisten Vilde Tuv seg for å bevise.",
+"t": "Vilde Tuv: Skjønnheten i ulyden",
+"u": "https://podkast.nrk.no/fil/musikkrommet/67f564c4-3e73-4eef-a0ca-49fb1d92a889_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Musikk",
+"id": "musikkrommet",
+"image": "https://gfx.nrk.no/9RC0yu1YgUPSu7PdUdmFRA-mkjHjLiLi2-zNUvYGneLg",
+"subtitle": "Anna Nor Sørensen og Jakob Naustdal gir deg de gode historiene bak musikken du bryr deg om. Og den du ikke visste at du digger. \nMusikkrommet ble produsert fram til og med 2024 og episodene er laget for å høres når som helst.",
+"title": "Musikkrommet"
+},
+"v": 2
 }

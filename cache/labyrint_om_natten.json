@@ -1,19 +1,148 @@
 {
-"l_1c28cb59-d528-4557-a8cb-59d528d557d1": "https://podkast.nrk.no/fil/labyrint_om_natten/4a958228-59b6-4d17-98d4-dc5bec45007f_0_ID192MP3.mp3",
-"l_23450ab7-ffd7-4031-850a-b7ffd710311d": "https://podkast.nrk.no/fil/labyrint_om_natten/895bc253-385c-4261-b493-61b11a4b500b_0_ID192MP3.mp3",
-"l_2e99a7cb-77cd-4701-99a7-cb77cd8701ec": "https://podkast.nrk.no/fil/labyrint_om_natten/f9c88368-c397-48ee-a292-b91406258bc6_0_ID192MP3.mp3",
-"l_3131ccff-17d6-4604-b1cc-ff17d64604b1": "https://podkast.nrk.no/fil/labyrint_om_natten/4f3393d7-d1f7-4dab-aaf5-28bc47c1f374_0_ID192MP3.mp3",
-"l_3ae91aff-3ee9-420a-a91a-ff3ee9920ae8": "https://podkast.nrk.no/fil/labyrint_om_natten/490a0873-c2da-4390-80d0-fcc2b6571ed6_0_ID192MP3.mp3",
-"l_44b300ba-4f9e-434a-b300-ba4f9e134a35": "https://podkast.nrk.no/fil/labyrint_om_natten/b0ec4df9-cfab-4c84-844a-135e2125e99b_0_ID192MP3.mp3",
-"l_516b7a13-745b-4608-ab7a-13745b8608c8": "https://podkast.nrk.no/fil/labyrint_om_natten/8fc8048b-04f7-48b9-9f45-b22366cb4360_0_ID192MP3.mp3",
-"l_6f1ac603-f439-49ac-9ac6-03f43949ac8d": "https://podkast.nrk.no/fil/labyrint_om_natten/8db8af50-e3b5-422d-b886-19de5dd7be98_0_ID192MP3.mp3",
-"l_7988a1f2-710a-40a1-88a1-f2710af0a10b": "https://podkast.nrk.no/fil/labyrint_om_natten/7aff411e-5358-4be8-ba0b-918a461d1677_0_ID192MP3.mp3",
-"l_9ef1e96f-6d9b-4c48-b1e9-6f6d9b6c4846": "https://podkast.nrk.no/fil/labyrint_om_natten/774dd7e4-6d91-4b3e-a1b2-074447f18115_0_ID192MP3.mp3",
-"l_a34e5c01-c8b7-46bd-8e5c-01c8b726bd80": "https://podkast.nrk.no/fil/labyrint_om_natten/8b71f779-458f-47ec-b3e9-c5ae217f1000_0_ID192MP3.mp3",
-"l_a4a2dd87-704f-46ea-a2dd-87704f26eaf8": "https://podkast.nrk.no/fil/labyrint_om_natten/4125c86c-fecf-46a2-a773-db066100a423_0_ID192MP3.mp3",
-"l_c93b0362-2c37-4160-bb03-622c37b1608b": "https://podkast.nrk.no/fil/labyrint_om_natten/e697a2d0-e3b8-45ac-876f-d274e541ed51_0_ID192MP3.mp3",
-"l_ddf2c600-b0e3-4e42-b2c6-00b0e30e425c": "https://podkast.nrk.no/fil/labyrint_om_natten/090c701a-0ead-4533-ba64-f1a92a7e780a_0_ID192MP3.mp3",
-"l_e012a79f-a43b-46c4-92a7-9fa43ba6c469": "https://podkast.nrk.no/fil/labyrint_om_natten/8f359cc4-29db-47cb-ad1f-855d5a2e882b_0_ID192MP3.mp3",
-"l_eaaf6a7c-f510-4653-af6a-7cf510c65390": "https://podkast.nrk.no/fil/labyrint_om_natten/832d6bef-5177-417e-b7da-a6d60cc678dc_0_ID192MP3.mp3",
-"l_eada7833-0ed6-4a2f-9a78-330ed66a2fe3": "https://podkast.nrk.no/fil/labyrint_om_natten/694c58bc-3da6-4e9d-b54f-63b6406ed8d6_0_ID192MP3.mp3"
+"episodes": {
+"l_1c28cb59-d528-4557-a8cb-59d528d557d1": {
+"d": "2024-07-19T06:02:00+02:00",
+"i": "https://gfx.nrk.no/7Fyx-OuTaNc-W4fB_LG2eQzHGdknERLUhaFEnHfF-HVQ",
+"n": 859,
+"s": "Robotene frykter spøkelset i smelteovnen. Kamina drar for å bevise at det ikke finnes.",
+"t": "Spøkelset i smelteovnen",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/4a958228-59b6-4d17-98d4-dc5bec45007f_0_ID192MP3.mp3"
+},
+"l_23450ab7-ffd7-4031-850a-b7ffd710311d": {
+"d": "2023-12-15T06:06:00+01:00",
+"i": "https://gfx.nrk.no/Jo_A0fFEMBeNzvTt6fc2kA603E0W9AY4Sr_SqR39Qjsg",
+"n": 754,
+"s": "Robotene tyvlåner ubåten til Daidalos. De vil prøve seg på en verdensrekord!",
+"t": "Ubåten",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/895bc253-385c-4261-b493-61b11a4b500b_0_ID192MP3.mp3"
+},
+"l_2e99a7cb-77cd-4701-99a7-cb77cd8701ec": {
+"d": "2024-07-19T06:03:00+02:00",
+"i": "https://gfx.nrk.no/7Fyx-OuTaNc-W4fB_LG2eQzHGdknERLUhaFEnHfF-HVQ",
+"n": 915,
+"s": "Taurus stjeler Diadalos sitt krympemiddel for å vinne konkurransen.",
+"t": "Labyrintens modigste",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/f9c88368-c397-48ee-a292-b91406258bc6_0_ID192MP3.mp3"
+},
+"l_3131ccff-17d6-4604-b1cc-ff17d64604b1": {
+"d": "2023-12-15T06:05:00+01:00",
+"i": "https://gfx.nrk.no/Jo_A0fFEMBeNzvTt6fc2kA603E0W9AY4Sr_SqR39Qjsg",
+"n": 679,
+"s": "Flip finner noen hemmelige bilder som Daidalos har gjemt. Skal han vise dem til de andre?     \nFortellingene er lest av Jan Martin Johnsen  \nDaidalos: Håvard Lilleheie  \nDaidalosa: Silya Nymoen \nRegi og manus: Stine Buer  \nManus: Kristine Reknes  \nLyddesign: Glenn Solheim \nRedaktør NRK Super: Siril Heyerdahl",
+"t": "De hemmelige bildene",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/4f3393d7-d1f7-4dab-aaf5-28bc47c1f374_0_ID192MP3.mp3"
+},
+"l_3ae91aff-3ee9-420a-a91a-ff3ee9920ae8": {
+"d": "2024-03-22T06:01:00+01:00",
+"i": "https://gfx.nrk.no/7Fyx-OuTaNc-W4fB_LG2eQzHGdknERLUhaFEnHfF-HVQ",
+"n": 1057,
+"s": "Daidalos og Daidalosa bestemmer seg for å døgne. Men hva da med robotenes fotballfinale?",
+"t": "Daidalos døgner",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/490a0873-c2da-4390-80d0-fcc2b6571ed6_0_ID192MP3.mp3"
+},
+"l_44b300ba-4f9e-434a-b300-ba4f9e134a35": {
+"d": "2024-07-19T06:01:00+02:00",
+"i": "https://gfx.nrk.no/7Fyx-OuTaNc-W4fB_LG2eQzHGdknERLUhaFEnHfF-HVQ",
+"n": 1009,
+"s": "Lupus tjuvlåner Daidalosa sin siste oppfinnelse, og drar til Verdens beste sted.",
+"t": "Reisen til Verdens beste sted",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/b0ec4df9-cfab-4c84-844a-135e2125e99b_0_ID192MP3.mp3"
+},
+"l_516b7a13-745b-4608-ab7a-13745b8608c8": {
+"d": "2023-12-15T06:01:00+01:00",
+"i": "https://gfx.nrk.no/Jo_A0fFEMBeNzvTt6fc2kA603E0W9AY4Sr_SqR39Qjsg",
+"n": 736,
+"s": "Robotene drar på en hemmelig tur for å se undervannsgrottene, men hva er det som rører seg der nede i dypet? Kommer de seg hjem før Daidalosa våkner?\n\nFortellingene er lest av Jan Martin Johnsen  \nDaidalos: Håvard Lilleheie  \nDaidalosa: Silya Nymoen  \nRegi og manus: Stine Buer  \nManus: Kristine Reknes  \nLyddesign: Glenn Solheim \nRedaktør NRK Super: Siril Heyerdahl ",
+"t": "Hemmelig Ubåttur ",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/8fc8048b-04f7-48b9-9f45-b22366cb4360_0_ID192MP3.mp3"
+},
+"l_6f1ac603-f439-49ac-9ac6-03f43949ac8d": {
+"d": "2024-03-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7Fyx-OuTaNc-W4fB_LG2eQzHGdknERLUhaFEnHfF-HVQ",
+"n": 1104,
+"s": "Ekspedisjonsleder Kamina får bruk for Mutterns promp når robotene tyvlåner Daidalos' ubåt.",
+"t": "Skatten ved den blå oase",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/8db8af50-e3b5-422d-b886-19de5dd7be98_0_ID192MP3.mp3"
+},
+"l_7988a1f2-710a-40a1-88a1-f2710af0a10b": {
+"d": "2023-12-15T06:03:00+01:00",
+"i": "https://gfx.nrk.no/Jo_A0fFEMBeNzvTt6fc2kA603E0W9AY4Sr_SqR39Qjsg",
+"n": 800,
+"s": "Daidalos vil spare strøm, men Taurus glemmer seg og hele slimsjøen fryser til is.\n\nFortellingene er lest av Jan Martin Johnsen  \nDaidalos: Håvard Lilleheie  \nDaidalosa: Silya Nymoen  \nRegi og manus: Stine Buer  \nManus: Kristine Reknes  \nLyddesign: Glenn Solheim \nRedaktør NRK Super: Siril Heyerdahl ",
+"t": "Slimsjøen fryser til is",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/7aff411e-5358-4be8-ba0b-918a461d1677_0_ID192MP3.mp3"
+},
+"l_9ef1e96f-6d9b-4c48-b1e9-6f6d9b6c4846": {
+"d": "2024-03-22T06:03:00+01:00",
+"i": "https://gfx.nrk.no/7Fyx-OuTaNc-W4fB_LG2eQzHGdknERLUhaFEnHfF-HVQ",
+"n": 1003,
+"s": "Når ramperobot Grompen skrur på en mutter han ikke skal, settes hele Labyrinten i fare.",
+"t": "Grompens første dukkert",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/774dd7e4-6d91-4b3e-a1b2-074447f18115_0_ID192MP3.mp3"
+},
+"l_a34e5c01-c8b7-46bd-8e5c-01c8b726bd80": {
+"d": "2023-12-15T06:08:00+01:00",
+"i": "https://gfx.nrk.no/Jo_A0fFEMBeNzvTt6fc2kA603E0W9AY4Sr_SqR39Qjsg",
+"n": 563,
+"s": "I natt vil robotene ha sin egen slimballkamp i Labyrinten. De må bare ikke bråke og søle med slim, så Daidalosa oppdager dem.",
+"t": "Slimballkampen",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/8b71f779-458f-47ec-b3e9-c5ae217f1000_0_ID192MP3.mp3"
+},
+"l_a4a2dd87-704f-46ea-a2dd-87704f26eaf8": {
+"d": "2023-12-15T06:11:00+01:00",
+"i": "https://gfx.nrk.no/Jo_A0fFEMBeNzvTt6fc2kA603E0W9AY4Sr_SqR39Qjsg",
+"n": 592,
+"s": "Bolten har fått i oppdrag å smøre sklia med slim. Da vet alle robotene hva som skal skje: Den store skli-konkurransen!\n\n",
+"t": "Sklia",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/4125c86c-fecf-46a2-a773-db066100a423_0_ID192MP3.mp3"
+},
+"l_c93b0362-2c37-4160-bb03-622c37b1608b": {
+"d": "2024-07-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/7Fyx-OuTaNc-W4fB_LG2eQzHGdknERLUhaFEnHfF-HVQ",
+"n": 910,
+"s": "Krampus er forelska og bryter Daidalos sine lover for å få en klem av Muttern.",
+"t": "Krampus elsker Muttern",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/e697a2d0-e3b8-45ac-876f-d274e541ed51_0_ID192MP3.mp3"
+},
+"l_ddf2c600-b0e3-4e42-b2c6-00b0e30e425c": {
+"d": "2024-03-22T06:02:00+01:00",
+"i": "https://gfx.nrk.no/7Fyx-OuTaNc-W4fB_LG2eQzHGdknERLUhaFEnHfF-HVQ",
+"n": 854,
+"s": "Robotenes oppfinnelser er mer geniale enn Daidalos sine. Når han tar dem på fersken må de være mer oppfinnsomme enn noensinne!",
+"t": "Oppfinnerkonkurransen",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/090c701a-0ead-4533-ba64-f1a92a7e780a_0_ID192MP3.mp3"
+},
+"l_e012a79f-a43b-46c4-92a7-9fa43ba6c469": {
+"d": "2023-12-15T06:04:00+01:00",
+"i": "https://gfx.nrk.no/Jo_A0fFEMBeNzvTt6fc2kA603E0W9AY4Sr_SqR39Qjsg",
+"n": 729,
+"s": "I natt skal det være hulehallfest i Labyrint, men Lupus går seg vill og havner på et skummelt sted.\n\nFortellingene er lest av Jan Martin Johnsen  \nDaidalos: Håvard Lilleheie  \nDaidalosa: Silya Nymoen  \nRegi og manus: Stine Buer  \nManus: Kristine Reknes  \nLyddesign: Glenn Solheim \nRedaktør NRK Super: Siril Heyerdahl ",
+"t": "Robotkirkegården",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/8f359cc4-29db-47cb-ad1f-855d5a2e882b_0_ID192MP3.mp3"
+},
+"l_eaaf6a7c-f510-4653-af6a-7cf510c65390": {
+"d": "2023-12-15T06:10:00+01:00",
+"i": "https://gfx.nrk.no/Jo_A0fFEMBeNzvTt6fc2kA603E0W9AY4Sr_SqR39Qjsg",
+"n": 786,
+"s": "Når Daidalos' glitrende oppfinnelse havner i slimsjøen, skjer det noe mystisk. Alt blir større, og noe kommer opp av sjøen.\n",
+"t": "Monsteret i slimsjøen",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/832d6bef-5177-417e-b7da-a6d60cc678dc_0_ID192MP3.mp3"
+},
+"l_eada7833-0ed6-4a2f-9a78-330ed66a2fe3": {
+"d": "2023-12-15T06:07:00+01:00",
+"i": "https://gfx.nrk.no/Jo_A0fFEMBeNzvTt6fc2kA603E0W9AY4Sr_SqR39Qjsg",
+"n": 715,
+"s": "Taurus drømmer om å bli rockestjerne, og robotene vil være med i bandet. De må bare ikke spille for høyt!",
+"t": "Labyrintbandet",
+"u": "https://podkast.nrk.no/fil/labyrint_om_natten/694c58bc-3da6-4e9d-b54f-63b6406ed8d6_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Barn",
+"id": "labyrint_om_natten",
+"image": "https://gfx.nrk.no/7Fyx-OuTaNc-W4fB_LG2eQzHGdknERLUhaFEnHfF-HVQ",
+"subtitle": "Mens Daidalos og Daidalosa sover om natten, blir Labyrinten til robotenes lekeplass. Da kan de gjøre hva de vil – så lenge de ikke blir oppdaget!",
+"title": "Labyrint om natten"
+},
+"v": 2
 }

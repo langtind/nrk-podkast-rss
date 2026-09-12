@@ -1,6 +1,44 @@
 {
-"l_3f70f5e4-d80d-455b-b0f5-e4d80d555bcc": "https://podkast.nrk.no/fil/i_elsa_laulas_fotspor/i_elsa_laulas_fotspor_2019-01-23_0800_1333.MP3",
-"l_badc4e20-729d-4dd6-9c4e-20729d4dd63d": "https://podkast.nrk.no/fil/i_elsa_laulas_fotspor/i_elsa_laulas_fotspor_2019-01-30_0800_480.MP3",
-"l_cf2fafcd-1040-47ee-afaf-cd104047ee67": "https://podkast.nrk.no/fil/i_elsa_laulas_fotspor/i_elsa_laulas_fotspor_2019-01-16_0800_1066.MP3",
-"l_f8fbd8fd-8e15-47f8-bbd8-fd8e1537f8b7": "https://podkast.nrk.no/fil/i_elsa_laulas_fotspor/i_elsa_laulas_fotspor_2019-02-06_0800_3160.MP3"
+"episodes": {
+"l_3f70f5e4-d80d-455b-b0f5-e4d80d555bcc": {
+"d": "2019-01-23T09:00:00+01:00",
+"i": "https://gfx.nrk.no/ZTRwQma2nm6alSZZGeAg4ArSJ1LU6eO3xVMlj5s4NZIA",
+"n": 1464,
+"s": "Sørsamiske Eva Maria Fjellheim forteller om et gammelt bilde av sin oldemor, som hennes far fant i skapet i sitt barndomshjem. Bildet er utgangspunktet for en reise i den norske og svenske rasebiologiens historie.  \nMusikk av Bárut - Inga Juuso/Máttarahkku og Frode Fjellheim/Aejlies Gaaltije.",
+"t": "Et bilde kan forandre (2:4)",
+"u": "https://podkast.nrk.no/fil/i_elsa_laulas_fotspor/i_elsa_laulas_fotspor_2019-01-23_0800_1333.MP3"
+},
+"l_badc4e20-729d-4dd6-9c4e-20729d4dd63d": {
+"d": "2019-01-30T09:00:00+01:00",
+"i": "https://gfx.nrk.no/ZTRwQma2nm6alSZZGeAg4ArSJ1LU6eO3xVMlj5s4NZIA",
+"n": 1650,
+"s": "Tre generasjoner samiske kvinner kjemper den samme kampen. Hvis samisk språk, kultur og kunnskap skal overleve, er retten til land og vann helt sentral. 40 år etter Alta-saken er striden om naturressursene fortsatt like aktuell. Musikk av Frode Fjellheim/Fjellet",
+"t": "Baajh vaeride årrodh! La fjella leve (3:4)",
+"u": "https://podkast.nrk.no/fil/i_elsa_laulas_fotspor/i_elsa_laulas_fotspor_2019-01-30_0800_480.MP3"
+},
+"l_cf2fafcd-1040-47ee-afaf-cd104047ee67": {
+"d": "2019-01-16T08:30:00+01:00",
+"i": "https://gfx.nrk.no/ZTRwQma2nm6alSZZGeAg4ArSJ1LU6eO3xVMlj5s4NZIA",
+"n": 1294,
+"s": "Reineier Jovvset Ánte Sara kjemper mot staten for å slippe å slakte ned reinflokken sin fra 350 til 75 dyr. Med i kampen er søsteren hans, Máret Anne Sara, som gjennom kunstprosjektet Pile o Sápmi har fått oppmerksomhet verden over. Musikk av Marja Mortensson/Stuora Várrie og Sofia Jannok/Snölejoninna.\n",
+"t": "400 reinskaller, 400 kulehull (1:4)",
+"u": "https://podkast.nrk.no/fil/i_elsa_laulas_fotspor/i_elsa_laulas_fotspor_2019-01-16_0800_1066.MP3"
+},
+"l_f8fbd8fd-8e15-47f8-bbd8-fd8e1537f8b7": {
+"d": "2019-02-06T09:00:00+01:00",
+"i": "https://gfx.nrk.no/ZTRwQma2nm6alSZZGeAg4ArSJ1LU6eO3xVMlj5s4NZIA",
+"n": 1219,
+"s": "Den unge generasjonen som skal forme framtidas Sápmi bærer på et stort ansvar. Møt fire unge samiske kvinner som på hver sin måte kjemper for å styrke samiske språk, tradisjoner, kunnskap og rettigheter.  Musikk av Marja Mortensson/Svahken vuelie og Delvieh.\n",
+"t": "Delvieh - Det som har vært borte kommer til syne (4:4)",
+"u": "https://podkast.nrk.no/fil/i_elsa_laulas_fotspor/i_elsa_laulas_fotspor_2019-02-06_0800_3160.MP3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "i_elsa_laulas_fotspor",
+"image": "https://gfx.nrk.no/ZTRwQma2nm6alSZZGeAg4ArSJ1LU6eO3xVMlj5s4NZIA",
+"subtitle": "Hvorfor er det så viktig å aksjonere, belyse og stå opp for samiske rettigheter? \"I Elsa Laulas fotspor gjennom Sápmi\" er en serie om samisk rettighetskamp gjennom 100 år fortalt av samiske kvinner. Vi møter reineiere, etterkommere av rasebiologiens ofre, aksjonister, musikere og kunstnere som kjemper for å bevare samiske rettigheter. Serien er laget av Eva Maria Fjellheim, Ingrid Fadnes, Susanne Normann og Astrid Fadnes. Klipper og veileder: Kjersti Kanestrøm Lie. Serien er laget i samarbeid med radiOrakel med støtte fra Fritt Ord og Sametinget.",
+"title": "I Elsa Laulas fotspor"
+},
+"v": 2
 }

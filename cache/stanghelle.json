@@ -1,111 +1,884 @@
 {
-"l_033d82db-9e8f-47f0-bd82-db9e8f97f04c": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-11_1300_829.MP3",
-"l_0492c01e-49d8-43e4-92c0-1e49d8a3e455": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-08-30_1513_575.MP3",
-"l_07bb5c71-4771-47b8-bb5c-71477127b873": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-15_1338_2936.MP3",
-"l_0be45a48-3a62-49f0-a45a-483a6249f077": "https://podkast.nrk.no/fil/stanghelle/617be142-ea03-4f98-afa5-34b81addd257_0_ID192MP3.mp3",
-"l_0d582701-ebff-480e-9827-01ebff380e57": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-05-03_1308_2271.MP3",
-"l_0fb5f1f1-a7e2-41c9-b5f1-f1a7e251c938": "https://podkast.nrk.no/fil/stanghelle/2d13aff1-8ce0-4efe-a6ef-a8d18d2484e7_0_ID192MP3.mp3",
-"l_113e8fbd-0e4e-4a56-be8f-bd0e4efa56e6": "https://podkast.nrk.no/fil/stanghelle/a729a717-0634-4e4d-8474-f780d0d0052f_0_ID192MP3.mp3",
-"l_136e68eb-2349-405a-ae68-eb2349205a8c": "https://podkast.nrk.no/fil/stanghelle/15bee837-2678-47fc-b2d4-9ede616e298b_0_ID192MP3.mp3",
-"l_16592b2d-9c9c-4097-992b-2d9c9c9097d8": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-20_1340_3294.MP3",
-"l_16a7a37f-733b-40b5-a7a3-7f733b10b5a6": "https://podkast.nrk.no/fil/stanghelle/543a7378-ff14-421e-b5be-eb351886b809_0_ID192MP3.mp3",
-"l_185015f8-4851-4dd8-9015-f848512dd834": "https://podkast.nrk.no/fil/stanghelle/f4c0519c-526d-47c0-94b9-c673f9592500_0_ID192MP3.mp3",
-"l_1df0a783-7d6b-492e-b0a7-837d6bf92e53": "https://podkast.nrk.no/fil/stanghelle/66111ffe-a071-484b-bb4d-c42b97c86573_0_ID192MP3.mp3",
-"l_1f0dc402-56c8-42f9-8dc4-0256c802f9c3": "https://podkast.nrk.no/fil/stanghelle/57fa86ca-c3a0-4165-a4b5-03ccd5939683_0_ID192MP3.mp3",
-"l_1f4fb795-a47a-472c-8fb7-95a47a472c49": "https://podkast.nrk.no/fil/stanghelle/a9e814b7-150f-4303-abf6-f463ec9dc3bc_0_ID192MP3.mp3",
-"l_232649c1-5dbd-4104-a649-c15dbd910419": "https://podkast.nrk.no/fil/stanghelle/ffb4776e-fa9e-4db5-a153-88e091a7249a_0_ID192MP3.mp3",
-"l_245269a1-03bb-46bf-9269-a103bbb6bf98": "https://podkast.nrk.no/fil/stanghelle/51479606-ddc0-4852-b377-49b2f28fc845_0_ID192MP3.mp3",
-"l_2c563145-8b98-4d63-9631-458b98ed63cf": "https://podkast.nrk.no/fil/stanghelle/a5ffe4a2-6dca-4cd7-b111-e9e23626873b_0_ID192MP3.mp3",
-"l_2edf08ff-aa8a-4665-9f08-ffaa8af66559": "https://podkast.nrk.no/fil/stanghelle/e3a53b73-d638-488e-a08f-1d62a0dc4df6_0_ID192MP3.mp3",
-"l_32ca6609-5b9b-420a-8a66-095b9b720acb": "https://podkast.nrk.no/fil/stanghelle/eac54a3d-82d4-4889-b07b-daca6ea9e36a_0_ID192MP3.mp3",
-"l_360bea6c-7853-49a4-8bea-6c785359a484": "https://podkast.nrk.no/fil/stanghelle/319e80da-7c43-4b6d-a4cb-656a08974a6b_0_ID192MP3.mp3",
-"l_363b5c7c-10a5-4c4d-bb5c-7c10a5ac4d54": "https://podkast.nrk.no/fil/stanghelle/e5ec9dea-1f04-4b1c-8ccc-706ee36ff6fa_0_ID192MP3.mp3",
-"l_373169fc-17ff-41ff-b169-fc17ff61fffc": "https://podkast.nrk.no/fil/stanghelle/b4f774e2-1997-4484-a2c7-c6b6f5419a33_0_ID192MP3.mp3",
-"l_3987fc47-ad30-4dd6-87fc-47ad304dd6c5": "https://podkast.nrk.no/fil/stanghelle/eff5cbac-87e4-4831-843b-dd6dd83956c6_0_ID192MP3.mp3",
-"l_3b3a63de-43db-46a6-ba63-de43db56a6c5": "https://podkast.nrk.no/fil/stanghelle/a0080e3c-3d7f-4c4e-86c4-95ceefa0a788_0_ID192MP3.mp3",
-"l_3be73afb-c4af-4749-a73a-fbc4af174906": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-04_1238_1869.MP3",
-"l_3bf15ea5-a631-43eb-b15e-a5a63153eb16": "https://podkast.nrk.no/fil/stanghelle/7bdccea9-4a01-474a-a510-fc65d8736470_0_ID192MP3.mp3",
-"l_3d06045c-d755-48d2-8604-5cd755d8d28d": "https://podkast.nrk.no/fil/stanghelle/4436ef50-6885-4ff2-a9aa-e7f617e6ab0c_0_ID192MP3.mp3",
-"l_3d18b3bb-77c8-4c01-98b3-bb77c83c0197": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-13_1331_2716.MP3",
-"l_41891fad-0f90-418b-891f-ad0f90918bd1": "https://podkast.nrk.no/fil/stanghelle/0682cfe6-ef58-477c-b363-67f4139db9bd_0_ID192MP3.mp3",
-"l_44689656-67f5-4e3f-a896-5667f56e3ff1": "https://podkast.nrk.no/fil/stanghelle/cdcee939-ca05-44be-9716-20866d18f447_0_ID192MP3.mp3",
-"l_484d9229-7b03-4576-8d92-297b037576d7": "https://podkast.nrk.no/fil/stanghelle/be295ff4-faf2-48e9-92b9-02c0450944d7_0_ID192MP3.mp3",
-"l_48e1427a-08f8-4b68-a142-7a08f8fb68f9": "https://podkast.nrk.no/fil/stanghelle/9df0adf9-d422-49ef-868a-7972217f1e8a_0_ID192MP3.mp3",
-"l_4c4ea5c5-7e19-42bb-8ea5-c57e1942bbc4": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-03_1412_1123.MP3",
-"l_4cd60428-d62e-40c7-9604-28d62ea0c7df": "https://podkast.nrk.no/fil/stanghelle/7ab9fd3d-8bbc-4628-b662-89f2be3c469a_0_ID192MP3.mp3",
-"l_4d0e88db-77e0-45c9-8e88-db77e065c936": "https://podkast.nrk.no/fil/stanghelle/9fa21983-d9a4-4923-b54a-54175ee3c4a0_0_ID192MP3.mp3",
-"l_4d33c305-4ecd-411d-b3c3-054ecd711da9": "https://podkast.nrk.no/fil/stanghelle/3a3b2ddc-8667-4e63-b4da-d2cd69b70c4d_0_ID192MP3.mp3",
-"l_4d45c98a-b99c-4119-85c9-8ab99c911915": "https://podkast.nrk.no/fil/stanghelle/b2b88e1d-12a4-43d4-ac1b-442bab36dbc8_0_ID192MP3.mp3",
-"l_4e38d9cc-87a8-4628-b8d9-cc87a896282c": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-21_1200_3357.MP3",
-"l_50448566-d601-47a4-8485-66d60167a4fd": "https://podkast.nrk.no/fil/stanghelle/76069440-b81c-4005-963e-968fbf98a1de_0_ID192MP3.mp3",
-"l_510e49da-4c41-459d-8e49-da4c41259d6f": "https://podkast.nrk.no/fil/stanghelle/ac1d0a79-2d2e-4ecc-b1e4-7f85f8321d30_0_ID192MP3.mp3",
-"l_53e8506c-e384-489e-a850-6ce384a89eea": "https://podkast.nrk.no/fil/stanghelle/34240424-e4b2-48d1-bd2f-08c43c7bd49e_0_ID192MP3.mp3",
-"l_5523269b-fdcf-476f-a326-9bfdcfb76f66": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-08_1406_482.MP3",
-"l_552f83b9-febe-43c8-af83-b9febe23c85b": "https://podkast.nrk.no/fil/stanghelle/cefdf55c-d763-4b98-b0da-6ac842ed6566_0_ID192MP3.mp3",
-"l_5f529d3f-4809-41fd-929d-3f480971fd3b": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-08_1143_1447.MP3",
-"l_609182df-f80a-4e45-9182-dff80a7e4585": "https://podkast.nrk.no/fil/stanghelle/b5070129-17be-42e5-8b42-35f47e399ef4_0_ID192MP3.mp3",
-"l_62be7539-cfcb-4804-be75-39cfcbd804a1": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-01_1345_872.MP3",
-"l_6948ce4b-f9ff-4ff2-88ce-4bf9ffaff28b": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-08-26_1505_3555.MP3",
-"l_6a0e2498-02ba-4cc7-8e24-9802badcc7ed": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-14_1200_1496.MP3",
-"l_6c1ca4e9-ac08-4c4f-9ca4-e9ac088c4fb4": "https://podkast.nrk.no/fil/stanghelle/6b0c301f-e1fd-43be-b982-871f3a86ec1a_0_ID192MP3.mp3",
-"l_6d3c66a5-3386-4024-bc66-a5338620245b": "https://podkast.nrk.no/fil/stanghelle/d2b2be7c-96de-4e3e-ad31-02106f4db206_0_ID192MP3.mp3",
-"l_6e155642-1122-485f-9556-421122e85fc0": "https://podkast.nrk.no/fil/stanghelle/7392740f-9664-4281-85b5-7e232d1065c3_0_ID192MP3.mp3",
-"l_71bd57c7-c34e-4966-bd57-c7c34e896659": "https://podkast.nrk.no/fil/stanghelle/f992f8c7-700d-4ed2-984e-5c611b17028c_0_ID192MP3.mp3",
-"l_74dc3ad3-df90-40ec-9c3a-d3df90b0ecbd": "https://podkast.nrk.no/fil/stanghelle/b88e3d28-866f-44f3-8329-aa880140fe57_0_ID192MP3.mp3",
-"l_76024587-f946-4785-8245-87f946e785bd": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-14_1200_464.MP3",
-"l_78731eee-ea16-49e0-b31e-eeea16d9e098": "https://podkast.nrk.no/fil/stanghelle/c69b5b2e-8f0d-4e72-be44-0a8bb3a972fa_0_ID192MP3.mp3",
-"l_78997930-ad17-4d91-9979-30ad174d9163": "https://podkast.nrk.no/fil/stanghelle/6a1c1c22-6ef5-450d-a6ae-03b4f065e603_0_ID192MP3.mp3",
-"l_81cbaebc-777e-4179-8bae-bc777e5179f0": "https://podkast.nrk.no/fil/stanghelle/c51093a1-6e5a-4d1e-8a18-1bb5d836f5ba_0_ID192MP3.mp3",
-"l_83bc1e9f-033d-4264-bc1e-9f033d0264fb": "https://podkast.nrk.no/fil/stanghelle/0d202ae7-2d61-415c-97c0-577dea61ba9d_0_ID192MP3.mp3",
-"l_86e2f79e-87dd-4904-a2f7-9e87dd090484": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-27_1341_1959.MP3",
-"l_881a16c2-40db-4d0b-9a16-c240db3d0bb1": "https://podkast.nrk.no/fil/stanghelle/34691ea9-1c2b-4360-89f4-2bc62514ea74_0_ID192MP3.mp3",
-"l_899910d9-f070-4c1d-9910-d9f0703c1dca": "https://podkast.nrk.no/fil/stanghelle/dd37fa13-ed82-4400-aacb-377823c98e74_0_ID192MP3.mp3",
-"l_8c849df3-8caa-44e1-849d-f38caab4e179": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-06_1328_2982.MP3",
-"l_8d94676d-f2cd-4991-9467-6df2cdf9912d": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-25_1230_1739.MP3",
-"l_932d4256-d1ae-4860-ad42-56d1ae8860c5": "https://podkast.nrk.no/fil/stanghelle/52c7376e-9223-411d-a6f3-ce7675d5067b_0_ID192MP3.mp3",
-"l_9395d05a-bfbc-44b5-95d0-5abfbcc4b5ce": "https://podkast.nrk.no/fil/stanghelle/feeac663-801c-401c-b105-9b20414985e8_0_ID192MP3.mp3",
-"l_94f9facc-e943-42a4-b9fa-cce94302a46d": "https://podkast.nrk.no/fil/stanghelle/2cb63ae2-c467-4d80-9a05-04518906a91c_0_ID192MP3.mp3",
-"l_956d717c-3b59-493e-ad71-7c3b59d93e0e": "https://podkast.nrk.no/fil/stanghelle/fe9ead18-7c7c-4d8a-8396-c3ab3a997283_0_ID192MP3.mp3",
-"l_9758bf23-a039-4b16-98bf-23a039bb1648": "https://podkast.nrk.no/fil/stanghelle/7d5e461c-96ae-41da-84e0-f5044d041522_0_ID192MP3.mp3",
-"l_9810d121-6a5d-413e-90d1-216a5da13e7c": "https://podkast.nrk.no/fil/stanghelle/b0ecbeb8-c6b9-4ad3-aff1-686e0f4a340f_0_ID192MP3.mp3",
-"l_9c4ac13d-9ac3-48aa-8ac1-3d9ac308aa1e": "https://podkast.nrk.no/fil/stanghelle/16124aa1-7138-4b7b-b5f9-7ee4bd3de3b5_0_ID192MP3.mp3",
-"l_9dadca83-9ec6-489a-adca-839ec6b89a3b": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-22_1330_1821.MP3",
-"l_9de17a93-ecc9-4044-a17a-93ecc9d0443d": "https://podkast.nrk.no/fil/stanghelle/a0ef5236-910b-471d-9325-8b94e6d2e3a8_0_ID192MP3.mp3",
-"l_9f09cd88-6974-4850-89cd-886974185029": "https://podkast.nrk.no/fil/stanghelle/4386bce5-0c16-4194-9bf3-233519262cb6_0_ID192MP3.mp3",
-"l_a139203d-bb08-4d76-b920-3dbb08cd76aa": "https://podkast.nrk.no/fil/stanghelle/4553b99a-b733-41bb-bd03-bd651b7ceb7f_0_ID192MP3.mp3",
-"l_a1eeb8a1-8b43-4aea-aeb8-a18b431aea08": "https://podkast.nrk.no/fil/stanghelle/8e1e2c5d-5301-4e3b-ba00-d785c5ff96ca_0_ID192MP3.mp3",
-"l_a88abcd4-6e0d-4114-8abc-d46e0d211436": "https://podkast.nrk.no/fil/stanghelle/4d683436-bc67-499e-83d3-507ed4d23dda_0_ID192MP3.mp3",
-"l_aad72c00-d3b3-4681-972c-00d3b30681f6": "https://podkast.nrk.no/fil/stanghelle/02bc53fe-bb31-474c-b068-15c70482ae21_0_ID192MP3.mp3",
-"l_b1118a30-9d4d-47ab-918a-309d4d57ab6d": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-05-24_1338_3599.MP3",
-"l_b25587f3-517e-4012-9587-f3517ef01259": "https://podkast.nrk.no/fil/stanghelle/3429a9b5-db09-4cd6-9740-0248cdcc4e83_0_ID192MP3.mp3",
-"l_b33a66bf-3e38-4496-ba66-bf3e38649679": "https://podkast.nrk.no/fil/stanghelle/f81dc113-9d8a-4440-826a-ac7e26ae807a_0_ID192MP3.mp3",
-"l_b4c20a80-1097-4526-820a-80109755261a": "https://podkast.nrk.no/fil/stanghelle/cbe0646b-3932-4cce-b147-1a70dcebed9f_0_ID192MP3.mp3",
-"l_b537c21d-f90f-44f2-b7c2-1df90f34f27f": "https://podkast.nrk.no/fil/stanghelle/d8612eaf-7825-44df-ad78-c3c98f121046_0_ID192MP3.mp3",
-"l_b8d94b16-2113-4a47-994b-1621132a4790": "https://podkast.nrk.no/fil/stanghelle/6c54091f-2269-4114-a3a7-b2f2a45c6fef_0_ID192MP3.mp3",
-"l_c052e05d-cc75-4a0f-92e0-5dcc759a0ff9": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-07_1244_3491.MP3",
-"l_c136d809-8580-42d5-b6d8-098580a2d585": "https://podkast.nrk.no/fil/stanghelle/05472983-cdd8-4224-9e1b-b05cfc9aa578_0_ID192MP3.mp3",
-"l_c2c2414a-80de-4248-8241-4a80de9248f1": "https://podkast.nrk.no/fil/stanghelle/92982d66-acab-4a8e-b245-234a4f856b6a_0_ID192MP3.mp3",
-"l_c5178b82-fb73-438a-978b-82fb73538a39": "https://podkast.nrk.no/fil/stanghelle/8e38a9f9-7281-4c62-a36a-af477d647bc6_0_ID192MP3.mp3",
-"l_c7a1ff56-d0f4-4d5f-a1ff-56d0f42d5fa0": "https://podkast.nrk.no/fil/stanghelle/9ad04dca-725e-4792-a48e-f762c405908c_0_ID192MP3.mp3",
-"l_c91ba776-7765-481a-9ba7-767765b81aa5": "https://podkast.nrk.no/fil/stanghelle/b59be43a-1a6c-40a1-8010-ba21239b308c_0_ID192MP3.mp3",
-"l_ce2c3573-e1a5-4261-ac35-73e1a5a26185": "https://podkast.nrk.no/fil/stanghelle/34f217e4-7135-4e5b-ba1c-efd5d2601649_0_ID192MP3.mp3",
-"l_ce7536ad-19fc-4dbd-b536-ad19fccdbd48": "https://podkast.nrk.no/fil/stanghelle/171e4e13-b25a-4e82-8391-03f74b532213_0_ID192MP3.mp3",
-"l_db450531-11bd-4c2e-8505-3111bdbc2efe": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-09-13_1235_2252.MP3",
-"l_dd2f7fe4-a6aa-4d9d-af7f-e4a6aa4d9d0e": "https://podkast.nrk.no/fil/stanghelle/c6fa119b-ba13-4270-a3ea-52c6c1a0edfa_0_ID192MP3.mp3",
-"l_e2b76434-d415-42b3-b764-34d415e2b392": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-12_1247_378.MP3",
-"l_e356787b-d8e5-4f21-9678-7bd8e5df2166": "https://podkast.nrk.no/fil/stanghelle/bbf1fe0c-33ec-47f2-9b34-58fdb6124e25_0_ID192MP3.mp3",
-"l_e533bc4f-8730-4fef-b3bc-4f87302fef25": "https://podkast.nrk.no/fil/stanghelle/ad804796-847e-45b5-9210-d823edfa8c46_0_ID192MP3.mp3",
-"l_e53cbae0-2f5c-47a5-bcba-e02f5c47a560": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-03_1415_1498.MP3",
-"l_e639915e-fac6-4eb0-b991-5efac63eb035": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-18_1230_3788.MP3",
-"l_ea57be21-03bc-43b3-97be-2103bcc3b38f": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-26_1338_339.MP3",
-"l_ee309e6d-b5d7-4327-b09e-6db5d7e327ff": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-08_1137_1214.MP3",
-"l_f14beb56-12b2-47f7-8beb-5612b2c7f79e": "https://podkast.nrk.no/fil/stanghelle/e0c5b700-9019-4f8a-a312-0e68d2a8fc5a_0_ID192MP3.mp3",
-"l_f3afdc64-43ea-4c96-afdc-6443eaec9680": "https://podkast.nrk.no/fil/stanghelle/c7ff9200-fee0-45d2-9ee6-bc82fcf341ac_0_ID192MP3.mp3",
-"l_f626e3e1-5aa2-4a38-a6e3-e15aa2fa383c": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-05-10_1240_3013.MP3",
-"l_f7aa9614-82be-4e7a-aa96-1482be8e7ac2": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-29_1324_846.MP3",
-"l_f83ee4e1-4dc5-4fe2-bee4-e14dc5bfe276": "https://podkast.nrk.no/fil/stanghelle/8e9d9f73-a146-43d7-9dab-2af857750dbb_0_ID192MP3.mp3",
-"l_f891df19-af5e-405b-91df-19af5e505bf3": "https://podkast.nrk.no/fil/stanghelle/574b7e50-83e3-4697-9555-411f1185d254_0_ID192MP3.mp3",
-"l_fab08156-8bf4-45ab-b081-568bf4c5ab2d": "https://podkast.nrk.no/fil/stanghelle/00ecd95f-23c3-4d01-9c2c-19d195839df4_0_ID192MP3.mp3",
-"l_fb0ddc70-b1c5-48ae-8ddc-70b1c588ae24": "https://podkast.nrk.no/fil/stanghelle/710fe454-f84b-4118-92a6-607801f0e342_0_ID192MP3.mp3",
-"l_fb8fe256-cb4a-4a87-8fe2-56cb4a1a8730": "https://podkast.nrk.no/fil/stanghelle/a847e2ff-f68f-4166-81cb-e0f983b2b914_0_ID192MP3.mp3"
+"episodes": {
+"l_033d82db-9e8f-47f0-bd82-db9e8f97f04c": {
+"d": "2019-10-11T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1370,
+"s": "Geir Lundestad var sekretær for Den norske Nobelkomite gjennom 25 år. Sammen med Harald Stanghelle deler han historier, anekdoter og muntre minner fra disse årene",
+"t": "Stanghelle: Nobels fredspriser gjennom historien, med Geir Lundestad",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-11_1300_829.MP3"
+},
+"l_0492c01e-49d8-43e4-92c0-1e49d8a3e455": {
+"d": "2019-08-30T17:13:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1059,
+"s": "Harald Stanghelle har invitert tidligere SP-leder Anne Enger, og tidligere KrF-leder Valgerd Svarstad Haugland til samtale om valgkampen slik den utfolder seg nå, og om deres minner og historier fra den gang de var aktive politikere.\nHør \"Stanghelle på fredag\", i P1+ kl. 12:30 til 14:00.",
+"t": "Anne Enger og Valgerd Svarstad Haugland møter Stanghelle",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-08-30_1513_575.MP3"
+},
+"l_07bb5c71-4771-47b8-bb5c-71477127b873": {
+"d": "2019-11-15T14:38:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1202,
+"s": "Vårin Alme og Hans Olav Lahlum om demokrater og republikanere, Trump, høringer og riksrett. Ja, og selvsagt; hvordan er posisjoner og muligheter foran neste års valg? ",
+"t": "Stanghelle om USA, demokrater og republikanere",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-15_1338_2936.MP3"
+},
+"l_0be45a48-3a62-49f0-a45a-483a6249f077": {
+"d": "2021-03-26T12:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1138,
+"s": "Nyhetene kan g¨oss på nervene - men behøver nyheter være så negative..kan de være konstruktive, og samtidig kritiske?",
+"t": "Stanghelle på fredag 26.03.21",
+"u": "https://podkast.nrk.no/fil/stanghelle/617be142-ea03-4f98-afa5-34b81addd257_0_ID192MP3.mp3"
+},
+"l_0d582701-ebff-480e-9827-01ebff380e57": {
+"d": "2019-05-03T15:08:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1006,
+"s": "Harald Stanghelle møter Aud Korbøl og Shazia Majid. Aud Korbøl forsket blant den aller første gruppen pakistanske menn som søkte arbeid i Norge i begynnelsen av 1970-årene. Femti år etter publiseres hennes forskning for et større publikum. Shazia Majid har nettopp lansert boka \"Ut av skyggene\" - en fortelling om moren og hennes generasjon kvinner. Hør samtalen om en pionergenerasjonen blant pakistanske innvandrere til Norge.",
+"t": "Harald Stanghelle møter Aud Korbøl og Shazia Majid",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-05-03_1308_2271.MP3"
+},
+"l_0fb5f1f1-a7e2-41c9-b5f1-f1a7e251c938": {
+"d": "2021-12-17T14:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1177,
+"s": "Harald Stanghelle oppsummerer regjeringens først høst. Det gjør han sammen med Tone Sofie Aglen, kommentator i VG, og Hege Ulstein fra Dagsavisen.",
+"t": "17.12.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/2d13aff1-8ce0-4efe-a6ef-a8d18d2484e7_0_ID192MP3.mp3"
+},
+"l_113e8fbd-0e4e-4a56-be8f-bd0e4efa56e6": {
+"d": "2021-01-22T13:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1237,
+"s": "Carl I Hagen ligger an til å bli den eneste 70-åringen på Stortinget i neste periode. Er det et problem? Hvorfor er representantene ellers så unge?",
+"t": "Stanghelle på fredag 22.01.21",
+"u": "https://podkast.nrk.no/fil/stanghelle/a729a717-0634-4e4d-8474-f780d0d0052f_0_ID192MP3.mp3"
+},
+"l_136e68eb-2349-405a-ae68-eb2349205a8c": {
+"d": "2021-03-05T12:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1091,
+"s": "To tidligere franske ledere har møtt i retten denne uken. Hva er det med Frankrike og politikk, og hvordan går det med valget om et år?",
+"t": "Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/15bee837-2678-47fc-b2d4-9ede616e298b_0_ID192MP3.mp3"
+},
+"l_16592b2d-9c9c-4097-992b-2d9c9c9097d8": {
+"d": "2019-12-20T14:40:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 932,
+"s": "Kristin Skogen Lund forteller historien om sin far, motstandsmannen Olav Skogen fra Rjukan. Han tok stor risiko i motstandarbeidet, ble angitt og utsatt for fryktelig tortur før han ble sendt til leiren Natzweiler i Tyskland. Arven og loddet han og familien bar etter frigjøringen var en del av oppveksten til Kristin, og er nærværende i liv og livsanskuelse den dag i dag.. ",
+"t": "20.12.2019  Stanghelle på fredag. Krigens arvinger.",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-20_1340_3294.MP3"
+},
+"l_16a7a37f-733b-40b5-a7a3-7f733b10b5a6": {
+"d": "2020-01-17T15:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1058,
+"s": "Fem år etter attentatet og drapene i redaksjonen til det franske satiremagasinet \"Charlie Ebdo\"; hvordan er vilkårene for satire mot islamske tabu og profeten i dag? Historien om satiren mot Gud og Jesus slik den kom til uttrykk i filmen \"Life of Brian\" og musikalen \"Jesus Christ Superstar\" endret vårt forhold til blasfemi. Kan en tilsvarende utvikling spores i forhold til satire mot Islam? Spørsmålene drøftes av Shabana Rehman Gaarder og Anders Giæver - i samtale med Harald Stanghelle. ",
+"t": "Stanghelle på fredag 17.01.20: Om Gud, Allah og satire ",
+"u": "https://podkast.nrk.no/fil/stanghelle/543a7378-ff14-421e-b5be-eb351886b809_0_ID192MP3.mp3"
+},
+"l_185015f8-4851-4dd8-9015-f848512dd834": {
+"d": "2020-03-13T15:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1200,
+"s": "Kjell Aukrust er mannen bak karakterer og folkekjære figurer som Solan Gundersen, Ludvig og Reodor Felgen. Torsdag 19.mars  ville han fylt hundre år. Tegneren, humoristen og maleren etterlater seg et fantasi-univers som i stor grad er folkeeie. Nevø Lars Espen Aukrust og filmskaper John M. Jacobsen deler minner og anekdoter med Harald Stanghelle.   ",
+"t": "Kjell Aukrust i hundre!",
+"u": "https://podkast.nrk.no/fil/stanghelle/f4c0519c-526d-47c0-94b9-c673f9592500_0_ID192MP3.mp3"
+},
+"l_1df0a783-7d6b-492e-b0a7-837d6bf92e53": {
+"d": "2021-09-03T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1195,
+"s": "En av Norges mest anerkjente humorister, Robert Stoltenberg er gjest. Han snakker om humoren før og nå, prøver seg på et par politiske analyser og forteller alt om sin hektiske høst. ",
+"t": "Stanghelle på fredag 030921",
+"u": "https://podkast.nrk.no/fil/stanghelle/66111ffe-a071-484b-bb4d-c42b97c86573_0_ID192MP3.mp3"
+},
+"l_1f0dc402-56c8-42f9-8dc4-0256c802f9c3": {
+"d": "2021-02-19T12:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1176,
+"s": "Kim Rysstad har sunget inn Draumkvedet sammen med Kringkastingsorkesteret. Hvor kommer dete mysteriøse middelalderkvadet fra, og hvorfor har Kirken hatt så mye i mot det?",
+"t": "Stanghelle om Draumkvedet",
+"u": "https://podkast.nrk.no/fil/stanghelle/57fa86ca-c3a0-4165-a4b5-03ccd5939683_0_ID192MP3.mp3"
+},
+"l_1f4fb795-a47a-472c-8fb7-95a47a472c49": {
+"d": "2021-05-21T13:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1129,
+"s": "India er midt i en alvorlig koronakrise. Men det er ikke den eneste krisen i India.",
+"t": "Stanghelle på fredag 21.05.21",
+"u": "https://podkast.nrk.no/fil/stanghelle/a9e814b7-150f-4303-abf6-f463ec9dc3bc_0_ID192MP3.mp3"
+},
+"l_232649c1-5dbd-4104-a649-c15dbd910419": {
+"d": "2020-06-19T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1059,
+"s": "Redaktørene Irene Halvorsen, Nationen, og Trine Eilertsen, Aftenposten, ser tilbake på et politisk halvår preget av unntakstilstand i landet vårt. Hvor står partiene og koalisjonene nå, og hva vil prege politikken i høst - og frem mot valget neste år?   ",
+"t": "En politisk oppsummering ved midtsommer. ",
+"u": "https://podkast.nrk.no/fil/stanghelle/ffb4776e-fa9e-4db5-a153-88e091a7249a_0_ID192MP3.mp3"
+},
+"l_245269a1-03bb-46bf-9269-a103bbb6bf98": {
+"d": "2021-03-12T12:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1245,
+"s": "For femti år siden startet Trygve Hegnar bladet Kapital hjemme på kjøkkenbordet. Femti år senere forteller han hvordan norsk økonomijournalistikk har utviklet seg på disse årene",
+"t": "12.03.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/51479606-ddc0-4852-b377-49b2f28fc845_0_ID192MP3.mp3"
+},
+"l_2c563145-8b98-4d63-9631-458b98ed63cf": {
+"d": "2020-09-25T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 991,
+"s": "Berit Rickhard har skrevet bøkene \"Fra sjømann til soldat\" og \"Det var hjem vi sjøfolk skulle\". Tema er skjebnen og smerten som ble krigsseilerne og deres familier til del. \"Det var hjem vi sjøfolk skulle\" er et møte med femten barn av krigsseilere som skildrer skammen og tausheten de var omgitt av.  ",
+"t": "Krigsseilernes barn forteller",
+"u": "https://podkast.nrk.no/fil/stanghelle/a5ffe4a2-6dca-4cd7-b111-e9e23626873b_0_ID192MP3.mp3"
+},
+"l_2edf08ff-aa8a-4665-9f08-ffaa8af66559": {
+"d": "2020-09-04T14:40:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1014,
+"s": "Linn Skåber har skrevet om regulering, kjærlighetssorg og møter med ungdom. Nå har hun fordypet seg i voksenlivet.",
+"t": "Stanghelle på fredag med Linn Skåber",
+"u": "https://podkast.nrk.no/fil/stanghelle/e3a53b73-d638-488e-a08f-1d62a0dc4df6_0_ID192MP3.mp3"
+},
+"l_32ca6609-5b9b-420a-8a66-095b9b720acb": {
+"d": "2020-05-29T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1216,
+"s": "Valgloven kan bli endret. Et utvalg vil blant annet sette nes stemmerettsalderen. Valglovene og praktisering av stemmeretten har gjennomgått store endringer siden vi fikk en egen grunnlov i 1814. Bernt Aardal kan den historien. ",
+"t": "Historien om valglovene i Norge",
+"u": "https://podkast.nrk.no/fil/stanghelle/eac54a3d-82d4-4889-b07b-daca6ea9e36a_0_ID192MP3.mp3"
+},
+"l_360bea6c-7853-49a4-8bea-6c785359a484": {
+"d": "2021-01-29T13:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1172,
+"s": "Tiden står stille for mange under pandemien. Men hva er tid? Det varierer etter omstendighet og kultur.",
+"t": "29.01.2021 Stanghelle om tid",
+"u": "https://podkast.nrk.no/fil/stanghelle/319e80da-7c43-4b6d-a4cb-656a08974a6b_0_ID192MP3.mp3"
+},
+"l_363b5c7c-10a5-4c4d-bb5c-7c10a5ac4d54": {
+"d": "2020-06-05T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1218,
+"s": "Visesangeren Lars Klevstrand deler tekster, historier og sanger av Evert Taube med Harald.",
+"t": "Evert Taube; sommerens trubadur og rimsmed",
+"u": "https://podkast.nrk.no/fil/stanghelle/e5ec9dea-1f04-4b1c-8ccc-706ee36ff6fa_0_ID192MP3.mp3"
+},
+"l_373169fc-17ff-41ff-b169-fc17ff61fffc": {
+"d": "2020-02-21T14:40:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 932,
+"s": "Harald Eia om Norge, nordmenn, sosiologi og samfunn. ",
+"t": "Harald Eia forklarer Norge",
+"u": "https://podkast.nrk.no/fil/stanghelle/b4f774e2-1997-4484-a2c7-c6b6f5419a33_0_ID192MP3.mp3"
+},
+"l_3987fc47-ad30-4dd6-87fc-47ad304dd6c5": {
+"d": "2020-10-09T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1343,
+"s": "\"Den ble borte, ble glemt!\" Over tretti år etter innspillinga ble det laget et album av musikken Kaare Ørnung og Arve Tellefsen festet til lydbånd i Rainbow studio i Oslo.",
+"t": "Haijn Kaare Ørnung og æ. Arve Tellefsen forteller.",
+"u": "https://podkast.nrk.no/fil/stanghelle/eff5cbac-87e4-4831-843b-dd6dd83956c6_0_ID192MP3.mp3"
+},
+"l_3b3a63de-43db-46a6-ba63-de43db56a6c5": {
+"d": "2020-02-14T14:45:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 989,
+"s": "Tidligere biskop i Oslo, nyfylt 85-åring  Gunnar Stålsett, besøker Harald Stanghelle.",
+"t": "Stanghelle på fredag 14.02.20",
+"u": "https://podkast.nrk.no/fil/stanghelle/a0080e3c-3d7f-4c4e-86c4-95ceefa0a788_0_ID192MP3.mp3"
+},
+"l_3be73afb-c4af-4749-a73a-fbc4af174906": {
+"d": "2019-10-04T14:38:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1082,
+"s": "Stortingspresident Tone Wilhelmsen Trøen og retoriker Jens Elmelund Kjeldsen drøfter språk og uttrykk i vårt politiske ordskifte. Hvordan holde en anstendig og respektfull stil, samtidig som vi etterstreber tydelighet og engasjement i politiske dueller?  ",
+"t": "04.10.2019  Stanghelle: Stortinget åpner høstsesjonen",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-04_1238_1869.MP3"
+},
+"l_3bf15ea5-a631-43eb-b15e-a5a63153eb16": {
+"d": "2020-10-23T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1175,
+"s": "FN fyller 75 år denne helgen. 24.oktober 1945 ble organisasjonen offisielt etablert i San Fransisco, USA. I dag er ledere i stormaktene mer opptatt av egne interesser enn det som gavner verdensfellesskapet. Hør Tove Gravdal og Hilde Frafjord Johnson i samtale med Harald Stanghelle om FN; historien og fremtiden. ",
+"t": "Dør FN etter 75 år i verdensfredens tjeneste?",
+"u": "https://podkast.nrk.no/fil/stanghelle/7bdccea9-4a01-474a-a510-fc65d8736470_0_ID192MP3.mp3"
+},
+"l_3d06045c-d755-48d2-8604-5cd755d8d28d": {
+"d": "2021-02-05T12:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1274,
+"s": "Verdens økonomiske forum i Geneve er en rikingklubb, men tar også temperaturen ganske nøye  på hva som rører seg i verden økonomisk og politisk, og tenker høyt om verdens fremtid.",
+"t": "Stanghelle på fredag ",
+"u": "https://podkast.nrk.no/fil/stanghelle/4436ef50-6885-4ff2-a9aa-e7f617e6ab0c_0_ID192MP3.mp3"
+},
+"l_3d18b3bb-77c8-4c01-98b3-bb77c83c0197": {
+"d": "2019-12-13T14:31:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 944,
+"s": "Valget til det britiske parlamentet gav de konservative solid flertall i Underhuset. Nasjonalistene i det skotske partiet SNP gjorde også et godt valg. Bringer disse valgresultatene en skotsk løsrivelse fra unionen med England nærmere? Og hvordan vil det påvirke andre regioner i Europa der eget selvstyre står på dagsorden?\nGjester hos Harald Stanghelle er Asle Toje og Jan Erik Mustad.",
+"t": "Stanghelle 13.12.2019: Hvor går Skottland?",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-13_1331_2716.MP3"
+},
+"l_41891fad-0f90-418b-891f-ad0f90918bd1": {
+"d": "2020-04-10T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1165,
+"s": "Jon Larsen er musiker, stjerneforsker og entusiast som bare en ekte amatør kan være. For noen år siden la han sin gitar på hylla og kastet seg over mikroskopet - for å studere støvet fra stjernehimmelen og \"The big bang\"!\nOg Harald Stanghelles uke-kommentar; \"Stang inn - stang ut\"!",
+"t": "Stjernestøv, verdensrommet og Django Reinhardt ",
+"u": "https://podkast.nrk.no/fil/stanghelle/0682cfe6-ef58-477c-b363-67f4139db9bd_0_ID192MP3.mp3"
+},
+"l_44689656-67f5-4e3f-a896-5667f56e3ff1": {
+"d": "2020-10-30T15:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1337,
+"s": "Hva skjer når man skal lage drama og fiksjon av virkelige hendelser og levd liv? Hvor mye av det vi får se i \"Atlantic Crossing\" har rot i virkeligheten? Og hva gjør det med vårt syn på historien om det er dramatiseringene og diktningen som former vårt bilde av det som hendte? \nForfatter og journalist Inger Merete Hobbelstad drøfter problemstillingene med historiker Trond Noren Isaksen og programleder Harald Stanghelle.  ",
+"t": "Fra virkelighet til dikt og drama",
+"u": "https://podkast.nrk.no/fil/stanghelle/cdcee939-ca05-44be-9716-20866d18f447_0_ID192MP3.mp3"
+},
+"l_484d9229-7b03-4576-8d92-297b037576d7": {
+"d": "2020-10-16T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1092,
+"s": "Hva utgjør maktforholdet mellom den som gir en gave - og den som mottar?  Hva om vi stiller det samme spørsmålet når det handler om forholdet mellom nasjoner?\nFilosof Henrik Syse og samfunnsforsker Daniel Arnesen i samtale med Harald Stanghelle om dilemma og tankekors knyttet til veldedighet og innsamlingsaksjoner. ",
+"t": "Om godhetsregime, giverglede og dugnadsånd - på godt og litt vondt..",
+"u": "https://podkast.nrk.no/fil/stanghelle/be295ff4-faf2-48e9-92b9-02c0450944d7_0_ID192MP3.mp3"
+},
+"l_48e1427a-08f8-4b68-a142-7a08f8fb68f9": {
+"d": "2021-02-26T12:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1168,
+"s": "Fremskrittspartiet - et parti med tre ledere på 45 år. Meget ulike personligheter.",
+"t": "26.02.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/9df0adf9-d422-49ef-868a-7972217f1e8a_0_ID192MP3.mp3"
+},
+"l_4c4ea5c5-7e19-42bb-8ea5-c57e1942bbc4": {
+"d": "2019-10-03T16:12:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1050,
+"s": "Tor Åge Bringsværd gjester Harald Stanghelle og snakker om sitt forfatterskap, samarbeidet med Jon Bing, fabelprosa og prisen han nettopp mottok; Anders Jahres kulturpris 2019.",
+"t": "Stanghelle møter Tor Åge Bringsværd",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-03_1412_1123.MP3"
+},
+"l_4cd60428-d62e-40c7-9604-28d62ea0c7df": {
+"d": "2020-01-24T15:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 870,
+"s": "Et møte med mesterkokken Bent Stiansen: om mat, om mor, om stjerner - og det å lave et sunt matliv!",
+"t": "Kokkekunst og stjernetegn",
+"u": "https://podkast.nrk.no/fil/stanghelle/7ab9fd3d-8bbc-4628-b662-89f2be3c469a_0_ID192MP3.mp3"
+},
+"l_4d0e88db-77e0-45c9-8e88-db77e065c936": {
+"d": "2020-08-21T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1128,
+"s": "Venstres leder gjennom ti år, Trine Skei Grande, forteller om seire, nederlag og vanskelige valg hun har måttet ta underveis.",
+"t": "Trine Skei Grande forlater politikken",
+"u": "https://podkast.nrk.no/fil/stanghelle/9fa21983-d9a4-4923-b54a-54175ee3c4a0_0_ID192MP3.mp3"
+},
+"l_4d33c305-4ecd-411d-b3c3-054ecd711da9": {
+"d": "2020-11-06T15:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1093,
+"s": "I ett hundre år har journalister med adgangskort til nasjonalforsamlinga utgjort Stortingets presselosje. Nå er historien om  dem skrevet av Terje Valestrand. Mangeårig stortingsrepresentant og finansminister Sigbjørn Johnsen bidrar med egne minner fra møter med mediene.",
+"t": "Fyll og påfyll fra Stortingets presselosje",
+"u": "https://podkast.nrk.no/fil/stanghelle/3a3b2ddc-8667-4e63-b4da-d2cd69b70c4d_0_ID192MP3.mp3"
+},
+"l_4d45c98a-b99c-4119-85c9-8ab99c911915": {
+"d": "2021-04-30T12:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1305,
+"s": "Mai er flaggingens måned, og i dag for 200 år siden startet Odelstinget arbeidet med å utpeke et norsk flagg. Det kunne blitt helt annerledes enn det vi kjenner",
+"t": " 30.04.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/b2b88e1d-12a4-43d4-ac1b-442bab36dbc8_0_ID192MP3.mp3"
+},
+"l_4e38d9cc-87a8-4628-b8d9-cc87a896282c": {
+"d": "2019-06-21T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1309,
+"s": "Dan Børge Akerø og Fredrik Skavlan møtes hos Stanghelle for å snakke og minnes helge-underholdningens plass hos folk, før og nå. Fra NRKs monopol tid - til dagens tilbud med strømmetjenester og en lang rekke tv-kanaler. ",
+"t": "Stanghelle podcast: Dan Børge Akerø og Fredrik Skavlan",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-21_1200_3357.MP3"
+},
+"l_50448566-d601-47a4-8485-66d60167a4fd": {
+"d": "2020-11-13T15:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1465,
+"s": "I denne måneden er det femti år siden Alf Prøysen døde. Han etterlot seg et livsverk som preger norsk kultur fremdeles. Harald Stanghelle har invitert Åse Kleveland og Ove Røsbak til en samtale om minner og kunst knyttet til Prøysen.",
+"t": "Alf Prøysen i våre hjerter",
+"u": "https://podkast.nrk.no/fil/stanghelle/76069440-b81c-4005-963e-968fbf98a1de_0_ID192MP3.mp3"
+},
+"l_510e49da-4c41-459d-8e49-da4c41259d6f": {
+"d": "2021-05-07T12:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1036,
+"s": "Kongeskipet ble embarkert torsdag 6. mai. Det betyr at Kongen inviet skipet for sesongen. Men kongeskipet Norge startet slett ikke livet som kongeskip.",
+"t": "Stanghelle på fredag 07.05.21 pod",
+"u": "https://podkast.nrk.no/fil/stanghelle/ac1d0a79-2d2e-4ecc-b1e4-7f85f8321d30_0_ID192MP3.mp3"
+},
+"l_53e8506c-e384-489e-a850-6ce384a89eea": {
+"d": "2020-08-28T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 751,
+"s": "Ord kommer og ord går. Språket endrer seg fortløpende. Helene Uri har samlet på ord og uttrykk som nærmer seg pensjonsalder.",
+"t": "Ord som tiden har løpet fra.",
+"u": "https://podkast.nrk.no/fil/stanghelle/34240424-e4b2-48d1-bd2f-08c43c7bd49e_0_ID192MP3.mp3"
+},
+"l_5523269b-fdcf-476f-a326-9bfdcfb76f66": {
+"d": "2019-11-08T15:06:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 928,
+"s": "Oljeanalytiker Thina Saltvedt og forfattere Aage Borchgrevink snakker om vår oljehistorie og perspektivene fremover.",
+"t": "Stanghelle:  Norsk oljehistorie med Statoil.",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-08_1406_482.MP3"
+},
+"l_552f83b9-febe-43c8-af83-b9febe23c85b": {
+"d": "2020-09-11T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1232,
+"s": "Det er nitten år siden  tvillingtårnene i New York raste sammen etter at islamske terrorister styrte passasjerfly inn i bygningene. Terrorangrepet mot USA i september 2001 er fremdeles et tydelig tidsskille i verden. ",
+"t": "19 år siden terrorangrepet mot USA",
+"u": "https://podkast.nrk.no/fil/stanghelle/cefdf55c-d763-4b98-b0da-6ac842ed6566_0_ID192MP3.mp3"
+},
+"l_5f529d3f-4809-41fd-929d-3f480971fd3b": {
+"d": "2019-04-08T13:43:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1615,
+"s": "Den 20.april fyller selveste landsmoder Gro Harlem Brundtland 80 år. Hun ser både tilbake i tid, og på nåtid og fremtid med et klokkeklart perspektiv på tingenes tilstand. Intervjuet av programleder Harald Stanghelle fredag 7.april.",
+"t": "Stanghelle møter Gro Harlem Brundtland",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-08_1143_1447.MP3"
+},
+"l_609182df-f80a-4e45-9182-dff80a7e4585": {
+"d": "2021-12-31T14:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1210,
+"s": "Harald Stanghelle takker av denne podkasten sammen med Ole Torp som også avslutter sin yrkeskarriere i NRK.",
+"t": "31.12.21 Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/b5070129-17be-42e5-8b42-35f47e399ef4_0_ID192MP3.mp3"
+},
+"l_62be7539-cfcb-4804-be75-39cfcbd804a1": {
+"d": "2019-11-01T14:45:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 854,
+"s": "Journalist og forfatter Laila Lanes og professor i nevrologi, Tormod Fladby i samtale om demens, aldring, mestring og åpenhet.",
+"t": "Om demens og åpenhet",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-01_1345_872.MP3"
+},
+"l_6948ce4b-f9ff-4ff2-88ce-4bf9ffaff28b": {
+"d": "2019-08-26T17:05:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 921,
+"s": "Harald Stanghelle i samtale med visekunstneren Alf Cranner. De snakker om norsk visetradisjon, om Cranners lange karriere som poet, komponist og visesanger. Sentralt i samtalen er boka \"Fra Alf til Alf\", der Cranner skriver inngående om sitt samarbeid og forhold til Alf Prøysen. \nDu kan høre radioprogrammet \"Stanghelle på fredag\" i P1+, hver fredag kl. 12:30.",
+"t": "Harald Stanghelle møter Alf Cranner",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-08-26_1505_3555.MP3"
+},
+"l_6a0e2498-02ba-4cc7-8e24-9802badcc7ed": {
+"d": "2019-06-14T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 913,
+"s": "Lise Fjeldstad har en omfattende karriere bak seg. Hun har spilt på scener over store deler av verden og er fremdeles aktiv skuespiller. Alltid opptatt av Henrik Ibsens kvinner og dramatikk. Hun har et sterkt engasjement for kunst, medmennesker og klimasaken.  ",
+"t": "Skuespilleren Lise Fjeldstad fyller 80 år",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-14_1200_1496.MP3"
+},
+"l_6c1ca4e9-ac08-4c4f-9ca4-e9ac088c4fb4": {
+"d": "2021-04-23T12:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 905,
+"s": "For 60 år siden pågikk rettssaken mot Adolf Eichmann i Jerusalem; en av de viktigste organisatorene av jødeutryddelsene under krigen.",
+"t": "Stanghelle på fredag  Eichmann",
+"u": "https://podkast.nrk.no/fil/stanghelle/6b0c301f-e1fd-43be-b982-871f3a86ec1a_0_ID192MP3.mp3"
+},
+"l_6d3c66a5-3386-4024-bc66-a5338620245b": {
+"d": "2021-10-15T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1203,
+"s": "Etter 25 år som Norges ukronede talkshow-vert gir Fredrik Skavlan seg snart. Nå skal han fortsette med illustrasjoner fra hverdagslivet. Hør ham hos Harald Stanghelle.",
+"t": "15.10.2021 Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/d2b2be7c-96de-4e3e-ad31-02106f4db206_0_ID192MP3.mp3"
+},
+"l_6e155642-1122-485f-9556-421122e85fc0": {
+"d": "2020-03-06T16:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 761,
+"s": "Interessen for langrenn på tv faller. Den norske dominansen har tatt spenningen ut. Har vi nådd et kritisk metningspunkt? Hva skjer med vår gullkantede skitradisjon. Harald søker svar hos forlegger og skiløper Cathrine Sandnes, og journalist og sportsentusiast Halvor Hegtun.  ",
+"t": "Norge, skidominansen og Kollen; det er krise!",
+"u": "https://podkast.nrk.no/fil/stanghelle/7392740f-9664-4281-85b5-7e232d1065c3_0_ID192MP3.mp3"
+},
+"l_71bd57c7-c34e-4966-bd57-c7c34e896659": {
+"d": "2020-12-11T15:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1140,
+"s": "Dette året er preget av en unntakstilstand som reflekteres i språket , nye ord og ordkombinasjoner. Språkrådets direktør Åse Wetås i samtale med Linda Eide og Harald Stanghelle om språkets veier i koronaens tid.. ",
+"t": "\"Koronaen\" er årets nyord 2020",
+"u": "https://podkast.nrk.no/fil/stanghelle/f992f8c7-700d-4ed2-984e-5c611b17028c_0_ID192MP3.mp3"
+},
+"l_74dc3ad3-df90-40ec-9c3a-d3df90b0ecbd": {
+"d": "2020-05-22T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1225,
+"s": "Eirik Kristoffersen er tildelt Krigskorset med sverd, Norges høyeste militære utmerkelse. Han er utdannet spesialsoldat med dykking, svømming og sprengning som spesialfelt. Han har tjenestegjort i Afghanistan, og gikk til topps som øverste sjef i Hæren for ett år siden. Nå har han tatt skrittet opp til vår øverste militære posisjon: forsvarssjef for landets samlede stridskrefter. ",
+"t": "Vår nye forsvarssjef; Eirik Kristoffersen.",
+"u": "https://podkast.nrk.no/fil/stanghelle/b88e3d28-866f-44f3-8329-aa880140fe57_0_ID192MP3.mp3"
+},
+"l_76024587-f946-4785-8245-87f946e785bd": {
+"d": "2019-06-14T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1014,
+"s": "Uløste kriminalgåter blir det laget tv-serier og underholdning av, mysterier pirrer vår nysgjerrighet, men bak ligger tragedier og familier som fortvilet søker forsoning og en ny start. Finn Abrahamsen og Hanne Kristin Rohde gjester Stanghelle på fredag.",
+"t": "Uløste kriminalgåter",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-14_1200_464.MP3"
+},
+"l_78731eee-ea16-49e0-b31e-eeea16d9e098": {
+"d": "2020-12-18T15:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 938,
+"s": "Juveler Conrad Langaard reiser verden rundt på jakt etter diamanter som \"snakker\" til ham ved sin fullkommenhet. Det hender han forelsker seg. I diamanten! ",
+"t": "Forelskelse i Hong Kong",
+"u": "https://podkast.nrk.no/fil/stanghelle/c69b5b2e-8f0d-4e72-be44-0a8bb3a972fa_0_ID192MP3.mp3"
+},
+"l_78997930-ad17-4d91-9979-30ad174d9163": {
+"d": "2021-03-19T12:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1200,
+"s": "De norske samene har fått sin sannhets- og forsoningskomisjon, etter den hardhendte fornorskingen",
+"t": "19.03.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/6a1c1c22-6ef5-450d-a6ae-03b4f065e603_0_ID192MP3.mp3"
+},
+"l_81cbaebc-777e-4179-8bae-bc777e5179f0": {
+"d": "2020-09-18T15:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1340,
+"s": "Ella Marie Hætta Isaksen om det samiske, musikken, kulturen og engasjementet for rettferdighet.",
+"t": "Joiken er mitt våpen!",
+"u": "https://podkast.nrk.no/fil/stanghelle/c51093a1-6e5a-4d1e-8a18-1bb5d836f5ba_0_ID192MP3.mp3"
+},
+"l_83bc1e9f-033d-4264-bc1e-9f033d0264fb": {
+"d": "2020-12-25T14:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1203,
+"s": "Låtskriveren og sangeren snakker med Harald om oppvekst, karriere, sangene og livet - og troen.",
+"t": "Ja, jeg tror på Gud, sier Ole Paus.",
+"u": "https://podkast.nrk.no/fil/stanghelle/0d202ae7-2d61-415c-97c0-577dea61ba9d_0_ID192MP3.mp3"
+},
+"l_86e2f79e-87dd-4904-a2f7-9e87dd090484": {
+"d": "2019-12-27T14:41:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 4180,
+"s": "Berlinmurens fall, blodbadet på den Himmelske Freds plass, Khomeinis fatwa mot Salman Rushdie og konflikten i Kosovo. Alle er hendelser som preger verden den dag i dag. Hør Kate Hansen Bundt, Sun Heidi Sæbø, Sylo Taraku og Trond Gram i samtale med Harald Stanghelle om begivenhetene for tretti år siden.",
+"t": "Stanghelle på fredag; året 1989 og ettervirkningene",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-27_1341_1959.MP3"
+},
+"l_881a16c2-40db-4d0b-9a16-c240db3d0bb1": {
+"d": "2021-09-10T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1159,
+"s": "Det er 20 år siden 11. september. Ole Torp var korrespondent i USA og forteller om det han husker fra terror-angrepene. USA-ekspert, Sofie Høgestøl gir oss et innblikk i hva konsekvensene ble for amerikansk politikk i ettertid.",
+"t": "10.09.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/34691ea9-1c2b-4360-89f4-2bc62514ea74_0_ID192MP3.mp3"
+},
+"l_899910d9-f070-4c1d-9910-d9f0703c1dca": {
+"d": "2021-02-12T12:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1327,
+"s": "Hva er det med Bergen som gør byen til Bergen? Og bergenserne til bergensere? Ny bok.",
+"t": "12.02.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/dd37fa13-ed82-4400-aacb-377823c98e74_0_ID192MP3.mp3"
+},
+"l_8c849df3-8caa-44e1-849d-f38caab4e179": {
+"d": "2019-12-06T14:28:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 870,
+"s": "Nordiske nyord er spennende å sammenlikne. De reflekterer kulturelle og politiske forskjeller - og likheter - mellom Danmark, Sverige og Norge. ",
+"t": "Stanghelle på fredag; Nordiske nyord",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-06_1328_2982.MP3"
+},
+"l_8d94676d-f2cd-4991-9467-6df2cdf9912d": {
+"d": "2019-10-25T14:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 924,
+"s": "Liv Signe Navarsete og Håvard Narum samtaler med Harald Stanghelle om maktkamper og personstrider i norsk politikk; fra Einar Gerhardsen versus Haakon Lie, til dagens stridigheter omkring ledere som Trine Skei Grande og Jonas Gahr Støre.  ",
+"t": "Personstrid og maktkamper i politikken.  ",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-25_1230_1739.MP3"
+},
+"l_932d4256-d1ae-4860-ad42-56d1ae8860c5": {
+"d": "2021-08-27T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 850,
+"s": "Arnt Stefansen gjester Harald Stanghelle og forteller om Brasil og utviklingen der. ",
+"t": "Stanghelle på fredag 27.08.21",
+"u": "https://podkast.nrk.no/fil/stanghelle/52c7376e-9223-411d-a6f3-ce7675d5067b_0_ID192MP3.mp3"
+},
+"l_9395d05a-bfbc-44b5-95d0-5abfbcc4b5ce": {
+"d": "2021-04-02T14:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1269,
+"s": " Magnus Lagabøters lov var både nyskapende og rettferdig, og restene av dem ser vi fremdeles.",
+"t": "Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/feeac663-801c-401c-b105-9b20414985e8_0_ID192MP3.mp3"
+},
+"l_94f9facc-e943-42a4-b9fa-cce94302a46d": {
+"d": "2021-04-09T12:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1224,
+"s": "9. april huskes av stadig færre. For unge i dag er datoen mer teoretisk, og krigshistorien skrives på en annen måte.",
+"t": "09.04.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/2cb63ae2-c467-4d80-9a05-04518906a91c_0_ID192MP3.mp3"
+},
+"l_956d717c-3b59-493e-ad71-7c3b59d93e0e": {
+"d": "2021-09-24T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1215,
+"s": "Knut Arild Hareide gjester Stanghelle på fredag og snakker om siste ukas vanskeligheter for Kristelig Folkeparti. Han er dessuten snart arbeidsledig selv og forteller mer om sine egne fremtidsplaner.",
+"t": "24.09.2021 Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/fe9ead18-7c7c-4d8a-8396-c3ab3a997283_0_ID192MP3.mp3"
+},
+"l_9758bf23-a039-4b16-98bf-23a039bb1648": {
+"d": "2020-05-08T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1144,
+"s": "Dette er historia om korleis Pippi Langstrømpe kom til, og på det viset opna vegen inn i barneboklitteraturen for Astrid Lindgren. \nMe finn spor etter Pippi i språk og daglegtale. Ja, den uredde og småfrekke væremåten hennar gler barn og vaksne den dag i dag.",
+"t": "Pippi Langstrømpe er 75 år",
+"u": "https://podkast.nrk.no/fil/stanghelle/7d5e461c-96ae-41da-84e0-f5044d041522_0_ID192MP3.mp3"
+},
+"l_9810d121-6a5d-413e-90d1-216a5da13e7c": {
+"d": "2020-10-02T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1174,
+"s": "Rettsaken mot dem som hjalp attentatmennene med angrepet mot Charlie Hebdo er i  gang i Paris. Islamistene som stormet redaksjonslokalene tok livet av sytten mennesker i massakren som fant sted for snart seks år siden. Vibeke Knoop Rachline og Simen Ekern i samtale med Harald Stanghelle.  ",
+"t": "De som hjalp attentatmennene med angrepet mot Charlie Hebdo sitter i en rettsal i Paris.",
+"u": "https://podkast.nrk.no/fil/stanghelle/b0ecbeb8-c6b9-4ad3-aff1-686e0f4a340f_0_ID192MP3.mp3"
+},
+"l_9c4ac13d-9ac3-48aa-8ac1-3d9ac308aa1e": {
+"d": "2020-11-27T15:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 969,
+"s": "Etiopia - historia, keiserdømmet og konfliktene. Det eneste afrikanske landet som ikke ble underkastet en europeisk kolonimakt. Folket og landet med en helt spesiell historie, og mytiske fortellinger om opphav og posisjon. Nå på borgerkrigens rand.. Tomm Kristiansen forteller.",
+"t": "Etiopia - fra dronning Saba til Bob Marley",
+"u": "https://podkast.nrk.no/fil/stanghelle/16124aa1-7138-4b7b-b5f9-7ee4bd3de3b5_0_ID192MP3.mp3"
+},
+"l_9dadca83-9ec6-489a-adca-839ec6b89a3b": {
+"d": "2019-11-22T14:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 918,
+"s": "Jane Fonda, Ronald Reagan, Marlon Brando, Meryl Streep - fra Hollywood har det alltid kommer skuespillere som engasjerer seg i politikk og samfunnsdebatt. Hege Duckert og Per Haddal gjester Harald med gode historier om politisk alvor. ",
+"t": " Stanghelle på fredag: Hollywood og politikken",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-22_1330_1821.MP3"
+},
+"l_9de17a93-ecc9-4044-a17a-93ecc9d0443d": {
+"d": "2021-06-11T12:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 867,
+"s": "Pandemien har lært oss mye om å styrke immunforsvaret vårt. Men hvordan gjør vi det, og er et forsterket immunforsvar alltid av det gode?",
+"t": "11.06.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/a0ef5236-910b-471d-9325-8b94e6d2e3a8_0_ID192MP3.mp3"
+},
+"l_9f09cd88-6974-4850-89cd-886974185029": {
+"d": "2020-04-03T15:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1098,
+"s": "Hytteforbudet og reisebegrensninger preger påskeferien vi står foran. Sosialantropolog Marianne Lien og generalsekretær Dag Terje Solvang i DNT deler tanker og ideer om hva norsk hyttekultur og friluftsliv er - og kan bli - når kampen mot dette viruset er over.\nOg Harald Stanghelles uke-kommentar; \"Stang inn - stang ut\"!",
+"t": "Fjell- og hytteliv i korona-tider.",
+"u": "https://podkast.nrk.no/fil/stanghelle/4386bce5-0c16-4194-9bf3-233519262cb6_0_ID192MP3.mp3"
+},
+"l_a139203d-bb08-4d76-b920-3dbb08cd76aa": {
+"d": "2020-02-07T13:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1037,
+"s": "Alexandra Bech Gjørv snakker om hvordan tv-serien gjorde inntrykk på henne, om  hvordan den harmonerer med hva kommisjonen hun ledet fant frem til - og hva hun legger vekt på når hun ser seg tilbake.",
+"t": "22.juli, serien, historien og kommisjonen",
+"u": "https://podkast.nrk.no/fil/stanghelle/4553b99a-b733-41bb-bd03-bd651b7ceb7f_0_ID192MP3.mp3"
+},
+"l_a1eeb8a1-8b43-4aea-aeb8-a18b431aea08": {
+"d": "2020-05-01T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1137,
+"s": "Morten Krogvold fyller 70 år 3.mai. I samtalen med Harald Stanghelle forteller han om sin veg inn i fotograferingen, om portretter og portretterte personligheter fra inn- og utland.",
+"t": "Fotografen og minnene hans",
+"u": "https://podkast.nrk.no/fil/stanghelle/8e1e2c5d-5301-4e3b-ba00-d785c5ff96ca_0_ID192MP3.mp3"
+},
+"l_a88abcd4-6e0d-4114-8abc-d46e0d211436": {
+"d": "2020-11-20T16:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1212,
+"s": "Det er 30 år siden Margareth Thatcher gav fra seg makten i Storbritannia, og 15 år siden Angela Merkel kom til makten i Tyskland. To land, to kvinner, to politiske ledere som på hvert sitt vis har formet sin samtid, nasjonalt og internasjonalt.",
+"t": "To damer, to land; Margareth Thatcher og Angela Merkel",
+"u": "https://podkast.nrk.no/fil/stanghelle/4d683436-bc67-499e-83d3-507ed4d23dda_0_ID192MP3.mp3"
+},
+"l_aad72c00-d3b3-4681-972c-00d3b30681f6": {
+"d": "2020-01-31T15:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 878,
+"s": "Hvert år møtes noen av verdens rikeste og mektigste finansfolk og statsledere i Davos. Det er World Economic Forum som arrangerer - og direktøren for det hele er norsk, og heter Børge Brende.",
+"t": "Børge Brende og World Economic Forum",
+"u": "https://podkast.nrk.no/fil/stanghelle/02bc53fe-bb31-474c-b068-15c70482ae21_0_ID192MP3.mp3"
+},
+"l_b1118a30-9d4d-47ab-918a-309d4d57ab6d": {
+"d": "2019-05-24T15:38:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 966,
+"s": "Hun er alltid ved sin manns side. Eli Hagen har blitt vant til å tåler kritikk og mediestorm. Hvordan er det å ha stått på sidelinjen i alle disse årene, med meninger om det meste. Carl I Hagen har blitt 75. Harald Stanghelle tok en prat med Eli ",
+"t": "Stanghelle møter Eli Hagen",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-05-24_1338_3599.MP3"
+},
+"l_b25587f3-517e-4012-9587-f3517ef01259": {
+"d": "2020-04-24T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1050,
+"s": "Hilde Sandvik og Hans Geelmuyden om språk, retorikk og henvendelsesformer i Sverige, Danmark og Norge under koronakrisen.",
+"t": "Retorikk og språk i koronakrisen",
+"u": "https://podkast.nrk.no/fil/stanghelle/3429a9b5-db09-4cd6-9740-0248cdcc4e83_0_ID192MP3.mp3"
+},
+"l_b33a66bf-3e38-4496-ba66-bf3e38649679": {
+"d": "2021-04-16T12:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1083,
+"s": "Konspirasjonsteorier er blitt del av politikken, også i Norge. Konspirasjonsteoretikerne tror ikke på korona, selv om de selv rammes av sykdommen. Slik er disse fargerike teoriene i ferd med å bli et demokratisk problem.",
+"t": "16.04.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/f81dc113-9d8a-4440-826a-ac7e26ae807a_0_ID192MP3.mp3"
+},
+"l_b4c20a80-1097-4526-820a-80109755261a": {
+"d": "2021-12-10T14:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1104,
+"s": "Immunolog og professor i medisin, Anne Spurkland og forsker og filosof, Henrik Syse gir oss gode råd for hvordan vi skal takle nok en jul med strenge koronatiltak. Begge i samtale med Harald Stanghelle",
+"t": "Stanghelle på fredag 10.12.21",
+"u": "https://podkast.nrk.no/fil/stanghelle/cbe0646b-3932-4cce-b147-1a70dcebed9f_0_ID192MP3.mp3"
+},
+"l_b537c21d-f90f-44f2-b7c2-1df90f34f27f": {
+"d": "2021-11-12T14:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1081,
+"s": "Gitarist, komponist og artist, Frode Alnæs feirer 40 år i bransjen neste år. Før det lader han opp med juleplate og turnè. Her gjester han Harald Stanghelle og prater om karrieren og livet så langt.",
+"t": "Stanghelle på fredag 12.11.21",
+"u": "https://podkast.nrk.no/fil/stanghelle/d8612eaf-7825-44df-ad78-c3c98f121046_0_ID192MP3.mp3"
+},
+"l_b8d94b16-2113-4a47-994b-1621132a4790": {
+"d": "2020-02-28T15:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1058,
+"s": "Begrepet \"husmor\" er knapt i bruk på norsk lenger. Det kjønnsnøytrale \"heimeværande\" er vel det som ligg nærast. Svært få, om nokon, kvinner omtalar seg sjøl som husmor i dag, og ingen brukar begrepet offentleg. Men i vår nære historie, i etterkrigstida gjennom femti- og sekstitalet, hadde husmor ei viktig rolle. Eit interessant og noko spesielt døme på det er historia om \"den norske husmorfilmen\"; mellom 1953 og 1972 blei det laga i alt 29 filmer der husmora spela hovudrolla. ",
+"t": "Husmorfilmane og kvinnas stilling i Norge på femti- og sekstitalet.",
+"u": "https://podkast.nrk.no/fil/stanghelle/6c54091f-2269-4114-a3a7-b2f2a45c6fef_0_ID192MP3.mp3"
+},
+"l_c052e05d-cc75-4a0f-92e0-5dcc759a0ff9": {
+"d": "2019-06-07T14:44:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1005,
+"s": "Ingen har sittet i dette embetet lenger enn Tor Aksel Busch. Sammen med Harald Stanghelle snakker han om hvordan kriminalitet og rettspleie har endret seg i løpet av de 22 årene han har vært riksadvokat.",
+"t": "Stanghelle podkast: Riksadvokat Tor Aksel Busch",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-07_1244_3491.MP3"
+},
+"l_c136d809-8580-42d5-b6d8-098580a2d585": {
+"d": "2021-01-15T12:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1256,
+"s": "For 30 år siden døde kong Olav. Det var en vanskelig tid, ved utbruddet av den første Gulfkrigen. Kong Harald stod foran en krevende oppgave. I Stang ut - stang inn kommenterer Harald Stanghelle situasjonen i USA.",
+"t": "Stanghelle på fredag 15.01.21",
+"u": "https://podkast.nrk.no/fil/stanghelle/05472983-cdd8-4224-9e1b-b05cfc9aa578_0_ID192MP3.mp3"
+},
+"l_c2c2414a-80de-4248-8241-4a80de9248f1": {
+"d": "2021-09-17T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1173,
+"s": "Sindre Finnes er gjest hos Harald Stanghelle. Han forteller om sine 8 år i statsministerboligen, og reflekterer også over tilværelsen som kommer etterpå.",
+"t": "17.09.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/92982d66-acab-4a8e-b245-234a4f856b6a_0_ID192MP3.mp3"
+},
+"l_c5178b82-fb73-438a-978b-82fb73538a39": {
+"d": "2021-06-04T12:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1213,
+"s": "NATOs toppmøte 14, juni skal behandle den nye fremtidsstrategien frem mot 2030. Nå retter alliansen oppmerksomheten østover. Hva betyr det for oss i nordområdene?",
+"t": "Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/8e38a9f9-7281-4c62-a36a-af477d647bc6_0_ID192MP3.mp3"
+},
+"l_c7a1ff56-d0f4-4d5f-a1ff-56d0f42d5fa0": {
+"d": "2020-05-15T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 971,
+"s": "Forfatter Tor Bomann-Larsen snakker med Harald Stanghelle om kongens betydning i 17.mai-markeringer gjennom vår moderne historie.",
+"t": "Kongehuset, Slottet og barnetoget 17.mai",
+"u": "https://podkast.nrk.no/fil/stanghelle/9ad04dca-725e-4792-a48e-f762c405908c_0_ID192MP3.mp3"
+},
+"l_c91ba776-7765-481a-9ba7-767765b81aa5": {
+"d": "2021-10-22T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1105,
+"s": "Denne uka ville John le Carrè fylt 90 år. Samtidig har den siste boka hans, Silverview, kommet ut på norsk. Harald Stanghelle samtaler med litteraturviter og anmelder, Ola Andreas Hegdal, om han som også blir omtalt som den kalde krigens kronikør.",
+"t": "22.10 Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/b59be43a-1a6c-40a1-8010-ba21239b308c_0_ID192MP3.mp3"
+},
+"l_ce2c3573-e1a5-4261-ac35-73e1a5a26185": {
+"d": "2021-12-03T14:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1189,
+"s": "Statsviter Kim Arne Hammerstad og professor Bernt Aardal om politiske skandaler. Og Stang inn - stang ut.",
+"t": "Stanghelle på fredag 03.12.2021",
+"u": "https://podkast.nrk.no/fil/stanghelle/34f217e4-7135-4e5b-ba1c-efd5d2601649_0_ID192MP3.mp3"
+},
+"l_ce7536ad-19fc-4dbd-b536-ad19fccdbd48": {
+"d": "2020-03-27T15:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1006,
+"s": "Stein Ørnhøi om liv , arbeid og politikk. \nOg Haralds ukentlige kommentar: Stang inn - stang ut.",
+"t": "En norsk sosialist",
+"u": "https://podkast.nrk.no/fil/stanghelle/171e4e13-b25a-4e82-8391-03f74b532213_0_ID192MP3.mp3"
+},
+"l_db450531-11bd-4c2e-8505-3111bdbc2efe": {
+"d": "2019-09-13T14:35:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1067,
+"s": "Carl I Hagen var hjemme med kona Eli istedenfor å dra på valgvake. I samtalen med Harald Stanghelle forteller han at det blir hardt å legge politikken på hylla og at han nok ikke helt klarer å se når det er på tide å gi seg. Nå håper den tidligere partilederen å kunne tilbringe mer tid i Spania. ",
+"t": "Carl Ivar Hagen ute av politikken, men på besøk hos Stanghelle",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-09-13_1235_2252.MP3"
+},
+"l_dd2f7fe4-a6aa-4d9d-af7f-e4a6aa4d9d0e": {
+"d": "2020-12-04T15:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1689,
+"s": "Statsminister Erna Solberg er Høyres lengstsittende partileder, og partiets lengstsittende statsminister. Her snakker hun om kriseledelse, forholdet til USA, Prince, Bergen og det å slippe pressefotografer inn på et rotete hjemmekjøkken..",
+"t": "\"Erna er stjerna\"",
+"u": "https://podkast.nrk.no/fil/stanghelle/c6fa119b-ba13-4270-a3ea-52c6c1a0edfa_0_ID192MP3.mp3"
+},
+"l_e2b76434-d415-42b3-b764-34d415e2b392": {
+"d": "2019-04-12T14:47:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 928,
+"s": "Programleder Harald Stanghelle i et ærlig og nært møte med tidligere KrF-leder Knut Arild Hareide. Hareide snakker om maktkamp, smerte, sorg og familie. Stanghelle fredag 12.april.",
+"t": "Stanghelle møter Knut Arild Hareide",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-12_1247_378.MP3"
+},
+"l_e356787b-d8e5-4f21-9678-7bd8e5df2166": {
+"d": "2021-05-28T12:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 958,
+"s": "Det amerikanske Senatet har bestilt en rapport om - UFOer. Betyr det at de flygende objektene nå blir tatt helt på alvor?",
+"t": "Stanghelle på fredag 28.05.21",
+"u": "https://podkast.nrk.no/fil/stanghelle/bbf1fe0c-33ec-47f2-9b34-58fdb6124e25_0_ID192MP3.mp3"
+},
+"l_e533bc4f-8730-4fef-b3bc-4f87302fef25": {
+"d": "2021-11-26T14:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1171,
+"s": "Sjakk-VM er i gang. Torstein Bae og Heidi Røneid følger verdensmesterskapet ,og gir en stemningsrapport hos Stanghelle denne fredagen.",
+"t": "Stanghelle på fredag 26.11.2021",
+"u": "https://podkast.nrk.no/fil/stanghelle/ad804796-847e-45b5-9210-d823edfa8c46_0_ID192MP3.mp3"
+},
+"l_e53cbae0-2f5c-47a5-bcba-e02f5c47a560": {
+"d": "2019-10-03T16:15:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1082,
+"s": "Kate Hansen Bundt og Per Anders Madsen samtaler med Harald Stanghelle om Berlinmurens fall og betydningen året 1989 fikk i Europa. Utgangspunktet er boka til Madsen: Skjebneåret 1989.",
+"t": "Muren faller i 1989 og mye endres i Europa.",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-03_1415_1498.MP3"
+},
+"l_e639915e-fac6-4eb0-b991-5efac63eb035": {
+"d": "2019-10-18T14:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1022,
+"s": "Det er 150 år siden Elias Blix publiserte den aller første norske salmesamlingen \"Nokre salmar. Gamle og nye\".  Hans tekster fikk stor betydning for vår salmekunst og, ikke minst, spredningen og tilslutningen til nynorsk her i landet. Harald Stanghelle og Edvard Hoem snakker om salmer og kristentro i denne podcasten.",
+"t": "Om salmer og Elias Blix og Edvard Hoem",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-18_1230_3788.MP3"
+},
+"l_ea57be21-03bc-43b3-97be-2103bcc3b38f": {
+"d": "2019-04-26T15:38:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1204,
+"s": "Programleder Harald Stanghelle møter Kjetil Siem som har tjent fotballen gjennom mange år. Nå arbeider han i Zürich hos Det internasjonale fotballforbundet, FIFA, i en posisjon der idrettens samfunnsansvar står sentralt. I denne samtalen forteller Kjetil Siem også om datterens psykiske lidelser og om sin smerte og følelse av utilstrekkelighet som far i møte med sykdommen",
+"t": "Stanghelle møter Kjetil Siem",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-26_1338_339.MP3"
+},
+"l_ee309e6d-b5d7-4327-b09e-6db5d7e327ff": {
+"d": "2019-04-08T13:37:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1153,
+"s": "Programleder Harald Stanghelle møter Kåre Willoch, som i en alder av 90 år har sine meningers mot og et særdeles klarsynt blikk på verden. 29.mars 2019.",
+"t": "Stanghelle møter Kåre Willoch",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-08_1137_1214.MP3"
+},
+"l_f14beb56-12b2-47f7-8beb-5612b2c7f79e": {
+"d": "2020-03-20T15:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 980,
+"s": "Hva betyr det for folk og land at kongen henvender seg til offentligheten gjennom en tale? Hvilke ord og formuleringer er det som gjør kong Haralds taler spesielle? Bjørn Magnus Berge analyserer kongens ord ifm. korona-viruset og smitteverntiltakene alle er berørt av.",
+"t": "Vår konges ord, vår konges trøst",
+"u": "https://podkast.nrk.no/fil/stanghelle/e0c5b700-9019-4f8a-a312-0e68d2a8fc5a_0_ID192MP3.mp3"
+},
+"l_f3afdc64-43ea-4c96-afdc-6443eaec9680": {
+"d": "2020-04-17T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 988,
+"s": "10.april 1970 slapp Paul McCartney nyheten om at The Beatles var oppløst. Bård Ose og Harald Stanghelle snakker om gruppas betydning, innflytelse og plass i den moderne musikkhistorien. ",
+"t": "50 år etter The Beatles",
+"u": "https://podkast.nrk.no/fil/stanghelle/c7ff9200-fee0-45d2-9ee6-bc82fcf341ac_0_ID192MP3.mp3"
+},
+"l_f626e3e1-5aa2-4a38-a6e3-e15aa2fa383c": {
+"d": "2019-05-10T14:40:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1179,
+"s": "Harald Stanghelle snakker med medieviter og journalist Jens Bardal, samt språkviter og professor Sylfest Lomheim. Tema tar utgangspunkt i \"Glemmeboka\", om ord som er gått ut av språket de siste ti-årene. Boka er ført i pennen av Jens Barland.",
+"t": "Ord som er gått i glemmeboka",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-05-10_1240_3013.MP3"
+},
+"l_f7aa9614-82be-4e7a-aa96-1482be8e7ac2": {
+"d": "2019-11-29T14:24:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1029,
+"s": "Andreas Wahl fra Folkeopplysningen og Andres Giæver fra VG i samtale om konspirasjonsteorier; fra Abbey Road - til Det Hvite Hus",
+"t": "Konspirasjonsteorier hos Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-29_1324_846.MP3"
+},
+"l_f83ee4e1-4dc5-4fe2-bee4-e14dc5bfe276": {
+"d": "2021-11-05T14:00:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1016,
+"s": "Vi markerer Guy Fawkes Night denne fredagen. Statsviter, Øivind Bratberg i samtale med Harald Stanghelle om dagen som stadig markeres stort i Storbritannia.",
+"t": "Stanghelle på fredag 05.11.21",
+"u": "https://podkast.nrk.no/fil/stanghelle/8e9d9f73-a146-43d7-9dab-2af857750dbb_0_ID192MP3.mp3"
+},
+"l_f891df19-af5e-405b-91df-19af5e505bf3": {
+"d": "2021-06-18T12:30:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1049,
+"s": "Sommerværet - et uuttømmelig tema. Bente Wahl, meteorolog, kan fortelle det meste.",
+"t": "18.06.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/574b7e50-83e3-4697-9555-411f1185d254_0_ID192MP3.mp3"
+},
+"l_fab08156-8bf4-45ab-b081-568bf4c5ab2d": {
+"d": "2021-01-08T13:30:00+01:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1168,
+"s": "Ole Erik Almlid er NHO-leder i utfordrende tider for det norske næringslivet. Stang in-kommentaren tar for seg det tragiske leirskredet i Gjerdrum.",
+"t": "08.01.2021  Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/00ecd95f-23c3-4d01-9c2c-19d195839df4_0_ID192MP3.mp3"
+},
+"l_fb0ddc70-b1c5-48ae-8ddc-70b1c588ae24": {
+"d": "2021-10-01T14:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1346,
+"s": "Vi er inne i en tid med spennende regjeringsforhandlinger. Harald Stanghelle snakker med tre som har forhandlet om regjeringsmakt tidligere. Magnhild Meltveit Kleppa, Per Sandberg og Øystein Djupedal avslører hva som må til for å få til godt samarbeid.",
+"t": " 01.10.2021 Stanghelle på fredag",
+"u": "https://podkast.nrk.no/fil/stanghelle/710fe454-f84b-4118-92a6-607801f0e342_0_ID192MP3.mp3"
+},
+"l_fb8fe256-cb4a-4a87-8fe2-56cb4a1a8730": {
+"d": "2020-06-12T15:00:00+02:00",
+"i": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"n": 1134,
+"s": "\"Å være et valgt medlem av FNs sikkerhetsråd fordrer gode svømmeferdigheter i et farvann kontrollert av haier\", sier Tove Gravdal som har skrevet boken \"Til bords med de mektige\". 17.juni får vi vite om Norge får sitt 5.medlemskap i rådet. ",
+"t": "Til bords med de mektige",
+"u": "https://podkast.nrk.no/fil/stanghelle/a847e2ff-f68f-4166-81cb-e0f983b2b914_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Kultur og samfunn",
+"id": "stanghelle",
+"image": "https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw",
+"subtitle": "Harald Stanghelle og mange spennende gjester samtaler og forteller interessante historier. \n\nI spalten «Stang inn – Stang ut» byr Harald på en subjektiv oppsummering og poengtert kommentar fra uken vi har bak oss. \n\n«Stanghelle på fredag» sendes hver fredag ettermiddag kl. 12:30 på P1+",
+"title": "Stanghelle"
+},
+"v": 2
 }

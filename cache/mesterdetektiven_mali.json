@@ -1,6 +1,44 @@
 {
-"l_541fc3bf-c57a-4a7f-9fc3-bfc57ada7f04": "https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1419_1139.MP3",
-"l_766f1aec-2c22-4b14-af1a-ec2c22ab1419": "https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1419_1085.MP3",
-"l_a2db8012-b187-49b6-9b80-12b18749b6d9": "https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1420_4012.MP3",
-"l_bdf40b9b-2059-44b2-b40b-9b2059a4b21e": "https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1420_2224.MP3"
+"episodes": {
+"l_541fc3bf-c57a-4a7f-9fc3-bfc57ada7f04": {
+"d": "2018-09-25T16:19:00+02:00",
+"i": "https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg",
+"n": 889,
+"s": "Mali får skylda for noe hun ikke har gjort. Hun må bevise for de voksne at hun er uskyldig.",
+"t": "Får skylda (1:4)",
+"u": "https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1419_1139.MP3"
+},
+"l_766f1aec-2c22-4b14-af1a-ec2c22ab1419": {
+"d": "2018-09-25T16:21:00+02:00",
+"i": "https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg",
+"n": 889,
+"s": "Mali må løse mysteriet med den flygende kaninen.",
+"t": "Den flygende kaninen (2:4)",
+"u": "https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1419_1085.MP3"
+},
+"l_a2db8012-b187-49b6-9b80-12b18749b6d9": {
+"d": "2018-09-25T16:24:00+02:00",
+"i": "https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg",
+"n": 629,
+"s": "Mali får muligheten til å bli konge for en dag.",
+"t": "Konge for en dag (3:4)",
+"u": "https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1420_4012.MP3"
+},
+"l_bdf40b9b-2059-44b2-b40b-9b2059a4b21e": {
+"d": "2018-09-25T16:27:00+02:00",
+"i": "https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg",
+"n": 581,
+"s": "En usynlig tyv stjeler det kjæreste Mali eier - kosekluten Knut Arild.",
+"t": "Den usynlige tyven (4:4)",
+"u": "https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1420_2224.MP3"
+}
+},
+"meta": {
+"category": "Barn",
+"id": "mesterdetektiven_mali",
+"image": "https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg",
+"subtitle": "Når Mali ikke er i barnehagen er hun en ekte mesterdetektiv som løser mysterier i nabolaget sitt.\n\nEn podkastserie for barn fra NRK Super.",
+"title": "Mesterdetektiven Mali"
+},
+"v": 2
 }

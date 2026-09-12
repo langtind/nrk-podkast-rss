@@ -1,7 +1,52 @@
 {
-"l_1ba4903a-1aab-4789-a490-3a1aab7789f8": "https://podkast.nrk.no/fil/sentralbordet/1ba4903a-1aab-4789-a490-3a1aab7789f8_2_ID192MP3.mp3",
-"l_69ffd4e1-f5d1-4149-bfd4-e1f5d131497b": "https://podkast.nrk.no/fil/sentralbordet/69ffd4e1-f5d1-4149-bfd4-e1f5d131497b_1_ID192MP3.mp3",
-"l_83f23e2a-ea66-461e-b23e-2aea66161e38": "https://podkast.nrk.no/fil/sentralbordet/83f23e2a-ea66-461e-b23e-2aea66161e38_1_ID192MP3.mp3",
-"l_b48f4c41-52e0-4454-8f4c-4152e0245408": "https://podkast.nrk.no/fil/sentralbordet/b48f4c41-52e0-4454-8f4c-4152e0245408_2_ID192MP3.mp3",
-"l_f6022010-8183-4541-8220-1081833541d8": "https://podkast.nrk.no/fil/sentralbordet/f6022010-8183-4541-8220-1081833541d8_1_ID192MP3.mp3"
+"episodes": {
+"l_1ba4903a-1aab-4789-a490-3a1aab7789f8": {
+"d": "2026-08-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA",
+"n": 1279,
+"s": "Gud ringer soknepresten, Ole Henry kontakter et svensk spa med kjøkkenredskaper, Emilie har ikke ord, Live og Vegard prøver seg som sytete tenåringer i Sør-Korea og Vegard må ringe et advokatfirma med hjelp fra Øystein Sunde.",
+"t": "– Har ni hvitløkspressa på ryggen?",
+"u": "https://podkast.nrk.no/fil/sentralbordet/1ba4903a-1aab-4789-a490-3a1aab7789f8_2_ID192MP3.mp3"
+},
+"l_69ffd4e1-f5d1-4149-bfd4-e1f5d131497b": {
+"d": "2026-08-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA",
+"n": 1300,
+"s": "Vegard får en pizzakokk til å skrike, Catrin Sagen ringer feil, et engelsk hostel mangler laks og Sabeltann seiler inn i Stockholm.",
+"t": "– Kan du høre meg gjennom gulvet?",
+"u": "https://podkast.nrk.no/fil/sentralbordet/69ffd4e1-f5d1-4149-bfd4-e1f5d131497b_1_ID192MP3.mp3"
+},
+"l_83f23e2a-ea66-461e-b23e-2aea66161e38": {
+"d": "2026-09-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA",
+"n": 1280,
+"s": "Læreren Beaver planlegger klassetur til et museum i England, Vegard klager på appelsiner, Catrin Sagen sliter med å legge på, og en spansk danseskole blir for dyr for Emilie.",
+"t": "– Nesten som en gagball",
+"u": "https://podkast.nrk.no/fil/sentralbordet/83f23e2a-ea66-461e-b23e-2aea66161e38_1_ID192MP3.mp3"
+},
+"l_b48f4c41-52e0-4454-8f4c-4152e0245408": {
+"d": "2026-08-20T06:01:00+02:00",
+"i": "https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA",
+"n": 1233,
+"s": "Vegard har misforstått finn.no, Ole Henry må be om for mye fra en tilfeldig på telefonlista og Emilie tvinges til å bli musikalartist.",
+"t": "– Jeg ringer angående den vannkukeren",
+"u": "https://podkast.nrk.no/fil/sentralbordet/b48f4c41-52e0-4454-8f4c-4152e0245408_2_ID192MP3.mp3"
+},
+"l_f6022010-8183-4541-8220-1081833541d8": {
+"d": "2026-09-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA",
+"n": 1141,
+"s": "Ole Henry pitcher en idé til et tjekkisk voksmuseum, John Arne Riise har et par spørsmål om Kaptein Sabeltann, Emilie leverer naboklage på svensk jente og Vegard synes han kan finsk.",
+"t": "– Tenk om jeg har sagt at jeg skal drepe alle?",
+"u": "https://podkast.nrk.no/fil/sentralbordet/f6022010-8183-4541-8220-1081833541d8_1_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "sentralbordet",
+"image": "https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA",
+"subtitle": "Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.",
+"title": "Sentralbordet på NRK"
+},
+"v": 2
 }

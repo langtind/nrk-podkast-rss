@@ -1,87 +1,692 @@
 {
-"l_03eaf00c-5857-48da-aaf0-0c585718daa8": "https://podkast.nrk.no/fil/din_venn_nora/03eaf00c-5857-48da-aaf0-0c585718daa8_1_ID192MP3.mp3",
-"l_07722696-4a3c-4870-b226-964a3c387038": "https://podkast.nrk.no/fil/din_venn_nora/07722696-4a3c-4870-b226-964a3c387038_1_ID192MP3.mp3",
-"l_08de6966-40d4-4b5f-9e69-6640d44b5f1c": "https://podkast.nrk.no/fil/din_venn_nora/cca6272a-85e5-421c-8fb6-3594b5e0f95a_0_ID192MP3.mp3",
-"l_09248487-77f1-454f-a484-8777f1254f1b": "https://podkast.nrk.no/fil/din_venn_nora/09248487-77f1-454f-a484-8777f1254f1b_1_ID192MP3.mp3",
-"l_0d0dda7d-d73f-4295-8dda-7dd73f229521": "https://podkast.nrk.no/fil/din_venn_nora/0d0dda7d-d73f-4295-8dda-7dd73f229521_ID192MP3.mp3",
-"l_0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a": "https://podkast.nrk.no/fil/din_venn_nora/0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a_ID192MP3.mp3",
-"l_0fd77acd-f41a-4321-977a-cdf41ac321e0": "https://podkast.nrk.no/fil/din_venn_nora/0fd77acd-f41a-4321-977a-cdf41ac321e0_ID192MP3.mp3",
-"l_1050b355-5a86-42cf-90b3-555a8642cf8b": "https://podkast.nrk.no/fil/din_venn_nora/1050b355-5a86-42cf-90b3-555a8642cf8b_ID192MP3.mp3",
-"l_115f0f96-25a0-40e8-9f0f-9625a040e8e3": "https://podkast.nrk.no/fil/din_venn_nora/a5568a99-2fba-43e4-8c73-db1f3237b5f3_0_ID192MP3.mp3",
-"l_13a0106d-86b9-406d-a010-6d86b9606d9e": "https://podkast.nrk.no/fil/din_venn_nora/13a0106d-86b9-406d-a010-6d86b9606d9e_ID192MP3.mp3",
-"l_16686c91-4a05-40b2-a86c-914a0500b25c": "https://podkast.nrk.no/fil/din_venn_nora/28100959-c999-4749-b5f6-a44e0e541372_0_ID192MP3.mp3",
-"l_1cce6139-0e3e-4c96-8e61-390e3eec96a2": "https://podkast.nrk.no/fil/din_venn_nora/1cce6139-0e3e-4c96-8e61-390e3eec96a2_1_ID192MP3.mp3",
-"l_1f7b8041-444e-4763-bb80-41444e076306": "https://podkast.nrk.no/fil/din_venn_nora/1f7b8041-444e-4763-bb80-41444e076306_1_ID192MP3.mp3",
-"l_1f8e22b6-4fc3-4863-8e22-b64fc3b86397": "https://podkast.nrk.no/fil/din_venn_nora/4d0c27d0-92ba-4df5-b990-9dfbd3806e1b_0_ID192MP3.mp3",
-"l_20af1614-3c4a-4087-af16-143c4a508791": "https://podkast.nrk.no/fil/din_venn_nora/20af1614-3c4a-4087-af16-143c4a508791_ID192MP3.mp3",
-"l_301d20d6-2668-43cf-9d20-d6266883cff9": "https://podkast.nrk.no/fil/din_venn_nora/301d20d6-2668-43cf-9d20-d6266883cff9_ID192MP3.mp3",
-"l_36c3eb74-c215-409f-83eb-74c215209fd1": "https://podkast.nrk.no/fil/din_venn_nora/36c3eb74-c215-409f-83eb-74c215209fd1_ID192MP3.mp3",
-"l_3905ef70-977e-465c-85ef-70977e365c35": "https://podkast.nrk.no/fil/din_venn_nora/3905ef70-977e-465c-85ef-70977e365c35_1_ID192MP3.mp3",
-"l_3b1e808e-ed1f-4db8-9e80-8eed1fddb8a7": "https://podkast.nrk.no/fil/din_venn_nora/3b1e808e-ed1f-4db8-9e80-8eed1fddb8a7_ID192MP3.mp3",
-"l_42535120-a28a-48f3-9351-20a28aa8f3a0": "https://podkast.nrk.no/fil/din_venn_nora/42535120-a28a-48f3-9351-20a28aa8f3a0_1_ID192MP3.mp3",
-"l_441280c2-a2bf-493b-9280-c2a2bf893b01": "https://podkast.nrk.no/fil/din_venn_nora/441280c2-a2bf-493b-9280-c2a2bf893b01_1_ID192MP3.mp3",
-"l_47bf8292-f951-4324-bf82-92f9513324e5": "https://podkast.nrk.no/fil/din_venn_nora/47bf8292-f951-4324-bf82-92f9513324e5_ID192MP3.mp3",
-"l_47c730f4-7ed1-4565-8730-f47ed155654e": "https://podkast.nrk.no/fil/din_venn_nora/47c730f4-7ed1-4565-8730-f47ed155654e_ID192MP3.mp3",
-"l_4867f89e-6af6-40fb-a7f8-9e6af6f0fbd2": "https://podkast.nrk.no/fil/din_venn_nora/f86af6ee-b6ec-479b-bbb1-94f5486a8898_0_ID192MP3.mp3",
-"l_4882e785-ec21-4032-82e7-85ec21a032b1": "https://podkast.nrk.no/fil/din_venn_nora/4882e785-ec21-4032-82e7-85ec21a032b1_ID192MP3.mp3",
-"l_4b460aa4-a181-448f-860a-a4a181b48f60": "https://podkast.nrk.no/fil/din_venn_nora/4b460aa4-a181-448f-860a-a4a181b48f60_1_ID192MP3.mp3",
-"l_4b5e4076-0189-44ec-9e40-76018914ec05": "https://podkast.nrk.no/fil/din_venn_nora/4b5e4076-0189-44ec-9e40-76018914ec05_ID192MP3.mp3",
-"l_4c9585a7-d62b-43b0-9585-a7d62bb3b048": "https://podkast.nrk.no/fil/din_venn_nora/ca0bdc5c-a2bc-43d6-9771-13527a7d2af3_0_ID192MP3.mp3",
-"l_4e6548df-34af-48df-a548-df34afe8dfc8": "https://podkast.nrk.no/fil/din_venn_nora/4e6548df-34af-48df-a548-df34afe8dfc8_ID192MP3.mp3",
-"l_502e52c2-dead-4077-ae52-c2deade0774d": "https://podkast.nrk.no/fil/din_venn_nora/502e52c2-dead-4077-ae52-c2deade0774d_ID192MP3.mp3",
-"l_53d975b3-e4df-4da3-9975-b3e4dfcda39f": "https://podkast.nrk.no/fil/din_venn_nora/2afdab3a-d212-40e4-984e-03039770a7c4_0_ID192MP3.mp3",
-"l_59454187-3c3d-45a9-8541-873c3d25a98a": "https://podkast.nrk.no/fil/din_venn_nora/59454187-3c3d-45a9-8541-873c3d25a98a_ID192MP3.mp3",
-"l_5db427f5-8c0f-4f31-b427-f58c0faf31ed": "https://podkast.nrk.no/fil/din_venn_nora/5db427f5-8c0f-4f31-b427-f58c0faf31ed_ID192MP3.mp3",
-"l_5fad4ba7-1c39-4f4c-ad4b-a71c399f4c91": "https://podkast.nrk.no/fil/din_venn_nora/5fad4ba7-1c39-4f4c-ad4b-a71c399f4c91_ID192MP3.mp3",
-"l_60920d26-e6fc-4001-920d-26e6fc3001fb": "https://podkast.nrk.no/fil/din_venn_nora/60920d26-e6fc-4001-920d-26e6fc3001fb_ID192MP3.mp3",
-"l_6129a27e-4f5a-4631-a9a2-7e4f5a66316f": "https://podkast.nrk.no/fil/din_venn_nora/b235f5e9-d07c-4b59-af53-f7b41728dca6_0_ID192MP3.mp3",
-"l_6529d485-6961-4ea4-a9d4-856961cea48f": "https://podkast.nrk.no/fil/din_venn_nora/6529d485-6961-4ea4-a9d4-856961cea48f_1_ID192MP3.mp3",
-"l_65994de8-d50c-4394-994d-e8d50c039448": "https://podkast.nrk.no/fil/din_venn_nora/65994de8-d50c-4394-994d-e8d50c039448_1_ID192MP3.mp3",
-"l_672f525e-f7ed-4041-af52-5ef7eda0412a": "https://podkast.nrk.no/fil/din_venn_nora/5340f1bf-2409-4242-9c6b-0c316a78707d_0_ID192MP3.mp3",
-"l_677b2b26-723f-4f71-bb2b-26723f5f719a": "https://podkast.nrk.no/fil/din_venn_nora/677b2b26-723f-4f71-bb2b-26723f5f719a_ID192MP3.mp3",
-"l_67f4df85-7b6c-41a3-b4df-857b6c01a394": "https://podkast.nrk.no/fil/din_venn_nora/67f4df85-7b6c-41a3-b4df-857b6c01a394_1_ID192MP3.mp3",
-"l_6ace586f-7a4b-4f87-8e58-6f7a4bcf8719": "https://podkast.nrk.no/fil/din_venn_nora/6ace586f-7a4b-4f87-8e58-6f7a4bcf8719_ID192MP3.mp3",
-"l_6bc73cd4-bf69-4377-873c-d4bf69c37787": "https://podkast.nrk.no/fil/din_venn_nora/6ad96c84-2bbb-43ea-9b73-55d59eb2c1e0_0_ID192MP3.mp3",
-"l_72b7de23-051c-41a1-b7de-23051c11a1fc": "https://podkast.nrk.no/fil/din_venn_nora/72b7de23-051c-41a1-b7de-23051c11a1fc_ID192MP3.mp3",
-"l_747cf9ed-831f-4006-bcf9-ed831f30067e": "https://podkast.nrk.no/fil/din_venn_nora/747cf9ed-831f-4006-bcf9-ed831f30067e_1_ID192MP3.mp3",
-"l_777bfe5f-bc40-4728-bbfe-5fbc40c72890": "https://podkast.nrk.no/fil/din_venn_nora/777bfe5f-bc40-4728-bbfe-5fbc40c72890_1_ID192MP3.mp3",
-"l_80c0aa2b-0c27-4b2c-80aa-2b0c27db2c05": "https://podkast.nrk.no/fil/din_venn_nora/80c0aa2b-0c27-4b2c-80aa-2b0c27db2c05_ID192MP3.mp3",
-"l_8b633de6-81b6-4213-a33d-e681b6b2132f": "https://podkast.nrk.no/fil/din_venn_nora/8b633de6-81b6-4213-a33d-e681b6b2132f_1_ID192MP3.mp3",
-"l_93793477-21ce-488e-b934-7721ce688e28": "https://podkast.nrk.no/fil/din_venn_nora/51f7abfb-fa03-4f9b-a2d6-543b3b3f367a_0_ID192MP3.mp3",
-"l_94fae9eb-9927-402b-bae9-eb9927d02bd5": "https://podkast.nrk.no/fil/din_venn_nora/94fae9eb-9927-402b-bae9-eb9927d02bd5_ID192MP3.mp3",
-"l_9580015f-7195-42d6-8001-5f719512d69e": "https://podkast.nrk.no/fil/din_venn_nora/9580015f-7195-42d6-8001-5f719512d69e_1_ID192MP3.mp3",
-"l_9a3885b1-abe5-446f-b885-b1abe5846f0c": "https://podkast.nrk.no/fil/din_venn_nora/6e2fabae-4ac5-42df-b11e-8aad7790c15f_0_ID192MP3.mp3",
-"l_9ac5ad14-ac22-4fb5-85ad-14ac22cfb501": "https://podkast.nrk.no/fil/din_venn_nora/9ac5ad14-ac22-4fb5-85ad-14ac22cfb501_ID192MP3.mp3",
-"l_9de1ecae-7221-4373-a1ec-ae72219373c7": "https://podkast.nrk.no/fil/din_venn_nora/9de1ecae-7221-4373-a1ec-ae72219373c7_ID192MP3.mp3",
-"l_a10112b3-7d7e-4ee6-8112-b37d7eeee6fb": "https://podkast.nrk.no/fil/din_venn_nora/a10112b3-7d7e-4ee6-8112-b37d7eeee6fb_1_ID192MP3.mp3",
-"l_a4c6b2bb-229a-40ff-86b2-bb229ad0ff8d": "https://podkast.nrk.no/fil/din_venn_nora/33b3b4cb-4bc5-45cd-a537-b4f7186ac573_0_ID192MP3.mp3",
-"l_a5540d4f-d970-4cf6-940d-4fd970dcf6f4": "https://podkast.nrk.no/fil/din_venn_nora/a5540d4f-d970-4cf6-940d-4fd970dcf6f4_ID192MP3.mp3",
-"l_ab69eb4f-7bee-4488-a9eb-4f7bee44887e": "https://podkast.nrk.no/fil/din_venn_nora/ab69eb4f-7bee-4488-a9eb-4f7bee44887e_1_ID192MP3.mp3",
-"l_abc83a71-0472-48cb-883a-71047248cba0": "https://podkast.nrk.no/fil/din_venn_nora/479aa5b9-6bab-4109-9981-419a916fbdfd_0_ID192MP3.mp3",
-"l_ada2429b-411e-4832-a242-9b411ee832cb": "https://podkast.nrk.no/fil/din_venn_nora/ada2429b-411e-4832-a242-9b411ee832cb_ID192MP3.mp3",
-"l_bd601dce-f654-4ea0-a01d-cef654fea096": "https://podkast.nrk.no/fil/din_venn_nora/66aa0ba2-49a6-4e85-a299-8ce6ded7e8f7_0_ID192MP3.mp3",
-"l_c176b958-32f6-4c94-b6b9-5832f6dc94c3": "https://podkast.nrk.no/fil/din_venn_nora/095c2787-da38-4d9c-899c-d1c873ba465a_0_ID192MP3.mp3",
-"l_c2241be8-6d30-40c9-a41b-e86d30b0c921": "https://podkast.nrk.no/fil/din_venn_nora/c2241be8-6d30-40c9-a41b-e86d30b0c921_ID192MP3.mp3",
-"l_c2ca116a-fae6-40bc-8a11-6afae640bcfb": "https://podkast.nrk.no/fil/din_venn_nora/c2ca116a-fae6-40bc-8a11-6afae640bcfb_1_ID192MP3.mp3",
-"l_c574af25-fa96-4086-b4af-25fa96708614": "https://podkast.nrk.no/fil/din_venn_nora/c574af25-fa96-4086-b4af-25fa96708614_1_ID192MP3.mp3",
-"l_c8c2aef7-c4ab-424b-82ae-f7c4ab724b63": "https://podkast.nrk.no/fil/din_venn_nora/c8c2aef7-c4ab-424b-82ae-f7c4ab724b63_2_ID192MP3.mp3",
-"l_c94cebe1-c2d6-494a-8ceb-e1c2d6094a51": "https://podkast.nrk.no/fil/din_venn_nora/c94cebe1-c2d6-494a-8ceb-e1c2d6094a51_1_ID192MP3.mp3",
-"l_c99eefdd-9fe5-43b3-9eef-dd9fe563b3ce": "https://podkast.nrk.no/fil/din_venn_nora/c99eefdd-9fe5-43b3-9eef-dd9fe563b3ce_1_ID192MP3.mp3",
-"l_ca2ed4d9-f283-4522-aed4-d9f283b52224": "https://podkast.nrk.no/fil/din_venn_nora/dd702aae-8cb5-43ca-8e2d-d70dc09c0985_0_ID192MP3.mp3",
-"l_cdd4a312-8760-4b8f-94a3-1287607b8f20": "https://podkast.nrk.no/fil/din_venn_nora/cdd4a312-8760-4b8f-94a3-1287607b8f20_ID192MP3.mp3",
-"l_cff4abb3-2e7f-43de-b4ab-b32e7f23de70": "https://podkast.nrk.no/fil/din_venn_nora/cff4abb3-2e7f-43de-b4ab-b32e7f23de70_ID192MP3.mp3",
-"l_d1942a0f-1c5e-41f2-942a-0f1c5ee1f20c": "https://podkast.nrk.no/fil/din_venn_nora/b39fdba4-529f-4572-8cb4-a0a2d74194f7_0_ID192MP3.mp3",
-"l_d7c08d14-20f9-4b9c-808d-1420f9eb9c65": "https://podkast.nrk.no/fil/din_venn_nora/d7c08d14-20f9-4b9c-808d-1420f9eb9c65_1_ID192MP3.mp3",
-"l_db193ce8-109e-4343-993c-e8109eb343b3": "https://podkast.nrk.no/fil/din_venn_nora/db193ce8-109e-4343-993c-e8109eb343b3_1_ID192MP3.mp3",
-"l_dbb5ef1c-9043-4d38-b5ef-1c9043ad3874": "https://podkast.nrk.no/fil/din_venn_nora/dbb5ef1c-9043-4d38-b5ef-1c9043ad3874_ID192MP3.mp3",
-"l_de9466d3-cb06-439c-9466-d3cb06339cb5": "https://podkast.nrk.no/fil/din_venn_nora/6c751d60-8fc4-4d82-8a9b-c5e80646b086_0_ID192MP3.mp3",
-"l_e36114b1-69c1-469c-a114-b169c1569c1f": "https://podkast.nrk.no/fil/din_venn_nora/d6cb581b-d684-4773-8f0f-65788c7a5c8c_0_ID192MP3.mp3",
-"l_e64080f8-f727-421e-8080-f8f727521e54": "https://podkast.nrk.no/fil/din_venn_nora/86136574-0185-42f6-9df2-440d7d039f24_0_ID192MP3.mp3",
-"l_ed12f0c7-e6c9-4c95-92f0-c7e6c93c952e": "https://podkast.nrk.no/fil/din_venn_nora/ed12f0c7-e6c9-4c95-92f0-c7e6c93c952e_1_ID192MP3.mp3",
-"l_f0d54505-1f28-4368-9545-051f2893686e": "https://podkast.nrk.no/fil/din_venn_nora/f1d92fdc-ad84-47a6-abce-ffe52e3bb0e1_0_ID192MP3.mp3",
-"l_f1daf130-18a0-4aff-9af1-3018a01aff86": "https://podkast.nrk.no/fil/din_venn_nora/f1daf130-18a0-4aff-9af1-3018a01aff86_ID192MP3.mp3",
-"l_f5036dba-ee23-465a-836d-baee23765a99": "https://podkast.nrk.no/fil/din_venn_nora/f5036dba-ee23-465a-836d-baee23765a99_1_ID192MP3.mp3",
-"l_f885c2ac-920b-496b-85c2-ac920b196bfc": "https://podkast.nrk.no/fil/din_venn_nora/ccc65fc9-3418-454a-afbe-0c8e8721294d_0_ID192MP3.mp3",
-"l_f8c1f829-1d04-4548-81f8-291d0445487f": "https://podkast.nrk.no/fil/din_venn_nora/f8c1f829-1d04-4548-81f8-291d0445487f_ID192MP3.mp3",
-"l_fa0b0dce-6aa2-4004-8b0d-ce6aa270040f": "https://podkast.nrk.no/fil/din_venn_nora/a7f1bc86-0beb-4a34-8721-5a585f500493_0_ID192MP3.mp3"
+"episodes": {
+"l_03eaf00c-5857-48da-aaf0-0c585718daa8": {
+"d": "2026-07-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1496,
+"s": "Debrief av en historisk helg: fotballtriumf mot Brasil, Karpe World og Peppes Pizza i Alta",
+"t": "La hvite jenter gråte",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/03eaf00c-5857-48da-aaf0-0c585718daa8_1_ID192MP3.mp3"
+},
+"l_07722696-4a3c-4870-b226-964a3c387038": {
+"d": "2026-07-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/tvvqXLkNP1MfroE3z7u7bAKk4GRbOYZVOMEOgZiLLU1A",
+"n": 1699,
+"s": "Jeg drar på campingtur til Island med leiebilen Pelledúr. Så kjøper jeg lykketrollet Mosi. Det skulle jeg aldri ha gjort.",
+"t": "Ulykkestrollet på Island",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/07722696-4a3c-4870-b226-964a3c387038_1_ID192MP3.mp3"
+},
+"l_08de6966-40d4-4b5f-9e69-6640d44b5f1c": {
+"d": "2025-06-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1623,
+"s": "Sabatika! Direkte fra Thailand til NRK, med kultursjokk i bagasjen og en ærlig prat om selvtillitsknekk på reisen.",
+"t": "Reisebrev fra Thailand",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/cca6272a-85e5-421c-8fb6-3594b5e0f95a_0_ID192MP3.mp3"
+},
+"l_09248487-77f1-454f-a484-8777f1254f1b": {
+"d": "2026-02-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1589,
+"s": "Her kommer tidenes triks til deg – for litt ekstra magi på en vanlig onsdag! Ellers: Nora er naken på jobb ..som vanlig.",
+"t": "Hverdagsmagi for single",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/09248487-77f1-454f-a484-8777f1254f1b_1_ID192MP3.mp3"
+},
+"l_0d0dda7d-d73f-4295-8dda-7dd73f229521": {
+"d": "2025-09-17T16:32:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 982,
+"s": "*Det er tatt ut et segment i denne episoden, som var publisert i første versjon.*\n\nBlokkfløytetraumer fra barndommen, dårlige samtalestartere og noe vi måtte klippe ut.",
+"t": "NRKs fremtid avhenger av meg",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/0d0dda7d-d73f-4295-8dda-7dd73f229521_ID192MP3.mp3"
+},
+"l_0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a": {
+"d": "2026-01-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1823,
+"s": "Kleskrise og vitser som ikke kom med. Nora har vært på «Nytt på nytt».",
+"t": "Kutta vitser fra «Nytt på nytt»",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a_ID192MP3.mp3"
+},
+"l_0fd77acd-f41a-4321-977a-cdf41ac321e0": {
+"d": "2025-10-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1358,
+"s": "Et luftjukker-angrep på scenen, walk of shame i Halloween-kostyme og flere ekle ord fra dere<3",
+"t": "Kostymetips til under hundrelappen",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/0fd77acd-f41a-4321-977a-cdf41ac321e0_ID192MP3.mp3"
+},
+"l_1050b355-5a86-42cf-90b3-555a8642cf8b": {
+"d": "2025-12-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1311,
+"s": "Julebordsesongen er dessverre i gang, men heldigvis har det dukket opp en ny hobby jeg kan roe nervene med.",
+"t": "Dette er mitt Vietnam",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/1050b355-5a86-42cf-90b3-555a8642cf8b_ID192MP3.mp3"
+},
+"l_115f0f96-25a0-40e8-9f0f-9625a040e8e3": {
+"d": "2025-06-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1275,
+"s": "En mystisk brevleveranse på kafé, dansetraumer fra både Nice og BlimE, og en oppfordring til å leve livet for din egen del.",
+"t": "Velkommen til Yappa Yapppa City",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/a5568a99-2fba-43e4-8c73-db1f3237b5f3_0_ID192MP3.mp3"
+},
+"l_13a0106d-86b9-406d-a010-6d86b9606d9e": {
+"d": "2025-09-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1204,
+"s": "Actionfrank får høre det i sangform, Tine får smalltalk-tips, og vi alle får en slags oppklaring i hva notorisk utro betyr.",
+"t": "En beskjed til Frank Løke",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/13a0106d-86b9-406d-a010-6d86b9606d9e_ID192MP3.mp3"
+},
+"l_16686c91-4a05-40b2-a86c-914a0500b25c": {
+"d": "2025-06-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1282,
+"s": "Tips til å vinne en freestyle rap battle, innrømmelser om barndommens fantasier og en ærlig prat om depresjon på sommeren.",
+"t": "Mine sexdrømmer som barn",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/28100959-c999-4749-b5f6-a44e0e541372_0_ID192MP3.mp3"
+},
+"l_1cce6139-0e3e-4c96-8e61-390e3eec96a2": {
+"d": "2026-04-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1721,
+"s": "Et besøk i studio av Hallgeir Kvadsheim, en uforståelig påskeparade i Sverige og en hjemsøkt hytte som må brennes ned.",
+"t": "Fucking Åmål",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/1cce6139-0e3e-4c96-8e61-390e3eec96a2_1_ID192MP3.mp3"
+},
+"l_1f7b8041-444e-4763-bb80-41444e076306": {
+"d": "2026-07-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1250,
+"s": "Jeg trosser pjuskhet for å fortelle deg om fising på barnefamilie, pride-motstand i Ålesund og sex med handikap.",
+"t": "Jan Thomas er min gud",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/1f7b8041-444e-4763-bb80-41444e076306_1_ID192MP3.mp3"
+},
+"l_1f8e22b6-4fc3-4863-8e22-b64fc3b86397": {
+"d": "2025-07-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1534,
+"s": "En svensk sommerdrøm som ble til et mareritt og en eksklusiv premiere på Noras enmannsband",
+"t": "Hyttetur fra helvette",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/4d0c27d0-92ba-4df5-b990-9dfbd3806e1b_0_ID192MP3.mp3"
+},
+"l_20af1614-3c4a-4087-af16-143c4a508791": {
+"d": "2025-11-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1280,
+"s": "Nye heiarop til Norge, en rapport fra Latvia og meldinger fra deg, min kjære venn<3",
+"t": "Middelaldrende menn ødelegger alt",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/20af1614-3c4a-4087-af16-143c4a508791_ID192MP3.mp3"
+},
+"l_301d20d6-2668-43cf-9d20-d6266883cff9": {
+"d": "2026-01-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1578,
+"s": "Svar fra den finske ambassaden, følgere på Instagram fra uventet hold, og et trendy tilbakeblikk til 2016.",
+"t": "Fett hår og sidecut i 2016",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/301d20d6-2668-43cf-9d20-d6266883cff9_ID192MP3.mp3"
+},
+"l_36c3eb74-c215-409f-83eb-74c215209fd1": {
+"d": "2025-09-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1610,
+"s": "Finnes det en mindre by i Norge enn Volda? Hva lukter egentlig et handikap? Og hvor drøy kan man være på NRK før sensuren kicker inn?",
+"t": "Prøveromskrise på H&M",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/36c3eb74-c215-409f-83eb-74c215209fd1_ID192MP3.mp3"
+},
+"l_3905ef70-977e-465c-85ef-70977e365c35": {
+"d": "2026-03-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1911,
+"s": "Aubergine i ansiktet, boligjakt som føles som å bli ghostet av fuckboys og en skuddsikker PR-strategi til Mette-Marit.",
+"t": "Hør her, Mette-Marit",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/3905ef70-977e-465c-85ef-70977e365c35_1_ID192MP3.mp3"
+},
+"l_3b1e808e-ed1f-4db8-9e80-8eed1fddb8a7": {
+"d": "2025-12-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1271,
+"s": "Tips til å overleve juleselskapet, et oppgjør med en elsket juleklassiker, og litt nyttårs-melankoli. GOD JUL, MIN VENN<3",
+"t": "Jeg gråter alltid på nyttårsaften",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/3b1e808e-ed1f-4db8-9e80-8eed1fddb8a7_ID192MP3.mp3"
+},
+"l_42535120-a28a-48f3-9351-20a28aa8f3a0": {
+"d": "2026-05-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1905,
+"s": "Hvordan reagerer man når det tar fyr på buffeten? Og hvordan lever man egentlig et liv uten Karpe?",
+"t": "Nesten Hitlers drøm",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/42535120-a28a-48f3-9351-20a28aa8f3a0_1_ID192MP3.mp3"
+},
+"l_441280c2-a2bf-493b-9280-c2a2bf893b01": {
+"d": "2026-08-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1676,
+"s": "... men jeg har løsningen på hvordan det kan bli bedre. I tillegg har jeg nesten gjort i buksa og blitt sleika i øret av en fremmed.",
+"t": "Det må være stress å være mann",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/441280c2-a2bf-493b-9280-c2a2bf893b01_1_ID192MP3.mp3"
+},
+"l_47bf8292-f951-4324-bf82-92f9513324e5": {
+"d": "2025-10-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1564,
+"s": "Et passbilde som gikk helt galt, en koselig melding fra gynekologen og et ufrivillig dypdykk i pornosjangeren.",
+"t": "Hyrdepai og porno",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/47bf8292-f951-4324-bf82-92f9513324e5_ID192MP3.mp3"
+},
+"l_47c730f4-7ed1-4565-8730-f47ed155654e": {
+"d": "2025-10-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1311,
+"s": "En herlig ASMR-åpning, tips til prompe-trengte på date og litt om mine overnaturlige evner. \n\n\nBingokort til hat-bingo finner du på Instagram, @norasvenningsen.",
+"t": "Jeg ser spøkelser",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/47c730f4-7ed1-4565-8730-f47ed155654e_ID192MP3.mp3"
+},
+"l_4867f89e-6af6-40fb-a7f8-9e6af6f0fbd2": {
+"d": "2025-05-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1320,
+"s": "Et overfall på Torshov, en sterk mening om baris og en ektefølt tanke om at det må være lov å si at det går bra.",
+"t": "Puppesjokk på norsk TV",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/f86af6ee-b6ec-479b-bbb1-94f5486a8898_0_ID192MP3.mp3"
+},
+"l_4882e785-ec21-4032-82e7-85ec21a032b1": {
+"d": "2025-10-29T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1497,
+"s": "En konfliktsky taxitur i Tromsø, en åpen audition til NRK og Debatten, og en ærlig samtale om å være stolt av seg selv.",
+"t": "Samishop 69",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/4882e785-ec21-4032-82e7-85ec21a032b1_ID192MP3.mp3"
+},
+"l_4b460aa4-a181-448f-860a-a4a181b48f60": {
+"d": "2026-06-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1629,
+"s": "En klein heistur, en oppdatering på UGs Italia og en uunngåelig prat om pride.",
+"t": "Taste my rømmegrøt",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/4b460aa4-a181-448f-860a-a4a181b48f60_1_ID192MP3.mp3"
+},
+"l_4b5e4076-0189-44ec-9e40-76018914ec05": {
+"d": "2026-02-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1842,
+"s": "Et monarki i bras får følger, gode valentins-tips, og hva er egentlig forskjellen på en mann i sykkelshorts og en i beige frakk?",
+"t": "Når monarkiet dreper sexlysten",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/4b5e4076-0189-44ec-9e40-76018914ec05_ID192MP3.mp3"
+},
+"l_4c9585a7-d62b-43b0-9585-a7d62bb3b048": {
+"d": "2025-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 645,
+"s": "Marte deler spinnvill historie fra IBS-familien sin, Nora forteller hvor hun mista jomfrudommen og Simen oppfordrer til JOMO!",
+"t": "Innboksen: Bever på svøm mot nakne baller",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/ca0bdc5c-a2bc-43d6-9771-13527a7d2af3_0_ID192MP3.mp3"
+},
+"l_4e6548df-34af-48df-a548-df34afe8dfc8": {
+"d": "2026-03-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1724,
+"s": "En økonomisk krise utløst av Sims, et oppgjør med behandlingen av Paralympics og en ny diagnose har ramlet inn i innboksen.",
+"t": "Ny uke, ny diagnose",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/4e6548df-34af-48df-a548-df34afe8dfc8_ID192MP3.mp3"
+},
+"l_502e52c2-dead-4077-ae52-c2deade0774d": {
+"d": "2025-09-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1605,
+"s": "Tips til hvordan du kan unngå å le, toppliste over ekle ord og en musikalsk gave til Bødø/Glimt.",
+"t": "De ekleste ordene i norsk ordbok",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/502e52c2-dead-4077-ae52-c2deade0774d_ID192MP3.mp3"
+},
+"l_53d975b3-e4df-4da3-9975-b3e4dfcda39f": {
+"d": "2025-08-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1768,
+"s": "Hadde Martin Luther King jr. flere drømmer? Finnes det et medfødt «sexmachine»-gen? Og hvor mye kan ett adjektiv definere hvem vi er?",
+"t": "Hvorfor var jeg sexy som liten?",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/2afdab3a-d212-40e4-984e-03039770a7c4_0_ID192MP3.mp3"
+},
+"l_59454187-3c3d-45a9-8541-873c3d25a98a": {
+"d": "2025-09-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1397,
+"s": "Terrortraume fra videregående, låt om Clas Ohlson, og litt om risikosporten \"jobb-telefoner fra toalettet\".",
+"t": "Terrortrussel på Porsgrunn VGS",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/59454187-3c3d-45a9-8541-873c3d25a98a_ID192MP3.mp3"
+},
+"l_5db427f5-8c0f-4f31-b427-f58c0faf31ed": {
+"d": "2025-08-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1003,
+"s": "Nora starter et politisk parti for alle som ikke kan lese analoge klokker, deler walk of shame-traumer og bygger videre på onaneringsspillelista.",
+"t": "Nora går til valg",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/5db427f5-8c0f-4f31-b427-f58c0faf31ed_ID192MP3.mp3"
+},
+"l_5fad4ba7-1c39-4f4c-ad4b-a71c399f4c91": {
+"d": "2025-09-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1402,
+"s": "En oppdatering på programleder-debuten og \"Ikke lov å le på hytta\"-hat som provoserer (men overraskende nok fører til noe fint<3).",
+"t": "Damer, ta plass!",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/5fad4ba7-1c39-4f4c-ad4b-a71c399f4c91_ID192MP3.mp3"
+},
+"l_60920d26-e6fc-4001-920d-26e6fc3001fb": {
+"d": "2025-12-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1829,
+"s": "\"Karen\"-debut på flyplassen, vakre toner hos sangpedagogen og folkeopplysning om handikappede.",
+"t": "Jeg er skuffet over meg selv",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/60920d26-e6fc-4001-920d-26e6fc3001fb_ID192MP3.mp3"
+},
+"l_6129a27e-4f5a-4631-a9a2-7e4f5a66316f": {
+"d": "2025-07-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 908,
+"s": "Nora gir deg oppskriften på fylleangst: Skriv «møt meg ved busken» til en random på Tinder klokka tre på natta.",
+"t": "Innboksen: Tinder + Fylla = Smell",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/b235f5e9-d07c-4b59-af53-f7b41728dca6_0_ID192MP3.mp3"
+},
+"l_6529d485-6961-4ea4-a9d4-856961cea48f": {
+"d": "2026-07-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1784,
+"s": "En ridetur ga varige mén, en heistur endte i det som må ha vært «backrooms», og en nervepirrende soloreise står for tur: Kina og Mongolia!",
+"t": "Hjelp, jeg har fått hengepupper",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/6529d485-6961-4ea4-a9d4-856961cea48f_1_ID192MP3.mp3"
+},
+"l_65994de8-d50c-4394-994d-e8d50c039448": {
+"d": "2026-04-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1727,
+"s": "En katastrofe på rød løper, en bildeseanse som aldri lar seg slette og en fortelling så sinnssyk at du bare må dele den videre.",
+"t": "Et nakenbilde på avveie",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/65994de8-d50c-4394-994d-e8d50c039448_1_ID192MP3.mp3"
+},
+"l_672f525e-f7ed-4041-af52-5ef7eda0412a": {
+"d": "2025-06-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 955,
+"s": "Martina har fylleangst, BlimE-dramaet fortsetter og Lille My har blitt dumpa. Nora tar for seg lytternes meldinger.",
+"t": "Innboksen: Dumpa av et mummitroll",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/5340f1bf-2409-4242-9c6b-0c316a78707d_0_ID192MP3.mp3"
+},
+"l_677b2b26-723f-4f71-bb2b-26723f5f719a": {
+"d": "2025-10-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1538,
+"s": "Amy har truffet landet, jeg har vært i gynekologstolen og Brystkreftforeningen har fått servert middels standup.",
+"t": "Å kødde med kreft",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/677b2b26-723f-4f71-bb2b-26723f5f719a_ID192MP3.mp3"
+},
+"l_67f4df85-7b6c-41a3-b4df-857b6c01a394": {
+"d": "2026-08-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1237,
+"s": "Ja, jeg har møtt verdens største kjendis. I tillegg har jeg vært på hotell i Trondheim og oppdaget nye ting om \"Boten Anna\".",
+"t": "Da jeg møtte Leonardo DiCaprio",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/67f4df85-7b6c-41a3-b4df-857b6c01a394_1_ID192MP3.mp3"
+},
+"l_6ace586f-7a4b-4f87-8e58-6f7a4bcf8719": {
+"d": "2025-08-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1526,
+"s": "Nora åpner festival for en nesten tom sal, gir alternative navn til politikerne, og blir tatt på fersken i snørrgråt på en benk i Bergen.",
+"t": "Sammenbrudd i Bergen",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/6ace586f-7a4b-4f87-8e58-6f7a4bcf8719_ID192MP3.mp3"
+},
+"l_6bc73cd4-bf69-4377-873c-d4bf69c37787": {
+"d": "2025-06-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 925,
+"s": "Karoline har blitt bedt på trekant, Viktoria vil vite hvordan hjernen til Nora funker, og William ber om nok en sang om Maxbo.",
+"t": "Innboksen: Ble invitert på trekant",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/6ad96c84-2bbb-43ea-9b73-55d59eb2c1e0_0_ID192MP3.mp3"
+},
+"l_72b7de23-051c-41a1-b7de-23051c11a1fc": {
+"d": "2025-11-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1286,
+"s": "Et lys tennes for norske kjendiser, Zara Larsson får velfortjent skryt og jeg deler mine beste tips for å ikke bli betatt.",
+"t": "En hyllest til Zara Larsson",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/72b7de23-051c-41a1-b7de-23051c11a1fc_ID192MP3.mp3"
+},
+"l_747cf9ed-831f-4006-bcf9-ed831f30067e": {
+"d": "2026-04-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1648,
+"s": "Et jordskjelv signert Comic Sans, en biltur gjennom Oslos gater i gråt og et sårt øyeblikk på loppemarked.",
+"t": "Seks menn, én elbil",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/747cf9ed-831f-4006-bcf9-ed831f30067e_1_ID192MP3.mp3"
+},
+"l_777bfe5f-bc40-4728-bbfe-5fbc40c72890": {
+"d": "2026-06-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1689,
+"s": "En guide til hvordan du flørter under VM, en supporterdrakt på avveie og den virkelige kampen etter kampen: å komme seg hjem.",
+"t": "Fotballflørting for nybegynnere",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/777bfe5f-bc40-4728-bbfe-5fbc40c72890_1_ID192MP3.mp3"
+},
+"l_80c0aa2b-0c27-4b2c-80aa-2b0c27db2c05": {
+"d": "2026-02-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1668,
+"s": "Valentinsdagen gikk ikke som planlagt, et nytt personlig helvete er opplevd, og et uventet møte med en idolstjerne.",
+"t": "Risikerte livet for 400 kr",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/80c0aa2b-0c27-4b2c-80aa-2b0c27db2c05_ID192MP3.mp3"
+},
+"l_8b633de6-81b6-4213-a33d-e681b6b2132f": {
+"d": "2026-06-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1745,
+"s": "Årets reiseår er endelig i gang, og en støvel på kartet står for tur. Men først må man gjennom et personlig helvete: flyplassen.",
+"t": "Attenzione, pickpocket!",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/8b633de6-81b6-4213-a33d-e681b6b2132f_1_ID192MP3.mp3"
+},
+"l_93793477-21ce-488e-b934-7721ce688e28": {
+"d": "2025-07-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1185,
+"s": "Ny bisarr trekanthistorie og Nora lover å ta opptak når hun møter svigers i Finnland.",
+"t": "Innboksen: Ligge seg til kontakt med død bestefar",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/51f7abfb-fa03-4f9b-a2d6-543b3b3f367a_0_ID192MP3.mp3"
+},
+"l_94fae9eb-9927-402b-bae9-eb9927d02bd5": {
+"d": "2025-09-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1424,
+"s": "... har også noen positive sider? Ektefølt prat om handikap og slående kritikk av Harstad som by.",
+"t": "Min største usikkerhet",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/94fae9eb-9927-402b-bae9-eb9927d02bd5_ID192MP3.mp3"
+},
+"l_9580015f-7195-42d6-8001-5f719512d69e": {
+"d": "2026-08-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1523,
+"s": "Traumatiske sommerminner, jakten på den perfekte garderoben og en liten prat om tunge kropper.",
+"t": "Å smøre fremmede med solkrem",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/9580015f-7195-42d6-8001-5f719512d69e_1_ID192MP3.mp3"
+},
+"l_9a3885b1-abe5-446f-b885-b1abe5846f0c": {
+"d": "2025-07-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1107,
+"s": "De finske svigerbesteforeldrene kan verken norsk eller engelsk, men Nora har heldigvis Duolingo.",
+"t": "Reisebrev fra Finland",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/6e2fabae-4ac5-42df-b11e-8aad7790c15f_0_ID192MP3.mp3"
+},
+"l_9ac5ad14-ac22-4fb5-85ad-14ac22cfb501": {
+"d": "2026-01-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1514,
+"s": "En uheldig feiltagelse på butikken, et fatalt uhell i Sofienbergparken og traumer fra skiløypa.",
+"t": "Jeg er ikke Gyda Oddekalv",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/9ac5ad14-ac22-4fb5-85ad-14ac22cfb501_ID192MP3.mp3"
+},
+"l_9de1ecae-7221-4373-a1ec-ae72219373c7": {
+"d": "2025-10-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1403,
+"s": "Fantasien setter ingen grenser når Nora tenker ut andre produkter i hårete-truser-serien.",
+"t": "Stiv heks og hårete truser",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/9de1ecae-7221-4373-a1ec-ae72219373c7_ID192MP3.mp3"
+},
+"l_a10112b3-7d7e-4ee6-8112-b37d7eeee6fb": {
+"d": "2026-04-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1655,
+"s": "En hederlig handling på byen, liggelista har blitt Gullruten-nominert og forsøkt snikislamisert på trikken.",
+"t": "Kall meg Jesus",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/a10112b3-7d7e-4ee6-8112-b37d7eeee6fb_1_ID192MP3.mp3"
+},
+"l_a4c6b2bb-229a-40ff-86b2-bb229ad0ff8d": {
+"d": "2025-08-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1611,
+"s": "Nora deler sine beste liggetriks, tar deg gjennom sine personlige helveter, og tar et oppgjør med en drøy TikTok-trend.",
+"t": "Skitten tiss og stygg truse",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/33b3b4cb-4bc5-45cd-a537-b4f7186ac573_0_ID192MP3.mp3"
+},
+"l_a5540d4f-d970-4cf6-940d-4fd970dcf6f4": {
+"d": "2026-01-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1464,
+"s": "Nytt år, nye vage beskjeder fra de døde. Ellers: karaoke-katastrofe i Finland og rapping om hair routines. Grrr8 2 be BACK!",
+"t": "Lilli Tetris får kontakt igjen",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/a5540d4f-d970-4cf6-940d-4fd970dcf6f4_ID192MP3.mp3"
+},
+"l_ab69eb4f-7bee-4488-a9eb-4f7bee44887e": {
+"d": "2026-07-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1821,
+"s": "ENDA et nakenbilde kan være på avveie, et siste farvel til verdens beste sommer (Braut Summer), og snart settes kursen mot Island.",
+"t": "En ufrivillig FHM-shoot",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/ab69eb4f-7bee-4488-a9eb-4f7bee44887e_1_ID192MP3.mp3"
+},
+"l_abc83a71-0472-48cb-883a-71047248cba0": {
+"d": "2025-07-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 946,
+"s": "Skal han blokkes for alltid etter sexmeldingen? Og Nora har tenkt på Titanic-bandet: – Var de et band fra før?",
+"t": "Innboksen: Kinky melding på lesesalen",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/479aa5b9-6bab-4109-9981-419a916fbdfd_0_ID192MP3.mp3"
+},
+"l_ada2429b-411e-4832-a242-9b411ee832cb": {
+"d": "2025-09-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1640,
+"s": "En fotoshoot som ble et traume, en uventet invitasjon fra Illuminati, og en påminnelse om å være stolt av seg selv!",
+"t": "Velkommen til  Illuminati",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/ada2429b-411e-4832-a242-9b411ee832cb_ID192MP3.mp3"
+},
+"l_bd601dce-f654-4ea0-a01d-cef654fea096": {
+"d": "2025-08-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1094,
+"s": "Nora lager spilleliste med lytternes onanisanger, byr på en alternativ buddhismetime og deler tips til deg som starter på skolen.",
+"t": "Innboksen: Mitt første brannsår",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/66aa0ba2-49a6-4e85-a299-8ce6ded7e8f7_0_ID192MP3.mp3"
+},
+"l_c176b958-32f6-4c94-b6b9-5832f6dc94c3": {
+"d": "2025-07-09T06:01:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1444,
+"s": "Trøbbel i leiligheten og din venn Nora røper sjokkerende nyheter: – Tro det eller ei, jeg har også vært et barn!",
+"t": "Dassen er ødelagt, det lukter Mordor",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/095c2787-da38-4d9c-899c-d1c873ba465a_0_ID192MP3.mp3"
+},
+"l_c2241be8-6d30-40c9-a41b-e86d30b0c921": {
+"d": "2025-12-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1261,
+"s": "Redd barna-angst på stream, lystenning for Lido Lido og en lytter som har driti seg loddrett ut.",
+"t": "Pamela Anderson i Mummidalen",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/c2241be8-6d30-40c9-a41b-e86d30b0c921_ID192MP3.mp3"
+},
+"l_c2ca116a-fae6-40bc-8a11-6afae640bcfb": {
+"d": "2026-05-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1846,
+"s": "Et stunt på Gullruten har gitt varige mén, et særdeles intimt øyeblikk med en fotballlegende, og tips til deg som hater 17. mai!",
+"t": "Faceplant i beste sendetid",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/c2ca116a-fae6-40bc-8a11-6afae640bcfb_1_ID192MP3.mp3"
+},
+"l_c574af25-fa96-4086-b4af-25fa96708614": {
+"d": "2026-08-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 2252,
+"s": "En nøye gjennomgang av tidenes solotur, inkludert den SJOKKERENDE grunnen til hvorfor ferien tok BRÅTT slutt. Heng med<3",
+"t": "Den store episoden om Kina",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/c574af25-fa96-4086-b4af-25fa96708614_1_ID192MP3.mp3"
+},
+"l_c8c2aef7-c4ab-424b-82ae-f7c4ab724b63": {
+"d": "2026-05-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1635,
+"s": "En konspirasjonsteori om homofile, ukas verste flauser og grusomme opplevelser på vestkanten.",
+"t": "Vestkantens mørke bakside",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/c8c2aef7-c4ab-424b-82ae-f7c4ab724b63_2_ID192MP3.mp3"
+},
+"l_c94cebe1-c2d6-494a-8ceb-e1c2d6094a51": {
+"d": "2026-09-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 2443,
+"s": "Ett minutts stillhet for kongen gikk ordentlig gærent, et sårbart øyeblikk har gått viralt i Kina og en rabies-update.",
+"t": "Ikke lov å le i landesorg",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/c94cebe1-c2d6-494a-8ceb-e1c2d6094a51_1_ID192MP3.mp3"
+},
+"l_c99eefdd-9fe5-43b3-9eef-dd9fe563b3ce": {
+"d": "2026-09-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1823,
+"s": "Det er vel ikke så mye som er flauere enn å få bicepsen ødelagt av Trygve Skaug? Og hvor mye er en blowjob egentlig verdt?",
+"t": "Selge seg selv for tusen kroner",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/c99eefdd-9fe5-43b3-9eef-dd9fe563b3ce_1_ID192MP3.mp3"
+},
+"l_ca2ed4d9-f283-4522-aed4-d9f283b52224": {
+"d": "2025-07-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1334,
+"s": "Et hissig oppgjør med en gammel date, tanker om feminisme og et ønske om tips til hvordan møte svigers for første gang.",
+"t": "Hjelp! Jeg skal møte svigers",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/dd702aae-8cb5-43ca-8e2d-d70dc09c0985_0_ID192MP3.mp3"
+},
+"l_cdd4a312-8760-4b8f-94a3-1287607b8f20": {
+"d": "2026-02-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/tvvqXLkNP1MfroE3z7u7bAKk4GRbOYZVOMEOgZiLLU1A",
+"n": 1676,
+"s": "En glemt livskrise dukker opp, en uforglemmelig tur til Fjaler og et gourmetmåltid utarter til psykisk terror.",
+"t": "8 retters psykisk terror",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/cdd4a312-8760-4b8f-94a3-1287607b8f20_ID192MP3.mp3"
+},
+"l_cff4abb3-2e7f-43de-b4ab-b32e7f23de70": {
+"d": "2026-03-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1953,
+"s": "En mystisk pakke i postkassa, en sensurert oppvekst og en liten tordentale om kvinner i kommentarfelt.",
+"t": "Banning og barndomstraumer",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/cff4abb3-2e7f-43de-b4ab-b32e7f23de70_ID192MP3.mp3"
+},
+"l_d1942a0f-1c5e-41f2-942a-0f1c5ee1f20c": {
+"d": "2025-05-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1299,
+"s": "Pikante detaljer om forholdet, finsk Duolingo-frustrasjon og en ærlig prat om selvbilde.",
+"t": "Jeg har fått meg kjæreste",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/b39fdba4-529f-4572-8cb4-a0a2d74194f7_0_ID192MP3.mp3"
+},
+"l_d7c08d14-20f9-4b9c-808d-1420f9eb9c65": {
+"d": "2026-05-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1807,
+"s": "En turbulent tur til Bergen, en drøm om å få være med på Maskorama, og hvordan blir man egentlig lesbisk?",
+"t": "Overfalt av fulle fans",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/d7c08d14-20f9-4b9c-808d-1420f9eb9c65_1_ID192MP3.mp3"
+},
+"l_db193ce8-109e-4343-993c-e8109eb343b3": {
+"d": "2026-06-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 2054,
+"s": "Jenta di har hylgrått på toget, fått kjeft av en fugl, og sunget karaoke foran tusenvis av folk.",
+"t": "Tårer i en togvogn",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/db193ce8-109e-4343-993c-e8109eb343b3_1_ID192MP3.mp3"
+},
+"l_dbb5ef1c-9043-4d38-b5ef-1c9043ad3874": {
+"d": "2025-11-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1603,
+"s": "En grusom tur til Tønsberg, et håp om å redde psyken i Latvia og en kontroversiell kåring av den beste julekalenderen .",
+"t": "Hvilken julekalender er best?",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/dbb5ef1c-9043-4d38-b5ef-1c9043ad3874_ID192MP3.mp3"
+},
+"l_de9466d3-cb06-439c-9466-d3cb06339cb5": {
+"d": "2025-08-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1029,
+"s": "Sannheten om \"Førstemann\", drømmetydning fra Chat GPT, låt om Megaflis, og gode råd til deg som vil tulle med eget liv.",
+"t": "Innboksen: Ikke tenk på meg som onanerer",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/6c751d60-8fc4-4d82-8a9b-c5e80646b086_0_ID192MP3.mp3"
+},
+"l_e36114b1-69c1-469c-a114-b169c1569c1f": {
+"d": "2025-08-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1087,
+"s": "Hva er flauere enn å bli påkjørt? Hva kalte du deg selv som barn? Og hvorfor finnes det ikke en hakkespett i Hakkebakkeskogen?",
+"t": "Innboksen: Peter Pan er deilig",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/d6cb581b-d684-4773-8f0f-65788c7a5c8c_0_ID192MP3.mp3"
+},
+"l_e64080f8-f727-421e-8080-f8f727521e54": {
+"d": "2025-07-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 978,
+"s": "Sven vil ha en låt om analkremen Anucura, Gro deler sitt pinlige apotekøyeblikk, og Linnea føler seg bedratt av Martin Ødegaard.",
+"t": "Innboksen: Farmasøyter må skjerpe seg",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/86136574-0185-42f6-9df2-440d7d039f24_0_ID192MP3.mp3"
+},
+"l_ed12f0c7-e6c9-4c95-92f0-c7e6c93c952e": {
+"d": "2026-03-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1864,
+"s": "En live-tabbe på «God morgen Norge», et legebesøk med assosiasjoner til andre verdenskrig og en overraskende pen tisseprøve.",
+"t": "Den perfekte tisseprøven",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/ed12f0c7-e6c9-4c95-92f0-c7e6c93c952e_1_ID192MP3.mp3"
+},
+"l_f0d54505-1f28-4368-9545-051f2893686e": {
+"d": "2025-06-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1530,
+"s": "En dramatisk soloreise til Japan, et ønske om flere filmer der absolutt alle stryker med, og en oppfordring til å gjøre flere ting alene.",
+"t": "Døden nær i Japan",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/f1d92fdc-ad84-47a6-abce-ffe52e3bb0e1_0_ID192MP3.mp3"
+},
+"l_f1daf130-18a0-4aff-9af1-3018a01aff86": {
+"d": "2025-11-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"n": 1073,
+"s": "Halloween på legevakta, gateselgere som har gått for langt og ny informasjon om jentetissen.",
+"t": "Gateselgere har gått for langt",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/f1daf130-18a0-4aff-9af1-3018a01aff86_ID192MP3.mp3"
+},
+"l_f5036dba-ee23-465a-836d-baee23765a99": {
+"d": "2026-04-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/tvvqXLkNP1MfroE3z7u7bAKk4GRbOYZVOMEOgZiLLU1A",
+"n": 1569,
+"s": "Dette er ikke en påskespesial, men heller en døden-nær-opplevelse i Østerrike, standup på engelsk og en Hannah Montana-debrief.",
+"t": "Wien Chain Saw Massacre",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/f5036dba-ee23-465a-836d-baee23765a99_1_ID192MP3.mp3"
+},
+"l_f885c2ac-920b-496b-85c2-ac920b196bfc": {
+"d": "2025-08-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1180,
+"s": "Mimring til fotballcupens glade dager, sorg over Chirags nye sivilstatus og et oppgjør med språk-løgn på CVen.",
+"t": "De brukte meg som brøytebil",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/ccc65fc9-3418-454a-afbe-0c8e8721294d_0_ID192MP3.mp3"
+},
+"l_f8c1f829-1d04-4548-81f8-291d0445487f": {
+"d": "2025-08-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 859,
+"s": "Misforståelser om kjærlighetsstatus, en trampstamp som gikk helt galt, og en festivalmorgen i en ukjent campingvogn.",
+"t": "Innboksen: Våknet i en ukjent campingvogn",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/f8c1f829-1d04-4548-81f8-291d0445487f_ID192MP3.mp3"
+},
+"l_fa0b0dce-6aa2-4004-8b0d-ce6aa270040f": {
+"d": "2025-07-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eZWDdAK0S8fOjBqQJLwS0w6g1T7ub1xuRiNQnJTa325Q",
+"n": 1648,
+"s": "På tur til Kilsund møtte Nora den samiske legenden og skulle hilse. – Jeg må bare beklage.",
+"t": "En joik til Mikkel Gaup",
+"u": "https://podkast.nrk.no/fil/din_venn_nora/a7f1bc86-0beb-4a34-8721-5a585f500493_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "din_venn_nora",
+"image": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
+"subtitle": "Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene.",
+"title": "Din venn, Nora"
+},
+"v": 2
 }

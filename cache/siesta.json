@@ -1,336 +1,2684 @@
 {
-"l_002d0751-1fbc-407a-ad07-511fbc807aae": "https://podkast.nrk.no/fil/siesta/cffd017f-5556-483c-978f-0827c51bb30c_0_ID192MP3.mp3",
-"l_00649698-e67f-46dc-a496-98e67fb6dc6b": "https://podkast.nrk.no/fil/siesta/22c16f1d-c706-444a-ae79-0c82ab1d07d5_0_ID192MP3.mp3",
-"l_00c83533-e1be-4d1b-8835-33e1bebd1bfd": "https://podkast.nrk.no/fil/siesta/ffd6bcb5-b5e9-4c48-bfcf-7a7b9ca199ae_0_ID192MP3.mp3",
-"l_00d5530e-f948-417e-9553-0ef948c17ec9": "https://podkast.nrk.no/fil/siesta/00d5530e-f948-417e-9553-0ef948c17ec9_ID192MP3.mp3",
-"l_01669b76-b38a-4d24-a69b-76b38aed2431": "https://podkast.nrk.no/fil/siesta/01669b76-b38a-4d24-a69b-76b38aed2431_1_ID192MP3.mp3",
-"l_020faa9f-4c81-4988-8faa-9f4c81498854": "https://podkast.nrk.no/fil/siesta/020faa9f-4c81-4988-8faa-9f4c81498854_1_ID192MP3.mp3",
-"l_02338cac-abd7-4923-b38c-acabd7592386": "https://podkast.nrk.no/fil/siesta/882411bc-f580-4448-8f0d-f43fa44161d6_0_ID192MP3.mp3",
-"l_04359618-749e-4be3-b596-18749e6be367": "https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3",
-"l_0526efd1-5c18-47f8-a6ef-d15c1887f8d0": "https://podkast.nrk.no/fil/siesta/5ad9fb1f-c2b1-4bb4-af8f-09e235014af5_0_ID192MP3.mp3",
-"l_0673561e-d12f-4e05-b356-1ed12f1e0507": "https://podkast.nrk.no/fil/siesta/0673561e-d12f-4e05-b356-1ed12f1e0507_1_ID192MP3.mp3",
-"l_07883891-ac9b-4411-8838-91ac9b9411e1": "https://podkast.nrk.no/fil/siesta/07883891-ac9b-4411-8838-91ac9b9411e1_1_ID192MP3.mp3",
-"l_08641906-78d8-40b3-a419-0678d870b3a5": "https://podkast.nrk.no/fil/siesta/08641906-78d8-40b3-a419-0678d870b3a5_ID192MP3.mp3",
-"l_0884b478-aacd-4ade-84b4-78aacdeade15": "https://podkast.nrk.no/fil/siesta/0884b478-aacd-4ade-84b4-78aacdeade15_ID192MP3.mp3",
-"l_08cf4ac2-62d7-4cb6-8f4a-c262d7acb63b": "https://podkast.nrk.no/fil/siesta/08cf4ac2-62d7-4cb6-8f4a-c262d7acb63b_ID192MP3.mp3",
-"l_0a9b41c3-fa15-4258-9b41-c3fa15a258cb": "https://podkast.nrk.no/fil/siesta/0a9b41c3-fa15-4258-9b41-c3fa15a258cb_ID192MP3.mp3",
-"l_0d97cbba-24e1-498b-97cb-ba24e1f98b43": "https://podkast.nrk.no/fil/siesta/de67d716-5995-4b19-bfb4-803e28b4e0ca_0_ID192MP3.mp3",
-"l_0dfac600-1de3-4381-bac6-001de3f38126": "https://podkast.nrk.no/fil/siesta/0dfac600-1de3-4381-bac6-001de3f38126_ID192MP3.mp3",
-"l_0e305a53-ae44-4c14-b05a-53ae44bc1410": "https://podkast.nrk.no/fil/siesta/0e305a53-ae44-4c14-b05a-53ae44bc1410_1_ID192MP3.mp3",
-"l_0f08e34d-18f9-4d8f-88e3-4d18f9dd8f61": "https://podkast.nrk.no/fil/siesta/89a3abc7-eb58-4f0d-9a0a-95f0646e4976_0_ID192MP3.mp3",
-"l_0f4dff46-f152-45c7-8dff-46f15215c721": "https://podkast.nrk.no/fil/siesta/131f0b3e-99bc-44c3-a4a6-bdfeb5ced556_0_ID192MP3.mp3",
-"l_0fc0bf88-cb88-44e3-80bf-88cb8874e372": "https://podkast.nrk.no/fil/siesta/0fc0bf88-cb88-44e3-80bf-88cb8874e372_1_ID192MP3.mp3",
-"l_110ffd5b-324b-4eb6-8ffd-5b324b8eb6c6": "https://podkast.nrk.no/fil/siesta/110ffd5b-324b-4eb6-8ffd-5b324b8eb6c6_1_ID192MP3.mp3",
-"l_128aeae7-a364-40c8-8aea-e7a364c0c8c1": "https://podkast.nrk.no/fil/siesta/128aeae7-a364-40c8-8aea-e7a364c0c8c1_1_ID192MP3.mp3",
-"l_160e12a2-86ef-4439-8e12-a286ef8439dc": "https://podkast.nrk.no/fil/siesta/160e12a2-86ef-4439-8e12-a286ef8439dc_1_ID192MP3.mp3",
-"l_1684566e-dd5b-4a7f-8456-6edd5b1a7fa5": "https://podkast.nrk.no/fil/siesta/1684566e-dd5b-4a7f-8456-6edd5b1a7fa5_ID192MP3.mp3",
-"l_1a01c672-71ca-4ee2-81c6-7271ca2ee269": "https://podkast.nrk.no/fil/siesta/7323d651-6eee-4d61-99c3-fc33aa9d77f2_0_ID192MP3.mp3",
-"l_1a68106f-431b-4115-a810-6f431bf115ea": "https://podkast.nrk.no/fil/siesta/1a68106f-431b-4115-a810-6f431bf115ea_1_ID192MP3.mp3",
-"l_1a7b8ab3-cb9d-4faf-bb8a-b3cb9d7faf8b": "https://podkast.nrk.no/fil/siesta/1a7b8ab3-cb9d-4faf-bb8a-b3cb9d7faf8b_1_ID192MP3.mp3",
-"l_1ca47beb-d13b-452c-a47b-ebd13b952ce4": "https://podkast.nrk.no/fil/siesta/585a5e80-b685-48f2-ada6-583f2e90c5b2_0_ID192MP3.mp3",
-"l_1ce07b56-251b-4638-a07b-56251b8638e1": "https://podkast.nrk.no/fil/siesta/1ce07b56-251b-4638-a07b-56251b8638e1_1_ID192MP3.mp3",
-"l_1cf0c7ff-1fe5-471e-b0c7-ff1fe5a71e41": "https://podkast.nrk.no/fil/siesta/1cf0c7ff-1fe5-471e-b0c7-ff1fe5a71e41_1_ID192MP3.mp3",
-"l_1db2eb86-e1b6-47b7-b2eb-86e1b647b7a2": "https://podkast.nrk.no/fil/siesta/1db2eb86-e1b6-47b7-b2eb-86e1b647b7a2_ID192MP3.mp3",
-"l_1deafd67-2620-4a71-aafd-6726207a71ec": "https://podkast.nrk.no/fil/siesta/1deafd67-2620-4a71-aafd-6726207a71ec_ID192MP3.mp3",
-"l_1ec31a56-7e9c-4a5a-831a-567e9cea5aa9": "https://podkast.nrk.no/fil/siesta/38e37749-615b-4e3d-a98e-5c2e4d72f0a1_0_ID192MP3.mp3",
-"l_1f5961e4-c088-4a4d-9961-e4c0888a4de1": "https://podkast.nrk.no/fil/siesta/0dac4612-cd21-450d-9647-7e0f9f7e1e5d_0_ID192MP3.mp3",
-"l_1fa0d239-68b1-4564-a0d2-3968b175641c": "https://podkast.nrk.no/fil/siesta/1fa0d239-68b1-4564-a0d2-3968b175641c_1_ID192MP3.mp3",
-"l_1fb74da7-3114-4c5e-b74d-a731144c5e3c": "https://podkast.nrk.no/fil/siesta/1fb74da7-3114-4c5e-b74d-a731144c5e3c_ID192MP3.mp3",
-"l_20419bb2-fd1e-44db-819b-b2fd1e94dbe6": "https://podkast.nrk.no/fil/siesta/20419bb2-fd1e-44db-819b-b2fd1e94dbe6_ID192MP3.mp3",
-"l_21203555-6b90-402c-a035-556b90e02c5c": "https://podkast.nrk.no/fil/siesta/a3f2b552-e97a-4e34-be47-e88bd3d2c3ef_0_ID192MP3.mp3",
-"l_2126da26-b466-4c9c-a6da-26b4661c9c66": "https://podkast.nrk.no/fil/siesta/2126da26-b466-4c9c-a6da-26b4661c9c66_ID192MP3.mp3",
-"l_21a7607a-6a52-4a56-a760-7a6a529a56ad": "https://podkast.nrk.no/fil/siesta/21a7607a-6a52-4a56-a760-7a6a529a56ad_1_ID192MP3.mp3",
-"l_21cd5bfb-e68b-4f3d-8d5b-fbe68b0f3d1f": "https://podkast.nrk.no/fil/siesta/21cd5bfb-e68b-4f3d-8d5b-fbe68b0f3d1f_ID192MP3.mp3",
-"l_21f40055-d529-4f75-b400-55d5297f75f2": "https://podkast.nrk.no/fil/siesta/21f40055-d529-4f75-b400-55d5297f75f2_ID192MP3.mp3",
-"l_21f48da8-f52f-4f17-b48d-a8f52f0f1779": "https://podkast.nrk.no/fil/siesta/21f48da8-f52f-4f17-b48d-a8f52f0f1779_ID192MP3.mp3",
-"l_22633db6-ce6f-4216-a33d-b6ce6fe21637": "https://podkast.nrk.no/fil/siesta/2883097d-6d8c-4cee-99df-30c2a35b555f_0_ID192MP3.mp3",
-"l_23285f64-d9b1-4f27-a85f-64d9b1ff27c3": "https://podkast.nrk.no/fil/siesta/23285f64-d9b1-4f27-a85f-64d9b1ff27c3_ID192MP3.mp3",
-"l_241ae4c3-2150-4627-9ae4-c321500627fd": "https://podkast.nrk.no/fil/siesta/cabdd3c8-406c-4ad9-b665-2b2a4b0fcae5_0_ID192MP3.mp3",
-"l_25432e2f-8b0b-4434-832e-2f8b0b3434c2": "https://podkast.nrk.no/fil/siesta/a05b125d-879e-42d4-b67a-f84dce0490d5_0_ID192MP3.mp3",
-"l_25970d44-ab53-4eb6-970d-44ab535eb6ef": "https://podkast.nrk.no/fil/siesta/c9f63d01-f806-4bb6-98f7-de9bdc2450e7_0_ID192MP3.mp3",
-"l_25d7e018-7d05-4ca8-97e0-187d052ca8c5": "https://podkast.nrk.no/fil/siesta/25d7e018-7d05-4ca8-97e0-187d052ca8c5_ID192MP3.mp3",
-"l_2623c73f-fe51-4196-a3c7-3ffe51219694": "https://podkast.nrk.no/fil/siesta/2623c73f-fe51-4196-a3c7-3ffe51219694_ID192MP3.mp3",
-"l_268d5349-dd17-4013-8d53-49dd171013cd": "https://podkast.nrk.no/fil/siesta/268d5349-dd17-4013-8d53-49dd171013cd_ID192MP3.mp3",
-"l_2789024d-2c38-45ed-8902-4d2c3895edec": "https://podkast.nrk.no/fil/siesta/2789024d-2c38-45ed-8902-4d2c3895edec_ID192MP3.mp3",
-"l_28161311-97bd-48d4-9613-1197bd88d445": "https://podkast.nrk.no/fil/siesta/8d8a1a33-ded4-4c00-8172-27f1a8c576cc_0_ID192MP3.mp3",
-"l_28825cf7-e4f1-41e5-825c-f7e4f1f1e549": "https://podkast.nrk.no/fil/siesta/28825cf7-e4f1-41e5-825c-f7e4f1f1e549_ID192MP3.mp3",
-"l_28f49e4c-466e-46e1-b49e-4c466e66e14a": "https://podkast.nrk.no/fil/siesta/28f49e4c-466e-46e1-b49e-4c466e66e14a_ID192MP3.mp3",
-"l_2a83bac1-9870-42ca-83ba-c1987012ca01": "https://podkast.nrk.no/fil/siesta/2a83bac1-9870-42ca-83ba-c1987012ca01_ID192MP3.mp3",
-"l_2aba9ccc-8342-4bbf-ba9c-cc83423bbfa5": "https://podkast.nrk.no/fil/siesta/2aba9ccc-8342-4bbf-ba9c-cc83423bbfa5_1_ID192MP3.mp3",
-"l_2c2e2006-2c58-4641-ae20-062c5876414f": "https://podkast.nrk.no/fil/siesta/2c2e2006-2c58-4641-ae20-062c5876414f_1_ID192MP3.mp3",
-"l_2e34ef9b-8a32-4c55-b4ef-9b8a324c5593": "https://podkast.nrk.no/fil/siesta/2e34ef9b-8a32-4c55-b4ef-9b8a324c5593_1_ID192MP3.mp3",
-"l_2f278a6d-86c5-4136-a78a-6d86c5e13635": "https://podkast.nrk.no/fil/siesta/2f278a6d-86c5-4136-a78a-6d86c5e13635_ID192MP3.mp3",
-"l_2f3368ae-90e9-406a-b368-ae90e9e06a90": "https://podkast.nrk.no/fil/siesta/1cf8da5a-230a-4811-8607-8a15baa60520_0_ID192MP3.mp3",
-"l_2f7d47a4-cb31-4c47-bd47-a4cb31ac4755": "https://podkast.nrk.no/fil/siesta/2f7d47a4-cb31-4c47-bd47-a4cb31ac4755_1_ID192MP3.mp3",
-"l_2fda67af-f412-4329-9a67-aff412c32960": "https://podkast.nrk.no/fil/siesta/2fda67af-f412-4329-9a67-aff412c32960_ID192MP3.mp3",
-"l_3038c531-c131-42c8-b8c5-31c131a2c8b4": "https://podkast.nrk.no/fil/siesta/3038c531-c131-42c8-b8c5-31c131a2c8b4_1_ID192MP3.mp3",
-"l_311d0621-3be1-42cf-9d06-213be1b2cf00": "https://podkast.nrk.no/fil/siesta/311d0621-3be1-42cf-9d06-213be1b2cf00_1_ID192MP3.mp3",
-"l_31f7d5bb-53e5-4fa9-b7d5-bb53e55fa9bd": "https://podkast.nrk.no/fil/siesta/31f7d5bb-53e5-4fa9-b7d5-bb53e55fa9bd_ID192MP3.mp3",
-"l_326d0a4e-16b3-4690-ad0a-4e16b3d69079": "https://podkast.nrk.no/fil/siesta/326d0a4e-16b3-4690-ad0a-4e16b3d69079_ID192MP3.mp3",
-"l_3354b516-6ab5-43c0-94b5-166ab5b3c039": "https://podkast.nrk.no/fil/siesta/6bce94cf-b391-4f6f-8123-f28720dbfe57_0_ID192MP3.mp3",
-"l_3366af42-cb75-41fa-a6af-42cb7591fa03": "https://podkast.nrk.no/fil/siesta/3366af42-cb75-41fa-a6af-42cb7591fa03_ID192MP3.mp3",
-"l_33ee1119-531d-424a-ae11-19531d324abd": "https://podkast.nrk.no/fil/siesta/33ee1119-531d-424a-ae11-19531d324abd_ID192MP3.mp3",
-"l_35867c3b-ff39-497f-867c-3bff39a97f83": "https://podkast.nrk.no/fil/siesta/aa11af13-4b0c-4a85-98d2-2d795de1b1a2_0_ID192MP3.mp3",
-"l_371a1038-8d0f-4b8b-9a10-388d0f7b8ba7": "https://podkast.nrk.no/fil/siesta/371a1038-8d0f-4b8b-9a10-388d0f7b8ba7_ID192MP3.mp3",
-"l_3847d23f-2658-4e0c-87d2-3f2658fe0c13": "https://podkast.nrk.no/fil/siesta/3847d23f-2658-4e0c-87d2-3f2658fe0c13_ID192MP3.mp3",
-"l_38eb2844-a7f6-4730-ab28-44a7f64730c4": "https://podkast.nrk.no/fil/siesta/38eb2844-a7f6-4730-ab28-44a7f64730c4_1_ID192MP3.mp3",
-"l_39a6dcee-6658-4b24-a6dc-ee66587b2469": "https://podkast.nrk.no/fil/siesta/39a6dcee-6658-4b24-a6dc-ee66587b2469_1_ID192MP3.mp3",
-"l_3a0d1a05-ccef-40a1-8d1a-05ccef40a1bd": "https://podkast.nrk.no/fil/siesta/3a0d1a05-ccef-40a1-8d1a-05ccef40a1bd_ID192MP3.mp3",
-"l_3b50a24d-aa83-416b-90a2-4daa83f16b82": "https://podkast.nrk.no/fil/siesta/3b50a24d-aa83-416b-90a2-4daa83f16b82_1_ID192MP3.mp3",
-"l_3bd849b2-a62b-4a75-9849-b2a62b2a75af": "https://podkast.nrk.no/fil/siesta/f7bbc027-e684-4f53-9675-32bfeb7c55ea_0_ID192MP3.mp3",
-"l_3c65031e-5973-4c76-a503-1e5973cc76fd": "https://podkast.nrk.no/fil/siesta/3c65031e-5973-4c76-a503-1e5973cc76fd_1_ID192MP3.mp3",
-"l_3c9242bd-04a2-4ca7-9242-bd04a23ca7b3": "https://podkast.nrk.no/fil/siesta/3c9242bd-04a2-4ca7-9242-bd04a23ca7b3_1_ID192MP3.mp3",
-"l_3d25e3aa-cf84-4c0b-a5e3-aacf84fc0b7e": "https://podkast.nrk.no/fil/siesta/3d25e3aa-cf84-4c0b-a5e3-aacf84fc0b7e_1_ID192MP3.mp3",
-"l_3d742924-c789-446b-b429-24c789d46b2d": "https://podkast.nrk.no/fil/siesta/3d742924-c789-446b-b429-24c789d46b2d_1_ID192MP3.mp3",
-"l_3e12a389-4c06-4239-92a3-894c064239da": "https://podkast.nrk.no/fil/siesta/3e12a389-4c06-4239-92a3-894c064239da_ID192MP3.mp3",
-"l_3f3086ad-ac1d-4d87-b086-adac1d1d8701": "https://podkast.nrk.no/fil/siesta/e1b016dd-be1d-42e0-bab8-b1b017efd657_0_ID192MP3.mp3",
-"l_3f548268-74fd-4399-9482-6874fd439920": "https://podkast.nrk.no/fil/siesta/3f548268-74fd-4399-9482-6874fd439920_ID192MP3.mp3",
-"l_40205338-1101-45a2-a053-38110185a241": "https://podkast.nrk.no/fil/siesta/5a136035-2330-42f2-82f9-0fcb38de5e75_0_ID192MP3.mp3",
-"l_40b870de-52a8-4977-b870-de52a83977f7": "https://podkast.nrk.no/fil/siesta/40b870de-52a8-4977-b870-de52a83977f7_1_ID192MP3.mp3",
-"l_413f568c-6ac7-4b87-bf56-8c6ac79b876c": "https://podkast.nrk.no/fil/siesta/413f568c-6ac7-4b87-bf56-8c6ac79b876c_ID192MP3.mp3",
-"l_41a53773-4c9a-495d-a537-734c9a595dfd": "https://podkast.nrk.no/fil/siesta/41a53773-4c9a-495d-a537-734c9a595dfd_1_ID192MP3.mp3",
-"l_41ed60cf-cc4a-457b-ad60-cfcc4a157bfb": "https://podkast.nrk.no/fil/siesta/41ed60cf-cc4a-457b-ad60-cfcc4a157bfb_1_ID192MP3.mp3",
-"l_426a0cce-080c-4190-aa0c-ce080c8190c3": "https://podkast.nrk.no/fil/siesta/d8986a90-4b44-4e1c-9ccb-292361d29ab8_0_ID192MP3.mp3",
-"l_4302fda5-6f88-4f4c-82fd-a56f885f4c98": "https://podkast.nrk.no/fil/siesta/4302fda5-6f88-4f4c-82fd-a56f885f4c98_1_ID192MP3.mp3",
-"l_4458bf93-84a4-4fbc-98bf-9384a48fbc56": "https://podkast.nrk.no/fil/siesta/ff535c6a-7efa-4c27-bedf-4714553cb63f_0_ID192MP3.mp3",
-"l_44d89033-adc3-4659-9890-33adc366591a": "https://podkast.nrk.no/fil/siesta/44d89033-adc3-4659-9890-33adc366591a_ID192MP3.mp3",
-"l_45c9ec84-1548-493c-89ec-841548d93c12": "https://podkast.nrk.no/fil/siesta/7f1215fa-ba34-46ba-9308-2b91bd1ff46e_0_ID192MP3.mp3",
-"l_4927c55d-24ab-4e00-a7c5-5d24abbe00f3": "https://podkast.nrk.no/fil/siesta/4927c55d-24ab-4e00-a7c5-5d24abbe00f3_1_ID192MP3.mp3",
-"l_49517460-5bba-4f89-9174-605bba5f8968": "https://podkast.nrk.no/fil/siesta/9c98bf8b-3572-44fd-b92b-0cf865582f1d_0_ID192MP3.mp3",
-"l_49ea7546-cc88-4576-aa75-46cc88457623": "https://podkast.nrk.no/fil/siesta/49ea7546-cc88-4576-aa75-46cc88457623_1_ID192MP3.mp3",
-"l_4b88d9e5-7985-4ffe-88d9-e57985effe52": "https://podkast.nrk.no/fil/siesta/4b88d9e5-7985-4ffe-88d9-e57985effe52_ID192MP3.mp3",
-"l_4b8f291b-2f95-4224-8f29-1b2f951224c0": "https://podkast.nrk.no/fil/siesta/4b8f291b-2f95-4224-8f29-1b2f951224c0_ID192MP3.mp3",
-"l_4d6ce7ea-1752-4528-ace7-ea1752d52810": "https://podkast.nrk.no/fil/siesta/4d6ce7ea-1752-4528-ace7-ea1752d52810_ID192MP3.mp3",
-"l_4da1e154-836f-4bbf-a1e1-54836fabbf08": "https://podkast.nrk.no/fil/siesta/4da1e154-836f-4bbf-a1e1-54836fabbf08_ID192MP3.mp3",
-"l_4de75733-fb8e-4e28-a757-33fb8e9e2827": "https://podkast.nrk.no/fil/siesta/4de75733-fb8e-4e28-a757-33fb8e9e2827_1_ID192MP3.mp3",
-"l_50140c8a-357a-4967-940c-8a357a1967cf": "https://podkast.nrk.no/fil/siesta/1bc57a33-7c8a-4f5e-a9e6-22f37210e687_0_ID192MP3.mp3",
-"l_50620637-ebcf-44a3-a206-37ebcf74a3d3": "https://podkast.nrk.no/fil/siesta/50620637-ebcf-44a3-a206-37ebcf74a3d3_ID192MP3.mp3",
-"l_5140343e-8ca6-49e9-8034-3e8ca699e9c3": "https://podkast.nrk.no/fil/siesta/5140343e-8ca6-49e9-8034-3e8ca699e9c3_1_ID192MP3.mp3",
-"l_521ccdac-3d5f-473e-9ccd-ac3d5fb73e92": "https://podkast.nrk.no/fil/siesta/521ccdac-3d5f-473e-9ccd-ac3d5fb73e92_1_ID192MP3.mp3",
-"l_52879cff-6cec-4996-879c-ff6cec399671": "https://podkast.nrk.no/fil/siesta/52879cff-6cec-4996-879c-ff6cec399671_ID192MP3.mp3",
-"l_52c7162d-5b78-49a8-8716-2d5b7849a8b8": "https://podkast.nrk.no/fil/siesta/52c7162d-5b78-49a8-8716-2d5b7849a8b8_ID192MP3.mp3",
-"l_53c443c1-8869-428e-8443-c18869728e6a": "https://podkast.nrk.no/fil/siesta/53c443c1-8869-428e-8443-c18869728e6a_ID192MP3.mp3",
-"l_55452deb-7fca-4c21-852d-eb7fcaac217d": "https://podkast.nrk.no/fil/siesta/55452deb-7fca-4c21-852d-eb7fcaac217d_ID192MP3.mp3",
-"l_5674569a-cf4d-43c1-b456-9acf4df3c1c4": "https://podkast.nrk.no/fil/siesta/5674569a-cf4d-43c1-b456-9acf4df3c1c4_1_ID192MP3.mp3",
-"l_57448d96-dd08-4917-848d-96dd084917e6": "https://podkast.nrk.no/fil/siesta/f473651d-dff8-4595-bee1-149c1acd2ac7_0_ID192MP3.mp3",
-"l_57c790b5-cecd-4f53-8790-b5cecd6f5348": "https://podkast.nrk.no/fil/siesta/57c790b5-cecd-4f53-8790-b5cecd6f5348_1_ID192MP3.mp3",
-"l_598221b5-0c93-4eb3-8221-b50c931eb31f": "https://podkast.nrk.no/fil/siesta/598221b5-0c93-4eb3-8221-b50c931eb31f_ID192MP3.mp3",
-"l_5ba02b35-d7dd-4b5a-a02b-35d7dd7b5a29": "https://podkast.nrk.no/fil/siesta/5ba02b35-d7dd-4b5a-a02b-35d7dd7b5a29_1_ID192MP3.mp3",
-"l_5c0f8ad0-abb0-4547-8f8a-d0abb0f54785": "https://podkast.nrk.no/fil/siesta/5c0f8ad0-abb0-4547-8f8a-d0abb0f54785_1_ID192MP3.mp3",
-"l_5c39c248-7b4d-4b15-b9c2-487b4d3b15d7": "https://podkast.nrk.no/fil/siesta/5c39c248-7b4d-4b15-b9c2-487b4d3b15d7_ID192MP3.mp3",
-"l_5eb273e7-a1d0-48f1-b273-e7a1d028f107": "https://podkast.nrk.no/fil/siesta/0bb9efab-fc5a-488b-b306-b1761f6f35ba_0_ID192MP3.mp3",
-"l_606ce293-6891-4db7-ace2-9368916db70e": "https://podkast.nrk.no/fil/siesta/606ce293-6891-4db7-ace2-9368916db70e_1_ID192MP3.mp3",
-"l_60e8669c-f41f-4a10-a866-9cf41f2a100b": "https://podkast.nrk.no/fil/siesta/7ad89957-10e5-47d2-86d4-f4d1ca5cfd9e_0_ID192MP3.mp3",
-"l_6131889e-f8af-4e54-b188-9ef8af7e5443": "https://podkast.nrk.no/fil/siesta/6131889e-f8af-4e54-b188-9ef8af7e5443_1_ID192MP3.mp3",
-"l_618bf3e4-c427-4fcd-8bf3-e4c4276fcd86": "https://podkast.nrk.no/fil/siesta/618bf3e4-c427-4fcd-8bf3-e4c4276fcd86_ID192MP3.mp3",
-"l_62d291e9-09ac-4390-9291-e909ace390a1": "https://podkast.nrk.no/fil/siesta/1087e458-0b78-47c7-92c2-7c4d12ad3ff7_0_ID192MP3.mp3",
-"l_635242c9-4b58-4e0a-9242-c94b580e0ae0": "https://podkast.nrk.no/fil/siesta/635242c9-4b58-4e0a-9242-c94b580e0ae0_ID192MP3.mp3",
-"l_64bc834f-b78d-4bfa-bc83-4fb78ddbfa5d": "https://podkast.nrk.no/fil/siesta/64bc834f-b78d-4bfa-bc83-4fb78ddbfa5d_1_ID192MP3.mp3",
-"l_6594b214-422c-4a0e-94b2-14422cca0e27": "https://podkast.nrk.no/fil/siesta/6594b214-422c-4a0e-94b2-14422cca0e27_1_ID192MP3.mp3",
-"l_66c108d2-f1c6-4934-8108-d2f1c6c93432": "https://podkast.nrk.no/fil/siesta/3008b798-de3c-4e5d-a2c6-61f33c812eae_0_ID192MP3.mp3",
-"l_685ba478-0806-4930-9ba4-780806e930c9": "https://podkast.nrk.no/fil/siesta/685ba478-0806-4930-9ba4-780806e930c9_1_ID192MP3.mp3",
-"l_69725665-9a2c-4e27-b256-659a2c9e277f": "https://podkast.nrk.no/fil/siesta/69725665-9a2c-4e27-b256-659a2c9e277f_1_ID192MP3.mp3",
-"l_69cad754-ce8f-42a0-8ad7-54ce8fb2a08a": "https://podkast.nrk.no/fil/siesta/69cad754-ce8f-42a0-8ad7-54ce8fb2a08a_ID192MP3.mp3",
-"l_6a720e9f-333c-4cd6-b20e-9f333c0cd616": "https://podkast.nrk.no/fil/siesta/6a720e9f-333c-4cd6-b20e-9f333c0cd616_1_ID192MP3.mp3",
-"l_6abc00e3-0d2e-4ae5-bc00-e30d2ecae52f": "https://podkast.nrk.no/fil/siesta/bc9681cd-1939-438a-8f53-749281686efe_0_ID192MP3.mp3",
-"l_6b0edca8-cc65-4659-8edc-a8cc653659ce": "https://podkast.nrk.no/fil/siesta/6b0edca8-cc65-4659-8edc-a8cc653659ce_1_ID192MP3.mp3",
-"l_6bdcb036-f00b-498f-9cb0-36f00b298fcc": "https://podkast.nrk.no/fil/siesta/6bdcb036-f00b-498f-9cb0-36f00b298fcc_ID192MP3.mp3",
-"l_6c8139d3-829a-423c-8139-d3829ae23c2e": "https://podkast.nrk.no/fil/siesta/6c8139d3-829a-423c-8139-d3829ae23c2e_ID192MP3.mp3",
-"l_6cbd41c4-246c-44cf-bd41-c4246cc4cfb0": "https://podkast.nrk.no/fil/siesta/6cbd41c4-246c-44cf-bd41-c4246cc4cfb0_1_ID192MP3.mp3",
-"l_6cedd912-379e-4f12-add9-12379ebf12e3": "https://podkast.nrk.no/fil/siesta/6cedd912-379e-4f12-add9-12379ebf12e3_1_ID192MP3.mp3",
-"l_6ed2688f-ea01-4d5b-9268-8fea01bd5bb7": "https://podkast.nrk.no/fil/siesta/6ed2688f-ea01-4d5b-9268-8fea01bd5bb7_1_ID192MP3.mp3",
-"l_6f0d6514-5bad-40b2-8d65-145badc0b292": "https://podkast.nrk.no/fil/siesta/6f0d6514-5bad-40b2-8d65-145badc0b292_ID192MP3.mp3",
-"l_6f7c2798-d9cd-480e-bc27-98d9cd180e5c": "https://podkast.nrk.no/fil/siesta/14c65512-d732-4135-9a37-caf16425be3d_0_ID192MP3.mp3",
-"l_70474eef-30f4-4676-874e-ef30f43676f3": "https://podkast.nrk.no/fil/siesta/70474eef-30f4-4676-874e-ef30f43676f3_2_ID192MP3.mp3",
-"l_7055f989-7cfd-4c90-95f9-897cfd6c901f": "https://podkast.nrk.no/fil/siesta/7055f989-7cfd-4c90-95f9-897cfd6c901f_1_ID192MP3.mp3",
-"l_71151591-7da6-46b3-9515-917da686b390": "https://podkast.nrk.no/fil/siesta/71151591-7da6-46b3-9515-917da686b390_1_ID192MP3.mp3",
-"l_711fbf4a-67bb-4885-9fbf-4a67bb7885ea": "https://podkast.nrk.no/fil/siesta/711fbf4a-67bb-4885-9fbf-4a67bb7885ea_1_ID192MP3.mp3",
-"l_722ba49e-fb9d-4d3b-aba4-9efb9d9d3b2c": "https://podkast.nrk.no/fil/siesta/722ba49e-fb9d-4d3b-aba4-9efb9d9d3b2c_ID192MP3.mp3",
-"l_722eb19a-54a9-4fad-aeb1-9a54a9cfadea": "https://podkast.nrk.no/fil/siesta/f2b3680c-e1be-45d1-bec1-071caff291ab_0_ID192MP3.mp3",
-"l_73fbd070-a7bd-4633-bbd0-70a7bdd6332d": "https://podkast.nrk.no/fil/siesta/73fbd070-a7bd-4633-bbd0-70a7bdd6332d_ID192MP3.mp3",
-"l_74f44989-dad8-46ae-b449-89dad896aec4": "https://podkast.nrk.no/fil/siesta/f4e209c1-6799-4a5e-a603-8ec19f1c971f_0_ID192MP3.mp3",
-"l_75d76f83-3211-48af-976f-83321138af99": "https://podkast.nrk.no/fil/siesta/20152873-6cf9-4e44-beca-74af162544d0_0_ID192MP3.mp3",
-"l_77d2ca19-1f14-47c9-92ca-191f1477c945": "https://podkast.nrk.no/fil/siesta/77d2ca19-1f14-47c9-92ca-191f1477c945_ID192MP3.mp3",
-"l_77d9550f-a31a-4a46-9955-0fa31a8a4620": "https://podkast.nrk.no/fil/siesta/77d9550f-a31a-4a46-9955-0fa31a8a4620_ID192MP3.mp3",
-"l_78201da0-b8d6-4d74-a01d-a0b8d6ed74d1": "https://podkast.nrk.no/fil/siesta/78201da0-b8d6-4d74-a01d-a0b8d6ed74d1_1_ID192MP3.mp3",
-"l_78c645de-ee36-4080-8645-deee3620809b": "https://podkast.nrk.no/fil/siesta/78c645de-ee36-4080-8645-deee3620809b_ID192MP3.mp3",
-"l_78df2979-6c19-4510-9f29-796c193510c0": "https://podkast.nrk.no/fil/siesta/78df2979-6c19-4510-9f29-796c193510c0_1_ID192MP3.mp3",
-"l_78eabb8a-a405-4c36-aabb-8aa4056c36ab": "https://podkast.nrk.no/fil/siesta/78eabb8a-a405-4c36-aabb-8aa4056c36ab_ID192MP3.mp3",
-"l_7930c92f-dc62-47c7-b0c9-2fdc6237c739": "https://podkast.nrk.no/fil/siesta/7930c92f-dc62-47c7-b0c9-2fdc6237c739_1_ID192MP3.mp3",
-"l_794aa1eb-3630-4abc-8aa1-eb3630babc2c": "https://podkast.nrk.no/fil/siesta/794aa1eb-3630-4abc-8aa1-eb3630babc2c_ID192MP3.mp3",
-"l_794e8447-5443-4f00-8e84-4754437f00c0": "https://podkast.nrk.no/fil/siesta/794e8447-5443-4f00-8e84-4754437f00c0_1_ID192MP3.mp3",
-"l_79b01a58-c898-4c4a-b01a-58c898ac4a44": "https://podkast.nrk.no/fil/siesta/66de20f0-d9f7-4cdb-9df4-f5a8c3581ed8_0_ID192MP3.mp3",
-"l_7b8eabca-c94b-4425-8eab-cac94b7425a0": "https://podkast.nrk.no/fil/siesta/7b8eabca-c94b-4425-8eab-cac94b7425a0_1_ID192MP3.mp3",
-"l_7bf97561-b54b-431f-b975-61b54b031fe0": "https://podkast.nrk.no/fil/siesta/7bf97561-b54b-431f-b975-61b54b031fe0_ID192MP3.mp3",
-"l_7dc7ebdb-c1f7-4116-87eb-dbc1f7511672": "https://podkast.nrk.no/fil/siesta/7dc7ebdb-c1f7-4116-87eb-dbc1f7511672_ID192MP3.mp3",
-"l_7ee59c69-9fd5-4a43-a59c-699fd54a4307": "https://podkast.nrk.no/fil/siesta/7ee59c69-9fd5-4a43-a59c-699fd54a4307_ID192MP3.mp3",
-"l_7f256960-c84a-4984-a569-60c84a99847d": "https://podkast.nrk.no/fil/siesta/7f256960-c84a-4984-a569-60c84a99847d_ID192MP3.mp3",
-"l_8079f007-cba6-4996-b9f0-07cba6e9964f": "https://podkast.nrk.no/fil/siesta/8079f007-cba6-4996-b9f0-07cba6e9964f_1_ID192MP3.mp3",
-"l_80995179-d50d-4be5-9951-79d50debe545": "https://podkast.nrk.no/fil/siesta/80995179-d50d-4be5-9951-79d50debe545_1_ID192MP3.mp3",
-"l_80bcbc3c-3465-4444-bcbc-3c3465f444b9": "https://podkast.nrk.no/fil/siesta/80bcbc3c-3465-4444-bcbc-3c3465f444b9_ID192MP3.mp3",
-"l_80e8c6db-d616-4123-a8c6-dbd616112369": "https://podkast.nrk.no/fil/siesta/1a04ceda-1078-40d0-9093-a16774017df3_0_ID192MP3.mp3",
-"l_81a3e694-ecc9-4318-a3e6-94ecc96318ba": "https://podkast.nrk.no/fil/siesta/81a3e694-ecc9-4318-a3e6-94ecc96318ba_1_ID192MP3.mp3",
-"l_82dcb412-2080-4967-9cb4-122080696726": "https://podkast.nrk.no/fil/siesta/82dcb412-2080-4967-9cb4-122080696726_ID192MP3.mp3",
-"l_830a75b2-aa23-41a4-8a75-b2aa23e1a457": "https://podkast.nrk.no/fil/siesta/830a75b2-aa23-41a4-8a75-b2aa23e1a457_ID192MP3.mp3",
-"l_849e88bc-3193-4125-9e88-bc31933125be": "https://podkast.nrk.no/fil/siesta/849e88bc-3193-4125-9e88-bc31933125be_ID192MP3.mp3",
-"l_84e5360d-5552-4bbb-a536-0d55529bbb00": "https://podkast.nrk.no/fil/siesta/fa565614-052e-4d70-a3c4-7bc12fdc263b_0_ID192MP3.mp3",
-"l_858cfab8-9938-4bad-8cfa-b899382bad23": "https://podkast.nrk.no/fil/siesta/858cfab8-9938-4bad-8cfa-b899382bad23_2_ID192MP3.mp3",
-"l_85cb6c9d-2c5c-444b-8b6c-9d2c5c944b19": "https://podkast.nrk.no/fil/siesta/85cb6c9d-2c5c-444b-8b6c-9d2c5c944b19_ID192MP3.mp3",
-"l_86ba493c-59c6-4988-ba49-3c59c6f9882b": "https://podkast.nrk.no/fil/siesta/496450cb-5e25-40f8-9982-c379521a679a_0_ID192MP3.mp3",
-"l_8755541e-153d-489f-9554-1e153df89ff8": "https://podkast.nrk.no/fil/siesta/8755541e-153d-489f-9554-1e153df89ff8_1_ID192MP3.mp3",
-"l_880d3cf2-3be7-4846-8d3c-f23be708461c": "https://podkast.nrk.no/fil/siesta/880d3cf2-3be7-4846-8d3c-f23be708461c_ID192MP3.mp3",
-"l_881077f0-3edb-45ea-9077-f03edbe5ea37": "https://podkast.nrk.no/fil/siesta/7b5a4446-b0cc-4b11-822e-8e629aeeffa4_0_ID192MP3.mp3",
-"l_8b8e21df-41f0-4b7c-8e21-df41f07b7cb7": "https://podkast.nrk.no/fil/siesta/2783c9d2-7106-4984-aad7-c0009fcd90a3_0_ID192MP3.mp3",
-"l_8c34ceae-777f-4dbe-b4ce-ae777f2dbe82": "https://podkast.nrk.no/fil/siesta/9169293f-e4b9-4ad6-bb3d-b3815fd12d0c_0_ID192MP3.mp3",
-"l_8ca9e6f4-563b-4544-a9e6-f4563b3544f0": "https://podkast.nrk.no/fil/siesta/8ca9e6f4-563b-4544-a9e6-f4563b3544f0_ID192MP3.mp3",
-"l_8e97a4b1-9046-44b1-97a4-b1904634b1b7": "https://podkast.nrk.no/fil/siesta/7fa136d2-05f9-4139-8841-d6504b1cb7b2_0_ID192MP3.mp3",
-"l_8ea1a58b-10b1-4c4f-a1a5-8b10b11c4ff7": "https://podkast.nrk.no/fil/siesta/8ea1a58b-10b1-4c4f-a1a5-8b10b11c4ff7_ID192MP3.mp3",
-"l_8ec185cd-b1e6-4d12-8185-cdb1e6ed1257": "https://podkast.nrk.no/fil/siesta/8ec185cd-b1e6-4d12-8185-cdb1e6ed1257_2_ID192MP3.mp3",
-"l_905f8a1b-c096-40fb-9f8a-1bc09610fb88": "https://podkast.nrk.no/fil/siesta/905f8a1b-c096-40fb-9f8a-1bc09610fb88_1_ID192MP3.mp3",
-"l_908d86fd-c394-4ab7-8d86-fdc394aab720": "https://podkast.nrk.no/fil/siesta/8a3321bb-5de2-4e7b-b523-348c394037c1_0_ID192MP3.mp3",
-"l_913dd993-da45-451b-bdd9-93da45a51bf1": "https://podkast.nrk.no/fil/siesta/913dd993-da45-451b-bdd9-93da45a51bf1_1_ID192MP3.mp3",
-"l_91b80137-5c02-4f2c-b801-375c027f2c34": "https://podkast.nrk.no/fil/siesta/91b80137-5c02-4f2c-b801-375c027f2c34_1_ID192MP3.mp3",
-"l_94889222-c47c-4b5e-8892-22c47cab5e9f": "https://podkast.nrk.no/fil/siesta/7aaec514-4018-4bc5-b787-6b6e2503eeae_0_ID192MP3.mp3",
-"l_9646dc71-153b-4e6e-86dc-71153b7e6e6d": "https://podkast.nrk.no/fil/siesta/9646dc71-153b-4e6e-86dc-71153b7e6e6d_ID192MP3.mp3",
-"l_9678d8bf-af5c-48ee-b8d8-bfaf5c78ee66": "https://podkast.nrk.no/fil/siesta/9678d8bf-af5c-48ee-b8d8-bfaf5c78ee66_ID192MP3.mp3",
-"l_96c35866-8d86-459b-8358-668d86659b3d": "https://podkast.nrk.no/fil/siesta/96c35866-8d86-459b-8358-668d86659b3d_1_ID192MP3.mp3",
-"l_97bb4ba1-e801-4bdb-bb4b-a1e801abdba0": "https://podkast.nrk.no/fil/siesta/97bb4ba1-e801-4bdb-bb4b-a1e801abdba0_ID192MP3.mp3",
-"l_980c6bd9-366d-4556-8c6b-d9366db55633": "https://podkast.nrk.no/fil/siesta/980c6bd9-366d-4556-8c6b-d9366db55633_ID192MP3.mp3",
-"l_98759e53-71c2-4ff6-b59e-5371c2eff67f": "https://podkast.nrk.no/fil/siesta/98759e53-71c2-4ff6-b59e-5371c2eff67f_ID192MP3.mp3",
-"l_989fbdbe-b2c2-45d4-9fbd-beb2c285d4e2": "https://podkast.nrk.no/fil/siesta/989fbdbe-b2c2-45d4-9fbd-beb2c285d4e2_ID192MP3.mp3",
-"l_9a652f61-0f8f-4d40-a52f-610f8f0d40e4": "https://podkast.nrk.no/fil/siesta/9a652f61-0f8f-4d40-a52f-610f8f0d40e4_1_ID192MP3.mp3",
-"l_9c94bde6-1b01-451b-94bd-e61b01751bb7": "https://podkast.nrk.no/fil/siesta/9c94bde6-1b01-451b-94bd-e61b01751bb7_1_ID192MP3.mp3",
-"l_9daac949-a9ad-4b43-aac9-49a9ad7b43a0": "https://podkast.nrk.no/fil/siesta/cd1aa35b-7f76-4029-803f-1146924a05e6_0_ID192MP3.mp3",
-"l_9e416d88-3d69-4dda-816d-883d697dda36": "https://podkast.nrk.no/fil/siesta/9e416d88-3d69-4dda-816d-883d697dda36_ID192MP3.mp3",
-"l_9ee5f1da-f45b-49b5-a5f1-daf45bc9b561": "https://podkast.nrk.no/fil/siesta/9ee5f1da-f45b-49b5-a5f1-daf45bc9b561_1_ID192MP3.mp3",
-"l_a0182011-b89d-4922-9820-11b89d692291": "https://podkast.nrk.no/fil/siesta/a0182011-b89d-4922-9820-11b89d692291_ID192MP3.mp3",
-"l_a1ab4927-12fb-4df0-ab49-2712fb1df047": "https://podkast.nrk.no/fil/siesta/a1ab4927-12fb-4df0-ab49-2712fb1df047_1_ID192MP3.mp3",
-"l_a1f444d0-d14a-4d3a-b444-d0d14a2d3a0c": "https://podkast.nrk.no/fil/siesta/2e5e8b26-5145-4474-a594-f2330ff54017_0_ID192MP3.mp3",
-"l_a20d9467-4516-4c2b-8d94-6745169c2b16": "https://podkast.nrk.no/fil/siesta/a20d9467-4516-4c2b-8d94-6745169c2b16_1_ID192MP3.mp3",
-"l_a223d9cb-85f4-47d2-a3d9-cb85f497d2d8": "https://podkast.nrk.no/fil/siesta/a223d9cb-85f4-47d2-a3d9-cb85f497d2d8_1_ID192MP3.mp3",
-"l_a28de4b2-807b-4565-8de4-b2807b056534": "https://podkast.nrk.no/fil/siesta/d8f3ba96-3de8-42c6-b7e3-852fddee9e4a_0_ID192MP3.mp3",
-"l_a29691fd-44a3-4e53-9691-fd44a34e53e1": "https://podkast.nrk.no/fil/siesta/a29691fd-44a3-4e53-9691-fd44a34e53e1_ID192MP3.mp3",
-"l_a443c949-ea96-4fa6-83c9-49ea96efa644": "https://podkast.nrk.no/fil/siesta/a443c949-ea96-4fa6-83c9-49ea96efa644_ID192MP3.mp3",
-"l_a4678499-4696-480c-a784-994696880cdf": "https://podkast.nrk.no/fil/siesta/a4678499-4696-480c-a784-994696880cdf_1_ID192MP3.mp3",
-"l_a49edec2-51e2-4594-9ede-c251e2b5946a": "https://podkast.nrk.no/fil/siesta/a49edec2-51e2-4594-9ede-c251e2b5946a_1_ID192MP3.mp3",
-"l_a5164a4c-7f21-4232-964a-4c7f21a23283": "https://podkast.nrk.no/fil/siesta/a5164a4c-7f21-4232-964a-4c7f21a23283_ID192MP3.mp3",
-"l_a5bacddc-3bb1-4711-bacd-dc3bb167113a": "https://podkast.nrk.no/fil/siesta/a5bacddc-3bb1-4711-bacd-dc3bb167113a_1_ID192MP3.mp3",
-"l_a639e9ba-f050-43fa-b9e9-baf050e3fadd": "https://podkast.nrk.no/fil/siesta/a639e9ba-f050-43fa-b9e9-baf050e3fadd_ID192MP3.mp3",
-"l_a7d726e0-52ef-4f17-9726-e052efaf178d": "https://podkast.nrk.no/fil/siesta/a7d726e0-52ef-4f17-9726-e052efaf178d_ID192MP3.mp3",
-"l_a89e3738-d922-4f32-9e37-38d922cf32a2": "https://podkast.nrk.no/fil/siesta/a89e3738-d922-4f32-9e37-38d922cf32a2_1_ID192MP3.mp3",
-"l_a8bfa594-7dc5-4dcb-bfa5-947dc51dcb5a": "https://podkast.nrk.no/fil/siesta/a8bfa594-7dc5-4dcb-bfa5-947dc51dcb5a_1_ID192MP3.mp3",
-"l_a969f99b-501a-41ae-a9f9-9b501a41ae33": "https://podkast.nrk.no/fil/siesta/e1a4eceb-c729-4645-bbfb-901167f778db_0_ID192MP3.mp3",
-"l_a9accc7f-6a44-402d-accc-7f6a44802dd5": "https://podkast.nrk.no/fil/siesta/a9accc7f-6a44-402d-accc-7f6a44802dd5_ID192MP3.mp3",
-"l_aa4d6982-1bea-40b6-8d69-821bead0b63f": "https://podkast.nrk.no/fil/siesta/aa4d6982-1bea-40b6-8d69-821bead0b63f_ID192MP3.mp3",
-"l_aacdb0dc-2efb-4fda-8db0-dc2efb2fda56": "https://podkast.nrk.no/fil/siesta/aacdb0dc-2efb-4fda-8db0-dc2efb2fda56_ID192MP3.mp3",
-"l_abb0a05a-c565-436b-b0a0-5ac565936b84": "https://podkast.nrk.no/fil/siesta/abb0a05a-c565-436b-b0a0-5ac565936b84_1_ID192MP3.mp3",
-"l_ac30ed14-d907-407a-b0ed-14d907f07a9d": "https://podkast.nrk.no/fil/siesta/23d72ca5-9dba-4f59-aa46-0d74c85413ea_0_ID192MP3.mp3",
-"l_ac4fe878-ff74-487c-8fe8-78ff74a87cde": "https://podkast.nrk.no/fil/siesta/ac4fe878-ff74-487c-8fe8-78ff74a87cde_1_ID192MP3.mp3",
-"l_acdd576b-b6b6-45f3-9d57-6bb6b645f32a": "https://podkast.nrk.no/fil/siesta/acdd576b-b6b6-45f3-9d57-6bb6b645f32a_ID192MP3.mp3",
-"l_ad03f7dc-1d94-4473-83f7-dc1d94b47340": "https://podkast.nrk.no/fil/siesta/ad03f7dc-1d94-4473-83f7-dc1d94b47340_1_ID192MP3.mp3",
-"l_ad28e258-9fd5-4fb9-a8e2-589fd59fb9c7": "https://podkast.nrk.no/fil/siesta/ad28e258-9fd5-4fb9-a8e2-589fd59fb9c7_ID192MP3.mp3",
-"l_aedb55e6-fe0a-4a3b-9b55-e6fe0afa3bcc": "https://podkast.nrk.no/fil/siesta/aedb55e6-fe0a-4a3b-9b55-e6fe0afa3bcc_1_ID192MP3.mp3",
-"l_b1038dc9-cc93-4f5d-838d-c9cc932f5d6b": "https://podkast.nrk.no/fil/siesta/b1038dc9-cc93-4f5d-838d-c9cc932f5d6b_ID192MP3.mp3",
-"l_b1b432da-f617-438b-b432-daf617838be5": "https://podkast.nrk.no/fil/siesta/b1b432da-f617-438b-b432-daf617838be5_1_ID192MP3.mp3",
-"l_b1f46307-aef3-4cfd-b463-07aef3fcfd43": "https://podkast.nrk.no/fil/siesta/b1f46307-aef3-4cfd-b463-07aef3fcfd43_1_ID192MP3.mp3",
-"l_b28b3bb4-6208-43ca-8b3b-b46208e3ca1e": "https://podkast.nrk.no/fil/siesta/320a5fb5-f89f-415f-aa52-ff784e28c4e0_0_ID192MP3.mp3",
-"l_b3585d32-6dd0-48e6-985d-326dd0e8e673": "https://podkast.nrk.no/fil/siesta/b3585d32-6dd0-48e6-985d-326dd0e8e673_1_ID192MP3.mp3",
-"l_b381d8ad-34d4-4a9e-81d8-ad34d49a9e0b": "https://podkast.nrk.no/fil/siesta/df2b166f-0fe4-471c-a3d5-706f47c43df6_0_ID192MP3.mp3",
-"l_b4af58ab-5bdc-41f9-af58-ab5bdc21f9ac": "https://podkast.nrk.no/fil/siesta/b4af58ab-5bdc-41f9-af58-ab5bdc21f9ac_1_ID192MP3.mp3",
-"l_b6825dbb-9550-407c-825d-bb9550307cfe": "https://podkast.nrk.no/fil/siesta/54cec6be-abd2-47da-a241-d7c1ec4f0113_0_ID192MP3.mp3",
-"l_b699ad6c-de52-4ec1-99ad-6cde522ec1ab": "https://podkast.nrk.no/fil/siesta/b699ad6c-de52-4ec1-99ad-6cde522ec1ab_1_ID192MP3.mp3",
-"l_b6beaa8e-3cf4-46cd-beaa-8e3cf466cdb1": "https://podkast.nrk.no/fil/siesta/2e5918c6-1998-40d6-a73c-9b0f51a3353d_0_ID192MP3.mp3",
-"l_b6dad4d5-831d-4088-9ad4-d5831d80889e": "https://podkast.nrk.no/fil/siesta/77bb3443-c558-4b7d-bcde-2cb5a4a82889_0_ID192MP3.mp3",
-"l_b83cc412-17c4-41f0-bcc4-1217c421f068": "https://podkast.nrk.no/fil/siesta/aa4704a7-bfa9-4c58-89e5-540efe076f41_0_ID192MP3.mp3",
-"l_b97050a9-716a-47f3-b050-a9716a97f30f": "https://podkast.nrk.no/fil/siesta/b97050a9-716a-47f3-b050-a9716a97f30f_ID192MP3.mp3",
-"l_ba22d4aa-e3c0-4d0a-a2d4-aae3c0bd0ab3": "https://podkast.nrk.no/fil/siesta/ba22d4aa-e3c0-4d0a-a2d4-aae3c0bd0ab3_ID192MP3.mp3",
-"l_bb0c41dc-ae63-4ef7-8c41-dcae637ef711": "https://podkast.nrk.no/fil/siesta/bb0c41dc-ae63-4ef7-8c41-dcae637ef711_1_ID192MP3.mp3",
-"l_bb2f08a0-a76e-42df-af08-a0a76ee2df31": "https://podkast.nrk.no/fil/siesta/bb2f08a0-a76e-42df-af08-a0a76ee2df31_1_ID192MP3.mp3",
-"l_bd2e97ee-bcb8-4f9a-ae97-eebcb8ff9a90": "https://podkast.nrk.no/fil/siesta/bd2e97ee-bcb8-4f9a-ae97-eebcb8ff9a90_ID192MP3.mp3",
-"l_bdf50f88-9a0a-4928-b50f-889a0a992882": "https://podkast.nrk.no/fil/siesta/30b332e1-9f5c-4cae-bbe4-6329e734f39a_0_ID192MP3.mp3",
-"l_be38ffe7-6ba2-4a06-b8ff-e76ba27a0645": "https://podkast.nrk.no/fil/siesta/be38ffe7-6ba2-4a06-b8ff-e76ba27a0645_ID192MP3.mp3",
-"l_bf2e6a27-3b5a-4a1e-ae6a-273b5aaa1e76": "https://podkast.nrk.no/fil/siesta/bf2e6a27-3b5a-4a1e-ae6a-273b5aaa1e76_ID192MP3.mp3",
-"l_bf40df78-9930-4775-80df-789930677570": "https://podkast.nrk.no/fil/siesta/bf40df78-9930-4775-80df-789930677570_1_ID192MP3.mp3",
-"l_bf8f341c-0e0e-4be9-8f34-1c0e0edbe92d": "https://podkast.nrk.no/fil/siesta/bf8f341c-0e0e-4be9-8f34-1c0e0edbe92d_ID192MP3.mp3",
-"l_bfb06e84-9a9a-4f3f-b06e-849a9a0f3f68": "https://podkast.nrk.no/fil/siesta/bfb06e84-9a9a-4f3f-b06e-849a9a0f3f68_1_ID192MP3.mp3",
-"l_c00768dc-59b1-44a6-8768-dc59b1f4a69f": "https://podkast.nrk.no/fil/siesta/c00768dc-59b1-44a6-8768-dc59b1f4a69f_ID192MP3.mp3",
-"l_c018234d-aae9-48b2-9823-4daae918b237": "https://podkast.nrk.no/fil/siesta/3576b104-1507-41be-a302-678beb66ce78_0_ID192MP3.mp3",
-"l_c1782a94-d8c3-4c7d-b82a-94d8c32c7d5d": "https://podkast.nrk.no/fil/siesta/c1782a94-d8c3-4c7d-b82a-94d8c32c7d5d_ID192MP3.mp3",
-"l_c1d2ccd5-afc5-458b-92cc-d5afc5f58bec": "https://podkast.nrk.no/fil/siesta/4093aec5-f435-46dc-bce5-66f367080a00_0_ID192MP3.mp3",
-"l_c3c530f8-6565-4658-8530-f8656536581b": "https://podkast.nrk.no/fil/siesta/c3c530f8-6565-4658-8530-f8656536581b_ID192MP3.mp3",
-"l_c6f897ab-9e6e-44dc-b897-ab9e6ec4dc85": "https://podkast.nrk.no/fil/siesta/c6f897ab-9e6e-44dc-b897-ab9e6ec4dc85_ID192MP3.mp3",
-"l_c7d7712d-58be-484f-9771-2d58be384f63": "https://podkast.nrk.no/fil/siesta/15aa535f-8548-4a45-aaa0-a9823855fdbc_0_ID192MP3.mp3",
-"l_c8888d29-2ccd-46c6-888d-292ccd16c600": "https://podkast.nrk.no/fil/siesta/c8888d29-2ccd-46c6-888d-292ccd16c600_1_ID192MP3.mp3",
-"l_c8de6a32-e5ca-45dc-9e6a-32e5cac5dc4f": "https://podkast.nrk.no/fil/siesta/df450b98-1233-4030-89cc-7dc0fa571c66_0_ID192MP3.mp3",
-"l_c95cae6c-d3c9-46d8-9cae-6cd3c9c6d871": "https://podkast.nrk.no/fil/siesta/c95cae6c-d3c9-46d8-9cae-6cd3c9c6d871_1_ID192MP3.mp3",
-"l_c9c9beae-45dc-4499-89be-ae45dc4499b1": "https://podkast.nrk.no/fil/siesta/c9c9beae-45dc-4499-89be-ae45dc4499b1_1_ID192MP3.mp3",
-"l_c9e6ac31-1d64-46ed-a6ac-311d64e6edaa": "https://podkast.nrk.no/fil/siesta/3c6e82e8-eebf-443b-8bcc-d1b3e4f57884_0_ID192MP3.mp3",
-"l_cd3b8005-7910-4dd0-bb80-0579107dd026": "https://podkast.nrk.no/fil/siesta/cd3b8005-7910-4dd0-bb80-0579107dd026_ID192MP3.mp3",
-"l_cdee9770-5c3a-4f27-ae97-705c3a8f2719": "https://podkast.nrk.no/fil/siesta/cdee9770-5c3a-4f27-ae97-705c3a8f2719_1_ID192MP3.mp3",
-"l_ce8a10e4-603d-4523-8a10-e4603de52384": "https://podkast.nrk.no/fil/siesta/ce8a10e4-603d-4523-8a10-e4603de52384_ID192MP3.mp3",
-"l_cf0fcdd8-f0bb-4c9b-8fcd-d8f0bbac9b51": "https://podkast.nrk.no/fil/siesta/cf0fcdd8-f0bb-4c9b-8fcd-d8f0bbac9b51_1_ID192MP3.mp3",
-"l_cf6387a8-1aa0-4f88-a387-a81aa05f88a2": "https://podkast.nrk.no/fil/siesta/7f440039-b5c6-468a-91e0-3c14c62b03e8_0_ID192MP3.mp3",
-"l_cfb1f7d1-0f3a-45e0-b1f7-d10f3ad5e0c3": "https://podkast.nrk.no/fil/siesta/cfb1f7d1-0f3a-45e0-b1f7-d10f3ad5e0c3_ID192MP3.mp3",
-"l_d06dd990-3ffa-49e4-add9-903ffa69e4e9": "https://podkast.nrk.no/fil/siesta/d06dd990-3ffa-49e4-add9-903ffa69e4e9_1_ID192MP3.mp3",
-"l_d0df4289-06c0-4df6-9f42-8906c08df698": "https://podkast.nrk.no/fil/siesta/a1cbd91d-e879-45d3-bfe8-b0cdc77fc5b3_0_ID192MP3.mp3",
-"l_d0e67458-993b-4d9a-a674-58993b6d9ac3": "https://podkast.nrk.no/fil/siesta/d0e67458-993b-4d9a-a674-58993b6d9ac3_1_ID192MP3.mp3",
-"l_d1b4d3a7-ddb5-4342-b4d3-a7ddb55342c3": "https://podkast.nrk.no/fil/siesta/d1b4d3a7-ddb5-4342-b4d3-a7ddb55342c3_ID192MP3.mp3",
-"l_d20ec330-e6d3-4d02-8ec3-30e6d3cd02f6": "https://podkast.nrk.no/fil/siesta/d20ec330-e6d3-4d02-8ec3-30e6d3cd02f6_ID192MP3.mp3",
-"l_d28b7f6f-4418-469b-8b7f-6f4418069b86": "https://podkast.nrk.no/fil/siesta/d28b7f6f-4418-469b-8b7f-6f4418069b86_ID192MP3.mp3",
-"l_d3261fa9-3ff3-41c6-a61f-a93ff3c1c62a": "https://podkast.nrk.no/fil/siesta/d3261fa9-3ff3-41c6-a61f-a93ff3c1c62a_ID192MP3.mp3",
-"l_d69cd6d8-8137-40e3-9cd6-d8813710e3ed": "https://podkast.nrk.no/fil/siesta/d69cd6d8-8137-40e3-9cd6-d8813710e3ed_ID192MP3.mp3",
-"l_d72e21fd-ee75-4a5f-ae21-fdee754a5fc5": "https://podkast.nrk.no/fil/siesta/c0e85179-ea71-4905-891d-d9b4e7d49f3c_0_ID192MP3.mp3",
-"l_d7bcfaba-2bda-448d-bcfa-ba2bdaf48d2b": "https://podkast.nrk.no/fil/siesta/d7bcfaba-2bda-448d-bcfa-ba2bdaf48d2b_ID192MP3.mp3",
-"l_d80bedf9-79b6-4d67-8bed-f979b6ad674b": "https://podkast.nrk.no/fil/siesta/5fbbc91e-4b77-4a14-ada9-b3c1f4d3605b_0_ID192MP3.mp3",
-"l_d8d3f286-fea1-4724-93f2-86fea1d72425": "https://podkast.nrk.no/fil/siesta/2fa56a1a-96c8-40ee-aced-10bcf6edef5c_0_ID192MP3.mp3",
-"l_dade3f2c-944b-4cd7-9e3f-2c944bccd790": "https://podkast.nrk.no/fil/siesta/dade3f2c-944b-4cd7-9e3f-2c944bccd790_ID192MP3.mp3",
-"l_dc87454c-40dd-498a-8745-4c40dd698aa4": "https://podkast.nrk.no/fil/siesta/dc87454c-40dd-498a-8745-4c40dd698aa4_1_ID192MP3.mp3",
-"l_dcd65a13-9e44-47ee-965a-139e4447ee08": "https://podkast.nrk.no/fil/siesta/dcfae75e-be3f-4588-9b1b-d66ddeedf50f_0_ID192MP3.mp3",
-"l_dd2764cf-a561-405d-a764-cfa561605da9": "https://podkast.nrk.no/fil/siesta/dd2764cf-a561-405d-a764-cfa561605da9_ID192MP3.mp3",
-"l_dd9906b2-8cd9-416a-9906-b28cd9816a65": "https://podkast.nrk.no/fil/siesta/dd9906b2-8cd9-416a-9906-b28cd9816a65_ID192MP3.mp3",
-"l_ddd54d2f-37db-46f0-954d-2f37db36f079": "https://podkast.nrk.no/fil/siesta/ddd54d2f-37db-46f0-954d-2f37db36f079_1_ID192MP3.mp3",
-"l_de1ca3a4-2211-4b50-9ca3-a42211db5068": "https://podkast.nrk.no/fil/siesta/de1ca3a4-2211-4b50-9ca3-a42211db5068_ID192MP3.mp3",
-"l_deee435d-3436-4800-ae43-5d34367800f3": "https://podkast.nrk.no/fil/siesta/f0159c66-add7-4b43-8555-54cff09b418c_0_ID192MP3.mp3",
-"l_e125079b-bce4-473c-a507-9bbce4273c19": "https://podkast.nrk.no/fil/siesta/e125079b-bce4-473c-a507-9bbce4273c19_1_ID192MP3.mp3",
-"l_e24bb3e5-cfdf-4b02-8bb3-e5cfdf7b02df": "https://podkast.nrk.no/fil/siesta/e24bb3e5-cfdf-4b02-8bb3-e5cfdf7b02df_ID192MP3.mp3",
-"l_e4710b6f-8a46-45d0-b10b-6f8a46e5d09c": "https://podkast.nrk.no/fil/siesta/e4710b6f-8a46-45d0-b10b-6f8a46e5d09c_ID192MP3.mp3",
-"l_e49b06ad-9378-4876-9b06-ad9378387647": "https://podkast.nrk.no/fil/siesta/3ee37b97-dd15-4414-8a7f-f2e131f11c59_0_ID192MP3.mp3",
-"l_e53c3476-ad5c-4b03-bc34-76ad5c2b031a": "https://podkast.nrk.no/fil/siesta/e53c3476-ad5c-4b03-bc34-76ad5c2b031a_ID192MP3.mp3",
-"l_e5a187b4-d804-40d1-a187-b4d80420d1c1": "https://podkast.nrk.no/fil/siesta/e5a187b4-d804-40d1-a187-b4d80420d1c1_1_ID192MP3.mp3",
-"l_e6433180-9faa-4b39-8331-809faa0b3969": "https://podkast.nrk.no/fil/siesta/5058bd33-6622-4632-b822-70f172dc6fa4_0_ID192MP3.mp3",
-"l_e6a070db-1051-4feb-a070-db10518feb2b": "https://podkast.nrk.no/fil/siesta/e6a070db-1051-4feb-a070-db10518feb2b_ID192MP3.mp3",
-"l_e788bd3e-4342-43b7-88bd-3e434213b76a": "https://podkast.nrk.no/fil/siesta/d3a99920-5f9c-4cc7-8226-22b7440e8c5f_0_ID192MP3.mp3",
-"l_e7f1fe4a-e255-4f82-b1fe-4ae2556f822c": "https://podkast.nrk.no/fil/siesta/e7f1fe4a-e255-4f82-b1fe-4ae2556f822c_ID192MP3.mp3",
-"l_e83d496d-0c82-4f35-bd49-6d0c82df35eb": "https://podkast.nrk.no/fil/siesta/e83d496d-0c82-4f35-bd49-6d0c82df35eb_ID192MP3.mp3",
-"l_e8db9566-0925-480e-9b95-660925180e0e": "https://podkast.nrk.no/fil/siesta/e8db9566-0925-480e-9b95-660925180e0e_ID192MP3.mp3",
-"l_eab911f7-6f10-496b-b911-f76f10e96b16": "https://podkast.nrk.no/fil/siesta/eab911f7-6f10-496b-b911-f76f10e96b16_ID192MP3.mp3",
-"l_eb1748aa-9ee5-45a7-9748-aa9ee595a7c2": "https://podkast.nrk.no/fil/siesta/eb1748aa-9ee5-45a7-9748-aa9ee595a7c2_1_ID192MP3.mp3",
-"l_ed012c5b-8997-4cb7-812c-5b8997dcb7d2": "https://podkast.nrk.no/fil/siesta/ed012c5b-8997-4cb7-812c-5b8997dcb7d2_ID192MP3.mp3",
-"l_ed9ffec6-45d5-446b-9ffe-c645d5546b4a": "https://podkast.nrk.no/fil/siesta/ed9ffec6-45d5-446b-9ffe-c645d5546b4a_ID192MP3.mp3",
-"l_edbba513-c99a-44b4-bba5-13c99ae4b4d6": "https://podkast.nrk.no/fil/siesta/7483c41c-9029-4b9f-9641-5c1207926ca3_0_ID192MP3.mp3",
-"l_eeac451a-755b-441a-ac45-1a755bd41a69": "https://podkast.nrk.no/fil/siesta/eeac451a-755b-441a-ac45-1a755bd41a69_ID192MP3.mp3",
-"l_f006fdc2-970a-495e-86fd-c2970ae95ee3": "https://podkast.nrk.no/fil/siesta/f006fdc2-970a-495e-86fd-c2970ae95ee3_ID192MP3.mp3",
-"l_f04895c2-cb98-422b-8895-c2cb98322bec": "https://podkast.nrk.no/fil/siesta/f04895c2-cb98-422b-8895-c2cb98322bec_1_ID192MP3.mp3",
-"l_f0a28e2b-77c9-4ef0-a28e-2b77c95ef0dc": "https://podkast.nrk.no/fil/siesta/f0a28e2b-77c9-4ef0-a28e-2b77c95ef0dc_ID192MP3.mp3",
-"l_f139d629-41f1-41a4-b9d6-2941f1a1a467": "https://podkast.nrk.no/fil/siesta/f139d629-41f1-41a4-b9d6-2941f1a1a467_1_ID192MP3.mp3",
-"l_f2a19039-4516-4be8-a190-394516abe862": "https://podkast.nrk.no/fil/siesta/50dbb6fe-29d0-45ca-a5d9-b521fadf0c2b_0_ID192MP3.mp3",
-"l_f2d36bb7-3567-491b-936b-b73567591b99": "https://podkast.nrk.no/fil/siesta/f2d36bb7-3567-491b-936b-b73567591b99_ID192MP3.mp3",
-"l_f340af9b-ef3a-44e4-80af-9bef3ab4e4d8": "https://podkast.nrk.no/fil/siesta/089adfcf-ab0c-4746-9e71-6a5636e5669c_0_ID192MP3.mp3",
-"l_f3cc18d9-f2e2-4094-8c18-d9f2e2a094a9": "https://podkast.nrk.no/fil/siesta/f3cc18d9-f2e2-4094-8c18-d9f2e2a094a9_ID192MP3.mp3",
-"l_f3f40946-c8f6-42f3-b409-46c8f662f344": "https://podkast.nrk.no/fil/siesta/e3ce4fe0-2b48-48b5-810b-552c54c11a09_0_ID192MP3.mp3",
-"l_f40bf154-8683-4b1c-8bf1-5486834b1c45": "https://podkast.nrk.no/fil/siesta/f40bf154-8683-4b1c-8bf1-5486834b1c45_ID192MP3.mp3",
-"l_f4cdf794-73cf-471d-8df7-9473cf671d9e": "https://podkast.nrk.no/fil/siesta/f4cdf794-73cf-471d-8df7-9473cf671d9e_ID192MP3.mp3",
-"l_f5a72132-308a-4f2a-a721-32308a4f2ade": "https://podkast.nrk.no/fil/siesta/f5a72132-308a-4f2a-a721-32308a4f2ade_ID192MP3.mp3",
-"l_f5ae7bf8-298e-4bd0-ae7b-f8298e7bd03f": "https://podkast.nrk.no/fil/siesta/f5ae7bf8-298e-4bd0-ae7b-f8298e7bd03f_ID192MP3.mp3",
-"l_f678bd2e-8da9-4cc7-b8bd-2e8da9fcc76f": "https://podkast.nrk.no/fil/siesta/f678bd2e-8da9-4cc7-b8bd-2e8da9fcc76f_1_ID192MP3.mp3",
-"l_f68822fd-fae2-4c41-8822-fdfae29c4177": "https://podkast.nrk.no/fil/siesta/f68822fd-fae2-4c41-8822-fdfae29c4177_ID192MP3.mp3",
-"l_f9ff06a1-edbe-4e50-bf06-a1edbe1e50a3": "https://podkast.nrk.no/fil/siesta/76b23234-c002-4ede-a4ad-67e2da748c6d_0_ID192MP3.mp3",
-"l_fa547477-97af-4e56-9474-7797af5e5621": "https://podkast.nrk.no/fil/siesta/eeb42ef6-4e30-493a-b3d8-15ccc248f58f_0_ID192MP3.mp3",
-"l_facd548e-c803-4df1-8d54-8ec8035df143": "https://podkast.nrk.no/fil/siesta/facd548e-c803-4df1-8d54-8ec8035df143_1_ID192MP3.mp3",
-"l_fad2f00a-dd3a-43bb-92f0-0add3ac3bb63": "https://podkast.nrk.no/fil/siesta/fad2f00a-dd3a-43bb-92f0-0add3ac3bb63_ID192MP3.mp3",
-"l_fbd2a7d4-755f-4c0c-92a7-d4755f5c0cf3": "https://podkast.nrk.no/fil/siesta/fbd2a7d4-755f-4c0c-92a7-d4755f5c0cf3_ID192MP3.mp3",
-"l_fbdac7f1-df32-44b5-9ac7-f1df3294b520": "https://podkast.nrk.no/fil/siesta/fbdac7f1-df32-44b5-9ac7-f1df3294b520_ID192MP3.mp3",
-"l_fbfbebe3-0eb9-4287-bbeb-e30eb972878e": "https://podkast.nrk.no/fil/siesta/fbfbebe3-0eb9-4287-bbeb-e30eb972878e_1_ID192MP3.mp3",
-"l_fc54f6e8-a903-460e-94f6-e8a903260eae": "https://podkast.nrk.no/fil/siesta/fc54f6e8-a903-460e-94f6-e8a903260eae_ID192MP3.mp3",
-"l_fd948a42-5715-48df-948a-42571518df00": "https://podkast.nrk.no/fil/siesta/fd948a42-5715-48df-948a-42571518df00_1_ID192MP3.mp3"
+"episodes": {
+"l_002d0751-1fbc-407a-ad07-511fbc807aae": {
+"d": "2025-08-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1874,
+"s": "Vi har premiere på \"siestas spørretime\", Markus har vært på valpekurs og Anna arrangerer ASMR-konkurranse i spalte-spalten.",
+"t": "Skatter man av pantepenger?",
+"u": "https://podkast.nrk.no/fil/siesta/cffd017f-5556-483c-978f-0827c51bb30c_0_ID192MP3.mp3"
+},
+"l_00649698-e67f-46dc-a496-98e67fb6dc6b": {
+"d": "2025-05-14T13:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1861,
+"s": "Daniel leder tyskerspesial av papegøye, Anna er lei av pølsesnakk og Markus har laget et musikalnummer!",
+"t": "– Jeg er Vang",
+"u": "https://podkast.nrk.no/fil/siesta/22c16f1d-c706-444a-ae79-0c82ab1d07d5_0_ID192MP3.mp3"
+},
+"l_00c83533-e1be-4d1b-8835-33e1bebd1bfd": {
+"d": "2025-06-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1748,
+"s": "Vi har møtt mora til Markus, sesongens dumfette skal kåres og er kalde pølser godt? Med det sier vi god sommer<3",
+"t": "Anna, du er Siestas dummeste",
+"u": "https://podkast.nrk.no/fil/siesta/ffd6bcb5-b5e9-4c48-bfcf-7a7b9ca199ae_0_ID192MP3.mp3"
+},
+"l_00d5530e-f948-417e-9553-0ef948c17ec9": {
+"d": "2025-10-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1768,
+"s": "Anna lager triste tiktoks av faren sin, hva er det motsatte av vaniljesaus og Markus blir konfrontert med sexspørsmål av Bahare Viken.",
+"t": "Markus er «med» i sexpodkast",
+"u": "https://podkast.nrk.no/fil/siesta/00d5530e-f948-417e-9553-0ef948c17ec9_ID192MP3.mp3"
+},
+"l_01669b76-b38a-4d24-a69b-76b38aed2431": {
+"d": "2026-09-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2591,
+"s": "Daniel røper litt om privatlivet sitt, Markus er (som vanlig) misfornøyd med pizzaen vi får på jobb og er kamskjell godt?",
+"t": "Tisser ikke i andres dusj",
+"u": "https://podkast.nrk.no/fil/siesta/01669b76-b38a-4d24-a69b-76b38aed2431_1_ID192MP3.mp3"
+},
+"l_020faa9f-4c81-4988-8faa-9f4c81498854": {
+"d": "2026-09-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2827,
+"s": "Daniel skal få tips fra Dr. Bergland i ubehag, Mikke mus ringer oss og Anna klikker. Alt er som det pleier!",
+"t": "Dr. Bergland kommer innom",
+"u": "https://podkast.nrk.no/fil/siesta/020faa9f-4c81-4988-8faa-9f4c81498854_1_ID192MP3.mp3"
+},
+"l_02338cac-abd7-4923-b38c-acabd7592386": {
+"d": "2025-05-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1697,
+"s": "Det blir giftig maskulinitet når Anna er syk. Daniel sensualiserer tv-titting og Markus har med en gressklipper-entusiast",
+"t": "Grisen skal ikke sminkes, men grilles",
+"u": "https://podkast.nrk.no/fil/siesta/882411bc-f580-4448-8f0d-f43fa44161d6_0_ID192MP3.mp3"
+},
+"l_04359618-749e-4be3-b596-18749e6be367": {
+"d": "2026-08-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2741,
+"s": "Daniel har funnet den danske Markus, Anna er intervjua i avisa og hva tenker vi om reunion?",
+"t": "Markus har en dobbeltgjenger",
+"u": "https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3"
+},
+"l_0526efd1-5c18-47f8-a6ef-d15c1887f8d0": {
+"d": "2025-08-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1866,
+"s": "Det blir det motsatte av en cowboy, Anna har sneket seg inn på gamingrommet til Markus og Daniel forteller om et legendarisk bryllup.",
+"t": "Vi er tilbake!!!!!!!",
+"u": "https://podkast.nrk.no/fil/siesta/5ad9fb1f-c2b1-4bb4-af8f-09e235014af5_0_ID192MP3.mp3"
+},
+"l_0673561e-d12f-4e05-b356-1ed12f1e0507": {
+"d": "2026-03-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2783,
+"s": "Anna søler kaffe overalt, Markus har bæsja før han dusjer og vi smalltalker slankesprøyter",
+"t": "Anna er en T-rex",
+"u": "https://podkast.nrk.no/fil/siesta/0673561e-d12f-4e05-b356-1ed12f1e0507_1_ID192MP3.mp3"
+},
+"l_07883891-ac9b-4411-8838-91ac9b9411e1": {
+"d": "2026-08-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2676,
+"s": "Daniel finner den beste låta å drite til, Anna er kokforbanna på folk som ikke ringer opp og hvem har den beste bryllupstalen?",
+"t": "Daniel skal få monokkel",
+"u": "https://podkast.nrk.no/fil/siesta/07883891-ac9b-4411-8838-91ac9b9411e1_1_ID192MP3.mp3"
+},
+"l_08641906-78d8-40b3-a419-0678d870b3a5": {
+"d": "2025-10-31T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1816,
+"s": "Det blir quizvang, det blir dumfette og nå kan du gå inn på P3.no/dass for å stemme frem din favoritt i Norges beste jobb-dass!",
+"t": "Semifinale i Norges beste jobb-dass",
+"u": "https://podkast.nrk.no/fil/siesta/08641906-78d8-40b3-a419-0678d870b3a5_ID192MP3.mp3"
+},
+"l_0884b478-aacd-4ade-84b4-78aacdeade15": {
+"d": "2026-01-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2090,
+"s": "Daniel mener det spres falske rykter, Anna og Markus mener han lyver dem i trynet og sammen diskuterer de om Donald Duck onanerer!",
+"t": "Alle fiser i hånda og lukter",
+"u": "https://podkast.nrk.no/fil/siesta/0884b478-aacd-4ade-84b4-78aacdeade15_ID192MP3.mp3"
+},
+"l_08cf4ac2-62d7-4cb6-8f4a-c262d7acb63b": {
+"d": "2025-11-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1875,
+"s": "Det går bra om daaan når du shopper i fylla, Daniel leverer sin beste smurfehit og de mangler gafler i Porsanger i Finnmark.",
+"t": "Kjøpte penispumpe i fylla",
+"u": "https://podkast.nrk.no/fil/siesta/08cf4ac2-62d7-4cb6-8f4a-c262d7acb63b_ID192MP3.mp3"
+},
+"l_0a9b41c3-fa15-4258-9b41-c3fa15a258cb": {
+"d": "2026-02-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2659,
+"s": "Markus mister det når vi snakker om å kutte i helligdager og Daniel lukter på hundebæsj med bind foran øynene.",
+"t": "Daniel lukter på hundebæsj",
+"u": "https://podkast.nrk.no/fil/siesta/0a9b41c3-fa15-4258-9b41-c3fa15a258cb_ID192MP3.mp3"
+},
+"l_0d97cbba-24e1-498b-97cb-ba24e1f98b43": {
+"d": "2025-06-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2266,
+"s": "Markus har sett en full mann i bokser, Daniel sensualiserer hamring og Anna mener ketchup ikke er saus.",
+"t": "Ketchup ekke saus!",
+"u": "https://podkast.nrk.no/fil/siesta/de67d716-5995-4b19-bfb4-803e28b4e0ca_0_ID192MP3.mp3"
+},
+"l_0dfac600-1de3-4381-bac6-001de3f38126": {
+"d": "2025-09-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1808,
+"s": "Daniel har hatt besøk av svigermor, Anna hater brettspill og Markus skal potensielt være programleder for nytt TV-program.",
+"t": "Norges dasseste",
+"u": "https://podkast.nrk.no/fil/siesta/0dfac600-1de3-4381-bac6-001de3f38126_ID192MP3.mp3"
+},
+"l_0e305a53-ae44-4c14-b05a-53ae44bc1410": {
+"d": "2026-05-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2866,
+"s": "Tante Rita er dritings og er fanga på cruise, hva tenker vi om tørkle i halsen og hvem er best på å være en koala?",
+"t": "Hvordan høres en koala ut?",
+"u": "https://podkast.nrk.no/fil/siesta/0e305a53-ae44-4c14-b05a-53ae44bc1410_1_ID192MP3.mp3"
+},
+"l_0f08e34d-18f9-4d8f-88e3-4d18f9dd8f61": {
+"d": "2025-03-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1711,
+"s": "Daniel er euforisk over ny låt, vi har premiere på spalten «smalltalk» og Anna og Markus konkurrerer i hvem som er best til å etterligne.",
+"t": "Vi sprenger en grisetarm!",
+"u": "https://podkast.nrk.no/fil/siesta/89a3abc7-eb58-4f0d-9a0a-95f0646e4976_0_ID192MP3.mp3"
+},
+"l_0f4dff46-f152-45c7-8dff-46f15215c721": {
+"d": "2025-03-11T15:33:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1778,
+"s": "Daniel har fått manne-bukett, Markus skal være sensuell og vi tester den nye spalten «det går bra om daaan»!",
+"t": "Kan vasking bli sensuelt?",
+"u": "https://podkast.nrk.no/fil/siesta/131f0b3e-99bc-44c3-a4a6-bdfeb5ced556_0_ID192MP3.mp3"
+},
+"l_0fc0bf88-cb88-44e3-80bf-88cb8874e372": {
+"d": "2026-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2482,
+"s": "Maria Stavang er vikar og har med et solid ubehag, Anna har fornærmet Markus og hva gjør man 8 kg sjokolade?",
+"t": "Vi viser orgasmelyd i ubehag",
+"u": "https://podkast.nrk.no/fil/siesta/0fc0bf88-cb88-44e3-80bf-88cb8874e372_1_ID192MP3.mp3"
+},
+"l_110ffd5b-324b-4eb6-8ffd-5b324b8eb6c6": {
+"d": "2026-04-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2674,
+"s": "Markus lager ASMR av mat, Daniel kårer ukas dumfette og Anna deler om sitt forhold til brystmelk.",
+"t": "Smakte brystmelk fra venn",
+"u": "https://podkast.nrk.no/fil/siesta/110ffd5b-324b-4eb6-8ffd-5b324b8eb6c6_1_ID192MP3.mp3"
+},
+"l_128aeae7-a364-40c8-8aea-e7a364c0c8c1": {
+"d": "2026-05-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3198,
+"s": "Daniel var på Norge rundt, Anna hører ikke etter og Markus har tatt med en gammel slager i Emma Steinbakken-spalten.",
+"t": "Vi lukter (angivelig) drit",
+"u": "https://podkast.nrk.no/fil/siesta/128aeae7-a364-40c8-8aea-e7a364c0c8c1_1_ID192MP3.mp3"
+},
+"l_160e12a2-86ef-4439-8e12-a286ef8439dc": {
+"d": "2026-06-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 382,
+"s": "Klokka 9 fredag morra begynner vi vår maratonsending! Send inn meldinger i appen NRK Radio og hjelp oss fylle 24 timer<3",
+"t": "Hør: Siestas 24-timers fiesta!",
+"u": "https://podkast.nrk.no/fil/siesta/160e12a2-86ef-4439-8e12-a286ef8439dc_1_ID192MP3.mp3"
+},
+"l_1684566e-dd5b-4a7f-8456-6edd5b1a7fa5": {
+"d": "2025-12-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1949,
+"s": "Daniel har grua seg siden august til denne smurfehiten, Markus har lei opplevelse på do og hvorfor er marsipan så dyrt?",
+"t": "Har Markus tissa på gulvet?",
+"u": "https://podkast.nrk.no/fil/siesta/1684566e-dd5b-4a7f-8456-6edd5b1a7fa5_ID192MP3.mp3"
+},
+"l_1a01c672-71ca-4ee2-81c6-7271ca2ee269": {
+"d": "2025-05-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1622,
+"s": "Anna er fortsatt sjuk, MEN det blir smalltalk om gynekologisk undersøkelse og Markus har med et sildelag fra Haugesund",
+"t": "Vi savner Anna!",
+"u": "https://podkast.nrk.no/fil/siesta/7323d651-6eee-4d61-99c3-fc33aa9d77f2_0_ID192MP3.mp3"
+},
+"l_1a68106f-431b-4115-a810-6f431bf115ea": {
+"d": "2026-04-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2573,
+"s": "SAS har endret på Daniels ferie, Anna er best likt av sjefen og Markus kjører bolle-spesial i quizvang!",
+"t": "Rævpult av SAS (igjen)",
+"u": "https://podkast.nrk.no/fil/siesta/1a68106f-431b-4115-a810-6f431bf115ea_1_ID192MP3.mp3"
+},
+"l_1a7b8ab3-cb9d-4faf-bb8a-b3cb9d7faf8b": {
+"d": "2026-04-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2503,
+"s": "Ikke alle syns humoren til Finn Glede er gøy, det blir «Looney Tunes» i papegøye og hvordan ville Siesta hørtes ut på dansk?",
+"t": "Noen vil spytte på Markus",
+"u": "https://podkast.nrk.no/fil/siesta/1a7b8ab3-cb9d-4faf-bb8a-b3cb9d7faf8b_1_ID192MP3.mp3"
+},
+"l_1ca47beb-d13b-452c-a47b-ebd13b952ce4": {
+"d": "2025-05-02T13:30:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2221,
+"s": "Anna har låst seg ute, Daniel skal til Danmark og Markus blir forbanna. Alt er som det pleier i Siesta!",
+"t": "Det er farlig å være pølse",
+"u": "https://podkast.nrk.no/fil/siesta/585a5e80-b685-48f2-ada6-583f2e90c5b2_0_ID192MP3.mp3"
+},
+"l_1ce07b56-251b-4638-a07b-56251b8638e1": {
+"d": "2026-04-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2760,
+"s": "Anna er sur på folk som ikke kommer på tida, Daniel har dårlig selvtillit på eget arbeid og er det lov å si «Oslo i dag er du fin»?",
+"t": "Kan man si «Oslo du er fin?»",
+"u": "https://podkast.nrk.no/fil/siesta/1ce07b56-251b-4638-a07b-56251b8638e1_1_ID192MP3.mp3"
+},
+"l_1cf0c7ff-1fe5-471e-b0c7-ff1fe5a71e41": {
+"d": "2026-08-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2923,
+"s": "Daniel har med et spesielt lydopptak og det skal konkurreres som hvem som er den beste taleren i vår nye spalte!",
+"t": "Lydopptak fra dass",
+"u": "https://podkast.nrk.no/fil/siesta/1cf0c7ff-1fe5-471e-b0c7-ff1fe5a71e41_1_ID192MP3.mp3"
+},
+"l_1db2eb86-e1b6-47b7-b2eb-86e1b647b7a2": {
+"d": "2025-12-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2167,
+"s": "Anna har driti seg ut foran nabo, Markus leder quizmasvang og er det Daniel som aldri kjøper nye truser?",
+"t": "Hvem kjøper sjeldnest truse?",
+"u": "https://podkast.nrk.no/fil/siesta/1db2eb86-e1b6-47b7-b2eb-86e1b647b7a2_ID192MP3.mp3"
+},
+"l_1deafd67-2620-4a71-aafd-6726207a71ec": {
+"d": "2025-10-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1752,
+"s": "Anna blir arrestert i livsgnist, Daniel tar ikke nei for et nei i smurfehits og er 79 kroner for grøt for dyrt?",
+"t": "79 kr for ferdig-grøt?",
+"u": "https://podkast.nrk.no/fil/siesta/1deafd67-2620-4a71-aafd-6726207a71ec_ID192MP3.mp3"
+},
+"l_1ec31a56-7e9c-4a5a-831a-567e9cea5aa9": {
+"d": "2025-05-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1930,
+"s": "Daniel har ringt Veronica Orderud, Markus leder papegøye og Anna lukter godt.",
+"t": "Veronica Orderud på strippeshow",
+"u": "https://podkast.nrk.no/fil/siesta/38e37749-615b-4e3d-a98e-5c2e4d72f0a1_0_ID192MP3.mp3"
+},
+"l_1f5961e4-c088-4a4d-9961-e4c0888a4de1": {
+"d": "2025-05-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1700,
+"s": "Anne kan ENDELIG lukte, Markus har funnet internett legender til papegøye og Daniel fortsetter jakten på den spydde lefsa.",
+"t": "Kan du slutte å mute meg?!",
+"u": "https://podkast.nrk.no/fil/siesta/0dac4612-cd21-450d-9647-7e0f9f7e1e5d_0_ID192MP3.mp3"
+},
+"l_1fa0d239-68b1-4564-a0d2-3968b175641c": {
+"d": "2026-04-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2820,
+"s": "Vi ble klippa ut av «Nytt på nytt»-sketsj, Markus glemte Quizvang og Daniel har med fredagshilsen<3",
+"t": "Ble klippa ut av nytt på nytt",
+"u": "https://podkast.nrk.no/fil/siesta/1fa0d239-68b1-4564-a0d2-3968b175641c_1_ID192MP3.mp3"
+},
+"l_1fb74da7-3114-4c5e-b74d-a731144c5e3c": {
+"d": "2026-02-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2795,
+"s": "Markus leverer dagsaktuell stand up, Daniel har med ond latter spalte og Anna var så dum og tok trekant-medisin før sending.",
+"t": "Anna er rusa på sending",
+"u": "https://podkast.nrk.no/fil/siesta/1fb74da7-3114-4c5e-b74d-a731144c5e3c_ID192MP3.mp3"
+},
+"l_20419bb2-fd1e-44db-819b-b2fd1e94dbe6": {
+"d": "2025-11-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1796,
+"s": "Markus rører oss med Céline Dion, det var en dramatisk start på dagen for to av tre i gjengen og Anna har vært på shopping.",
+"t": "Rørt av Markus sin låt",
+"u": "https://podkast.nrk.no/fil/siesta/20419bb2-fd1e-44db-819b-b2fd1e94dbe6_ID192MP3.mp3"
+},
+"l_21203555-6b90-402c-a035-556b90e02c5c": {
+"d": "2025-06-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1749,
+"s": "Markus begynner nesten å gråte av Annas ubehag, Daniel har dårlig diksjon i dag og vi diskuterer det motsatte av en kvise.",
+"t": "Jeg begynte nesten å gråte!",
+"u": "https://podkast.nrk.no/fil/siesta/a3f2b552-e97a-4e34-be47-e88bd3d2c3ef_0_ID192MP3.mp3"
+},
+"l_2126da26-b466-4c9c-a6da-26b4661c9c66": {
+"d": "2026-02-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2916,
+"s": "Daniel leder mgp-spiesial av papegøye, vi smaltalker om beverrumper og vi hører Annas rap fra barndommen i ny drakt.",
+"t": "Markus rimmer bevere",
+"u": "https://podkast.nrk.no/fil/siesta/2126da26-b466-4c9c-a6da-26b4661c9c66_ID192MP3.mp3"
+},
+"l_21a7607a-6a52-4a56-a760-7a6a529a56ad": {
+"d": "2026-09-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2800,
+"s": "Daniel mimrer om kalkulatoren, Anna er forbanna på forpulte syklister og vi smalltalker europeiske hovedsteder. Stinker Siesta!",
+"t": "Boobies på kalkulator",
+"u": "https://podkast.nrk.no/fil/siesta/21a7607a-6a52-4a56-a760-7a6a529a56ad_1_ID192MP3.mp3"
+},
+"l_21cd5bfb-e68b-4f3d-8d5b-fbe68b0f3d1f": {
+"d": "2025-11-10T13:52:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2152,
+"s": "Daniel utsetter seg for ubehag, Finn Glede ringer oss og hva er det motsatte av en bowlingkule (hint: ikke rumpa til Anna).",
+"t": "Daniel får buksevann",
+"u": "https://podkast.nrk.no/fil/siesta/21cd5bfb-e68b-4f3d-8d5b-fbe68b0f3d1f_ID192MP3.mp3"
+},
+"l_21f40055-d529-4f75-b400-55d5297f75f2": {
+"d": "2026-02-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/5uJDlxDgc4zwQDnoPd-FGgWkZvQFg3Fq1J7oq0zi-eNQ",
+"n": 2585,
+"s": "Finn Glede har vært i Høiby-saken, vi diskuterer det motsatte av en sumobryter og Markus og Daniel var Borat i dagens ubehag.",
+"t": "Borat klipper Annas kjønnshår",
+"u": "https://podkast.nrk.no/fil/siesta/21f40055-d529-4f75-b400-55d5297f75f2_ID192MP3.mp3"
+},
+"l_21f48da8-f52f-4f17-b48d-a8f52f0f1779": {
+"d": "2025-12-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1876,
+"s": "Daniel har intervjua kjæresten til Anna, vi diskuterer hva det motsatte av en skumnisse er og Markus har betraktning om Mariah Carey!",
+"t": "Er Mariah Carey litt hot?",
+"u": "https://podkast.nrk.no/fil/siesta/21f48da8-f52f-4f17-b48d-a8f52f0f1779_ID192MP3.mp3"
+},
+"l_22633db6-ce6f-4216-a33d-b6ce6fe21637": {
+"d": "2025-04-25T13:01:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1870,
+"s": "Hvem er ukas dummeste, er det en lett- eller seterrømme hælj og ingen vil klemme Markus. Sånt lukter det helg av.",
+"t": "Markus skal lære av Stoltenberg",
+"u": "https://podkast.nrk.no/fil/siesta/2883097d-6d8c-4cee-99df-30c2a35b555f_0_ID192MP3.mp3"
+},
+"l_23285f64-d9b1-4f27-a85f-64d9b1ff27c3": {
+"d": "2025-11-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1800,
+"s": "Markus var vitne til et innbrudd, vi smalltalker Berlinmuren og det ble Boris Johnsen-spesial i papegøye.",
+"t": "Markus stoppa en tyv",
+"u": "https://podkast.nrk.no/fil/siesta/23285f64-d9b1-4f27-a85f-64d9b1ff27c3_ID192MP3.mp3"
+},
+"l_241ae4c3-2150-4627-9ae4-c321500627fd": {
+"d": "2025-05-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1834,
+"s": "Anna har langt skjørt, Daniel er skalla og Markus har prøvd å tisse sensuelt!",
+"t": "Du kan ikke tisse på radio!",
+"u": "https://podkast.nrk.no/fil/siesta/cabdd3c8-406c-4ad9-b665-2b2a4b0fcae5_0_ID192MP3.mp3"
+},
+"l_25432e2f-8b0b-4434-832e-2f8b0b3434c2": {
+"d": "2025-04-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1681,
+"s": "Markus traff på gammel flamme, hvem er best på å etterligne Pingu og funker gelender som smalltalk?",
+"t": "Sørgelig syn på McDonalds",
+"u": "https://podkast.nrk.no/fil/siesta/a05b125d-879e-42d4-b67a-f84dce0490d5_0_ID192MP3.mp3"
+},
+"l_25970d44-ab53-4eb6-970d-44ab535eb6ef": {
+"d": "2025-04-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1720,
+"s": "Anna gråt da hun ble tatt i kontroll, Daniel vasker henda sensuelt og Markus har kost seg med vitapro-sangen. Idiotisk som vanlig.",
+"t": "Pappa betaler boten",
+"u": "https://podkast.nrk.no/fil/siesta/c9f63d01-f806-4bb6-98f7-de9bdc2450e7_0_ID192MP3.mp3"
+},
+"l_25d7e018-7d05-4ca8-97e0-187d052ca8c5": {
+"d": "2025-10-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1806,
+"s": "Markus dusjer med t-skjorte etter driting, Anna har driti på gølvet i spalte-spalten og Daniel har intervjuet Espen Abrahamsen.",
+"t": "Må du dusje etter dobesøk?",
+"u": "https://podkast.nrk.no/fil/siesta/25d7e018-7d05-4ca8-97e0-187d052ca8c5_ID192MP3.mp3"
+},
+"l_2623c73f-fe51-4196-a3c7-3ffe51219694": {
+"d": "2025-10-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1764,
+"s": "Finn Glede selger granater til unger, det svir når Daniel tisser og Anna har sett Ringenes Herre for første gang.",
+"t": "En adventskalender til 2500?!",
+"u": "https://podkast.nrk.no/fil/siesta/2623c73f-fe51-4196-a3c7-3ffe51219694_ID192MP3.mp3"
+},
+"l_268d5349-dd17-4013-8d53-49dd171013cd": {
+"d": "2025-10-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1851,
+"s": "Markus og Daniel spiser Norges sterkeste pølse og finnes det folk som bruker en helg på få plass til en dildo i rumpa?",
+"t": "Dildo på størrelse med et lår",
+"u": "https://podkast.nrk.no/fil/siesta/268d5349-dd17-4013-8d53-49dd171013cd_ID192MP3.mp3"
+},
+"l_2789024d-2c38-45ed-8902-4d2c3895edec": {
+"d": "2025-12-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1654,
+"s": "Anna er på ferie i landet influensa, MEN Daniel og Markus holder på. Hva er de motsatte av en misteltein og vi stiller hverandre ubehagelig spørsmål.",
+"t": "Er misteltein på jobb #metoo?",
+"u": "https://podkast.nrk.no/fil/siesta/2789024d-2c38-45ed-8902-4d2c3895edec_ID192MP3.mp3"
+},
+"l_28161311-97bd-48d4-9613-1197bd88d445": {
+"d": "2025-04-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1722,
+"s": "Vi er delt på hvor mye penger man kan bruke på en TV, Markus sjekker om panting kan være sensuelt og avslører Annas hemmelighet.",
+"t": "Markus, er du helt IDIOT?!",
+"u": "https://podkast.nrk.no/fil/siesta/8d8a1a33-ded4-4c00-8172-27f1a8c576cc_0_ID192MP3.mp3"
+},
+"l_28825cf7-e4f1-41e5-825c-f7e4f1f1e549": {
+"d": "2026-02-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2814,
+"s": "Daniel har bursdag, Aune Sand ønsker oss en god hælj og Markus har bakt i 100 timer.",
+"t": "Aune Sand motiverer oss",
+"u": "https://podkast.nrk.no/fil/siesta/28825cf7-e4f1-41e5-825c-f7e4f1f1e549_ID192MP3.mp3"
+},
+"l_28f49e4c-466e-46e1-b49e-4c466e66e14a": {
+"d": "2026-01-20T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2058,
+"s": "Finn Glede boikotter MGP, Anna smurfifiserer en MGP-låt og er det innafor å kjøpe avisabonnement for å se på eksen?",
+"t": "Boikotter MGP",
+"u": "https://podkast.nrk.no/fil/siesta/28f49e4c-466e-46e1-b49e-4c466e66e14a_ID192MP3.mp3"
+},
+"l_2a83bac1-9870-42ca-83ba-c1987012ca01": {
+"d": "2025-11-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1881,
+"s": "Anna debuterer som stand up-komiker, Tante Rita ringer Daniel og Markus er en feig faen.",
+"t": "Anna står stand-up!",
+"u": "https://podkast.nrk.no/fil/siesta/2a83bac1-9870-42ca-83ba-c1987012ca01_ID192MP3.mp3"
+},
+"l_2aba9ccc-8342-4bbf-ba9c-cc83423bbfa5": {
+"d": "2026-05-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3155,
+"s": "Daniel starter jakten på Norges beste VM-låt, det blir begått en stor feil i Emma Steinbakken-spalten og Anna hater 17 mai bilder.",
+"t": "Er dette Norges verste VM-låt?",
+"u": "https://podkast.nrk.no/fil/siesta/2aba9ccc-8342-4bbf-ba9c-cc83423bbfa5_1_ID192MP3.mp3"
+},
+"l_2c2e2006-2c58-4641-ae20-062c5876414f": {
+"d": "2026-09-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3063,
+"s": "Anna er forbanna på folk som hamster (Markus), Daniel har laga en sang og sammen smalltalker vi Las Vegas.",
+"t": "Forrett er verre enn dessert",
+"u": "https://podkast.nrk.no/fil/siesta/2c2e2006-2c58-4641-ae20-062c5876414f_1_ID192MP3.mp3"
+},
+"l_2e34ef9b-8a32-4c55-b4ef-9b8a324c5593": {
+"d": "2026-08-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1745,
+"s": "Klokka er 5 på morgenen her og Vangen er på kjøret, Finn Glede kommer innom og hva i alle dager er brallor?",
+"t": "Time 21: Vangen i psykose",
+"u": "https://podkast.nrk.no/fil/siesta/2e34ef9b-8a32-4c55-b4ef-9b8a324c5593_1_ID192MP3.mp3"
+},
+"l_2f278a6d-86c5-4136-a78a-6d86c5e13635": {
+"d": "2026-02-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2776,
+"s": "Markus slenger med leppa, vi smalltaker burgerdressing og ikke minst skal vi på McDonalds!",
+"t": "Markus fornærmer Anna (igjen)",
+"u": "https://podkast.nrk.no/fil/siesta/2f278a6d-86c5-4136-a78a-6d86c5e13635_ID192MP3.mp3"
+},
+"l_2f3368ae-90e9-406a-b368-ae90e9e06a90": {
+"d": "2025-04-16T14:44:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1535,
+"s": "Daniel kårer ukas dumfette allerede i dag, vi blir introdusert til en Gucci-legende og Markus leder papegøye før vi tar påskeferie<3",
+"t": "Legger rotter egg?",
+"u": "https://podkast.nrk.no/fil/siesta/1cf8da5a-230a-4811-8607-8a15baa60520_0_ID192MP3.mp3"
+},
+"l_2f7d47a4-cb31-4c47-bd47-a4cb31ac4755": {
+"d": "2026-06-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2884,
+"s": "Sofie forteller da hun og Daniel krasja med leiebil, Markus har stand-up om en hare og Anna er lei seg over kaffekø!",
+"t": "Daniel kasta Sofie under leiebilen!",
+"u": "https://podkast.nrk.no/fil/siesta/2f7d47a4-cb31-4c47-bd47-a4cb31ac4755_1_ID192MP3.mp3"
+},
+"l_2fda67af-f412-4329-9a67-aff412c32960": {
+"d": "2025-09-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2021,
+"s": "Markus får latterkrampe av Daniels tekniske feil, og Anna har sovet 4 timer og er utilregnelig.",
+"t": "Daniel er teknisk inkompetent",
+"u": "https://podkast.nrk.no/fil/siesta/2fda67af-f412-4329-9a67-aff412c32960_ID192MP3.mp3"
+},
+"l_3038c531-c131-42c8-b8c5-31c131a2c8b4": {
+"d": "2026-09-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3082,
+"s": "Vi hilser på ny pub i jakten etter Norges beste, Anna intervjuer Sigurd Sollien om topp 3 på Kjelsås og Quizvang ruller av gårde.",
+"t": "Sigurd Sollien om Forræder",
+"u": "https://podkast.nrk.no/fil/siesta/3038c531-c131-42c8-b8c5-31c131a2c8b4_1_ID192MP3.mp3"
+},
+"l_311d0621-3be1-42cf-9d06-213be1b2cf00": {
+"d": "2026-08-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2475,
+"s": "Det blir ekte ubehagelig når Daniel har funnet gamle sendinger fra Markus, vi får Chavad El Bacardi på besøk og ukas dumfette kåres.",
+"t": "Stormer ut av studio",
+"u": "https://podkast.nrk.no/fil/siesta/311d0621-3be1-42cf-9d06-213be1b2cf00_1_ID192MP3.mp3"
+},
+"l_31f7d5bb-53e5-4fa9-b7d5-bb53e55fa9bd": {
+"d": "2025-08-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1958,
+"s": "Det blir Paradise hotel-spesial i papegøye, Finn Glede vil ha singelfestival og Markus besvimte før sending. God lytt<3",
+"t": "Markus besvimte naken på SATS",
+"u": "https://podkast.nrk.no/fil/siesta/31f7d5bb-53e5-4fa9-b7d5-bb53e55fa9bd_ID192MP3.mp3"
+},
+"l_326d0a4e-16b3-4690-ad0a-4e16b3d69079": {
+"d": "2025-10-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1500,
+"s": "Hvem egner seg minst som julenisse, Anna er mørkeredd og det blir en spinnvill utgave av Quizvang!",
+"t": "En ellevill Quizvang",
+"u": "https://podkast.nrk.no/fil/siesta/326d0a4e-16b3-4690-ad0a-4e16b3d69079_ID192MP3.mp3"
+},
+"l_3354b516-6ab5-43c0-94b5-166ab5b3c039": {
+"d": "2025-05-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2094,
+"s": "Vikar Pette Arty stepper inn når Markus må drite, vi finner det motsatte av en tampong og Anna lurer på når hun ble laget.",
+"t": "Eg følg med, not in a good way",
+"u": "https://podkast.nrk.no/fil/siesta/6bce94cf-b391-4f6f-8123-f28720dbfe57_0_ID192MP3.mp3"
+},
+"l_3366af42-cb75-41fa-a6af-42cb7591fa03": {
+"d": "2025-11-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1991,
+"s": "Vi blir andpusten i Quizvang, ukas dumfette er klar og ENDELIG skal det avgjøres hvem som vinner Norges beste jobb-dass 2025!",
+"t": "Vinneren av Norges beste jobb-dass!",
+"u": "https://podkast.nrk.no/fil/siesta/3366af42-cb75-41fa-a6af-42cb7591fa03_ID192MP3.mp3"
+},
+"l_33ee1119-531d-424a-ae11-19531d324abd": {
+"d": "2025-12-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2201,
+"s": "Daniel trodde alle var forelska i han, Markus har med lek i spalte-spalten og vi åpner første luke i julekalenderen (litt sent).",
+"t": "Er vi gode på å se forelskelse?",
+"u": "https://podkast.nrk.no/fil/siesta/33ee1119-531d-424a-ae11-19531d324abd_ID192MP3.mp3"
+},
+"l_35867c3b-ff39-497f-867c-3bff39a97f83": {
+"d": "2025-05-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2006,
+"s": "Anna er tilbake fra sykdom, Markus har fått rart kompliment og Daniel fortsetter dokumentaren om jakten på den spydde lefsa.",
+"t": "Daniel intervjuer Sophie Elise",
+"u": "https://podkast.nrk.no/fil/siesta/aa11af13-4b0c-4a85-98d2-2d795de1b1a2_0_ID192MP3.mp3"
+},
+"l_371a1038-8d0f-4b8b-9a10-388d0f7b8ba7": {
+"d": "2026-02-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2725,
+"s": "Anna er kokforbanna på folk som ber henne holde av plass, vi oversetter Poker face og det blir het diskusjon i smæsj eller bæsj.",
+"t": "Ost og kjeks er faen ikke mat",
+"u": "https://podkast.nrk.no/fil/siesta/371a1038-8d0f-4b8b-9a10-388d0f7b8ba7_ID192MP3.mp3"
+},
+"l_3847d23f-2658-4e0c-87d2-3f2658fe0c13": {
+"d": "2025-11-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1752,
+"s": "Vi ripper opp i gamle minner, Daniel hadde en svett start på dagen og Markus feis på en dame. God helg!",
+"t": "Markus fikk Anna til å gråte",
+"u": "https://podkast.nrk.no/fil/siesta/3847d23f-2658-4e0c-87d2-3f2658fe0c13_ID192MP3.mp3"
+},
+"l_38eb2844-a7f6-4730-ab28-44a7f64730c4": {
+"d": "2026-08-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2793,
+"s": "Anna brekker seg i ubehag, vi avliver myte om grevlinger og Daniel lærer oss for mye om Henry Rinnan.",
+"t": "Kabaret med jordbærgelé",
+"u": "https://podkast.nrk.no/fil/siesta/38eb2844-a7f6-4730-ab28-44a7f64730c4_1_ID192MP3.mp3"
+},
+"l_39a6dcee-6658-4b24-a6dc-ee66587b2469": {
+"d": "2026-05-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3036,
+"s": "Det blir dårlig stemning i ukas dumfette, bunadspolitiet er kjerringer og Markus rapper Eminems «Rap god» i ubehag.",
+"t": "Klikker på bunadspolitiet",
+"u": "https://podkast.nrk.no/fil/siesta/39a6dcee-6658-4b24-a6dc-ee66587b2469_1_ID192MP3.mp3"
+},
+"l_3a0d1a05-ccef-40a1-8d1a-05ccef40a1bd": {
+"d": "2025-11-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1873,
+"s": "Markus og Anna er i morgentåka, Finn Glede ringer inn og det blir katt og hund i papegøye.",
+"t": "Det lukter rumpe i hele Oslo",
+"u": "https://podkast.nrk.no/fil/siesta/3a0d1a05-ccef-40a1-8d1a-05ccef40a1bd_ID192MP3.mp3"
+},
+"l_3b50a24d-aa83-416b-90a2-4daa83f16b82": {
+"d": "2026-06-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2478,
+"s": "Maria har sin siste dag som vikar, og har laga VM-konkurranse til  oss! Det blir også minions i papegøye og smalltalk av «Norseman».",
+"t": "Skal gjennomføre «Norseman»",
+"u": "https://podkast.nrk.no/fil/siesta/3b50a24d-aa83-416b-90a2-4daa83f16b82_1_ID192MP3.mp3"
+},
+"l_3bd849b2-a62b-4a75-9849-b2a62b2a75af": {
+"d": "2025-06-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1759,
+"s": "Markus har fått bikkje, det motsatte av fuktighetskrem er Annas humor og Daniel får kjeft av Kjartan Skjelde.",
+"t": "Får kjeft av kjendis-kokk",
+"u": "https://podkast.nrk.no/fil/siesta/f7bbc027-e684-4f53-9675-32bfeb7c55ea_0_ID192MP3.mp3"
+},
+"l_3c65031e-5973-4c76-a503-1e5973cc76fd": {
+"d": "2026-03-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2704,
+"s": "Humoren til Siesta er farlig utenfor studio, Markus har stand up for oss og det skjer generelt lite i Norge.",
+"t": "Daniel ble fatshama (av Anna)",
+"u": "https://podkast.nrk.no/fil/siesta/3c65031e-5973-4c76-a503-1e5973cc76fd_1_ID192MP3.mp3"
+},
+"l_3c9242bd-04a2-4ca7-9242-bd04a23ca7b3": {
+"d": "2026-03-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2880,
+"s": "Anna blir fette kokforbanna på MYE, Daniel fortsetter sitt duemann-kjør og hvem oversetter «somebody to love» best?",
+"t": "Anna hudfletter oss",
+"u": "https://podkast.nrk.no/fil/siesta/3c9242bd-04a2-4ca7-9242-bd04a23ca7b3_1_ID192MP3.mp3"
+},
+"l_3d25e3aa-cf84-4c0b-a5e3-aacf84fc0b7e": {
+"d": "2026-08-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2703,
+"s": "Rafael Eriksen skal lage musikkprogram,  hva lukter Daniels finger og vi prøver å skjønner hvordan man blander gløgg.",
+"t": "Fra sump til Skåber",
+"u": "https://podkast.nrk.no/fil/siesta/3d25e3aa-cf84-4c0b-a5e3-aacf84fc0b7e_1_ID192MP3.mp3"
+},
+"l_3d742924-c789-446b-b429-24c789d46b2d": {
+"d": "2026-09-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2649,
+"s": "Markus forteller groviser, Daniel ble overfalt på gata og Anna kjører en Donald Trump-parodi.",
+"t": "Groviser i landesorg",
+"u": "https://podkast.nrk.no/fil/siesta/3d742924-c789-446b-b429-24c789d46b2d_1_ID192MP3.mp3"
+},
+"l_3e12a389-4c06-4239-92a3-894c064239da": {
+"d": "2026-02-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2677,
+"s": "Det blir ubehagelig når Anna skal bekjempe sin bakterie-fobi ved hjelp av Markus og Daniel skal kåre ukas dumfette.",
+"t": "Anna vasker henda i dass",
+"u": "https://podkast.nrk.no/fil/siesta/3e12a389-4c06-4239-92a3-894c064239da_ID192MP3.mp3"
+},
+"l_3f3086ad-ac1d-4d87-b086-adac1d1d8701": {
+"d": "2025-05-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2113,
+"s": "Anna har ikke smak, Markus viser hvor mye majones han vil spise og Daniel har solgt morens kystdrakt til en oberst.",
+"t": "Solgte kystdrakta til en oberst",
+"u": "https://podkast.nrk.no/fil/siesta/e1b016dd-be1d-42e0-bab8-b1b017efd657_0_ID192MP3.mp3"
+},
+"l_3f548268-74fd-4399-9482-6874fd439920": {
+"d": "2026-03-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2966,
+"s": "Anna er fette kokforbanna på Daniel, er svensk smörgåstårta smæsj eller bæsj og har bare Daniel laget Norge rundt-reportasje?",
+"t": "Anna skjeller ut Daniel",
+"u": "https://podkast.nrk.no/fil/siesta/3f548268-74fd-4399-9482-6874fd439920_ID192MP3.mp3"
+},
+"l_40205338-1101-45a2-a053-38110185a241": {
+"d": "2025-08-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1669,
+"s": "Vi smalltalker flexing på treningssenter, det blir star wars-spesial i papegøye og \"fetteren\" til Gyda Oddekalv avbryter Siesta.",
+"t": "DET ER DIREKTE LØGN!!!",
+"u": "https://podkast.nrk.no/fil/siesta/5a136035-2330-42f2-82f9-0fcb38de5e75_0_ID192MP3.mp3"
+},
+"l_40b870de-52a8-4977-b870-de52a83977f7": {
+"d": "2026-07-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1532,
+"s": "Knekken har tatt én i studio, Anna har med en noget spesiell smurfehit og kan ankelsokker gjøre comeback?",
+"t": "Time 20: Danseband fra helvete",
+"u": "https://podkast.nrk.no/fil/siesta/40b870de-52a8-4977-b870-de52a83977f7_1_ID192MP3.mp3"
+},
+"l_413f568c-6ac7-4b87-bf56-8c6ac79b876c": {
+"d": "2025-09-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1971,
+"s": "Norges beste jobb-dass ruller videre, Markus har driti ut sterk kylling og Daniel kårer siestas dummeste.",
+"t": "Sterk mat har sin pris",
+"u": "https://podkast.nrk.no/fil/siesta/413f568c-6ac7-4b87-bf56-8c6ac79b876c_ID192MP3.mp3"
+},
+"l_41a53773-4c9a-495d-a537-734c9a595dfd": {
+"d": "2026-07-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2199,
+"s": "Vi har besøk av komiker og Mental helse-arbeider Hannah! Dette er også episoden der Daniel mister det fullstending, så heng på<3",
+"t": "Time 19: Hannah Lerfaldet er gjest!",
+"u": "https://podkast.nrk.no/fil/siesta/41a53773-4c9a-495d-a537-734c9a595dfd_1_ID192MP3.mp3"
+},
+"l_41ed60cf-cc4a-457b-ad60-cfcc4a157bfb": {
+"d": "2026-04-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2906,
+"s": "Markus jakter på Hitler, kan man smalltalke kjøttboller og hvem av Markus og Anna er best gårdsdyr?",
+"t": "Daniel angriper oss alle",
+"u": "https://podkast.nrk.no/fil/siesta/41ed60cf-cc4a-457b-ad60-cfcc4a157bfb_1_ID192MP3.mp3"
+},
+"l_426a0cce-080c-4190-aa0c-ce080c8190c3": {
+"d": "2025-04-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1827,
+"s": "Markus fikk avist kortet sitt, Daniel får motstand i dumfette og sammen erklærer vi om det er egg eller høne hælj!",
+"t": "Erre en egg eller høne hælj?",
+"u": "https://podkast.nrk.no/fil/siesta/d8986a90-4b44-4e1c-9ccb-292361d29ab8_0_ID192MP3.mp3"
+},
+"l_4302fda5-6f88-4f4c-82fd-a56f885f4c98": {
+"d": "2026-04-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2832,
+"s": "Daniel ble shama av google, det blir Mario og Luuigi i papegøye og samme dag som Karpe gir seg har Finn Glede en trist nyhet.",
+"t": "Finn Glede legger opp",
+"u": "https://podkast.nrk.no/fil/siesta/4302fda5-6f88-4f4c-82fd-a56f885f4c98_1_ID192MP3.mp3"
+},
+"l_4458bf93-84a4-4fbc-98bf-9384a48fbc56": {
+"d": "2025-03-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1778,
+"s": "Anna har funnet søstera til Daniel, Markus ripper opp i gammelt traume og hva er det motsatte av ugress?",
+"t": "Markus gjenskaper barndomstraume",
+"u": "https://podkast.nrk.no/fil/siesta/ff535c6a-7efa-4c27-bedf-4714553cb63f_0_ID192MP3.mp3"
+},
+"l_44d89033-adc3-4659-9890-33adc366591a": {
+"d": "2025-10-29T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1750,
+"s": "Anna skuffa Markus med havregrøt, Daniel har sett reklame fra Færøyene og det blir Fleksnes-spesial i papegøye!",
+"t": "Anna har blitt en liten nisse",
+"u": "https://podkast.nrk.no/fil/siesta/44d89033-adc3-4659-9890-33adc366591a_ID192MP3.mp3"
+},
+"l_45c9ec84-1548-493c-89ec-841548d93c12": {
+"d": "2025-05-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1772,
+"s": "Daniel søler kaffe, Markus leder Quizvang og Anna blir lei av evnukk-vitser.",
+"t": "Er det en evnukk i salen?",
+"u": "https://podkast.nrk.no/fil/siesta/7f1215fa-ba34-46ba-9308-2b91bd1ff46e_0_ID192MP3.mp3"
+},
+"l_4927c55d-24ab-4e00-a7c5-5d24abbe00f3": {
+"d": "2026-05-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2962,
+"s": "Vi øver oss til 17. mai, Markus har med spesiell fredagshilsen og du får møte de to siste kandidatene i «Norges dummeste tatovering»<3",
+"t": "17. mai-talene fra helvete",
+"u": "https://podkast.nrk.no/fil/siesta/4927c55d-24ab-4e00-a7c5-5d24abbe00f3_1_ID192MP3.mp3"
+},
+"l_49517460-5bba-4f89-9174-605bba5f8968": {
+"d": "2025-05-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1886,
+"s": "Daniel får motstand i dumfette og Markus frykter Annas vrede når kaffekanna knuses! Lukter fredag av denna!",
+"t": "Har du knust kanna!?",
+"u": "https://podkast.nrk.no/fil/siesta/9c98bf8b-3572-44fd-b92b-0cf865582f1d_0_ID192MP3.mp3"
+},
+"l_49ea7546-cc88-4576-aa75-46cc88457623": {
+"d": "2026-03-20T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2808,
+"s": "Quizvang ruller og går, er berlinerboller tørre og hvorfor leker Daniel robot og gjør Anna flau?",
+"t": "Voksen mann leker flau robot",
+"u": "https://podkast.nrk.no/fil/siesta/49ea7546-cc88-4576-aa75-46cc88457623_1_ID192MP3.mp3"
+},
+"l_4b88d9e5-7985-4ffe-88d9-e57985effe52": {
+"d": "2026-01-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2129,
+"s": "Anna leder Per Sandberg-spesial i papegøye, Daniel blir oppringt av tante Rita og sammen smaltalker vi tånegler. Blir Siesta av sånt.",
+"t": "Ta med tåneglene fra møterommet",
+"u": "https://podkast.nrk.no/fil/siesta/4b88d9e5-7985-4ffe-88d9-e57985effe52_ID192MP3.mp3"
+},
+"l_4b8f291b-2f95-4224-8f29-1b2f951224c0": {
+"d": "2026-01-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2087,
+"s": "Vi diskuterer en rottelampe i gull, Daniel smurfifiserer Queen og Anna har med en sjekk utkledd som et bankkort, forstå det den som kan.",
+"t": "Anna kaller Daniel for pappa",
+"u": "https://podkast.nrk.no/fil/siesta/4b8f291b-2f95-4224-8f29-1b2f951224c0_ID192MP3.mp3"
+},
+"l_4d6ce7ea-1752-4528-ace7-ea1752d52810": {
+"d": "2025-09-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1919,
+"s": "Markus har laga muntlig tinder-bio til Daniel og Anna, samtlige har lav livsgnist og funker egentlig tånegl som tannpirker?",
+"t": "Funker tånegl som tannpirker?",
+"u": "https://podkast.nrk.no/fil/siesta/4d6ce7ea-1752-4528-ace7-ea1752d52810_ID192MP3.mp3"
+},
+"l_4da1e154-836f-4bbf-a1e1-54836fabbf08": {
+"d": "2025-12-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1661,
+"s": "Dagen er omsider her! Markus prøver å tisse, Anna leder en papegøye med folk vi kjenner, og vi overrekker dasstrofeet til Valdres!",
+"t": "Vi sender fra Norges beste jobbdass!",
+"u": "https://podkast.nrk.no/fil/siesta/4da1e154-836f-4bbf-a1e1-54836fabbf08_ID192MP3.mp3"
+},
+"l_4de75733-fb8e-4e28-a757-33fb8e9e2827": {
+"d": "2026-05-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2914,
+"s": "Anna kommer med brannfakkel om bacon, Daniel leder Korea-spesial i papegøye og Markus sliter med å finne Hitler.",
+"t": "Bacon er ikke overvurdert!",
+"u": "https://podkast.nrk.no/fil/siesta/4de75733-fb8e-4e28-a757-33fb8e9e2827_1_ID192MP3.mp3"
+},
+"l_50140c8a-357a-4967-940c-8a357a1967cf": {
+"d": "2025-08-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1952,
+"s": "Denne høsten kan du melde på DIN jobbdass i konkurransen \"Norges beste jobbdass\". Nominer din kandidat her i appen<3",
+"t": "Hva er Norges beste jobbdass?",
+"u": "https://podkast.nrk.no/fil/siesta/1bc57a33-7c8a-4f5e-a9e6-22f37210e687_0_ID192MP3.mp3"
+},
+"l_50620637-ebcf-44a3-a206-37ebcf74a3d3": {
+"d": "2025-11-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2043,
+"s": "Anna har funnet en som spiller på hageslange, Markus skal til Bergen i smurfehits og en lytter har brukt 5000 på lasersverd.",
+"t": "Markus ble brannskada",
+"u": "https://podkast.nrk.no/fil/siesta/50620637-ebcf-44a3-a206-37ebcf74a3d3_ID192MP3.mp3"
+},
+"l_5140343e-8ca6-49e9-8034-3e8ca699e9c3": {
+"d": "2026-05-22T14:10:00+02:00",
+"i": "https://gfx.nrk.no/CofE7M23RcW_TyVsFZjFpA7oRI8zNIumutpoJEMI2pIA",
+"n": 120,
+"s": "På bilde ser du hvilken det står i mellom. Vil du ha skibbidy diddy eller bjørnen med fisk i rumpa? Valget er ditt!",
+"t": "HER STEMMER DU PÅ TATTIS!",
+"u": "https://podkast.nrk.no/fil/siesta/5140343e-8ca6-49e9-8034-3e8ca699e9c3_1_ID192MP3.mp3"
+},
+"l_521ccdac-3d5f-473e-9ccd-ac3d5fb73e92": {
+"d": "2026-06-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2690,
+"s": "Måkene tar over Norge, vi oppdager en ny drink i ubehag og det blir dårlig stemning når ukas dumfette kåres.",
+"t": "Måkereir på biltak",
+"u": "https://podkast.nrk.no/fil/siesta/521ccdac-3d5f-473e-9ccd-ac3d5fb73e92_1_ID192MP3.mp3"
+},
+"l_52879cff-6cec-4996-879c-ff6cec399671": {
+"d": "2026-01-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2111,
+"s": "Rafael Eriksen kommer innom og lærer bort triks, hva er det motsatte av kapteinens fylte, og Anna tvinger Markus til å snøbade.",
+"t": "Anna får ildrød rumpe",
+"u": "https://podkast.nrk.no/fil/siesta/52879cff-6cec-4996-879c-ff6cec399671_ID192MP3.mp3"
+},
+"l_52c7162d-5b78-49a8-8716-2d5b7849a8b8": {
+"d": "2026-03-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2807,
+"s": "Kan man gå med hawaiiskjorte på jobb, hvorfor har Daniel med seg en skitten sokk og måtte Markus låne doen til Anna?",
+"t": "Markus dreit nesten på seg",
+"u": "https://podkast.nrk.no/fil/siesta/52c7162d-5b78-49a8-8716-2d5b7849a8b8_ID192MP3.mp3"
+},
+"l_53c443c1-8869-428e-8443-c18869728e6a": {
+"d": "2025-11-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1962,
+"s": "Anna sjekkes for brystkreft i ubehag, tante Rita ringer Daniel og Markus vant forræder.",
+"t": "Vi tar på puppene til Anna",
+"u": "https://podkast.nrk.no/fil/siesta/53c443c1-8869-428e-8443-c18869728e6a_ID192MP3.mp3"
+},
+"l_55452deb-7fca-4c21-852d-eb7fcaac217d": {
+"d": "2025-09-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2034,
+"s": "Daniel smurfifiserer Marcus og Martinus, Anna er hjemme fra kontinentet og Markus har overhørt Daniel på dassorama!",
+"t": "Markus hørte Daniel tisse",
+"u": "https://podkast.nrk.no/fil/siesta/55452deb-7fca-4c21-852d-eb7fcaac217d_ID192MP3.mp3"
+},
+"l_5674569a-cf4d-43c1-b456-9acf4df3c1c4": {
+"d": "2026-08-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2870,
+"s": "Anna er forbanna på mat-influensere på TikTok, Daniel nevner voksenbleier og vi får besøk av Chavad El Bacardi.",
+"t": "Forbanna på influensere",
+"u": "https://podkast.nrk.no/fil/siesta/5674569a-cf4d-43c1-b456-9acf4df3c1c4_1_ID192MP3.mp3"
+},
+"l_57448d96-dd08-4917-848d-96dd084917e6": {
+"d": "2025-03-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1698,
+"s": "Daniel har laga reportasje om en kvinne med et sjeldent syndrom, Anna så hamstere parre seg og Markus har blitt svindla.",
+"t": "Frivillig svindla",
+"u": "https://podkast.nrk.no/fil/siesta/f473651d-dff8-4595-bee1-149c1acd2ac7_0_ID192MP3.mp3"
+},
+"l_57c790b5-cecd-4f53-8790-b5cecd6f5348": {
+"d": "2026-04-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2857,
+"s": "Det blir temperatur i «Anna er fette kokforbanna», hvem er best til å oversette Shakira og er pølse uten ketchup smæsj eller bæsj?",
+"t": "Daniel og Anna krangler",
+"u": "https://podkast.nrk.no/fil/siesta/57c790b5-cecd-4f53-8790-b5cecd6f5348_1_ID192MP3.mp3"
+},
+"l_598221b5-0c93-4eb3-8221-b50c931eb31f": {
+"d": "2025-11-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2117,
+"s": "Er det innafor å spise grandis på julaften, hvor viktig er godt dopapir og hvem stikker av med seieren i Quizvang?",
+"t": "Daniel er gjerrig på dasspapir",
+"u": "https://podkast.nrk.no/fil/siesta/598221b5-0c93-4eb3-8221-b50c931eb31f_ID192MP3.mp3"
+},
+"l_5ba02b35-d7dd-4b5a-a02b-35d7dd7b5a29": {
+"d": "2026-05-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3187,
+"s": "Finntopioa har nasjonaldag, vi minnes en stor artist i spalte-spalten og hva liker vi best lapskaus og suppe?",
+"t": "Er Anna født bak en låvedør?",
+"u": "https://podkast.nrk.no/fil/siesta/5ba02b35-d7dd-4b5a-a02b-35d7dd7b5a29_1_ID192MP3.mp3"
+},
+"l_5c0f8ad0-abb0-4547-8f8a-d0abb0f54785": {
+"d": "2026-06-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2539,
+"s": "Anna har en back-up idé i spalte-spalten, Finn Glede beærer oss med sitt nærvær og Daniel blir avbrutt én gang for mye.",
+"t": "Daniel klikker på oss",
+"u": "https://podkast.nrk.no/fil/siesta/5c0f8ad0-abb0-4547-8f8a-d0abb0f54785_1_ID192MP3.mp3"
+},
+"l_5c39c248-7b4d-4b15-b9c2-487b4d3b15d7": {
+"d": "2026-01-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1926,
+"s": "Markus spiste fra søpla, dumfette skal kåres og hva søker vi på i hemmelighet?",
+"t": "Hvem har verst søkerlogg?",
+"u": "https://podkast.nrk.no/fil/siesta/5c39c248-7b4d-4b15-b9c2-487b4d3b15d7_ID192MP3.mp3"
+},
+"l_5eb273e7-a1d0-48f1-b273-e7a1d028f107": {
+"d": "2025-06-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1777,
+"s": "Anna møtte statsministeren, Daniel vil ligge med Solveig Kloppen og Markus gikk inn i feil garderobe.",
+"t": "Markus spydde i damegarderoben",
+"u": "https://podkast.nrk.no/fil/siesta/0bb9efab-fc5a-488b-b306-b1761f6f35ba_0_ID192MP3.mp3"
+},
+"l_606ce293-6891-4db7-ace2-9368916db70e": {
+"d": "2026-08-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2939,
+"s": "Markus gikk tom for papir på jobbdassen, vi forklarer ordet blask og Anna skal intervjue en rikskjendis uten å vite hvem.",
+"t": "Anna intervjuer A-kjendis",
+"u": "https://podkast.nrk.no/fil/siesta/606ce293-6891-4db7-ace2-9368916db70e_1_ID192MP3.mp3"
+},
+"l_60e8669c-f41f-4a10-a866-9cf41f2a100b": {
+"d": "2025-05-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1978,
+"s": "Anna har tryna i hjemmet, Markus lager en ny variant av debatten og Daniel stiller de STORE spørsmålene.",
+"t": "Hva er dine verdier?",
+"u": "https://podkast.nrk.no/fil/siesta/7ad89957-10e5-47d2-86d4-f4d1ca5cfd9e_0_ID192MP3.mp3"
+},
+"l_6131889e-f8af-4e54-b188-9ef8af7e5443": {
+"d": "2026-08-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2982,
+"s": "Sommeren er over, Siesta er i gang! Vi får besøk av Chavad El Bacardi fra Gjøvik og Anna skal på sinnemestring med psykolog.",
+"t": "Vi er tilbake!",
+"u": "https://podkast.nrk.no/fil/siesta/6131889e-f8af-4e54-b188-9ef8af7e5443_1_ID192MP3.mp3"
+},
+"l_618bf3e4-c427-4fcd-8bf3-e4c4276fcd86": {
+"d": "2026-01-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2088,
+"s": "Markus og Anna fikk voksenkjeft, det er vine-spesial i papegøye og vi smalltalker wiener for en tier.",
+"t": "Skal Daniel ha piratbryllup?",
+"u": "https://podkast.nrk.no/fil/siesta/618bf3e4-c427-4fcd-8bf3-e4c4276fcd86_ID192MP3.mp3"
+},
+"l_62d291e9-09ac-4390-9291-e909ace390a1": {
+"d": "2025-04-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1911,
+"s": "Vi drøfter hva som er det motsatte av sukkerspinn, du får høre piloter som aldri ble noe av og Markus skal konfronteres.",
+"t": "Markus sin verste uvane",
+"u": "https://podkast.nrk.no/fil/siesta/1087e458-0b78-47c7-92c2-7c4d12ad3ff7_0_ID192MP3.mp3"
+},
+"l_635242c9-4b58-4e0a-9242-c94b580e0ae0": {
+"d": "2026-03-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2932,
+"s": "Anna tok taxi til jobb, Markus glemte seg av (som vanlig) og hva betyr egentlig snekje?",
+"t": "Hva betyr pussegummi?",
+"u": "https://podkast.nrk.no/fil/siesta/635242c9-4b58-4e0a-9242-c94b580e0ae0_ID192MP3.mp3"
+},
+"l_64bc834f-b78d-4bfa-bc83-4fb78ddbfa5d": {
+"d": "2026-04-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2508,
+"s": "Det blir sylskarp stand up, er det forksjell på lyden av tennis og hvor desperat kan man bli etter mat?",
+"t": "Vi løp etter en kake",
+"u": "https://podkast.nrk.no/fil/siesta/64bc834f-b78d-4bfa-bc83-4fb78ddbfa5d_1_ID192MP3.mp3"
+},
+"l_6594b214-422c-4a0e-94b2-14422cca0e27": {
+"d": "2026-04-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2749,
+"s": "Markus har med sangkonkurranse, Anna vil bli kjefta på og Daniel blir outa for fettfull toast.",
+"t": "Vi får kjefte på Anna!",
+"u": "https://podkast.nrk.no/fil/siesta/6594b214-422c-4a0e-94b2-14422cca0e27_1_ID192MP3.mp3"
+},
+"l_66c108d2-f1c6-4934-8108-d2f1c6c93432": {
+"d": "2025-08-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1850,
+"s": "Vi elsker taxfree, vi elsker gräddost og vi har premiere på spalten SMURFEHITS!",
+"t": "Smurfene stemmer Frp",
+"u": "https://podkast.nrk.no/fil/siesta/3008b798-de3c-4e5d-a2c6-61f33c812eae_0_ID192MP3.mp3"
+},
+"l_685ba478-0806-4930-9ba4-780806e930c9": {
+"d": "2026-04-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2801,
+"s": "Uforberedte folk på flyplassen suger, Daniel har ny oppdatering om brevduemannen og er det vits å ha elektrisk håndkletørker hjemme?",
+"t": "Hva sender egentlig brevduer?",
+"u": "https://podkast.nrk.no/fil/siesta/685ba478-0806-4930-9ba4-780806e930c9_1_ID192MP3.mp3"
+},
+"l_69725665-9a2c-4e27-b256-659a2c9e277f": {
+"d": "2026-04-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2562,
+"s": "Markus har stand-up om Iran, Daniel er forferdelig til å rime og Anna har med en sak om en finnmarking som ALDRI gir seg.",
+"t": "Skar av seg fire fingre",
+"u": "https://podkast.nrk.no/fil/siesta/69725665-9a2c-4e27-b256-659a2c9e277f_1_ID192MP3.mp3"
+},
+"l_69cad754-ce8f-42a0-8ad7-54ce8fb2a08a": {
+"d": "2025-10-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1805,
+"s": "Vi avslører løgnen til Daniel, Anna parodierer Kaptein Sabeltann og Markus ligner på Pusur.",
+"t": "Daniel blir tatt i løgn",
+"u": "https://podkast.nrk.no/fil/siesta/69cad754-ce8f-42a0-8ad7-54ce8fb2a08a_ID192MP3.mp3"
+},
+"l_6a720e9f-333c-4cd6-b20e-9f333c0cd616": {
+"d": "2026-03-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2548,
+"s": "Gjengen har litt laber livsgnist, Anna briljerer i veien til Hitler og Markus har Morten Ramm-spesial i papegøye.",
+"t": "Gamle Morten Ramm referanser",
+"u": "https://podkast.nrk.no/fil/siesta/6a720e9f-333c-4cd6-b20e-9f333c0cd616_1_ID192MP3.mp3"
+},
+"l_6abc00e3-0d2e-4ae5-bc00-e30d2ecae52f": {
+"d": "2025-05-09T13:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1821,
+"s": "Anna har kjedet seg på teater, Daniel kårer siestas dummeste og Markus har hatt latterkrampe.",
+"t": "Der mistet jeg et år av livet",
+"u": "https://podkast.nrk.no/fil/siesta/bc9681cd-1939-438a-8f53-749281686efe_0_ID192MP3.mp3"
+},
+"l_6b0edca8-cc65-4659-8edc-a8cc653659ce": {
+"d": "2026-05-22T14:03:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2892,
+"s": "Hvem har de mest juicy leppene, hva betyr Vebbju og hvilke tattiser går videre til finalen? Alle svarene får du i dagens episode!",
+"t": "Hvem har mest juicy lepper?",
+"u": "https://podkast.nrk.no/fil/siesta/6b0edca8-cc65-4659-8edc-a8cc653659ce_1_ID192MP3.mp3"
+},
+"l_6bdcb036-f00b-498f-9cb0-36f00b298fcc": {
+"d": "2025-09-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1871,
+"s": "Markus har blitt nektet kjøtt på pizza, Anna har funnet en skummel mann og vi diskuterer det motsatte av en kalkulator.",
+"t": "Markus ble nektet kjøtt av sjefen",
+"u": "https://podkast.nrk.no/fil/siesta/6bdcb036-f00b-498f-9cb0-36f00b298fcc_ID192MP3.mp3"
+},
+"l_6c8139d3-829a-423c-8139-d3829ae23c2e": {
+"d": "2025-08-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1779,
+"s": "Det blir politiker-spesial i papegøye, vi smalltalker piercing i nippelen og Markus lanserer ny teori.",
+"t": "Spinning-Bente blir født",
+"u": "https://podkast.nrk.no/fil/siesta/6c8139d3-829a-423c-8139-d3829ae23c2e_ID192MP3.mp3"
+},
+"l_6cbd41c4-246c-44cf-bd41-c4246cc4cfb0": {
+"d": "2026-05-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3055,
+"s": "Anna er kokforbanna over hvor dyrt kofferter er, Daniel blir konfrontert av en «TV2-journalist» og Markus tok med kjøttdeig på fest.",
+"t": "Tok med stekt kjøttdeig på fest",
+"u": "https://podkast.nrk.no/fil/siesta/6cbd41c4-246c-44cf-bd41-c4246cc4cfb0_1_ID192MP3.mp3"
+},
+"l_6cedd912-379e-4f12-add9-12379ebf12e3": {
+"d": "2026-06-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3187,
+"s": "Vi har en heftig diskusjon om hva som kommer lengst av baguette eller nan, Sofie leder spalte-spalten og det blir stand up fra Markus.",
+"t": "Baguette vs. nan",
+"u": "https://podkast.nrk.no/fil/siesta/6cedd912-379e-4f12-add9-12379ebf12e3_1_ID192MP3.mp3"
+},
+"l_6ed2688f-ea01-4d5b-9268-8fea01bd5bb7": {
+"d": "2026-04-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2519,
+"s": "Anna har fått hat, Daniel blir avhørt av \"Harry Høle\" fra Hurrahølet og Markus lanserer konspirasjonsteori om Lars Monsen.",
+"t": "Farger Lars Monsen håret?",
+"u": "https://podkast.nrk.no/fil/siesta/6ed2688f-ea01-4d5b-9268-8fea01bd5bb7_1_ID192MP3.mp3"
+},
+"l_6f0d6514-5bad-40b2-8d65-145badc0b292": {
+"d": "2026-01-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1995,
+"s": "Markus har fått briller, Anna har det jævlig og Daniel hadde lei hendelse i syden. En god start på 2026<3",
+"t": "Daniel knakk solsenga",
+"u": "https://podkast.nrk.no/fil/siesta/6f0d6514-5bad-40b2-8d65-145badc0b292_ID192MP3.mp3"
+},
+"l_6f7c2798-d9cd-480e-bc27-98d9cd180e5c": {
+"d": "2025-03-20T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2030,
+"s": "Daniel har vært rasist, det blir på grensa til dårlig stemning og trollet er skamfull etter å ha stjålet mat fra barn.",
+"t": "Markus og Annas første krangel",
+"u": "https://podkast.nrk.no/fil/siesta/14c65512-d732-4135-9a37-caf16425be3d_0_ID192MP3.mp3"
+},
+"l_70474eef-30f4-4676-874e-ef30f43676f3": {
+"d": "2026-07-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1724,
+"s": "Vi får besøk av legende Thomas Numme. Han intervjuer Finn Glede, han smalltalker og er med på en gammel spaltespalte!",
+"t": "Time 4: Thomas Numme er nummen?",
+"u": "https://podkast.nrk.no/fil/siesta/70474eef-30f4-4676-874e-ef30f43676f3_2_ID192MP3.mp3"
+},
+"l_7055f989-7cfd-4c90-95f9-897cfd6c901f": {
+"d": "2026-08-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2486,
+"s": "Det blir imitasjon av Elvis i spalte-spalten, Ørjan Elisæther ringer inn og er forbanna og Daniel har bikka.",
+"t": "Daniel er blitt dement",
+"u": "https://podkast.nrk.no/fil/siesta/7055f989-7cfd-4c90-95f9-897cfd6c901f_1_ID192MP3.mp3"
+},
+"l_71151591-7da6-46b3-9515-917da686b390": {
+"d": "2026-08-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3059,
+"s": "Første kandidat i «Norges beste pub» avsløres, vi diskuterer hva sålj betyr og Daniel intervjuer den nye Debatten-programlederen.",
+"t": "Daniel intervjuer Steinar Suvatne",
+"u": "https://podkast.nrk.no/fil/siesta/71151591-7da6-46b3-9515-917da686b390_1_ID192MP3.mp3"
+},
+"l_711fbf4a-67bb-4885-9fbf-4a67bb7885ea": {
+"d": "2026-05-08T14:17:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2729,
+"s": "Hvem flyter best, hva betyr glunt og hvem i redaksjonen har bursdag? Alle svarene får du i dagens episode.",
+"t": "Hvem av oss flyter best?",
+"u": "https://podkast.nrk.no/fil/siesta/711fbf4a-67bb-4885-9fbf-4a67bb7885ea_1_ID192MP3.mp3"
+},
+"l_722ba49e-fb9d-4d3b-aba4-9efb9d9d3b2c": {
+"d": "2026-03-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2675,
+"s": "Tante Rita ringer inn og forteller om fortida si, hva er det motsatte av et rivjern og Daniel skal legge fingrene i en musefelle.",
+"t": "Daniel går i musefella",
+"u": "https://podkast.nrk.no/fil/siesta/722ba49e-fb9d-4d3b-aba4-9efb9d9d3b2c_ID192MP3.mp3"
+},
+"l_722eb19a-54a9-4fad-aeb1-9a54a9cfadea": {
+"d": "2025-04-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2073,
+"s": "Vi diskuterer det motsatte av en truse, Anna har smugkikket på telefonen til Markus og Daniel konfronterer en mobber.",
+"t": "Du er rasistisk mot meg",
+"u": "https://podkast.nrk.no/fil/siesta/f2b3680c-e1be-45d1-bec1-071caff291ab_0_ID192MP3.mp3"
+},
+"l_73fbd070-a7bd-4633-bbd0-70a7bdd6332d": {
+"d": "2025-10-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1886,
+"s": "Markus knakk nesten hofta til Anna, Daniel kårer ukas dumfette og sammen presenterer vi dassen på stortinget!",
+"t": "Hørte Erna Solberg tisse",
+"u": "https://podkast.nrk.no/fil/siesta/73fbd070-a7bd-4633-bbd0-70a7bdd6332d_ID192MP3.mp3"
+},
+"l_74f44989-dad8-46ae-b449-89dad896aec4": {
+"d": "2025-06-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1807,
+"s": "Markus har farlig energi, det blir karaoke-kamp i spaltespalten og Daniel nærmer seg svaret på lefsespyinga.",
+"t": "Daniel covrer Cezinando",
+"u": "https://podkast.nrk.no/fil/siesta/f4e209c1-6799-4a5e-a603-8ec19f1c971f_0_ID192MP3.mp3"
+},
+"l_75d76f83-3211-48af-976f-83321138af99": {
+"d": "2025-04-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1902,
+"s": "Anna har farga håret sitt, Markus er uproff på flere områder og Daniel kårer ukas dumfette.",
+"t": "Hvem dør først i en skrekkfilm?",
+"u": "https://podkast.nrk.no/fil/siesta/20152873-6cf9-4e44-beca-74af162544d0_0_ID192MP3.mp3"
+},
+"l_77d2ca19-1f14-47c9-92ca-191f1477c945": {
+"d": "2026-01-29T13:43:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2348,
+"s": "Daniel vurderer å stille Markus og Anna for retten, ubehagelige spørsmål stilles og hvilken ketchup er den beste?",
+"t": "Ubehagelige spørsmål",
+"u": "https://podkast.nrk.no/fil/siesta/77d2ca19-1f14-47c9-92ca-191f1477c945_ID192MP3.mp3"
+},
+"l_77d9550f-a31a-4a46-9955-0fa31a8a4620": {
+"d": "2025-09-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1848,
+"s": "Vi får en seig fuck, marry, kill i spørretimen, Daniel lanserer ny dokumentar-serie og Anna leder dialektbytte i spalte-spalten.",
+"t": "Netanyahu, Trump og Putin",
+"u": "https://podkast.nrk.no/fil/siesta/77d9550f-a31a-4a46-9955-0fa31a8a4620_ID192MP3.mp3"
+},
+"l_78201da0-b8d6-4d74-a01d-a0b8d6ed74d1": {
+"d": "2026-05-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3251,
+"s": "Anna er forbanna på tog-snikere, Daniel anmelder VM-låta til «Soppgirobygget» og Markus holdt på å drite på seg før jobb.",
+"t": "Kan man gå med caps i bryllup?",
+"u": "https://podkast.nrk.no/fil/siesta/78201da0-b8d6-4d74-a01d-a0b8d6ed74d1_1_ID192MP3.mp3"
+},
+"l_78c645de-ee36-4080-8645-deee3620809b": {
+"d": "2025-12-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2311,
+"s": "Markus leverer årets siste smurfehit, Anna har med sexy gave og har Daniel egentlig en bestevenn?",
+"t": "Anna prøver å være sexy",
+"u": "https://podkast.nrk.no/fil/siesta/78c645de-ee36-4080-8645-deee3620809b_ID192MP3.mp3"
+},
+"l_78df2979-6c19-4510-9f29-796c193510c0": {
+"d": "2026-06-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2945,
+"s": "Daniel har sendt oppdatering fra USA, Anna er kokforbanna over butikkmedlemskap og vi oversetter Kesha sin kjente låt «Tik Tok» til norsk.",
+"t": "Kalle bestemor for bibbi?!",
+"u": "https://podkast.nrk.no/fil/siesta/78df2979-6c19-4510-9f29-796c193510c0_1_ID192MP3.mp3"
+},
+"l_78eabb8a-a405-4c36-aabb-8aa4056c36ab": {
+"d": "2025-08-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1901,
+"s": "Markus får seig kommentar av samboer, Daniel legger seg flat i ukas dumfette og vi presenterer første deltager i Norges beste jobbdass!",
+"t": "Vipps har japansk spyle-do",
+"u": "https://podkast.nrk.no/fil/siesta/78eabb8a-a405-4c36-aabb-8aa4056c36ab_ID192MP3.mp3"
+},
+"l_7930c92f-dc62-47c7-b0c9-2fdc6237c739": {
+"d": "2026-06-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1694,
+"s": "Anna har fått mensen, Daniel har på fin skjorta og Markus er idiot. Vi diskuterer dagens ord og forventningene til 24 timer med radio.",
+"t": "Time 1: 24 timer med mens?",
+"u": "https://podkast.nrk.no/fil/siesta/7930c92f-dc62-47c7-b0c9-2fdc6237c739_1_ID192MP3.mp3"
+},
+"l_794aa1eb-3630-4abc-8aa1-eb3630babc2c": {
+"d": "2026-03-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2728,
+"s": "Anna leder istid-spesial av papegøye, vi får besøk av Gjær Solo og vi har spist forferdelig middag.",
+"t": "Anna har oppdaget dark web",
+"u": "https://podkast.nrk.no/fil/siesta/794aa1eb-3630-4abc-8aa1-eb3630babc2c_ID192MP3.mp3"
+},
+"l_794e8447-5443-4f00-8e84-4754437f00c0": {
+"d": "2026-09-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/W5qWejIG0k-BNAFkLTFrJwlM3WvKpZdAfnToH0JSk-YA",
+"n": 3077,
+"s": "Daniel intervjuer Gladkokken, Markus leder Quizvang og hva betyr ikåddn?",
+"t": "- Heter du faktisk Gladkokken?",
+"u": "https://podkast.nrk.no/fil/siesta/794e8447-5443-4f00-8e84-4754437f00c0_1_ID192MP3.mp3"
+},
+"l_79b01a58-c898-4c4a-b01a-58c898ac4a44": {
+"d": "2025-06-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1796,
+"s": "Anna har sett «Spermageddon» med nevøen sin, Daniel har papegøye-spesial i papegøye og Markus har prøvd å juridisk bytte navn.",
+"t": "Markus Bananpølse Vangen",
+"u": "https://podkast.nrk.no/fil/siesta/66de20f0-d9f7-4cdb-9df4-f5a8c3581ed8_0_ID192MP3.mp3"
+},
+"l_7b8eabca-c94b-4425-8eab-cac94b7425a0": {
+"d": "2026-09-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2659,
+"s": "Daniel blir kastet ut av studio, Anna er forbanna over julevarer og Markus kjører stand-up om blant annet kongens gravferd.",
+"t": "Fullkornspasta er ikke mat",
+"u": "https://podkast.nrk.no/fil/siesta/7b8eabca-c94b-4425-8eab-cac94b7425a0_1_ID192MP3.mp3"
+},
+"l_7bf97561-b54b-431f-b975-61b54b031fe0": {
+"d": "2025-08-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1818,
+"s": "Markus konfronterer dama til Daniel i ubehag, Anna klarer ikke lese en bok og sammen diskuterer vi det motsatte av lego.",
+"t": "Er Daniel god i senga?",
+"u": "https://podkast.nrk.no/fil/siesta/7bf97561-b54b-431f-b975-61b54b031fe0_ID192MP3.mp3"
+},
+"l_7dc7ebdb-c1f7-4116-87eb-dbc1f7511672": {
+"d": "2026-01-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2029,
+"s": "Daniel mainsplainer en eldgammal sitcom, vi diskuterer vårt forhold til kveldsmat og Anna er imponert av venninne.",
+"t": "Daniel er 150 år gammel gubbe",
+"u": "https://podkast.nrk.no/fil/siesta/7dc7ebdb-c1f7-4116-87eb-dbc1f7511672_ID192MP3.mp3"
+},
+"l_7ee59c69-9fd5-4a43-a59c-699fd54a4307": {
+"d": "2025-12-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2222,
+"s": "Finn Glede har laga julelåt, det blir the julekalender i papegøye og alle er på krigsstien.",
+"t": "O jul med Finn Glede",
+"u": "https://podkast.nrk.no/fil/siesta/7ee59c69-9fd5-4a43-a59c-699fd54a4307_ID192MP3.mp3"
+},
+"l_7f256960-c84a-4984-a569-60c84a99847d": {
+"d": "2025-10-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1614,
+"s": "Anna viser søvnlyder i ubehag, Finn Glede er Russland-vennlig og vi prøver å gi Daniel kokos (men han er skalla så det var vanskelig).",
+"t": "Anna viser frem en ekte fis",
+"u": "https://podkast.nrk.no/fil/siesta/7f256960-c84a-4984-a569-60c84a99847d_ID192MP3.mp3"
+},
+"l_8079f007-cba6-4996-b9f0-07cba6e9964f": {
+"d": "2026-08-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2619,
+"s": "Ludvig fra Flåklypa kommer innom, Daniel skal finne Barack Obama og Anna drømmer om å være cowboy.",
+"t": "Ludvig sitt sommer i P2",
+"u": "https://podkast.nrk.no/fil/siesta/8079f007-cba6-4996-b9f0-07cba6e9964f_1_ID192MP3.mp3"
+},
+"l_80995179-d50d-4be5-9951-79d50debe545": {
+"d": "2026-05-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2585,
+"s": "Hva lukter fingeren til Daniel, hva slags katter hadde vi vært og hvem får kjørt seg i dagsaktuell stand-up? Alle svara får du her!",
+"t": "Vi lukter på stinke-finger",
+"u": "https://podkast.nrk.no/fil/siesta/80995179-d50d-4be5-9951-79d50debe545_1_ID192MP3.mp3"
+},
+"l_80bcbc3c-3465-4444-bcbc-3c3465f444b9": {
+"d": "2025-11-18T14:04:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1917,
+"s": "Markus glemmer seg kraftig av, Anna har med en hyllest til Daniel og Markus og det blir ordspill i festen før fasten.",
+"t": "Havreflarn Marie Berg",
+"u": "https://podkast.nrk.no/fil/siesta/80bcbc3c-3465-4444-bcbc-3c3465f444b9_ID192MP3.mp3"
+},
+"l_80e8c6db-d616-4123-a8c6-dbd616112369": {
+"d": "2025-04-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1712,
+"s": "Anna deler fakta om skilpadder, Markus må være prest i spalte-spalten og Daniel har laget lokalradio reportasje!",
+"t": "Skilpadder har ikke hud!",
+"u": "https://podkast.nrk.no/fil/siesta/1a04ceda-1078-40d0-9093-a16774017df3_0_ID192MP3.mp3"
+},
+"l_81a3e694-ecc9-4318-a3e6-94ecc96318ba": {
+"d": "2026-04-30T13:30:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2585,
+"s": "Vi avslører vår kunnskap om fysikk, en mann kjørte for fort fordi passasjeren hadde diaré og vi gjør et forsøk på å røre Markus.",
+"t": "Hvem får Markus til å gråte?",
+"u": "https://podkast.nrk.no/fil/siesta/81a3e694-ecc9-4318-a3e6-94ecc96318ba_1_ID192MP3.mp3"
+},
+"l_82dcb412-2080-4967-9cb4-122080696726": {
+"d": "2025-10-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1643,
+"s": "Vi diskuterer våre topp fem potetgull, Spinning-Bente motiverer syklistene i Tour de P3 og Anna hadde en forferdelig opplevelse på do.",
+"t": "Det var tomt for dopapir...",
+"u": "https://podkast.nrk.no/fil/siesta/82dcb412-2080-4967-9cb4-122080696726_ID192MP3.mp3"
+},
+"l_830a75b2-aa23-41a4-8a75-b2aa23e1a457": {
+"d": "2026-03-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2864,
+"s": "Markus blir sensurert i stand-up, Anna leder slampoesi-spalte og kan the rock ha eget sjampomerke?",
+"t": "Kan skalla folk bruke sjampo?",
+"u": "https://podkast.nrk.no/fil/siesta/830a75b2-aa23-41a4-8a75-b2aa23e1a457_ID192MP3.mp3"
+},
+"l_849e88bc-3193-4125-9e88-bc31933125be": {
+"d": "2026-03-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2949,
+"s": "Det blir fredagshilsen fra Ida Elise Broch, hva betyr rasjin og vi intervjuer Martin Lepperød om hans tatovering.",
+"t": "Martin Lepperøds tatovering",
+"u": "https://podkast.nrk.no/fil/siesta/849e88bc-3193-4125-9e88-bc31933125be_ID192MP3.mp3"
+},
+"l_84e5360d-5552-4bbb-a536-0d55529bbb00": {
+"d": "2025-04-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1643,
+"s": "Markus har sett en sint, svensk mann, er det mulig å spå været med en kvist og kan vasking av vindu bli gøyere hvis man er sensuell?",
+"t": "Unnskyld, men på svensk",
+"u": "https://podkast.nrk.no/fil/siesta/fa565614-052e-4d70-a3c4-7bc12fdc263b_0_ID192MP3.mp3"
+},
+"l_858cfab8-9938-4bad-8cfa-b899382bad23": {
+"d": "2026-06-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/S2XhJbqIEki0LhilHdCevgcs-Hml6WbUw5ASmJI6bgUQ",
+"n": 3122,
+"s": "Dagens ord, Quizang og Daniel forlovede Janna som vikar. Stinker knallpodkast av sånt.",
+"t": "Daniel har besøk av støttekontakt",
+"u": "https://podkast.nrk.no/fil/siesta/858cfab8-9938-4bad-8cfa-b899382bad23_2_ID192MP3.mp3"
+},
+"l_85cb6c9d-2c5c-444b-8b6c-9d2c5c944b19": {
+"d": "2025-09-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1933,
+"s": "Hvem er ukas dummeste, hvem er best til å voice tegnefilm og hvem er ukas nye kandidat i Norges beste jobbdass?",
+"t": "Rosa dass med tamponger",
+"u": "https://podkast.nrk.no/fil/siesta/85cb6c9d-2c5c-444b-8b6c-9d2c5c944b19_ID192MP3.mp3"
+},
+"l_86ba493c-59c6-4988-ba49-3c59c6f9882b": {
+"d": "2025-06-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1532,
+"s": "Daniel har endelig funnet vitsens opphav, Anna leder spalte-spalten og hvor flaut er det egentlig å prompe høyt?",
+"t": "Flaut å prompe høyt",
+"u": "https://podkast.nrk.no/fil/siesta/496450cb-5e25-40f8-9982-c379521a679a_0_ID192MP3.mp3"
+},
+"l_8755541e-153d-489f-9554-1e153df89ff8": {
+"d": "2026-06-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2487,
+"s": "Anna og Markus hører med deg hva du skal i sommer, vi får fredagshilsen fra Daniel og det blir en siste quizvang før ferien<3",
+"t": "God sommer fra oss<3",
+"u": "https://podkast.nrk.no/fil/siesta/8755541e-153d-489f-9554-1e153df89ff8_1_ID192MP3.mp3"
+},
+"l_880d3cf2-3be7-4846-8d3c-f23be708461c": {
+"d": "2025-11-17T13:47:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2017,
+"s": "Vi smaker på det vi hater mest, Finansavisen hadde en uheldig sammenlikning og kan man lage papir selv?",
+"t": "Ble sammenliknet med en hvalross",
+"u": "https://podkast.nrk.no/fil/siesta/880d3cf2-3be7-4846-8d3c-f23be708461c_ID192MP3.mp3"
+},
+"l_881077f0-3edb-45ea-9077-f03edbe5ea37": {
+"d": "2025-06-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1977,
+"s": "Vi smalltalker fenomenet hamburger, Anna og Daniel konkurrerer i Disney-spesial i papegøye og jakten på den spydde lefsa nærmer seg slutten.",
+"t": "Jeg må ha ketchup på burgern",
+"u": "https://podkast.nrk.no/fil/siesta/7b5a4446-b0cc-4b11-822e-8e629aeeffa4_0_ID192MP3.mp3"
+},
+"l_8b8e21df-41f0-4b7c-8e21-df41f07b7cb7": {
+"d": "2025-06-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1751,
+"s": "Anna og Markus har klipt seg, det skaper misunnelse hos Daniel. Ellers erre det går bra om dan og sensuell tirsdag. God lytt!",
+"t": "Daniel, har du vært hos frisøren?",
+"u": "https://podkast.nrk.no/fil/siesta/2783c9d2-7106-4984-aad7-c0009fcd90a3_0_ID192MP3.mp3"
+},
+"l_8c34ceae-777f-4dbe-b4ce-ae777f2dbe82": {
+"d": "2025-05-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2058,
+"s": "Daniel skuffer oss, Markus fikk tilsnakk om musikken han hører på og Anna lurer på om de andre vet hva våryr er.",
+"t": "Begått pølsesvik",
+"u": "https://podkast.nrk.no/fil/siesta/9169293f-e4b9-4ad6-bb3d-b3815fd12d0c_0_ID192MP3.mp3"
+},
+"l_8ca9e6f4-563b-4544-a9e6-f4563b3544f0": {
+"d": "2025-10-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1741,
+"s": "Alle tester potetgull i valkene, Anna har med en potetgull-konkurranse fra VG og hva er det motsatte av en klesklype?",
+"t": "Vi har potetgull i valkene",
+"u": "https://podkast.nrk.no/fil/siesta/8ca9e6f4-563b-4544-a9e6-f4563b3544f0_ID192MP3.mp3"
+},
+"l_8e97a4b1-9046-44b1-97a4-b1904634b1b7": {
+"d": "2025-06-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1821,
+"s": "Anna har vært vergen til Markus, Daniel blir sammenlignet med en fra Charlie og sjokoladefabrikken og kan tannpuss være sensuelt?",
+"t": "Daniel du er et blåbær i dag",
+"u": "https://podkast.nrk.no/fil/siesta/7fa136d2-05f9-4139-8841-d6504b1cb7b2_0_ID192MP3.mp3"
+},
+"l_8ea1a58b-10b1-4c4f-a1a5-8b10b11c4ff7": {
+"d": "2025-09-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1929,
+"s": "Markus smurfifiserer \"take on me\", Daniel har surra på morran og Anna er redd for svenske tilstander!",
+"t": "En tjukk dame i Sverige",
+"u": "https://podkast.nrk.no/fil/siesta/8ea1a58b-10b1-4c4f-a1a5-8b10b11c4ff7_ID192MP3.mp3"
+},
+"l_8ec185cd-b1e6-4d12-8185-cdb1e6ed1257": {
+"d": "2026-07-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1826,
+"s": "Magnus Devold titter innom denne timen. Vi har det motsatte av lego, konkurrerer i papegøye og får besøk av Hermansen fra Olsenbanden-universet.",
+"t": "Time 7: Magnus Devold er her!",
+"u": "https://podkast.nrk.no/fil/siesta/8ec185cd-b1e6-4d12-8185-cdb1e6ed1257_2_ID192MP3.mp3"
+},
+"l_905f8a1b-c096-40fb-9f8a-1bc09610fb88": {
+"d": "2026-08-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2568,
+"s": "Daniel klukker seg i gang med spalte-spalten, Markus tar FPU-lederen i dagsaktuell stand-up og vi diskuterer marsvin.",
+"t": "Kan katta bæsje i naboens hage?",
+"u": "https://podkast.nrk.no/fil/siesta/905f8a1b-c096-40fb-9f8a-1bc09610fb88_1_ID192MP3.mp3"
+},
+"l_908d86fd-c394-4ab7-8d86-fdc394aab720": {
+"d": "2025-05-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1863,
+"s": "Markus har solgt en bil ufrivillig, Anna har laga spalte-spalten om kommuner og Daniel har laga dokumentar om en velkjent vits.",
+"t": "Jakten på den spydde lefsa",
+"u": "https://podkast.nrk.no/fil/siesta/8a3321bb-5de2-4e7b-b523-348c394037c1_0_ID192MP3.mp3"
+},
+"l_913dd993-da45-451b-bdd9-93da45a51bf1": {
+"d": "2026-03-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2707,
+"s": "Daniel har mistet lommeboken sin, Anna er kokforbanna på walking pads og klarer Karsen å knekke opp ryggen til Markus?",
+"t": "Karsten Blomvik knekker rygger",
+"u": "https://podkast.nrk.no/fil/siesta/913dd993-da45-451b-bdd9-93da45a51bf1_1_ID192MP3.mp3"
+},
+"l_91b80137-5c02-4f2c-b801-375c027f2c34": {
+"d": "2026-08-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2010,
+"s": "Henning har intervjua hun som Markus mista jomfrudommen sin til, og er camping smæsj eller bæsj?",
+"t": "Time 23: Markus sitt første ligg",
+"u": "https://podkast.nrk.no/fil/siesta/91b80137-5c02-4f2c-b801-375c027f2c34_1_ID192MP3.mp3"
+},
+"l_94889222-c47c-4b5e-8892-22c47cab5e9f": {
+"d": "2025-05-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1647,
+"s": "Vi er triste etter en dårlig lunsj, Markus blir forbanna og Anna er fjern men god <3",
+"t": "Skal værra snickers eller twist?",
+"u": "https://podkast.nrk.no/fil/siesta/7aaec514-4018-4bc5-b787-6b6e2503eeae_0_ID192MP3.mp3"
+},
+"l_9646dc71-153b-4e6e-86dc-71153b7e6e6d": {
+"d": "2025-11-20T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1911,
+"s": "Daniel krever at Markus ofrer håret, Anna glemte nøklene sine og vi har vært på et spennende seminar (vi laga ny sketsj).",
+"t": "Markus blir skalla",
+"u": "https://podkast.nrk.no/fil/siesta/9646dc71-153b-4e6e-86dc-71153b7e6e6d_ID192MP3.mp3"
+},
+"l_9678d8bf-af5c-48ee-b8d8-bfaf5c78ee66": {
+"d": "2025-12-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2080,
+"s": "Anna er tilbake fra sykdom, Daniel får lei kommentar og Markus har booka på en juleartist til oss<3",
+"t": "Privatkonsert av Mikael Boble!",
+"u": "https://podkast.nrk.no/fil/siesta/9678d8bf-af5c-48ee-b8d8-bfaf5c78ee66_ID192MP3.mp3"
+},
+"l_96c35866-8d86-459b-8358-668d86659b3d": {
+"d": "2026-06-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2745,
+"s": "Hvem er den beste Harald Rønneberg-imitatoren, hvilken VM-låt skal Daniel anmelde og kommer Anna seg til Hitler?",
+"t": "– Jeg hadde snørr i barten!",
+"u": "https://podkast.nrk.no/fil/siesta/96c35866-8d86-459b-8358-668d86659b3d_1_ID192MP3.mp3"
+},
+"l_97bb4ba1-e801-4bdb-bb4b-a1e801abdba0": {
+"d": "2026-02-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2739,
+"s": "Anna er forbanna på uker, Daniel smelter i Emma Steinbakken spalten og Markus blir til Borat. Blir Siesta av sånt.",
+"t": "Sangkonkurransen fra helvete",
+"u": "https://podkast.nrk.no/fil/siesta/97bb4ba1-e801-4bdb-bb4b-a1e801abdba0_ID192MP3.mp3"
+},
+"l_980c6bd9-366d-4556-8c6b-d9366db55633": {
+"d": "2026-02-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2670,
+"s": "Anna har spist iskrem til middag, vi prøver engelsk spalte og Markus har «hjulpet» Daniel å vise frem frieriet sitt.",
+"t": "Daniel blottlegges på Facebook",
+"u": "https://podkast.nrk.no/fil/siesta/980c6bd9-366d-4556-8c6b-d9366db55633_ID192MP3.mp3"
+},
+"l_98759e53-71c2-4ff6-b59e-5371c2eff67f": {
+"d": "2026-02-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2978,
+"s": "God fredag! Det blir Quizvang, en legendarisk fredagshilsen og dårlig stemning når vi diskuterer hvem som er mest likt på kontoret.",
+"t": "Hvem er minst likt?",
+"u": "https://podkast.nrk.no/fil/siesta/98759e53-71c2-4ff6-b59e-5371c2eff67f_ID192MP3.mp3"
+},
+"l_989fbdbe-b2c2-45d4-9fbd-beb2c285d4e2": {
+"d": "2026-02-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2525,
+"s": "Finn Glede vil skille seg fra Epstein, hva er det motsatte av brunøyet til Vangen og Anna vokser Daniel og Markus til blods.",
+"t": "Anna vokser Markus til blods",
+"u": "https://podkast.nrk.no/fil/siesta/989fbdbe-b2c2-45d4-9fbd-beb2c285d4e2_ID192MP3.mp3"
+},
+"l_9a652f61-0f8f-4d40-a52f-610f8f0d40e4": {
+"d": "2026-04-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2800,
+"s": "Finn Glede har ny måte å få unge damer på, Daniel har hull i buksa og Anna tvinger oss til å sitte på fanget til \"onkel Anders\".",
+"t": "Vi må sitte på fanget til Anna",
+"u": "https://podkast.nrk.no/fil/siesta/9a652f61-0f8f-4d40-a52f-610f8f0d40e4_1_ID192MP3.mp3"
+},
+"l_9c94bde6-1b01-451b-94bd-e61b01751bb7": {
+"d": "2026-06-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 371,
+"s": "Du får Siestas 24 timers fiesta som podkast i sommer! Mandag til torsdag helt frem til vi er tilbake i august. God sommer <3",
+"t": "Siesta i HELE sommer!",
+"u": "https://podkast.nrk.no/fil/siesta/9c94bde6-1b01-451b-94bd-e61b01751bb7_1_ID192MP3.mp3"
+},
+"l_9daac949-a9ad-4b43-aac9-49a9ad7b43a0": {
+"d": "2025-06-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1432,
+"s": "Anna har begynt å tippe i lotto igjen og Daniel kan overraskende lite om sin nærmeste kollega Markus, som dessverre er borte.",
+"t": "Markus har forlatt oss",
+"u": "https://podkast.nrk.no/fil/siesta/cd1aa35b-7f76-4029-803f-1146924a05e6_0_ID192MP3.mp3"
+},
+"l_9e416d88-3d69-4dda-816d-883d697dda36": {
+"d": "2025-10-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1362,
+"s": "Anna har aldri hørt Queen, vi smalltalker kodebrikke og Frosta og Markus er glupsk.",
+"t": "Er kodebrikken død?",
+"u": "https://podkast.nrk.no/fil/siesta/9e416d88-3d69-4dda-816d-883d697dda36_ID192MP3.mp3"
+},
+"l_9ee5f1da-f45b-49b5-a5f1-daf45bc9b561": {
+"d": "2026-07-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1501,
+"s": "Daniel er i gang med nytt hatte-prosjekt, hvilken matvare blir solgt minst og et barn blir født til denne 24 timers sendinga<3",
+"t": "Time 5: Fødte til Siesta",
+"u": "https://podkast.nrk.no/fil/siesta/9ee5f1da-f45b-49b5-a5f1-daf45bc9b561_1_ID192MP3.mp3"
+},
+"l_a0182011-b89d-4922-9820-11b89d692291": {
+"d": "2025-09-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1968,
+"s": "Anna har driti seg KRAFTIG ut, Daniel følte seg spesiell og Valdres har meldt på en jobb-dass!",
+"t": "Glemte å mute seg på fellesmøte",
+"u": "https://podkast.nrk.no/fil/siesta/a0182011-b89d-4922-9820-11b89d692291_ID192MP3.mp3"
+},
+"l_a1ab4927-12fb-4df0-ab49-2712fb1df047": {
+"d": "2026-07-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1793,
+"s": "Quizmaster Ørjan Borre kommer innom, hvilke kommuner er undervurdert og vi har spist indisk.",
+"t": "Time 12: Quizmaster Borre",
+"u": "https://podkast.nrk.no/fil/siesta/a1ab4927-12fb-4df0-ab49-2712fb1df047_1_ID192MP3.mp3"
+},
+"l_a1f444d0-d14a-4d3a-b444-d0d14a2d3a0c": {
+"d": "2025-06-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1768,
+"s": "Markus er det motsatte av et kart, Anna spiser saftis med tenna og Daniel har nytt evnukk prosjekt.",
+"t": "Sokker i dass",
+"u": "https://podkast.nrk.no/fil/siesta/2e5e8b26-5145-4474-a594-f2330ff54017_0_ID192MP3.mp3"
+},
+"l_a20d9467-4516-4c2b-8d94-6745169c2b16": {
+"d": "2026-06-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2475,
+"s": "Anna er tilbake fra nord, Markus og Henning skal lukte på sokkene hennes og Finn Glede er svært skuffa over valg av vikar.",
+"t": "Anna med ljåen er tilbake",
+"u": "https://podkast.nrk.no/fil/siesta/a20d9467-4516-4c2b-8d94-6745169c2b16_1_ID192MP3.mp3"
+},
+"l_a223d9cb-85f4-47d2-a3d9-cb85f497d2d8": {
+"d": "2026-07-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1596,
+"s": "Finn Glede syns det er for mye menn i VM-dekninga og vi forsøker å finne ut hva «kort i skjetafadlet» betyr.",
+"t": "Time 6: Korte tennisskjørt",
+"u": "https://podkast.nrk.no/fil/siesta/a223d9cb-85f4-47d2-a3d9-cb85f497d2d8_1_ID192MP3.mp3"
+},
+"l_a28de4b2-807b-4565-8de4-b2807b056534": {
+"d": "2025-04-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1754,
+"s": "Daniel har brukt sekken som matboks, Anna ler av promp og sammen diskuterer vi om trøndersk gjør seg på tv.",
+"t": "Soyamarinert ryggsekk",
+"u": "https://podkast.nrk.no/fil/siesta/d8f3ba96-3de8-42c6-b7e3-852fddee9e4a_0_ID192MP3.mp3"
+},
+"l_a29691fd-44a3-4e53-9691-fd44a34e53e1": {
+"d": "2025-10-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1762,
+"s": "Tanta til Daniel ringer til oss midt i sending, Anna bommer på smurfehit og hvorfor kjøper folk labubu?",
+"t": "Labubu er helt jævlig",
+"u": "https://podkast.nrk.no/fil/siesta/a29691fd-44a3-4e53-9691-fd44a34e53e1_ID192MP3.mp3"
+},
+"l_a443c949-ea96-4fa6-83c9-49ea96efa644": {
+"d": "2025-12-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2099,
+"s": "Det blir ubehagelig stemning når Markus gir oss julegaven har har brukt et halvt år på å lage.",
+"t": "Markus har laga naken-kalender",
+"u": "https://podkast.nrk.no/fil/siesta/a443c949-ea96-4fa6-83c9-49ea96efa644_ID192MP3.mp3"
+},
+"l_a4678499-4696-480c-a784-994696880cdf": {
+"d": "2026-06-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2775,
+"s": "Sigrid «Siggen» er vikar for Daniel som har sendt oss nytt reisebrev fra USA. Det blir fotball i papegøye og vi får besøk av Ragnar Syden.",
+"t": "P3-legenden vender tilbake",
+"u": "https://podkast.nrk.no/fil/siesta/a4678499-4696-480c-a784-994696880cdf_1_ID192MP3.mp3"
+},
+"l_a49edec2-51e2-4594-9ede-c251e2b5946a": {
+"d": "2026-04-10T14:05:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2611,
+"s": "God fredag! Det blir quizvang, hvem har pult på jobb og hva betyr abort på selbusk?",
+"t": "Tatoverte sjefen på ryggen",
+"u": "https://podkast.nrk.no/fil/siesta/a49edec2-51e2-4594-9ede-c251e2b5946a_1_ID192MP3.mp3"
+},
+"l_a5164a4c-7f21-4232-964a-4c7f21a23283": {
+"d": "2025-10-30T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1868,
+"s": "Hvor mye skal man egentlig gi til OD-dagen, hvem er best på å kjefte og hvordan skal Finn Glede feire halloween?",
+"t": "Daniel er pegge-kongen",
+"u": "https://podkast.nrk.no/fil/siesta/a5164a4c-7f21-4232-964a-4c7f21a23283_ID192MP3.mp3"
+},
+"l_a5bacddc-3bb1-4711-bacd-dc3bb167113a": {
+"d": "2026-05-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2714,
+"s": "Daniel har intervjua Max Mekker, Markus har med 17. mai lyder i papegøye og Anna lagde en elendig middag i går.",
+"t": "Katter i bånd",
+"u": "https://podkast.nrk.no/fil/siesta/a5bacddc-3bb1-4711-bacd-dc3bb167113a_1_ID192MP3.mp3"
+},
+"l_a639e9ba-f050-43fa-b9e9-baf050e3fadd": {
+"d": "2025-09-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1802,
+"s": "Markus har hatt en tøff start på 30-årsdagen sin, det blir munnlyd-spesial i «papegøye» og hvilken butikk leverer best på bakst?",
+"t": "Ble nekta bolle på bursdagen",
+"u": "https://podkast.nrk.no/fil/siesta/a639e9ba-f050-43fa-b9e9-baf050e3fadd_ID192MP3.mp3"
+},
+"l_a7d726e0-52ef-4f17-9726-e052efaf178d": {
+"d": "2025-09-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1627,
+"s": "Det blir pølsestemning når Anna er borte. Hva er det motsatte av en skorstein, Rafael Eriksen kommer og Daniel er mannssjåvinist.",
+"t": "Daniel er mannssjåvinist",
+"u": "https://podkast.nrk.no/fil/siesta/a7d726e0-52ef-4f17-9726-e052efaf178d_ID192MP3.mp3"
+},
+"l_a89e3738-d922-4f32-9e37-38d922cf32a2": {
+"d": "2026-07-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1546,
+"s": "Vi  smalltalker dritten ut av ting, Markus har laget en voldelig smurfehit og Anna tvinger oss til å spise sjokolade fra magen.",
+"t": "Time 09: Spise fra Annas mage",
+"u": "https://podkast.nrk.no/fil/siesta/a89e3738-d922-4f32-9e37-38d922cf32a2_1_ID192MP3.mp3"
+},
+"l_a8bfa594-7dc5-4dcb-bfa5-947dc51dcb5a": {
+"d": "2026-03-27T14:04:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2579,
+"s": "Det er fredag! Det betyr quizvang, fredagshilsen fra en kjent person og vi avslører en ny kandidat i Norges dummeste tatovering.",
+"t": "Et kinky spøkelse på armen",
+"u": "https://podkast.nrk.no/fil/siesta/a8bfa594-7dc5-4dcb-bfa5-947dc51dcb5a_1_ID192MP3.mp3"
+},
+"l_a969f99b-501a-41ae-a9f9-9b501a41ae33": {
+"d": "2025-04-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1902,
+"s": "Anna har hatt en tung dag, det blir tysk spesial av papegøye og Markus har laget reklamelåt for Senja øyehelse.",
+"t": "Lov å prompe under benkpress?",
+"u": "https://podkast.nrk.no/fil/siesta/e1a4eceb-c729-4645-bbfb-901167f778db_0_ID192MP3.mp3"
+},
+"l_a9accc7f-6a44-402d-accc-7f6a44802dd5": {
+"d": "2025-11-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1891,
+"s": "Vi gjenskaper Markus som sniker seg til å drikke vaniljesaus fra kjøleskapet, Anna har med en quiz og Daniel ønsker seg kebabsjappe.",
+"t": "Drikker vaniljesaus som kaffe",
+"u": "https://podkast.nrk.no/fil/siesta/a9accc7f-6a44-402d-accc-7f6a44802dd5_ID192MP3.mp3"
+},
+"l_aa4d6982-1bea-40b6-8d69-821bead0b63f": {
+"d": "2025-12-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2096,
+"s": "Tante Rita ringer Daniel atter en gang, er det greit å strekke seg etter maten og når skal Markus slutte med stjeling?",
+"t": "Er det greit å stjele fra rema?",
+"u": "https://podkast.nrk.no/fil/siesta/aa4d6982-1bea-40b6-8d69-821bead0b63f_ID192MP3.mp3"
+},
+"l_aacdb0dc-2efb-4fda-8db0-dc2efb2fda56": {
+"d": "2025-08-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1791,
+"s": "Anna låste seg inne, Markus deler triste do-hendelser og det blir en \"tvist\" i ukas dumfette!",
+"t": "Spøkelse på dass",
+"u": "https://podkast.nrk.no/fil/siesta/aacdb0dc-2efb-4fda-8db0-dc2efb2fda56_ID192MP3.mp3"
+},
+"l_abb0a05a-c565-436b-b0a0-5ac565936b84": {
+"d": "2026-07-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1749,
+"s": "Er middag etter klokka 19 bra eller ræv? Hvem vinner papegøye med barne-tv helter og Arin har med verdens verste ubehag vi skal veie oss.",
+"t": "Time 13: Arin Soltanpanah er her",
+"u": "https://podkast.nrk.no/fil/siesta/abb0a05a-c565-436b-b0a0-5ac565936b84_1_ID192MP3.mp3"
+},
+"l_ac30ed14-d907-407a-b0ed-14d907f07a9d": {
+"d": "2025-03-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1896,
+"s": "Markus hadde ubehagelig kafe-opplevelse, Anna får motstand på valg av is og de to korpulente herrene skammer seg over vente-sjokoladen.",
+"t": "Matskammen lenge leve",
+"u": "https://podkast.nrk.no/fil/siesta/23d72ca5-9dba-4f59-aa46-0d74c85413ea_0_ID192MP3.mp3"
+},
+"l_ac4fe878-ff74-487c-8fe8-78ff74a87cde": {
+"d": "2026-07-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1513,
+"s": "Markus har sjokkerende info om tidligere arbeidsliv, Sofie kommer innom for å sjekke ståa og verdens beste låt skal oversettes!",
+"t": "Time 14: Reiste rundt med lykkehjul",
+"u": "https://podkast.nrk.no/fil/siesta/ac4fe878-ff74-487c-8fe8-78ff74a87cde_1_ID192MP3.mp3"
+},
+"l_acdd576b-b6b6-45f3-9d57-6bb6b645f32a": {
+"d": "2025-09-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1915,
+"s": "Vi diskuterer hva som er verst med en fis, Daniel snakker med vinneren av bakemesterskapet og deler av sin gamle visdom.",
+"t": "Hva er verst lukt eller lyd?",
+"u": "https://podkast.nrk.no/fil/siesta/acdd576b-b6b6-45f3-9d57-6bb6b645f32a_ID192MP3.mp3"
+},
+"l_ad03f7dc-1d94-4473-83f7-dc1d94b47340": {
+"d": "2026-03-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2737,
+"s": "Det blir ubehagelig når Markus gjør som Jesus, Finn Glede intervjuet Astrid S om saus på Spellemann og hvem er ukas dummeste?",
+"t": "Markus vasker føttene våre",
+"u": "https://podkast.nrk.no/fil/siesta/ad03f7dc-1d94-4473-83f7-dc1d94b47340_1_ID192MP3.mp3"
+},
+"l_ad28e258-9fd5-4fb9-a8e2-589fd59fb9c7": {
+"d": "2026-01-30T14:25:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1953,
+"s": "God fredag! Det blir quizvang, vi diskuterer hva som er best av katt eller hund og ikke minst så har vi en god nyhet til deg<3",
+"t": "Vi har en stor nyhet",
+"u": "https://podkast.nrk.no/fil/siesta/ad28e258-9fd5-4fb9-a8e2-589fd59fb9c7_ID192MP3.mp3"
+},
+"l_aedb55e6-fe0a-4a3b-9b55-e6fe0afa3bcc": {
+"d": "2026-05-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2689,
+"s": "Vi får besøk av radiolegende Rafael Eriksen, Anna mater Markus og Daniel og hva er det motsatte av veggedyr?",
+"t": "Anna mater Markus og Daniel",
+"u": "https://podkast.nrk.no/fil/siesta/aedb55e6-fe0a-4a3b-9b55-e6fe0afa3bcc_1_ID192MP3.mp3"
+},
+"l_b1038dc9-cc93-4f5d-838d-c9cc932f5d6b": {
+"d": "2025-10-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1720,
+"s": "Det blir hissig stemning når vi smalltalker julevarer i butikken, Finn Glede driver med svindel og Markus ligner på Homer Simpson.",
+"t": "Kommer julevarer for tidlig?",
+"u": "https://podkast.nrk.no/fil/siesta/b1038dc9-cc93-4f5d-838d-c9cc932f5d6b_ID192MP3.mp3"
+},
+"l_b1b432da-f617-438b-b432-daf617838be5": {
+"d": "2026-07-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1775,
+"s": "Markus har sendt folk på Johnny Logan cruise, det blir late night stand-up og Daniel tolker Anna i verste mening.",
+"t": "Time 15: Ikke snakk sånn til meg",
+"u": "https://podkast.nrk.no/fil/siesta/b1b432da-f617-438b-b432-daf617838be5_1_ID192MP3.mp3"
+},
+"l_b1f46307-aef3-4cfd-b463-07aef3fcfd43": {
+"d": "2026-05-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3160,
+"s": "Det er dansk-spesial i papegøye, vi får besøk av Norges \"største\" youtuber og vi smalltalker norsk folketro.",
+"t": "Det er en due i studio!",
+"u": "https://podkast.nrk.no/fil/siesta/b1f46307-aef3-4cfd-b463-07aef3fcfd43_1_ID192MP3.mp3"
+},
+"l_b28b3bb4-6208-43ca-8b3b-b46208e3ca1e": {
+"d": "2025-05-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1785,
+"s": "Anna leser nyheter sensuelt, Daniel har viktig spørsmål om juice, og Markus har laga reportasje om evnukkenes musikkonkurranse.",
+"t": "Evnukk Song Contest",
+"u": "https://podkast.nrk.no/fil/siesta/320a5fb5-f89f-415f-aa52-ff784e28c4e0_0_ID192MP3.mp3"
+},
+"l_b3585d32-6dd0-48e6-985d-326dd0e8e673": {
+"d": "2026-08-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1530,
+"s": "Daniel prøver sin siste hatt, Anna har mista initiativ og hvem hadde vært Siestas fjerde medlem?",
+"t": "Time 22: Siestas fjerde medlem",
+"u": "https://podkast.nrk.no/fil/siesta/b3585d32-6dd0-48e6-985d-326dd0e8e673_1_ID192MP3.mp3"
+},
+"l_b381d8ad-34d4-4a9e-81d8-ad34d49a9e0b": {
+"d": "2025-04-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2102,
+"s": "Anna kom over en kåt minigris fra Finnmark, Markus spiser saftis sensuelt og Daniel er muligens innblandet i en drapsetterforskning.",
+"t": "Daniel tipset om drapssak",
+"u": "https://podkast.nrk.no/fil/siesta/df2b166f-0fe4-471c-a3d5-706f47c43df6_0_ID192MP3.mp3"
+},
+"l_b4af58ab-5bdc-41f9-af58-ab5bdc21f9ac": {
+"d": "2026-06-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3252,
+"s": "Livsgnisten er påvirket av VM, Daniel har sendt reisebrev og det blir kanskje levert den dårligste Emma Steinbakken-spalten noensinne.",
+"t": "Finn Glede sjarmerer Stavang",
+"u": "https://podkast.nrk.no/fil/siesta/b4af58ab-5bdc-41f9-af58-ab5bdc21f9ac_1_ID192MP3.mp3"
+},
+"l_b6825dbb-9550-407c-825d-bb9550307cfe": {
+"d": "2025-04-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1648,
+"s": "Anna er hovedpersonen i ny sesong av «Tyrann»,  vi samles over flaue ting og hvor godt gjør Markus og Daniel seg på «Tinder»?",
+"t": "Hvem gjør seg best på Tinder?",
+"u": "https://podkast.nrk.no/fil/siesta/54cec6be-abd2-47da-a241-d7c1ec4f0113_0_ID192MP3.mp3"
+},
+"l_b699ad6c-de52-4ec1-99ad-6cde522ec1ab": {
+"d": "2026-05-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3003,
+"s": "Anna er blakk som ei kirkerotte, Markus har laga sylskarp stand up og Daniel så en såkalt kjendis på t-banen.",
+"t": "Daniel så en stor «kjendis»",
+"u": "https://podkast.nrk.no/fil/siesta/b699ad6c-de52-4ec1-99ad-6cde522ec1ab_1_ID192MP3.mp3"
+},
+"l_b6beaa8e-3cf4-46cd-beaa-8e3cf466cdb1": {
+"d": "2025-03-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1838,
+"s": "Markus konfronterer Daniel, Anna har funnet overmannen til Markus og hvem har mest rett til å kalle barnet sitt etter Flåklypa?",
+"t": "Hva i helsikke er en delebil?",
+"u": "https://podkast.nrk.no/fil/siesta/2e5918c6-1998-40d6-a73c-9b0f51a3353d_0_ID192MP3.mp3"
+},
+"l_b6dad4d5-831d-4088-9ad4-d5831d80889e": {
+"d": "2025-08-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1805,
+"s": "Daniel har spist kjøtt hele uka, Anna er en irriterende nabo og Markus stiller viktig buffet-spørsmål. Sånt blir det mandag av!",
+"t": "Markus bistår demokratiet",
+"u": "https://podkast.nrk.no/fil/siesta/77bb3443-c558-4b7d-bcde-2cb5a4a82889_0_ID192MP3.mp3"
+},
+"l_b83cc412-17c4-41f0-bcc4-1217c421f068": {
+"d": "2025-03-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1952,
+"s": "Fetteren til Markus kommer innom som reporter, Daniel er skuffet over dansk pølse og Anna har med to klipp fra bolle-verden.",
+"t": "Pølsenes herrer",
+"u": "https://podkast.nrk.no/fil/siesta/aa4704a7-bfa9-4c58-89e5-540efe076f41_0_ID192MP3.mp3"
+},
+"l_b97050a9-716a-47f3-b050-a9716a97f30f": {
+"d": "2025-10-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1956,
+"s": "Markus har fått kviser, Anna vil være en snegle og vi annonserer neste kandidat i Norges beste jobbdass.",
+"t": "Øyne som følger med på dass",
+"u": "https://podkast.nrk.no/fil/siesta/b97050a9-716a-47f3-b050-a9716a97f30f_ID192MP3.mp3"
+},
+"l_ba22d4aa-e3c0-4d0a-a2d4-aae3c0bd0ab3": {
+"d": "2026-01-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1969,
+"s": "Markus får oppfylt en ungdomsdrøm, en mann i Finnmark vil hete Softis og Anna glemmer hva Daniel heter.",
+"t": "Markus pisker Daniels rumpe",
+"u": "https://podkast.nrk.no/fil/siesta/ba22d4aa-e3c0-4d0a-a2d4-aae3c0bd0ab3_ID192MP3.mp3"
+},
+"l_bb0c41dc-ae63-4ef7-8c41-dcae637ef711": {
+"d": "2026-03-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2707,
+"s": "Markus så en bæsj i do, hva er det motsatte av en baderomsvekt og hvor ubehagelig blir det når det leses fra en erotisk novelle?",
+"t": "Anna har med erotisk novelle",
+"u": "https://podkast.nrk.no/fil/siesta/bb0c41dc-ae63-4ef7-8c41-dcae637ef711_1_ID192MP3.mp3"
+},
+"l_bb2f08a0-a76e-42df-af08-a0a76ee2df31": {
+"d": "2026-06-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YRw-6eepw6ixHz9lk7UWHAX9sMr60ecf3Ie29_NUAw6g",
+"n": 2670,
+"s": "Dragen eller Heidi Mo er vikar for Anna i dag. Det blir Vm-låt, vm-spesial av papegøye og enda mer prat om suppe!",
+"t": "Dragen har inntatt kongedømme",
+"u": "https://podkast.nrk.no/fil/siesta/bb2f08a0-a76e-42df-af08-a0a76ee2df31_1_ID192MP3.mp3"
+},
+"l_bd2e97ee-bcb8-4f9a-ae97-eebcb8ff9a90": {
+"d": "2025-08-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1963,
+"s": "Anna leverer sterkt i smurfehits, Daniel og Markus er i alle fall ikke stygge og \"Finn Glede\" ringer igjen.",
+"t": "Nakenbilder på avveie",
+"u": "https://podkast.nrk.no/fil/siesta/bd2e97ee-bcb8-4f9a-ae97-eebcb8ff9a90_ID192MP3.mp3"
+},
+"l_bdf50f88-9a0a-4928-b50f-889a0a992882": {
+"d": "2025-06-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1874,
+"s": "Markus blir utsatt for justismord, blir det marsvin eller kebab-hælj og Anna har tatt bilde med sitt idol. Lukter svidd her!",
+"t": "DETTE ER JUSTISMORD!!!",
+"u": "https://podkast.nrk.no/fil/siesta/30b332e1-9f5c-4cae-bbe4-6329e734f39a_0_ID192MP3.mp3"
+},
+"l_be38ffe7-6ba2-4a06-b8ff-e76ba27a0645": {
+"d": "2025-09-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1749,
+"s": "Markus fremfører \"smurferæv\", Anna har funnet en jovial nordlending og Daniel spiller fifa.",
+"t": "Alle elektrikere har smekken åpen",
+"u": "https://podkast.nrk.no/fil/siesta/be38ffe7-6ba2-4a06-b8ff-e76ba27a0645_ID192MP3.mp3"
+},
+"l_bf2e6a27-3b5a-4a1e-ae6a-273b5aaa1e76": {
+"d": "2026-02-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2882,
+"s": "Anna har grått i dag, Markus tuller med Høiby og Epstein og Daniel har meldt Anna og Markus til PFU for «grove» «anklager».",
+"t": "Markus gjør stand up om Høiby",
+"u": "https://podkast.nrk.no/fil/siesta/bf2e6a27-3b5a-4a1e-ae6a-273b5aaa1e76_ID192MP3.mp3"
+},
+"l_bf40df78-9930-4775-80df-789930677570": {
+"d": "2026-06-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/zx6LfklPKd7wLALWWFYBkAEFAKDx7WmXC3teulXRFKOw",
+"n": 2589,
+"s": "Regjeringa altså Johansen er dagens vikar. Det blir stand-up, pustekonkuranse og vi svarer på om man alltid kan bruke regnjakke.",
+"t": "Lukter råttent egg i studio?",
+"u": "https://podkast.nrk.no/fil/siesta/bf40df78-9930-4775-80df-789930677570_1_ID192MP3.mp3"
+},
+"l_bf8f341c-0e0e-4be9-8f34-1c0e0edbe92d": {
+"d": "2025-09-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2003,
+"s": "Alt rakner når spinning-Bente kommer, Anna og Markus blir endelig enige om noe, og Daniel leder spalte-spalten.",
+"t": "Mistet sjokolade på SATS",
+"u": "https://podkast.nrk.no/fil/siesta/bf8f341c-0e0e-4be9-8f34-1c0e0edbe92d_ID192MP3.mp3"
+},
+"l_bfb06e84-9a9a-4f3f-b06e-849a9a0f3f68": {
+"d": "2026-06-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2773,
+"s": "Selveste Hedda GG er vår vikar i dag, og hun har med fredagshilsen! Det blir også quizvang fra Markus og Anna har endelig fått seg solseng.",
+"t": "– Noen kom på døra i natt",
+"u": "https://podkast.nrk.no/fil/siesta/bfb06e84-9a9a-4f3f-b06e-849a9a0f3f68_1_ID192MP3.mp3"
+},
+"l_c00768dc-59b1-44a6-8768-dc59b1f4a69f": {
+"d": "2026-01-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2123,
+"s": "Markus har sin dårligste smurfehit, Daniel har sett skrekkfilm og kan man bruke 20 000 på gebiss til bikkja?",
+"t": "20 000 på gebiss til hunden?",
+"u": "https://podkast.nrk.no/fil/siesta/c00768dc-59b1-44a6-8768-dc59b1f4a69f_ID192MP3.mp3"
+},
+"l_c018234d-aae9-48b2-9823-4daae918b237": {
+"d": "2025-05-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1931,
+"s": "Anna er fornærma, Daniel har sett frekk dame i Danmark og Markus har fått hard kommentar.",
+"t": "Lov å samle på motorsager?",
+"u": "https://podkast.nrk.no/fil/siesta/3576b104-1507-41be-a302-678beb66ce78_0_ID192MP3.mp3"
+},
+"l_c1782a94-d8c3-4c7d-b82a-94d8c32c7d5d": {
+"d": "2025-10-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1505,
+"s": "Markus fikk hjelp fra en engel, Daniel opplevde barndomstraume og Anna har henta inspirasjon fra Homer Simpson.",
+"t": "Anna har fått ny humor",
+"u": "https://podkast.nrk.no/fil/siesta/c1782a94-d8c3-4c7d-b82a-94d8c32c7d5d_ID192MP3.mp3"
+},
+"l_c1d2ccd5-afc5-458b-92cc-d5afc5f58bec": {
+"d": "2025-03-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1879,
+"s": "Daniel kårer hvem som har vært mest dum av Anna og Markus, det blir quizvang og vi har premiere på ny spalte \"Hva slags hælj blirre\"!",
+"t": "Tits eller ass?",
+"u": "https://podkast.nrk.no/fil/siesta/4093aec5-f435-46dc-bce5-66f367080a00_0_ID192MP3.mp3"
+},
+"l_c3c530f8-6565-4658-8530-f8656536581b": {
+"d": "2025-09-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1672,
+"s": "Anna leverer sterkt i papegøye, Daniel viser ufrivillig rumpesprekk og sammen smalltalker vi kommunikasjon i steinalderen.",
+"t": "Hvordan snakka de i steinalderen?",
+"u": "https://podkast.nrk.no/fil/siesta/c3c530f8-6565-4658-8530-f8656536581b_ID192MP3.mp3"
+},
+"l_c6f897ab-9e6e-44dc-b897-ab9e6ec4dc85": {
+"d": "2026-03-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2762,
+"s": "Daniel får kjefte på Anna, Markus holder stand up om dagen i dag og vi diskuterer om noen dyr er født skalla.",
+"t": "Finnes det skalla dyr?",
+"u": "https://podkast.nrk.no/fil/siesta/c6f897ab-9e6e-44dc-b897-ab9e6ec4dc85_ID192MP3.mp3"
+},
+"l_c7d7712d-58be-484f-9771-2d58be384f63": {
+"d": "2025-04-15T14:12:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1710,
+"s": "Det blir Quizvang på en tirsdag, er det innafor å stjele naboens blomster og Anna er usikker på om hun gjorde det rette.",
+"t": "Den dumme leder den blinde",
+"u": "https://podkast.nrk.no/fil/siesta/15aa535f-8548-4a45-aaa0-a9823855fdbc_0_ID192MP3.mp3"
+},
+"l_c8888d29-2ccd-46c6-888d-292ccd16c600": {
+"d": "2026-05-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2707,
+"s": "Det blir beatboxing i spalte-spalten, hvor mange kyllinger kunne vi drept og hva har skjedd i kirken i Skjåk?",
+"t": "Drepe en million kyllinger",
+"u": "https://podkast.nrk.no/fil/siesta/c8888d29-2ccd-46c6-888d-292ccd16c600_1_ID192MP3.mp3"
+},
+"l_c8de6a32-e5ca-45dc-9e6a-32e5cac5dc4f": {
+"d": "2025-03-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2055,
+"s": "Anna har prøvd løpetest, Daniel lager spaltespalte og Markus viser frem sin nye hawaiiskjorte til Daniel.",
+"t": "Kongen av festivalmote",
+"u": "https://podkast.nrk.no/fil/siesta/df450b98-1233-4030-89cc-7dc0fa571c66_0_ID192MP3.mp3"
+},
+"l_c95cae6c-d3c9-46d8-9cae-6cd3c9c6d871": {
+"d": "2026-08-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2943,
+"s": "Finn Glede har blitt buddhist, Daniel ble slått på festival og Anna har funnet noe fra Markus sin fortid.",
+"t": "Anna graver i Markus fortid",
+"u": "https://podkast.nrk.no/fil/siesta/c95cae6c-d3c9-46d8-9cae-6cd3c9c6d871_1_ID192MP3.mp3"
+},
+"l_c9c9beae-45dc-4499-89be-ae45dc4499b1": {
+"d": "2026-08-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2618,
+"s": "Det blir rykende fersk stand up fra Markus, hva er den beste byen i Norge og er det forsvarlig at 16-åringer bor alene?",
+"t": "Norges mest komplette by",
+"u": "https://podkast.nrk.no/fil/siesta/c9c9beae-45dc-4499-89be-ae45dc4499b1_1_ID192MP3.mp3"
+},
+"l_c9e6ac31-1d64-46ed-a6ac-311d64e6edaa": {
+"d": "2025-08-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1843,
+"s": "Markus har mista nøklene sine (alt er som det pleier), Anna har laget pecan pai og Daniel ble kraftig mobba.",
+"t": "– Vil ha dame med silikonpupper",
+"u": "https://podkast.nrk.no/fil/siesta/3c6e82e8-eebf-443b-8bcc-d1b3e4f57884_0_ID192MP3.mp3"
+},
+"l_cd3b8005-7910-4dd0-bb80-0579107dd026": {
+"d": "2025-09-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1989,
+"s": "Ukas jobbdass er et mekka for kvinner, Daniel liker ikke korte menn som går fort og Anna spiste kebab i trusa.",
+"t": "Daniel liker ikke lave menn",
+"u": "https://podkast.nrk.no/fil/siesta/cd3b8005-7910-4dd0-bb80-0579107dd026_ID192MP3.mp3"
+},
+"l_cdee9770-5c3a-4f27-ae97-705c3a8f2719": {
+"d": "2026-07-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1615,
+"s": "Daniel har med hemmelig lydopptak av oss, Anna er forbanna over før og etter-bilder av folk og er det innafor å ta vannsklia?",
+"t": "Time 3: Blir vi kansellert?",
+"u": "https://podkast.nrk.no/fil/siesta/cdee9770-5c3a-4f27-ae97-705c3a8f2719_1_ID192MP3.mp3"
+},
+"l_ce8a10e4-603d-4523-8a10-e4603de52384": {
+"d": "2026-01-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1993,
+"s": "Er det vanlig å operere rumpehullet? Anna er redd for å sovne i bryllupet sitt og Markus har sett Olsenbanden jr. på rocker’n.",
+"t": "Er Valborg et felleshøl?",
+"u": "https://podkast.nrk.no/fil/siesta/ce8a10e4-603d-4523-8a10-e4603de52384_ID192MP3.mp3"
+},
+"l_cf0fcdd8-f0bb-4c9b-8fcd-d8f0bbac9b51": {
+"d": "2026-07-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1864,
+"s": "Anna ramser opp sin imaginære gård, hva betyr dussemang og hvem lukter mest etter 16 timer sending?",
+"t": "Time 16: En perfekt gård",
+"u": "https://podkast.nrk.no/fil/siesta/cf0fcdd8-f0bb-4c9b-8fcd-d8f0bbac9b51_1_ID192MP3.mp3"
+},
+"l_cf6387a8-1aa0-4f88-a387-a81aa05f88a2": {
+"d": "2025-03-10T15:42:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1658,
+"s": "Markus har revna bokseren, Anna skammer seg over treningslåt og Daniel har hengt seg opp i ski-VM.",
+"t": "Verdens første «Siesta» <3",
+"u": "https://podkast.nrk.no/fil/siesta/7f440039-b5c6-468a-91e0-3c14c62b03e8_0_ID192MP3.mp3"
+},
+"l_cfb1f7d1-0f3a-45e0-b1f7-d10f3ad5e0c3": {
+"d": "2026-02-20T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2848,
+"s": "Markus har knust alt, Anna har fiksa en hilsen fra Ravi og Daniel er både mett og trøtt etter vår hotellfrokost.",
+"t": "Vi møtte Petter Stordalen",
+"u": "https://podkast.nrk.no/fil/siesta/cfb1f7d1-0f3a-45e0-b1f7-d10f3ad5e0c3_ID192MP3.mp3"
+},
+"l_d06dd990-3ffa-49e4-add9-903ffa69e4e9": {
+"d": "2026-04-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2649,
+"s": "Ørjan Borre kommer innom for ha quiz for oss, vi diskuterer hva det motsatte av sjokolade er og Daniel klipper tåneglene sine.",
+"t": "Daniel klipper tånegler live",
+"u": "https://podkast.nrk.no/fil/siesta/d06dd990-3ffa-49e4-add9-903ffa69e4e9_1_ID192MP3.mp3"
+},
+"l_d0df4289-06c0-4df6-9f42-8906c08df698": {
+"d": "2025-04-14T13:32:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1741,
+"s": "Vi finner ut hva det motsatte av en q-tips er, Daniel fant en krabbe på land og det blir ubehagelig for alle når Markus har med noe spiselig.",
+"t": "Så nære har vi aldri vært",
+"u": "https://podkast.nrk.no/fil/siesta/a1cbd91d-e879-45d3-bfe8-b0cdc77fc5b3_0_ID192MP3.mp3"
+},
+"l_d0e67458-993b-4d9a-a674-58993b6d9ac3": {
+"d": "2026-07-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1347,
+"s": "Mann i Eidsvoll prøve å spise 1 kg softis på 10 minutter, Daniel har med ny hatt og Markus forteller om sin historie med smultringer.",
+"t": "Time 11: Smultringens besteforeldre",
+"u": "https://podkast.nrk.no/fil/siesta/d0e67458-993b-4d9a-a674-58993b6d9ac3_1_ID192MP3.mp3"
+},
+"l_d1b4d3a7-ddb5-4342-b4d3-a7ddb55342c3": {
+"d": "2026-02-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2906,
+"s": "Endelig har Daniel svar til oss om PFU-klagen han sendte inn, Markus har med gamle Tv2-tabber i papegøye og Anna er psykotisk.",
+"t": "Vi har fått svar fra PFU",
+"u": "https://podkast.nrk.no/fil/siesta/d1b4d3a7-ddb5-4342-b4d3-a7ddb55342c3_ID192MP3.mp3"
+},
+"l_d20ec330-e6d3-4d02-8ec3-30e6d3cd02f6": {
+"d": "2026-03-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2432,
+"s": "Vi savner is fra barndommen, Anna er på Hitler-jakt og Markus har vært idiot på åpen gate.",
+"t": "Markus skremmer fremmed dame",
+"u": "https://podkast.nrk.no/fil/siesta/d20ec330-e6d3-4d02-8ec3-30e6d3cd02f6_ID192MP3.mp3"
+},
+"l_d28b7f6f-4418-469b-8b7f-6f4418069b86": {
+"d": "2026-03-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2798,
+"s": "Daniel er frekk mot Anna, hvor mye tjener Markus og hva er det motsatte av en flamingo?",
+"t": "Når runka Markus sist?",
+"u": "https://podkast.nrk.no/fil/siesta/d28b7f6f-4418-469b-8b7f-6f4418069b86_ID192MP3.mp3"
+},
+"l_d3261fa9-3ff3-41c6-a61f-a93ff3c1c62a": {
+"d": "2025-12-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1987,
+"s": "Daniel har hatt isjias, det blir julefilm-spesial og Markus tror Anna har ribbefett på leppene.",
+"t": "Har Anna ribbefett-lepper?",
+"u": "https://podkast.nrk.no/fil/siesta/d3261fa9-3ff3-41c6-a61f-a93ff3c1c62a_ID192MP3.mp3"
+},
+"l_d69cd6d8-8137-40e3-9cd6-d8813710e3ed": {
+"d": "2026-02-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2579,
+"s": "Anna er forbanna på bæsj i do, Finn Glede feirer kinesisk nyttår og vi har vært i avisa sammen.",
+"t": "Daniels runking i avisa",
+"u": "https://podkast.nrk.no/fil/siesta/d69cd6d8-8137-40e3-9cd6-d8813710e3ed_ID192MP3.mp3"
+},
+"l_d72e21fd-ee75-4a5f-ae21-fdee754a5fc5": {
+"d": "2025-03-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1727,
+"s": "Hvem velger vi som forlover, hvilken hælj blirre og hvem har vært mest dum denne uka?",
+"t": "Skutt bak en låvedør",
+"u": "https://podkast.nrk.no/fil/siesta/c0e85179-ea71-4905-891d-d9b4e7d49f3c_0_ID192MP3.mp3"
+},
+"l_d7bcfaba-2bda-448d-bcfa-ba2bdaf48d2b": {
+"d": "2026-01-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1989,
+"s": "Hvem drikker fløte på natta, hvem har en kvise mellom rumpeballene og ikke minst hvem vinner dagens Quizvang? Alle svarene får du her!",
+"t": "Drikker Daniel fløte på natta?",
+"u": "https://podkast.nrk.no/fil/siesta/d7bcfaba-2bda-448d-bcfa-ba2bdaf48d2b_ID192MP3.mp3"
+},
+"l_d80bedf9-79b6-4d67-8bed-f979b6ad674b": {
+"d": "2025-05-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1823,
+"s": "87 år gamle Arvid forteller groviser, vi diskuterer hva det motsatte av en fotball er og Markus har satt seg på egne rundstykker!",
+"t": "Han redda pelikanen!",
+"u": "https://podkast.nrk.no/fil/siesta/5fbbc91e-4b77-4a14-ada9-b3c1f4d3605b_0_ID192MP3.mp3"
+},
+"l_d8d3f286-fea1-4724-93f2-86fea1d72425": {
+"d": "2025-05-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1906,
+"s": "Markus lager reklame for onani hos Narvesen, Anna har verdens verste nabo og Daniel har vært i avhør hos politiet.",
+"t": "Daniel dreper Markus (nesten)",
+"u": "https://podkast.nrk.no/fil/siesta/2fa56a1a-96c8-40ee-aced-10bcf6edef5c_0_ID192MP3.mp3"
+},
+"l_dade3f2c-944b-4cd7-9e3f-2c944bccd790": {
+"d": "2025-11-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1920,
+"s": "Anna får kommentarer på at hun ser ut som Høggern, hvem er forræder av Daniel og Markus og nok en kjendis har besøkt Finnsnes.",
+"t": "Vi er med i «Forræder»",
+"u": "https://podkast.nrk.no/fil/siesta/dade3f2c-944b-4cd7-9e3f-2c944bccd790_ID192MP3.mp3"
+},
+"l_dc87454c-40dd-498a-8745-4c40dd698aa4": {
+"d": "2026-03-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2858,
+"s": "Harry Petter mener han blir mobba, hvem får Anna til å le og kunne vi dratt til månen?",
+"t": "Pistasj er overvurdert",
+"u": "https://podkast.nrk.no/fil/siesta/dc87454c-40dd-498a-8745-4c40dd698aa4_1_ID192MP3.mp3"
+},
+"l_dcd65a13-9e44-47ee-965a-139e4447ee08": {
+"d": "2025-06-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1902,
+"s": "Vi rater musikken til Markus, det blir mic-check i spalte-spalten og Siesta fikk kjeft på KI-kurs i går.",
+"t": "Vi fikk voksenkjeft",
+"u": "https://podkast.nrk.no/fil/siesta/dcfae75e-be3f-4588-9b1b-d66ddeedf50f_0_ID192MP3.mp3"
+},
+"l_dd2764cf-a561-405d-a764-cfa561605da9": {
+"d": "2026-01-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2013,
+"s": "Finnes det tid i et sort hull, hvorfor sier Daniel skinkerytter og hvorfor ser vi trusekanten til Anna? Alt dette får du svar i dag!",
+"t": "Anna viser trusekanten",
+"u": "https://podkast.nrk.no/fil/siesta/dd2764cf-a561-405d-a764-cfa561605da9_ID192MP3.mp3"
+},
+"l_dd9906b2-8cd9-416a-9906-b28cd9816a65": {
+"d": "2025-11-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1877,
+"s": "Hvem er best til å parodiere Cato og Tore fra Gåten Orderud, Markus har skapt jævlig mye kaos og vi smalltalker julemas!",
+"t": "Denna velferdsstaten",
+"u": "https://podkast.nrk.no/fil/siesta/dd9906b2-8cd9-416a-9906-b28cd9816a65_ID192MP3.mp3"
+},
+"l_ddd54d2f-37db-46f0-954d-2f37db36f079": {
+"d": "2026-07-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1853,
+"s": "Vi prøver oss på engelsk, Tante Rita ringer og er full og vi benytter anledningen til å snakke om juletre.",
+"t": "Time 17: Tante Rita er drita",
+"u": "https://podkast.nrk.no/fil/siesta/ddd54d2f-37db-46f0-954d-2f37db36f079_1_ID192MP3.mp3"
+},
+"l_de1ca3a4-2211-4b50-9ca3-a42211db5068": {
+"d": "2025-11-19T14:06:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1775,
+"s": "Det blir en prompe-spesial i papegøye, Kina har begynt med brunost og Espen Aas skal lære Anna engelsk.",
+"t": "Hvordan sier man «cookies»?",
+"u": "https://podkast.nrk.no/fil/siesta/de1ca3a4-2211-4b50-9ca3-a42211db5068_ID192MP3.mp3"
+},
+"l_deee435d-3436-4800-ae43-5d34367800f3": {
+"d": "2025-06-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1882,
+"s": "Det blir Sverige-spesial i papegøye, Anna blir oppringt av en hissig bikkjetrener og Daniel deler trist historie om rævsprekk.",
+"t": "Mamma dro opp buksa mi!",
+"u": "https://podkast.nrk.no/fil/siesta/f0159c66-add7-4b43-8555-54cff09b418c_0_ID192MP3.mp3"
+},
+"l_e125079b-bce4-473c-a507-9bbce4273c19": {
+"d": "2026-05-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2829,
+"s": "Vi finner ut av hva det motsatte av en pølse er, ukas dumfette skal kåres og Daniel prøver seg på en russeknute.",
+"t": "Drakk 4 pils og spiste en pizza",
+"u": "https://podkast.nrk.no/fil/siesta/e125079b-bce4-473c-a507-9bbce4273c19_1_ID192MP3.mp3"
+},
+"l_e24bb3e5-cfdf-4b02-8bb3-e5cfdf7b02df": {
+"d": "2026-01-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1982,
+"s": "Markus og Anna er ikke fornøyde med Daniels fangst fra Gran Canaria, og vi konfronterer Henning om sitt smågodt-hat.",
+"t": "Skuffet over Daniels gave",
+"u": "https://podkast.nrk.no/fil/siesta/e24bb3e5-cfdf-4b02-8bb3-e5cfdf7b02df_ID192MP3.mp3"
+},
+"l_e4710b6f-8a46-45d0-b10b-6f8a46e5d09c": {
+"d": "2025-10-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1750,
+"s": "Hvem har den beste catchphrasen, hva er den beste eksamenssnacksen og hvorfor avviste Daniel Markus på det groveste?",
+"t": "Markus ble avvist",
+"u": "https://podkast.nrk.no/fil/siesta/e4710b6f-8a46-45d0-b10b-6f8a46e5d09c_ID192MP3.mp3"
+},
+"l_e49b06ad-9378-4876-9b06-ad9378387647": {
+"d": "2025-03-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1794,
+"s": "Daniel er sjokkert over ny serie på NRK, Anna forsøker å skrelle en appelsin sensuelt og Markus har fått ny (og veldig spesiell) stil.",
+"t": "Skjegget er borte",
+"u": "https://podkast.nrk.no/fil/siesta/3ee37b97-dd15-4414-8a7f-f2e131f11c59_0_ID192MP3.mp3"
+},
+"l_e53c3476-ad5c-4b03-bc34-76ad5c2b031a": {
+"d": "2025-10-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1870,
+"s": "Livsgnisten er varierende i gjengen, det blir en humorfilm-spesial i papegøye og Daniel dumma seg kraftig ut.",
+"t": "Gjorde nazihilsen på kontoret",
+"u": "https://podkast.nrk.no/fil/siesta/e53c3476-ad5c-4b03-bc34-76ad5c2b031a_ID192MP3.mp3"
+},
+"l_e5a187b4-d804-40d1-a187-b4d80420d1c1": {
+"d": "2026-07-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1565,
+"s": "Markus putter isbiter i rumpa, den ekle onkel Anders kommer innom og synes vi egentlig det er gøy å døgne?",
+"t": "Time 18: Isbit i rumpa",
+"u": "https://podkast.nrk.no/fil/siesta/e5a187b4-d804-40d1-a187-b4d80420d1c1_1_ID192MP3.mp3"
+},
+"l_e6433180-9faa-4b39-8331-809faa0b3969": {
+"d": "2025-06-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1950,
+"s": "Markus har laget stev om Siesta, Daniel har fotballtrener-spesial i papegøye og Anna er redd for trailere.",
+"t": "JEG NEKTER Å SE PÅ TAPERE!!!",
+"u": "https://podkast.nrk.no/fil/siesta/5058bd33-6622-4632-b822-70f172dc6fa4_0_ID192MP3.mp3"
+},
+"l_e6a070db-1051-4feb-a070-db10518feb2b": {
+"d": "2025-08-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1845,
+"s": "Daniel intervjuer Magnus Devold, Markus har laga snever spalte-spalte og Anna mister kontrollen.",
+"t": "Vi er i psykose",
+"u": "https://podkast.nrk.no/fil/siesta/e6a070db-1051-4feb-a070-db10518feb2b_ID192MP3.mp3"
+},
+"l_e788bd3e-4342-43b7-88bd-3e434213b76a": {
+"d": "2025-04-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1784,
+"s": "Anna blir mobba for skjorta si, Daniel glemmer atter en gang å ha på lydløs og Markus skal spise fries med brun saus.",
+"t": "Yeehaw fra cowboy-Anna",
+"u": "https://podkast.nrk.no/fil/siesta/d3a99920-5f9c-4cc7-8226-22b7440e8c5f_0_ID192MP3.mp3"
+},
+"l_e7f1fe4a-e255-4f82-b1fe-4ae2556f822c": {
+"d": "2026-02-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2925,
+"s": "Finn Glede vil lage pornofilm på Finntopia, hva er det motsatte av en dyne og vi får skrekkelig (bra) rap fra Annas fortid.",
+"t": "Rap fra 12 år gamle Anna",
+"u": "https://podkast.nrk.no/fil/siesta/e7f1fe4a-e255-4f82-b1fe-4ae2556f822c_ID192MP3.mp3"
+},
+"l_e83d496d-0c82-4f35-bd49-6d0c82df35eb": {
+"d": "2025-11-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2116,
+"s": "Vi ga Markus en uforglemmelig gave, hvem er best gjengkriminell og Quizvang leverer som alltid.",
+"t": "Markus sin 30-årsgave",
+"u": "https://podkast.nrk.no/fil/siesta/e83d496d-0c82-4f35-bd49-6d0c82df35eb_ID192MP3.mp3"
+},
+"l_e8db9566-0925-480e-9b95-660925180e0e": {
+"d": "2025-12-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2160,
+"s": "Hvem er best i lønnsforhandlinger, vi blir avbrutt av Mathias og hvem vinner årets første Quizmasvang?",
+"t": "Hvem er best i lønnsforhandlinger?",
+"u": "https://podkast.nrk.no/fil/siesta/e8db9566-0925-480e-9b95-660925180e0e_ID192MP3.mp3"
+},
+"l_eab911f7-6f10-496b-b911-f76f10e96b16": {
+"d": "2025-10-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1587,
+"s": "Rafael Eriksen fra P4 skal lære siesta å lage skikkelig radio og er det lov å spise i senga?",
+"t": "Smuler i valkene",
+"u": "https://podkast.nrk.no/fil/siesta/eab911f7-6f10-496b-b911-f76f10e96b16_ID192MP3.mp3"
+},
+"l_eb1748aa-9ee5-45a7-9748-aa9ee595a7c2": {
+"d": "2026-08-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1622,
+"s": "Vi har sendt radio i 24 timer! I den siste timen får du vite hvilken hatt Daniel skal erstatte capsen med og en siste Quizvang<3",
+"t": "Time 24: VI GREIDE DET",
+"u": "https://podkast.nrk.no/fil/siesta/eb1748aa-9ee5-45a7-9748-aa9ee595a7c2_1_ID192MP3.mp3"
+},
+"l_ed012c5b-8997-4cb7-812c-5b8997dcb7d2": {
+"d": "2026-01-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/kSlw-DBUYIsyZX2AuRCkIQEmXSmRhTG_sEcGUw6sgbTA",
+"n": 2102,
+"s": "Vi får besøk av Henrik Bjørnson fra 16 ukers helvete og tester hans favorittdessert; troika med vaniljesaus!",
+"t": "Vi tester spinnvill tjukkas-dessert",
+"u": "https://podkast.nrk.no/fil/siesta/ed012c5b-8997-4cb7-812c-5b8997dcb7d2_ID192MP3.mp3"
+},
+"l_ed9ffec6-45d5-446b-9ffe-c645d5546b4a": {
+"d": "2025-08-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1739,
+"s": "Markus tar barten, Daniel leder spaltespalten og Anna er lei pølsesnakk.",
+"t": "Markus starter ny skjeggtrend?",
+"u": "https://podkast.nrk.no/fil/siesta/ed9ffec6-45d5-446b-9ffe-c645d5546b4a_ID192MP3.mp3"
+},
+"l_edbba513-c99a-44b4-bba5-13c99ae4b4d6": {
+"d": "2025-06-06T13:30:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1675,
+"s": "Vi har ny variant av hva slags hælj blirre, og det blir ekte temperatur når Daniel skal kåre ukas dumfette.",
+"t": "Vi må redde vennskapet",
+"u": "https://podkast.nrk.no/fil/siesta/7483c41c-9029-4b9f-9641-5c1207926ca3_0_ID192MP3.mp3"
+},
+"l_eeac451a-755b-441a-ac45-1a755bd41a69": {
+"d": "2026-02-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2614,
+"s": "Anna hater Linkedin, Henning ble truet av Fortum strøm og er makrell i tomat smæsj eller bæsj?",
+"t": "Siestas første vikar",
+"u": "https://podkast.nrk.no/fil/siesta/eeac451a-755b-441a-ac45-1a755bd41a69_ID192MP3.mp3"
+},
+"l_f006fdc2-970a-495e-86fd-c2970ae95ee3": {
+"d": "2025-12-18T13:30:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1969,
+"s": "Det var en hard dag for bikkja til Markus, Daniel har hyra inn spesiell juleartist og Anna har overgått seg selv.",
+"t": "Klemte poten i døra",
+"u": "https://podkast.nrk.no/fil/siesta/f006fdc2-970a-495e-86fd-c2970ae95ee3_ID192MP3.mp3"
+},
+"l_f04895c2-cb98-422b-8895-c2cb98322bec": {
+"d": "2026-04-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2798,
+"s": "Anna er kokforbanna på folk som ikke vippser, vi får besøk av Onan Hemsworth fra KrfU og Daniel får oss til å oversette Michael Jackson.",
+"t": "Er det lov med sokker i sandaler",
+"u": "https://podkast.nrk.no/fil/siesta/f04895c2-cb98-422b-8895-c2cb98322bec_1_ID192MP3.mp3"
+},
+"l_f0a28e2b-77c9-4ef0-a28e-2b77c95ef0dc": {
+"d": "2025-09-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1835,
+"s": "Finn Glede har blitt sjaman, Markus og Daniel tar på øyet til Anna og er det motsatte av en sykepleier en bøddel?",
+"t": "Tilbød fremmede barn godteri",
+"u": "https://podkast.nrk.no/fil/siesta/f0a28e2b-77c9-4ef0-a28e-2b77c95ef0dc_ID192MP3.mp3"
+},
+"l_f139d629-41f1-41a4-b9d6-2941f1a1a467": {
+"d": "2026-07-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1927,
+"s": "I denne timen stjeler vi innhold fra andre radioprogram og podkaster. Det blir velkjent innhold du elsker.",
+"t": "Time 8: Vi stjeler fra andre",
+"u": "https://podkast.nrk.no/fil/siesta/f139d629-41f1-41a4-b9d6-2941f1a1a467_1_ID192MP3.mp3"
+},
+"l_f2a19039-4516-4be8-a190-394516abe862": {
+"d": "2025-03-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1738,
+"s": "Markus har ikke tørka seg på 21 dager, Anna blir konfrontert av Daniel i spalten ubehag og hva er det motsatte av en hengelås?",
+"t": "Kulturelt forfall",
+"u": "https://podkast.nrk.no/fil/siesta/50dbb6fe-29d0-45ca-a5d9-b521fadf0c2b_0_ID192MP3.mp3"
+},
+"l_f2d36bb7-3567-491b-936b-b73567591b99": {
+"d": "2025-09-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1784,
+"s": "Daniel har dyrelyder i papegøye, Annas mage rumler (må hun bæsje?) og Finn Glede konfronterer Thomas Engeset!",
+"t": "Du tar patent på singel mus",
+"u": "https://podkast.nrk.no/fil/siesta/f2d36bb7-3567-491b-936b-b73567591b99_ID192MP3.mp3"
+},
+"l_f340af9b-ef3a-44e4-80af-9bef3ab4e4d8": {
+"d": "2025-03-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1811,
+"s": "Markus er den nye lommemannen bare med yoghurt, Daniel har glemt å skru på lydløs og det blir ubehagelig når noen skal kiles.",
+"t": "Er det lov å kile en kollega?",
+"u": "https://podkast.nrk.no/fil/siesta/089adfcf-ab0c-4746-9e71-6a5636e5669c_0_ID192MP3.mp3"
+},
+"l_f3cc18d9-f2e2-4094-8c18-d9f2e2a094a9": {
+"d": "2025-12-19T13:25:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2149,
+"s": "Hvem blir årets dumfette, hvem vinner årets siste Quizmasvang og hvem løper naken? Sånt blir det jul av, god jul<3",
+"t": "Løpe naken over fotballbane",
+"u": "https://podkast.nrk.no/fil/siesta/f3cc18d9-f2e2-4094-8c18-d9f2e2a094a9_ID192MP3.mp3"
+},
+"l_f3f40946-c8f6-42f3-b409-46c8f662f344": {
+"d": "2025-03-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1737,
+"s": "Markus har med gameshow, Anna skal forhekse en av lytternes fiender og Daniel skal kåre \"ukas dumfette\" i redaksjonen.",
+"t": "Hvem er ukas dumfette?",
+"u": "https://podkast.nrk.no/fil/siesta/e3ce4fe0-2b48-48b5-810b-552c54c11a09_0_ID192MP3.mp3"
+},
+"l_f40bf154-8683-4b1c-8bf1-5486834b1c45": {
+"d": "2026-02-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2686,
+"s": "Vi prøver å finne Hitler på Wikipedia, Borat titter innom i papegøye og ikke minst kommer vi så nære hverandre at Anna gråter.",
+"t": "To tjukke menn gjør Anna rørt",
+"u": "https://podkast.nrk.no/fil/siesta/f40bf154-8683-4b1c-8bf1-5486834b1c45_ID192MP3.mp3"
+},
+"l_f4cdf794-73cf-471d-8df7-9473cf671d9e": {
+"d": "2026-02-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3073,
+"s": "Det er fredag som betyr vennskapstest, Quizvang og ikke minst en helt ny konkurranse: Norges dummeste tatovering! Meld deg på inne på P3.no<3",
+"t": "Markus skal tatovere seg!",
+"u": "https://podkast.nrk.no/fil/siesta/f4cdf794-73cf-471d-8df7-9473cf671d9e_ID192MP3.mp3"
+},
+"l_f5a72132-308a-4f2a-a721-32308a4f2ade": {
+"d": "2026-01-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2166,
+"s": "Tante Rita avslører at Daniel har fridd til Janne,  Anna er frelst etter kirka og Markus blir konfrontert med pustinga si.",
+"t": "Daniel er forlova!!!",
+"u": "https://podkast.nrk.no/fil/siesta/f5a72132-308a-4f2a-a721-32308a4f2ade_ID192MP3.mp3"
+},
+"l_f5ae7bf8-298e-4bd0-ae7b-f8298e7bd03f": {
+"d": "2025-10-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1945,
+"s": "Markus ble konfrontert om når hælja starter, dagens jobbdass er i lufta og hvem mista jomfrudommen først?",
+"t": "Når mista Siesta jomfrudommen?",
+"u": "https://podkast.nrk.no/fil/siesta/f5ae7bf8-298e-4bd0-ae7b-f8298e7bd03f_ID192MP3.mp3"
+},
+"l_f678bd2e-8da9-4cc7-b8bd-2e8da9fcc76f": {
+"d": "2026-07-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1679,
+"s": "Mari Monsson  fra nitimen er gjest! Rafael Eriksen titter innom, det blir papegøye og vi snakker om handlevogner på butikken.",
+"t": "Time 10: Mari Monsson er med!",
+"u": "https://podkast.nrk.no/fil/siesta/f678bd2e-8da9-4cc7-b8bd-2e8da9fcc76f_1_ID192MP3.mp3"
+},
+"l_f68822fd-fae2-4c41-8822-fdfae29c4177": {
+"d": "2025-09-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1918,
+"s": "Markus fikk overraskelsesbursdag, det blir finale i Daniels dokumentar og Anna har laga en absurd spalte-spalte.",
+"t": "Annas nødt eller sannhet",
+"u": "https://podkast.nrk.no/fil/siesta/f68822fd-fae2-4c41-8822-fdfae29c4177_ID192MP3.mp3"
+},
+"l_f9ff06a1-edbe-4e50-bf06-a1edbe1e50a3": {
+"d": "2025-04-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1983,
+"s": "Daniel har observert spøkelser på dass, Markus er smartere enn oljefondsjefen og Anna leder en sinne-spesial av papegøye!",
+"t": "Retake retake retake",
+"u": "https://podkast.nrk.no/fil/siesta/76b23234-c002-4ede-a4ad-67e2da748c6d_0_ID192MP3.mp3"
+},
+"l_fa547477-97af-4e56-9474-7797af5e5621": {
+"d": "2025-06-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2149,
+"s": "Markus har brutt ny bariere med valpen sin, Daniel kårer ukens dumfette og blir det en trikk i gøteborg eller rampenisse hælj?",
+"t": "Hun ble livredd da jeg feis",
+"u": "https://podkast.nrk.no/fil/siesta/eeb42ef6-4e30-493a-b3d8-15ccc248f58f_0_ID192MP3.mp3"
+},
+"l_facd548e-c803-4df1-8d54-8ec8035df143": {
+"d": "2026-06-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1544,
+"s": "Markus har sett folk kjøpe kondom, hva er det motsatte av en utedo og det blir Quizvang.",
+"t": "Time 2: Bang kondomer på 7/11",
+"u": "https://podkast.nrk.no/fil/siesta/facd548e-c803-4df1-8d54-8ec8035df143_1_ID192MP3.mp3"
+},
+"l_fad2f00a-dd3a-43bb-92f0-0add3ac3bb63": {
+"d": "2025-11-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2259,
+"s": "Markus har fått ny humor, Anna spiste dessert alene (trist) og Daniel har med en rar oversettelse fra «Kongen av Queens».",
+"t": "Skal jeg pule deg?",
+"u": "https://podkast.nrk.no/fil/siesta/fad2f00a-dd3a-43bb-92f0-0add3ac3bb63_ID192MP3.mp3"
+},
+"l_fbd2a7d4-755f-4c0c-92a7-d4755f5c0cf3": {
+"d": "2026-01-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1887,
+"s": "Ikke alle er glade for nytt år i Lillehammer, Daniel er surrete og Markus har fått nye innesko (tøfler).",
+"t": "Fittetryne-kopp til 200kr",
+"u": "https://podkast.nrk.no/fil/siesta/fbd2a7d4-755f-4c0c-92a7-d4755f5c0cf3_ID192MP3.mp3"
+},
+"l_fbdac7f1-df32-44b5-9ac7-f1df3294b520": {
+"d": "2025-09-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2109,
+"s": "Markus har vært ekkel før jobb, Anna har nesten drept noen og Daniel har eid høner.",
+"t": "Tok en baconpølse FØR jobb!",
+"u": "https://podkast.nrk.no/fil/siesta/fbdac7f1-df32-44b5-9ac7-f1df3294b520_ID192MP3.mp3"
+},
+"l_fbfbebe3-0eb9-4287-bbeb-e30eb972878e": {
+"d": "2026-05-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 2795,
+"s": "Vinneren av Norges dummeste tatovering kåres og Markus må tatovere seg<3 Det blir også quizvang og Daniel har med fredagshilsen.",
+"t": "Markus tatover seg",
+"u": "https://podkast.nrk.no/fil/siesta/fbfbebe3-0eb9-4287-bbeb-e30eb972878e_1_ID192MP3.mp3"
+},
+"l_fc54f6e8-a903-460e-94f6-e8a903260eae": {
+"d": "2025-09-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 1743,
+"s": "Vi diskuterer buffeten på frps valgvake, Anna oppsummerer valget og vi er splitta i Daniels smurfehits.",
+"t": "825 kr for en svett burger?!",
+"u": "https://podkast.nrk.no/fil/siesta/fc54f6e8-a903-460e-94f6-e8a903260eae_ID192MP3.mp3"
+},
+"l_fd948a42-5715-48df-948a-42571518df00": {
+"d": "2026-06-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"n": 3238,
+"s": "Anna har hissig og på jakt etter sommerklær, quizmaster Ørjan Borre har James Bond-quiz og det blir Maroon 5 i Emma Steinbakken.",
+"t": "Servelat på vaffel",
+"u": "https://podkast.nrk.no/fil/siesta/fd948a42-5715-48df-948a-42571518df00_1_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "siesta",
+"image": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
+"subtitle": "Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.",
+"title": "Siesta"
+},
+"v": 2
 }

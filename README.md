@@ -13,9 +13,15 @@ innlogging, ingen DRM:
 
 | Steg | Endepunkt |
 |---|---|
-| Katalog | `/radio/search/categories/podcast?take=100&skip=N` |
-| Episoder | `/radio/catalog/podcast/{id}/episodes?page=N&pageSize=50` |
+| Serieliste | `/radio/search/categories/podcast?take=100&skip=N` |
+| Serie + 20 nyeste | `/radio/catalog/podcast/{id}` |
+| Dypere episoder | `/radio/catalog/podcast/{id}/episodes?page=N&pageSize=50` |
 | Lydfil | `/playback/manifest/podcast/{episodeId}` |
+
+Endringsdeteksjonen hviler på at `/radio/catalog/podcast/{id}` returnerer både
+seriemetadata **og** de 20 nyeste episodene sortert `desc` i ett kall. Er alle
+20 kjent fra før, rører vi ikke resten av arkivet. Først når noe ukjent dukker
+opp i toppen pagineres det dypere — og da bare til første side der alt er kjent.
 
 MP3-URL-en kan **ikke** utledes av episode-ID-en — den bruker en annen UUID, og
 minst tre navnekonvensjoner er i bruk:
@@ -33,13 +39,22 @@ så bare nye episoder koster noe. `<enclosure length>` regnes ut som
 
 ## Omfang
 
-235 serier, ~59 500 episoder, ~90 MB XML.
+235 serier, 59 518 episoder, ~90 MB XML, 33 MB cache.
+
+`hos_peder` ligger i NRKs podkastkategori, men `/radio/catalog/podcast/hos_peder`
+svarer 404. Den hoppes over, så det blir 234 feeder.
 
 | Jobb | Kall | Tid |
 |---|---|---|
-| Katalog-crawl | 1 326 | ~60 s |
-| Manifest-backfill (engangs) | 59 518 | ~25 min |
-| Daglig delta | ~1 400 | under 2 min |
+| Manifest-backfill (engangs) | 59 518 | ~36 min |
+| Full crawl (`--full`, ukentlig) | 1 568 | ~34 s |
+| Inkrementell, ingen endringer | **242** | **~4 s** |
+
+Feedene bygges hvert 15. minutt fra den inkrementelle stien, altså ~23 000
+API-kall i døgnet. Uten optimaliseringen hadde samme kadens kostet 150 000.
+
+En full crawl kjører mandag natt. Det er den eneste måten å oppdage at NRK har
+*fjernet* en episode — den inkrementelle stien ser bare toppen av lista.
 
 ## Kom i gang
 
@@ -71,6 +86,17 @@ python -m http.server -d site
 
 Hovedfeeden er kuttet til 300 med vilje: Ekko har 7 661 episoder, og
 podkastklienter laster ned hele XML-en ved hver poll.
+
+## Cache
+
+`cache/{seriesId}.json` holder seriemetadata og én linje per episode med
+tittel, dato, varighet, bilde og lyd-URL. Den committes av jobben, og er det
+som gjør 15-minutters kadens mulig — uten den måtte hele arkivet hentes på
+nytt hver gang.
+
+Formatet er versjonert (`"v": 2`); eldre cache oppgraderes automatisk.
+`.heartbeat` skrives med ukesgranularitet, slik at det garantert blir minst én
+commit i uka — ellers deaktiverer GitHub cron-jobben etter 60 dager.
 
 ## Rettigheter
 

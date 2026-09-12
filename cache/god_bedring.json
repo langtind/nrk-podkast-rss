@@ -1,122 +1,972 @@
 {
-"l_022c83b8-6f2b-4d83-ac83-b86f2bad8339": "https://podkast.nrk.no/fil/god_bedring/b455dcc3-bdfd-46c2-b746-07ac2a8d826c_0_ID192MP3.mp3",
-"l_0b201211-0b23-4c05-a012-110b235c0516": "https://podkast.nrk.no/fil/god_bedring/cf006c22-e4cc-477b-a3af-a081046bcea9_0_ID192MP3.mp3",
-"l_0dbb2210-32ab-4817-bb22-1032abe81736": "https://podkast.nrk.no/fil/god_bedring/c78e7395-b0eb-418f-a09f-6ce680733585_0_ID192MP3.mp3",
-"l_11409ad8-0d66-4a1b-809a-d80d661a1b78": "https://podkast.nrk.no/fil/god_bedring/30f7ee49-a9d2-47fa-bb65-bcc50e6d3b6a_0_ID192MP3.mp3",
-"l_1e1fd164-1690-4c2d-9fd1-6416900c2dea": "https://podkast.nrk.no/fil/god_bedring/1aa11e75-3704-4119-8587-bf94889cf574_0_ID192MP3.mp3",
-"l_1f5501fc-d7ca-4694-9501-fcd7ca7694a7": "https://podkast.nrk.no/fil/god_bedring/1de84d58-1d67-400a-9430-8bf8b256cf10_0_ID192MP3.mp3",
-"l_2247c11a-ec90-4c97-87c1-1aec90cc97e0": "https://podkast.nrk.no/fil/god_bedring/3db66f9b-d3ac-46d2-a963-549d78cbdae5_0_ID192MP3.mp3",
-"l_22aa00da-3b6e-43d7-aa00-da3b6e23d7d1": "https://podkast.nrk.no/fil/god_bedring/829b1594-ba29-4130-aa9e-2dcf8d35515a_0_ID192MP3.mp3",
-"l_27303f0e-8189-43a1-b03f-0e818963a128": "https://podkast.nrk.no/fil/god_bedring/18cf33cc-a725-461b-8009-1f5eaaf94450_0_ID192MP3.mp3",
-"l_279d460d-d3da-4b7c-9d46-0dd3dabb7c43": "https://podkast.nrk.no/fil/god_bedring/e83e93b7-83ff-48ac-a94d-b29b14a1b008_0_ID192MP3.mp3",
-"l_2939593d-63fd-4bed-b959-3d63fdcbedfc": "https://podkast.nrk.no/fil/god_bedring/cd1ed299-e2db-4717-864b-c72fea2c6ec5_0_ID192MP3.mp3",
-"l_2c90b8c6-6a1e-4659-90b8-c66a1e36590d": "https://podkast.nrk.no/fil/god_bedring/69a871ba-1377-42f3-b9db-4fe3d0a9ac1f_0_ID192MP3.mp3",
-"l_2ff65331-a76e-42ee-b653-31a76ec2eeb2": "https://podkast.nrk.no/fil/god_bedring/0358b5ae-41e5-46f6-9400-35fd30e36a5b_0_ID192MP3.mp3",
-"l_30fbb2f6-6190-4635-bbb2-f66190663561": "https://podkast.nrk.no/fil/god_bedring/40070c0b-e231-4b6b-86c0-69b164aa724a_0_ID192MP3.mp3",
-"l_333fcaf6-ac0f-4105-bfca-f6ac0f6105a1": "https://podkast.nrk.no/fil/god_bedring/29f1ce63-631c-47d3-9b8f-a4233f4bbd46_0_ID192MP3.mp3",
-"l_3397efc0-be98-42d1-97ef-c0be9822d126": "https://podkast.nrk.no/fil/god_bedring/3d9a91bf-7a2a-415b-874a-f1b54489a249_0_ID192MP3.mp3",
-"l_3590c004-79e6-4750-90c0-0479e6d7509a": "https://podkast.nrk.no/fil/god_bedring/c36c6f93-6383-423f-85c1-5db5edbe1eb6_0_ID192MP3.mp3",
-"l_390517d2-4aab-4358-8517-d24aaba35850": "https://podkast.nrk.no/fil/god_bedring/1b81ed8b-8a94-41cb-9042-4a1491c5e70c_0_ID192MP3.mp3",
-"l_39c1aa19-dc7c-4d3d-81aa-19dc7c5d3d9d": "https://podkast.nrk.no/fil/god_bedring/3ee1c693-f1e0-4645-b8b5-ff744b6c163e_0_ID192MP3.mp3",
-"l_3d175f68-8cc7-47f9-975f-688cc7a7f9b9": "https://podkast.nrk.no/fil/god_bedring/95baf770-ee06-4a4c-b75a-3d1a12a814ed_0_ID192MP3.mp3",
-"l_3ea1881d-89cf-4d31-a188-1d89cfed3123": "https://podkast.nrk.no/fil/god_bedring/6443f55e-4511-4043-ae08-6c901c188628_0_ID192MP3.mp3",
-"l_416471dc-0a81-41e5-a471-dc0a81d1e5f2": "https://podkast.nrk.no/fil/god_bedring/09a999dc-681b-4d31-8a10-88435de2a06a_0_ID192MP3.mp3",
-"l_457c5439-6200-4e04-bc54-3962002e040b": "https://podkast.nrk.no/fil/god_bedring/2a9085f0-9d70-44b6-9cd2-cbb816753dee_0_ID192MP3.mp3",
-"l_4729a3be-0b30-4b1c-a9a3-be0b30bb1c48": "https://podkast.nrk.no/fil/god_bedring/207226bd-2a17-4b02-a817-0cf0852ebae1_0_ID192MP3.mp3",
-"l_485a540e-a438-4562-9a54-0ea4385562aa": "https://podkast.nrk.no/fil/god_bedring/0092280d-fb91-4bf8-b29f-2c3d2d04b1a8_0_ID192MP3.mp3",
-"l_4b977ce0-1a33-4ec3-977c-e01a33dec3cb": "https://podkast.nrk.no/fil/god_bedring/077d291d-11a7-4f47-bca4-09dfbaff7d8e_0_ID192MP3.mp3",
-"l_4e07ff14-4cc3-4e02-87ff-144cc33e023a": "https://podkast.nrk.no/fil/god_bedring/57c1cdc1-4c53-45fe-ae8c-d4a02dc2510a_0_ID192MP3.mp3",
-"l_52754202-f051-48e6-b542-02f05198e6a1": "https://podkast.nrk.no/fil/god_bedring/1cc33046-0e41-4979-843d-21cd2eb93617_0_ID192MP3.mp3",
-"l_58323e45-1597-4d6b-b23e-4515972d6b8b": "https://podkast.nrk.no/fil/god_bedring/8a520188-0d4e-45af-83c7-0b60fdd3ce96_0_ID192MP3.mp3",
-"l_58365bc9-297e-447f-b65b-c9297e547f50": "https://podkast.nrk.no/fil/god_bedring/5a1fa3f9-9866-47bd-85fd-113a73d00f42_0_ID192MP3.mp3",
-"l_594fb8d3-88f9-4f0d-8fb8-d388f9ff0d0e": "https://podkast.nrk.no/fil/god_bedring/2253d77e-96dd-4e91-b412-7fe46a241306_0_ID192MP3.mp3",
-"l_62096010-1638-45cc-8960-10163855cc63": "https://podkast.nrk.no/fil/god_bedring/0ed12e5d-154b-4faf-ae37-3725a9508139_0_ID192MP3.mp3",
-"l_62bceb78-9572-44e3-bceb-789572b4e3bc": "https://podkast.nrk.no/fil/god_bedring/51f5f08d-933a-44dc-9a3e-d083d980bde1_0_ID192MP3.mp3",
-"l_63f46a06-b166-4b6b-b46a-06b1667b6baa": "https://podkast.nrk.no/fil/god_bedring/70e9d67f-a54c-43f8-a656-01649c1d2342_0_ID192MP3.mp3",
-"l_64a05f1b-81df-462b-a05f-1b81dfd62b58": "https://podkast.nrk.no/fil/god_bedring/0f159ab6-20c8-4e54-8732-168b6c11519d_0_ID192MP3.mp3",
-"l_65b733c9-6517-4854-b733-c96517c8547c": "https://podkast.nrk.no/fil/god_bedring/164d86f4-bd2c-4500-8c41-ac8ecca67aa6_0_ID192MP3.mp3",
-"l_65bf7a77-d50b-4717-bf7a-77d50bd71704": "https://podkast.nrk.no/fil/god_bedring/9170cced-4d28-4f6e-acf4-a3e0e859b4c8_0_ID192MP3.mp3",
-"l_6cea6437-0925-4532-aa64-370925b53265": "https://podkast.nrk.no/fil/god_bedring/b125fb48-b5ac-4b30-9930-d09217e2e8d0_0_ID192MP3.mp3",
-"l_6e37bb91-b873-4040-b7bb-91b8732040ca": "https://podkast.nrk.no/fil/god_bedring/79e5daef-d020-48e7-bef3-7078ceae548b_0_ID192MP3.mp3",
-"l_6ef32915-96a1-4d74-b329-1596a1ad74fa": "https://podkast.nrk.no/fil/god_bedring/41ac4269-ec94-4795-b776-e7ea9c7d86f7_0_ID192MP3.mp3",
-"l_6f44ea1c-8914-4ef8-84ea-1c89143ef85c": "https://podkast.nrk.no/fil/god_bedring/0c060132-aad6-40b9-af68-087bacf0cc41_0_ID192MP3.mp3",
-"l_6f7775dc-523d-4fb0-b775-dc523d9fb0b9": "https://podkast.nrk.no/fil/god_bedring/08e6ed24-18cf-42fb-b21c-ccacf5df17d7_0_ID192MP3.mp3",
-"l_6fb4f7ce-23e3-4220-b4f7-ce23e3a2205d": "https://podkast.nrk.no/fil/god_bedring/7dc14336-eb3a-41ea-8289-b9583458d6bd_0_ID192MP3.mp3",
-"l_72c03c3a-4f13-4996-803c-3a4f1339969a": "https://podkast.nrk.no/fil/god_bedring/18be4c37-e47a-401d-921d-cf1e5dd1c24d_0_ID192MP3.mp3",
-"l_73673dcf-4150-42f3-a73d-cf415042f3f1": "https://podkast.nrk.no/fil/god_bedring/cb58975f-a442-4c62-9717-02da1dbb4ba0_0_ID192MP3.mp3",
-"l_74583501-bb54-4632-9835-01bb54e6325c": "https://podkast.nrk.no/fil/god_bedring/65a7a97d-f228-4767-94f6-34cb5e2cdd84_0_ID192MP3.mp3",
-"l_74cfaf4c-8d27-4ba9-8faf-4c8d27eba99b": "https://podkast.nrk.no/fil/god_bedring/b3b51cee-ccad-4206-a006-bad30e305dd3_0_ID192MP3.mp3",
-"l_7521934a-3621-4a72-a193-4a36214a72d9": "https://podkast.nrk.no/fil/god_bedring/7ed369c4-d0a2-4da0-be8b-18072154d89c_0_ID192MP3.mp3",
-"l_773f18a5-4772-44d7-bf18-a5477264d769": "https://podkast.nrk.no/fil/god_bedring/ee3ae79b-d0cc-46e1-88f5-265570783353_0_ID192MP3.mp3",
-"l_788789a7-1b9d-4bb5-8789-a71b9d3bb5f4": "https://podkast.nrk.no/fil/god_bedring/80ee4e8b-04f3-46c7-aa95-ce400adf43c7_0_ID192MP3.mp3",
-"l_78ae7905-add7-4d2c-ae79-05add78d2c3a": "https://podkast.nrk.no/fil/god_bedring/dcaa1908-fcb7-47e8-8a00-68124dc21a8b_0_ID192MP3.mp3",
-"l_7cd20907-270d-445b-9209-07270db45b83": "https://podkast.nrk.no/fil/god_bedring/b7f78888-af18-430b-b25e-4341d113cf64_0_ID192MP3.mp3",
-"l_806e6fbd-86e7-4791-ae6f-bd86e7a7917d": "https://podkast.nrk.no/fil/god_bedring/ae1d7812-cb2e-4fb5-902c-19da767a43e4_0_ID192MP3.mp3",
-"l_81150002-b7bf-4f70-9500-02b7bfbf7013": "https://podkast.nrk.no/fil/god_bedring/d4a9e0c1-5515-4602-8f6b-6d0580492695_0_ID192MP3.mp3",
-"l_8272a10d-ba48-470a-b2a1-0dba48670a05": "https://podkast.nrk.no/fil/god_bedring/ebf6d233-f15e-4847-800d-1200b15f193b_0_ID192MP3.mp3",
-"l_84a93bf8-1911-41fc-a93b-f8191131fc69": "https://podkast.nrk.no/fil/god_bedring/940838b4-a299-445e-8ae6-89610b32c5a6_0_ID192MP3.mp3",
-"l_851c2eca-d12f-4389-9c2e-cad12f8389e5": "https://podkast.nrk.no/fil/god_bedring/d3663e17-e0d3-47a5-8201-18b01cfa1efa_0_ID192MP3.mp3",
-"l_85b6a6c0-4484-47f5-b6a6-c04484a7f538": "https://podkast.nrk.no/fil/god_bedring/2535a15d-8b61-46df-8af3-eafef03d36e6_0_ID192MP3.mp3",
-"l_869b8529-443d-4be9-9b85-29443d8be9be": "https://podkast.nrk.no/fil/god_bedring/f6f16e19-3415-440c-804a-981a1dfa951d_0_ID192MP3.mp3",
-"l_88cf347a-0808-48ab-8f34-7a080868abb8": "https://podkast.nrk.no/fil/god_bedring/d49099d1-d336-4b61-aead-fd4f43e327fe_0_ID192MP3.mp3",
-"l_88d9aca4-5d9f-4fef-99ac-a45d9fbfef97": "https://podkast.nrk.no/fil/god_bedring/0a92ccf3-4bf0-49e2-85c6-199061497cd4_0_ID192MP3.mp3",
-"l_894fea09-90c6-4133-8fea-0990c6b13316": "https://podkast.nrk.no/fil/god_bedring/49595ffb-a503-4b08-9406-5e0515f4ffc2_0_ID192MP3.mp3",
-"l_8c9d7a90-d496-44f9-9d7a-90d49654f944": "https://podkast.nrk.no/fil/god_bedring/32e54f9b-c866-4bda-90bb-d0650e8f8790_0_ID192MP3.mp3",
-"l_8dfe2ea8-3110-4ec2-be2e-a831105ec212": "https://podkast.nrk.no/fil/god_bedring/981a4c8d-148c-433a-9ab9-7a43c5ac86a5_0_ID192MP3.mp3",
-"l_937e5238-4774-4a96-be52-3847742a9636": "https://podkast.nrk.no/fil/god_bedring/59345004-d0fe-4d17-8e34-69276657b37b_0_ID192MP3.mp3",
-"l_947d7ef6-e465-4667-bd7e-f6e465d66779": "https://podkast.nrk.no/fil/god_bedring/357a8a3d-3b44-4160-afbe-0079dd2ab3ee_0_ID192MP3.mp3",
-"l_94c49d55-0dbf-45ee-849d-550dbf65eee0": "https://podkast.nrk.no/fil/god_bedring/ba8f930c-c353-4522-aec7-e005dbd103c1_0_ID192MP3.mp3",
-"l_96478bf0-536e-4d3f-878b-f0536e0d3f6d": "https://podkast.nrk.no/fil/god_bedring/80ddca0d-a1f4-4dac-bfc8-43ab37e3dae3_0_ID192MP3.mp3",
-"l_967ee23c-f3a6-4a6d-bee2-3cf3a62a6da0": "https://podkast.nrk.no/fil/god_bedring/28a175ca-76e3-4947-a9f5-88add01598b8_0_ID192MP3.mp3",
-"l_984658c2-69ea-430c-8658-c269ea830cb0": "https://podkast.nrk.no/fil/god_bedring/94a9f1c3-1c1c-4518-aea4-3e2e5cf48108_0_ID192MP3.mp3",
-"l_99661813-0430-41bf-a618-13043091bf28": "https://podkast.nrk.no/fil/god_bedring/86b603ad-d018-4a50-ba22-47ba616f9d5b_0_ID192MP3.mp3",
-"l_9c9fe11a-16c2-4a04-9fe1-1a16c25a0492": "https://podkast.nrk.no/fil/god_bedring/474cf6b6-63ff-4456-adaa-d7c799f2992e_0_ID192MP3.mp3",
-"l_a221124d-5cb4-48a3-a112-4d5cb448a32f": "https://podkast.nrk.no/fil/god_bedring/5b04b33c-61b1-4e94-8fb3-a4b3f3f1a522_0_ID192MP3.mp3",
-"l_a72c26e9-22ae-40d1-ac26-e922ae60d1e2": "https://podkast.nrk.no/fil/god_bedring/9e5c8e54-6e5d-4db8-98fd-b265a527fed3_0_ID192MP3.mp3",
-"l_a9c5c3a3-8f29-47ad-85c3-a38f2907ad0b": "https://podkast.nrk.no/fil/god_bedring/a02885e3-a1b9-4ef3-819a-5841968813d7_0_ID192MP3.mp3",
-"l_aa3eb5d3-ef68-4583-beb5-d3ef68b583a8": "https://podkast.nrk.no/fil/god_bedring/01ecfc5a-0c04-44d5-b8fe-e32c5bcf0e3f_0_ID192MP3.mp3",
-"l_b53feb2a-c420-4fd8-bfeb-2ac420cfd855": "https://podkast.nrk.no/fil/god_bedring/70ed82d0-89d4-4d82-9be2-eae88759823b_0_ID192MP3.mp3",
-"l_b87b8805-55b6-4b2c-bb88-0555b60b2ca3": "https://podkast.nrk.no/fil/god_bedring/5c6eefd3-451d-4e24-8caf-d2b983b94cd4_0_ID192MP3.mp3",
-"l_b9d1c818-3730-42d4-91c8-18373032d4b7": "https://podkast.nrk.no/fil/god_bedring/5a40c41c-b151-4dc0-bafa-26e8bd3389b6_0_ID192MP3.mp3",
-"l_bb47285b-73a7-40e4-8728-5b73a7f0e47f": "https://podkast.nrk.no/fil/god_bedring/aa81790b-30c9-4092-9923-7347d330969b_0_ID192MP3.mp3",
-"l_bb8d31b4-e5c5-4cec-8d31-b4e5c54cec6b": "https://podkast.nrk.no/fil/god_bedring/edc24ef4-c678-4af5-8fdf-2fbb266bd610_0_ID192MP3.mp3",
-"l_bbb5c094-f5a9-40c3-b5c0-94f5a9d0c345": "https://podkast.nrk.no/fil/god_bedring/1d4853e8-7c60-4f40-b0a6-e03ac47b9c40_0_ID192MP3.mp3",
-"l_bd18c4cb-cd91-4479-98c4-cbcd91347914": "https://podkast.nrk.no/fil/god_bedring/6eb239bb-1932-435e-afe0-62932a8f2b6b_0_ID192MP3.mp3",
-"l_bde922d4-5435-4050-a922-d454352050cb": "https://podkast.nrk.no/fil/god_bedring/bfb6ac3b-5f80-44d4-b764-d779ca9ff980_0_ID192MP3.mp3",
-"l_c0b44a31-3fa5-4e80-b44a-313fa50e80f3": "https://podkast.nrk.no/fil/god_bedring/f4ce5057-57e3-4d11-af49-b6799f3aa221_0_ID192MP3.mp3",
-"l_c1ec06e4-7dc6-4613-ac06-e47dc6d6135f": "https://podkast.nrk.no/fil/god_bedring/4b1e3f85-2dd6-4bc4-ad45-07eb1aa45694_0_ID192MP3.mp3",
-"l_c1edb258-69ad-45b5-adb2-5869ad15b50a": "https://podkast.nrk.no/fil/god_bedring/f74c3cf5-5de0-43ec-96cf-f16e40418dc2_0_ID192MP3.mp3",
-"l_c2b3ee30-83a0-4131-b3ee-3083a081316e": "https://podkast.nrk.no/fil/god_bedring/a547f811-51ec-423c-987e-b98dc7fe8fdc_0_ID192MP3.mp3",
-"l_c81b5782-a1d9-413a-9b57-82a1d9013a25": "https://podkast.nrk.no/fil/god_bedring/1d535ba3-b435-4d2e-8b00-a9c79390f802_0_ID192MP3.mp3",
-"l_c921bc1e-0ed6-46fe-a1bc-1e0ed666fe55": "https://podkast.nrk.no/fil/god_bedring/46ec0c98-5191-4403-a5fb-7e16077a3f27_0_ID192MP3.mp3",
-"l_cb8cb975-eeeb-4feb-8cb9-75eeeb3feb96": "https://podkast.nrk.no/fil/god_bedring/3cd378c6-b5c4-4fd1-8405-8d441d9cffbe_0_ID192MP3.mp3",
-"l_d0eee34f-a6ba-40bf-aee3-4fa6ba70bf84": "https://podkast.nrk.no/fil/god_bedring/d6ba2231-a946-4ee8-92a9-64b261b5af90_0_ID192MP3.mp3",
-"l_d78ef17b-5c46-4332-8ef1-7b5c46e332f7": "https://podkast.nrk.no/fil/god_bedring/fd534f2e-678c-4b47-92bd-5e8d9aa255a4_0_ID192MP3.mp3",
-"l_da889b1b-c7a4-4a8e-889b-1bc7a4ea8e62": "https://podkast.nrk.no/fil/god_bedring/018cdcb2-9150-41a5-927e-50c844d14e62_0_ID192MP3.mp3",
-"l_dc6f66cc-2aa6-4ced-af66-cc2aa68cedba": "https://podkast.nrk.no/fil/god_bedring/54688f10-c0b0-4546-8b96-e56ada29b287_0_ID192MP3.mp3",
-"l_df3b8c95-420d-4dc2-bb8c-95420d7dc27b": "https://podkast.nrk.no/fil/god_bedring/e44f2039-4867-4c0b-bee0-25331b00e22e_0_ID192MP3.mp3",
-"l_e00e72db-2022-44bc-8e72-db2022b4bcb4": "https://podkast.nrk.no/fil/god_bedring/2532f23c-c411-464f-a973-8795379967c1_0_ID192MP3.mp3",
-"l_e14f32ae-d2d5-4766-8f32-aed2d59766e4": "https://podkast.nrk.no/fil/god_bedring/e05164ba-aaf0-4955-95ff-30b3eed749e7_0_ID192MP3.mp3",
-"l_e1be2dff-8c57-48f4-be2d-ff8c57b8f4a8": "https://podkast.nrk.no/fil/god_bedring/f0d48850-bcf7-4be9-a30b-5ce88f21c74f_0_ID192MP3.mp3",
-"l_e446026e-191f-41cd-8602-6e191f41cd9a": "https://podkast.nrk.no/fil/god_bedring/49ba2aeb-1dde-49c2-b870-7f60bbf53539_0_ID192MP3.mp3",
-"l_e6590683-cd93-47f2-9906-83cd9347f262": "https://podkast.nrk.no/fil/god_bedring/7448693d-5bef-4fe3-879f-bf5e638a6f3e_0_ID192MP3.mp3",
-"l_e6865be9-b940-41e9-865b-e9b94051e935": "https://podkast.nrk.no/fil/god_bedring/0fc3b7b6-2825-4500-b0dc-74e9e835d091_0_ID192MP3.mp3",
-"l_e6b46ac9-7c2e-4f11-b46a-c97c2e5f11e1": "https://podkast.nrk.no/fil/god_bedring/fcf2bd46-f3b0-40d1-a208-df117367c2b2_0_ID192MP3.mp3",
-"l_e7369d93-70cc-405e-b69d-9370cc205ea1": "https://podkast.nrk.no/fil/god_bedring/9480c883-6295-4934-be59-40e4f68b2ead_0_ID192MP3.mp3",
-"l_e8167e30-8c7e-4cae-967e-308c7e3cae2e": "https://podkast.nrk.no/fil/god_bedring/2a343dfb-19d4-4637-bf86-6e5a0d8e0e8c_0_ID192MP3.mp3",
-"l_e8f64db2-0cda-45d2-b64d-b20cda75d27d": "https://podkast.nrk.no/fil/god_bedring/a2f71312-a1bb-461e-a2d8-19842a29502c_0_ID192MP3.mp3",
-"l_e9bb24dd-4744-48e5-bb24-dd474488e524": "https://podkast.nrk.no/fil/god_bedring/6a145762-f66d-4c8f-b023-f07a1407789a_0_ID192MP3.mp3",
-"l_eb5964be-4ffd-4afe-9964-be4ffd5afe52": "https://podkast.nrk.no/fil/god_bedring/42c62472-43f3-470e-af0c-74071ab8197e_0_ID192MP3.mp3",
-"l_ec33f1d0-0624-4f0e-b3f1-d006249f0e0a": "https://podkast.nrk.no/fil/god_bedring/7d82c387-4cdf-4092-8e13-0901e12d31b5_0_ID192MP3.mp3",
-"l_ef53b065-dba5-4206-93b0-65dba5d20605": "https://podkast.nrk.no/fil/god_bedring/1c548546-9c06-4179-a3d8-4ab9641fa8a9_0_ID192MP3.mp3",
-"l_f09ace50-385b-4c5c-9ace-50385b9c5c32": "https://podkast.nrk.no/fil/god_bedring/3a381e1a-16d7-4879-bffd-d91291c64d5c_0_ID192MP3.mp3",
-"l_f16df6d3-458d-4e8c-adf6-d3458d9e8c9a": "https://podkast.nrk.no/fil/god_bedring/a5d95a4e-5ca3-4247-af84-0260e68fccd7_0_ID192MP3.mp3",
-"l_f2dff6f2-5535-4bc9-9ff6-f25535abc9d5": "https://podkast.nrk.no/fil/god_bedring/abfe1bb8-775a-4936-978b-984322c6aba7_0_ID192MP3.mp3",
-"l_f42ab80d-bd0b-4c97-aab8-0dbd0b7c970d": "https://podkast.nrk.no/fil/god_bedring/e03f41b5-5bd6-441e-a86e-774322630f92_0_ID192MP3.mp3",
-"l_f6d044b7-f33e-41c4-9044-b7f33eb1c436": "https://podkast.nrk.no/fil/god_bedring/f902e3b4-c33a-44f4-ba62-b4f6a14af861_0_ID192MP3.mp3",
-"l_f721ec51-ce2b-4e3d-a1ec-51ce2b7e3d56": "https://podkast.nrk.no/fil/god_bedring/e1472bf9-1d21-4e08-9b9a-a3fadcc07f74_0_ID192MP3.mp3",
-"l_f8b8f5c1-1620-4339-b8f5-c11620e3399a": "https://podkast.nrk.no/fil/god_bedring/86c1ddec-7bba-4357-a53c-3d720225c984_0_ID192MP3.mp3",
-"l_f9008516-b331-440f-8085-16b331440fab": "https://podkast.nrk.no/fil/god_bedring/33131113-1d17-48bc-8c82-1265a10c5e68_0_ID192MP3.mp3",
-"l_fba2a761-1c9e-47bc-a2a7-611c9e17bc3e": "https://podkast.nrk.no/fil/god_bedring/b76dbf64-8ddf-4d3a-8d2c-6df48dee7a36_0_ID192MP3.mp3",
-"l_fc4ce0a3-b82b-4049-8ce0-a3b82b4049b8": "https://podkast.nrk.no/fil/god_bedring/833b370f-523b-48f6-8a5a-2d1719603595_0_ID192MP3.mp3"
+"episodes": {
+"l_022c83b8-6f2b-4d83-ac83-b86f2bad8339": {
+"d": "2020-03-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3063,
+"s": "Tilværelsen er snudd på hodet for de fleste. Hvordan påvirker dette oss egentlig som mennesker?  Vi snakker om hvordan du takler ensomhet i karantene, hvorfor vi hamstrer, smittevern, tips for struktur i ny jobbhverdag og hva du kan gjøre for å få tiden til å gå.",
+"t": "Korona-spesial",
+"u": "https://podkast.nrk.no/fil/god_bedring/b455dcc3-bdfd-46c2-b746-07ac2a8d826c_0_ID192MP3.mp3"
+},
+"l_0b201211-0b23-4c05-a012-110b235c0516": {
+"d": "2022-04-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0HPsIPphwUlorLwgcimB6wRJ4joP31KarXrLZLucKfoQ",
+"n": 3059,
+"s": "Jennie lurer på om endometriose gjør fødsel bedre eller verre, en lytter er i rådvill kjærlighetssorg og Peder snakker om konseptet \"oddly satisfying\". Funker betakaroten og hva er det egentlig?",
+"t": "Jennie Sofie, smerteterskel og ASMR",
+"u": "https://podkast.nrk.no/fil/god_bedring/cf006c22-e4cc-477b-a3af-a081046bcea9_0_ID192MP3.mp3"
+},
+"l_0dbb2210-32ab-4817-bb22-1032abe81736": {
+"d": "2021-09-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/fkedqAECEQvKQqQwwaWrqAhcE2XjYjVOkevShLn7AvwQ",
+"n": 2749,
+"s": " Er det farlig å sove lite? Innsender lurer på hva får man med seg i en terminal fase. Kaveh gir deg oppskriften på et liv fylt med deilig sex. Peder snakker om små mennesker som dukker opp i stua di med gule flagg, lilleputtene. Og, hva med når det er slitsomt å være forelsket?",
+"t": "Ulrikke Brandstorp, søvnmangel, døden og kjærligheten",
+"u": "https://podkast.nrk.no/fil/god_bedring/c78e7395-b0eb-418f-a09f-6ce680733585_0_ID192MP3.mp3"
+},
+"l_11409ad8-0d66-4a1b-809a-d80d661a1b78": {
+"d": "2021-07-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/TKSlBb9eNiHW4NJYp4lLYQwmQTeeygJ-UlhLLTx8z8jA",
+"n": 2677,
+"s": "Isabelle Eriksen spør hvordan paracet vet hvilken plass på kroppen det gjør vondt. I «Peders kuriosa» handler det om skam, Isabelle deler sin opplevelse om å skamme etter en hendelse som endte med fengsel. Hva tenker Kaveh om at folk setter fast ting i rumpa og hvorfor elsker innsender lukten av egen hud?",
+"t": "Isabelle Eriksen, fengsel, skam og hudlukt ",
+"u": "https://podkast.nrk.no/fil/god_bedring/30f7ee49-a9d2-47fa-bb65-bcc50e6d3b6a_0_ID192MP3.mp3"
+},
+"l_1e1fd164-1690-4c2d-9fd1-6416900c2dea": {
+"d": "2021-05-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RIJKY-BIKFoI6ZPCKZeqNwmoEmSuAIeEJDflibJuDK9Q",
+"n": 2720,
+"s": "Martha Leivestad lurer på hvorfor så mange har et anstrengt forhold til kroppen. Kaveh stiller spørsmålet om vi blir lykkeligere av kosmetisk kirurgi. Og hvorfor blir innsenders far gradvis et større og større rasshøl?",
+"t": "Martha Leivestad, body dysmorphia, kosmetisk kirurgi og rasshøl på internett",
+"u": "https://podkast.nrk.no/fil/god_bedring/1aa11e75-3704-4119-8587-bf94889cf574_0_ID192MP3.mp3"
+},
+"l_1f5501fc-d7ca-4694-9501-fcd7ca7694a7": {
+"d": "2020-09-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2304,
+"s": "Hvorfor klarer jeg ikke å slutte å glorifisere de jeg dater? Når er det søvnmangel blir helseskadelig? Else Kåss Furuseth er vikar og Kaveh har kanskje funnet kuren mot fyllesyke.",
+"t": "Om fyllesyke og søvnmangel",
+"u": "https://podkast.nrk.no/fil/god_bedring/1de84d58-1d67-400a-9430-8bf8b256cf10_0_ID192MP3.mp3"
+},
+"l_2247c11a-ec90-4c97-87c1-1aec90cc97e0": {
+"d": "2021-05-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/IgwiEtBuL7OKAsYA33lMqAAU8FHTnrSvflAhirtQz4_Q",
+"n": 2699,
+"s": "Hasse Hope har søvnproblemer og dødsangst, Pure Jojo liker at hot snacks wiggler en spretten booty på badestranda men synes det er turn off hvis kroppen er full av tatoveringer. ",
+"t": "Hasse Hope, dødsangst, traumer fra barndommen, hot snacks og spretten booty.",
+"u": "https://podkast.nrk.no/fil/god_bedring/3db66f9b-d3ac-46d2-a963-549d78cbdae5_0_ID192MP3.mp3"
+},
+"l_22aa00da-3b6e-43d7-aa00-da3b6e23d7d1": {
+"d": "2020-09-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2474,
+"s": "Burde jeg fortelle mannen min at jeg har vært utro? Virker mindfullness? Hvor stor sjanse er det for å bli smitta av korona på treningssentre? Panelet gir deg sine refleksjoner og svar, servert med litt proteinpulver og rusa dyr.",
+"t": "Rus, jazz og utroskap",
+"u": "https://podkast.nrk.no/fil/god_bedring/829b1594-ba29-4130-aa9e-2dcf8d35515a_0_ID192MP3.mp3"
+},
+"l_27303f0e-8189-43a1-b03f-0e818963a128": {
+"d": "2022-06-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/pKj058iQztfkKQFFuIlXowjzAKXdpc9mSm1RL5PaJNZQ",
+"n": 2792,
+"s": "Hvordan vet man om man er deprimert og ikke bare lei seg? En lytter spør om hvorfor noen mennesker er introverte. Kaveh tar opp fenomenet incels. Og hvorfor har vi egentlig bro code og girl code?",
+"t": "Chris Abolade, alkoreksi og girl code",
+"u": "https://podkast.nrk.no/fil/god_bedring/18cf33cc-a725-461b-8009-1f5eaaf94450_0_ID192MP3.mp3"
+},
+"l_279d460d-d3da-4b7c-9d46-0dd3dabb7c43": {
+"d": "2021-10-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/KbF2Lm01sNCeMAHpENrZtw_aiLH7gE1o9WFw0Z_F1kTQ",
+"n": 2913,
+"s": "Ylva lurer på hvordan man får en dypere forbindelse med et annent menneske. Peder babler om hvorfor man tror andre er like som en selv, mens Kaveh forteller om et dødelig tilfelle av dansefeber. Innsender står i dilemma mellom sexlyst og hormonprevensjon, og en bestemor klarer ikke slutte å tenkte på vekt.\n\n ",
+"t": "Ylva Olaisen, dansing til døde og sexlyst",
+"u": "https://podkast.nrk.no/fil/god_bedring/e83e93b7-83ff-48ac-a94d-b29b14a1b008_0_ID192MP3.mp3"
+},
+"l_2939593d-63fd-4bed-b959-3d63fdcbedfc": {
+"d": "2021-11-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/fot0DV1onFm7sLl37lTy7AFgopRdKPQSuj_6sBkGt19A",
+"n": 3081,
+"s": "Wasim Zahid stiller spørsmålet: når starter et menneskeliv? Kjærestens innsender har foreldre som er i slekt med hverandre - har det noe å si for videre reproduksjon? Kan man overkomme et traume på egenhånd? Kan eteriske oljer kurere kreft?",
+"t": "Wasim Zahid, hjertet, traumer og eteriske oljer",
+"u": "https://podkast.nrk.no/fil/god_bedring/cd1ed299-e2db-4717-864b-c72fea2c6ec5_0_ID192MP3.mp3"
+},
+"l_2c90b8c6-6a1e-4659-90b8-c66a1e36590d": {
+"d": "2020-07-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2478,
+"s": "Massemorderen har svulst hjernen. Er han fortsatt skyldig?\nFølt på trangen til å kaste seg utfor balkongen? Peder Kjøs gir deg innblikk i uskrevne regler rundt sexting og dickpics. Og Kaveh gir svar på om myggen smitte deg med korona.",
+"t": "Massemordere og sexting",
+"u": "https://podkast.nrk.no/fil/god_bedring/69a871ba-1377-42f3-b9db-4fe3d0a9ac1f_0_ID192MP3.mp3"
+},
+"l_2ff65331-a76e-42ee-b653-31a76ec2eeb2": {
+"d": "2020-10-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2483,
+"s": "Hvor skadelig er egentlig skjermtid? Kan klitoris bli mindre følsom av vibrator? Kommer vi til å bli en haug med usosiale folk når korona-krisa er over? Else er igjen med som vikar, Kavehs Kabinett er fylt med kosttilskudd og Peder tror det kan være lurt å ha sex med sin eks.",
+"t": "Skjermtid og sex med eks",
+"u": "https://podkast.nrk.no/fil/god_bedring/0358b5ae-41e5-46f6-9400-35fd30e36a5b_0_ID192MP3.mp3"
+},
+"l_30fbb2f6-6190-4635-bbb2-f66190663561": {
+"d": "2021-07-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0mR2sP50WFMi2s4AXteo2g3_ajehIh36cNDYNZGRFQUQ",
+"n": 2683,
+"s": "Martin lurer på hvorfor han får jernteppe, og Kaveh får jernteppe bare av å tenke på det. Innsender har et spørsmål som gjelder det å være hangry, en annen lurer på hvordan man på best mulig måte kan snakke om døden. Cecilie må stikke midt under sending og videre blir det endel snakk om illeluktende peniser.",
+"t": "Martin Aksel Hennie Lepperød, illeluktende peniser, og døden",
+"u": "https://podkast.nrk.no/fil/god_bedring/40070c0b-e231-4b6b-86c0-69b164aa724a_0_ID192MP3.mp3"
+},
+"l_333fcaf6-ac0f-4105-bfca-f6ac0f6105a1": {
+"d": "2020-08-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2252,
+"s": "Hva gjør du hvis samboeren din svetter senga våt hver natt? Hvorfor får man vondt i hjertet av sorg og tristhet? Hvorfor klarer jeg ikke klemme familien min? I Kavehs kabinett bobler det over av lettbrus, og Cecilie er begeistret for en livreddende hund.  ",
+"t": "Hjertesmerte og klemmefornemmelse",
+"u": "https://podkast.nrk.no/fil/god_bedring/29f1ce63-631c-47d3-9b8f-a4233f4bbd46_0_ID192MP3.mp3"
+},
+"l_3397efc0-be98-42d1-97ef-c0be9822d126": {
+"d": "2020-06-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2504,
+"s": "Forelsker vi oss lettere når sola skinner? Og hva synes egentlig damer om analsex? Blir du kun tiltrukket av de med samme hudfarge som deg selv? - panelet diskuterer om det være en form for fordekt rasisme. På menyen ellers står transpersoner, solfaktor og tvangshandlinger.",
+"t": "Summer Love, solfaktor og analsex",
+"u": "https://podkast.nrk.no/fil/god_bedring/3d9a91bf-7a2a-415b-874a-f1b54489a249_0_ID192MP3.mp3"
+},
+"l_3590c004-79e6-4750-90c0-0479e6d7509a": {
+"d": "2022-04-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/l54aJIOkIhw0uinQG0fdygZtKQ8gIShvOFK1e8aF4PdQ",
+"n": 2891,
+"s": "Fredrik lurer på om man kan reversere eksem med tankene sine? En lytter lurer på om covid-brain er reelt, og Kaveh snakker om farsrollen og frykten for å mislykkes.",
+"t": "Fredrik Høyer, mislykkede fedre og covid-brain.",
+"u": "https://podkast.nrk.no/fil/god_bedring/c36c6f93-6383-423f-85c1-5db5edbe1eb6_0_ID192MP3.mp3"
+},
+"l_390517d2-4aab-4358-8517-d24aaba35850": {
+"d": "2020-04-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3931,
+"s": "Kan man kalle seg gutt/jente når man har passert 25 år? Er det mulig å gjenskape tillit og respekt for sjefen sin? Og hvorfor oppfører koronaviruset seg helt ulikt hos de som smittes? I Kavehs kabinett blir det påskequiz og limerick, og Cecilie har goodiebag til vinneren. Du får også solskinnshistorier og masse tips til hva du kan gjøre i hjemme i påsken.\n",
+"t": "Påsken er her!",
+"u": "https://podkast.nrk.no/fil/god_bedring/1b81ed8b-8a94-41cb-9042-4a1491c5e70c_0_ID192MP3.mp3"
+},
+"l_39c1aa19-dc7c-4d3d-81aa-19dc7c5d3d9d": {
+"d": "2020-09-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2395,
+"s": "Kan alkohol fungere som erstatning for sovetabletter? Hvorfor er det så vanskelig for meg å ta imot kjærlighet og komplimenter fra andre? Peder tar ellers for seg morrabrød, Kaveh forklarer den kvinnelige orgasmens funksjon og Cecilie har med gaver. Velkommen til en seksuell episode!",
+"t": "Kjærlighet og morrabrød",
+"u": "https://podkast.nrk.no/fil/god_bedring/3ee1c693-f1e0-4645-b8b5-ff744b6c163e_0_ID192MP3.mp3"
+},
+"l_3d175f68-8cc7-47f9-975f-688cc7a7f9b9": {
+"d": "2020-10-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2536,
+"s": "Hvor skadelig er hasjrøyking? Hva skal gutta svare når dama spør om hun er fin i den stygge kjolen? Finnes det noen råd mot tannlegeskrekk, og hvorfor sliter noen med å gråte? Eller  hva gjør du når kjæresten din blir totalt hekta på gaming? Else har solgt crocsa sine, og Peder blir begeistret over en bursdagsgave. ",
+"t": "Hasjrøyking og tannlegeskrekk",
+"u": "https://podkast.nrk.no/fil/god_bedring/95baf770-ee06-4a4c-b75a-3d1a12a814ed_0_ID192MP3.mp3"
+},
+"l_3ea1881d-89cf-4d31-a188-1d89cfed3123": {
+"d": "2022-02-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/2DFjW38e4dYCjrKkCbjwAgBkSYT1Q537x6SJW4LdRbIg",
+"n": 2831,
+"s": "Hun er Spellemannsnominert til hele 7 priser, men gruer seg til turné. Kaveh gir deg en ABC-leksjon om kreft, og Peder snakker om banning. En lytter overtenker når han blir forelsket, og hva er egentlig squirting?\n\n ",
+"t": "Girl In Red, kreft og squirting!",
+"u": "https://podkast.nrk.no/fil/god_bedring/6443f55e-4511-4043-ae08-6c901c188628_0_ID192MP3.mp3"
+},
+"l_416471dc-0a81-41e5-a471-dc0a81d1e5f2": {
+"d": "2021-10-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/5kSIbkrZIXtdCs7Rfn795wbczXVIyE4WSavCCHPvHfgg",
+"n": 2925,
+"s": "Iselin Guttormsen lurer på om reseptfri viagra undergraver menns psykiske helse. En bestemor er bekymret for at barnebarnet på 7 år er spiseforstyrret. Peder forteller om sin forfengelighet og hvorfor ting er kleint. Kaveh holder en sex-quiz, og vi snakker om livmorhalskreft og HPV-vaksinen.",
+"t": " Iselin Guttormsen, reseptfri viagra og sex-quiz",
+"u": "https://podkast.nrk.no/fil/god_bedring/09a999dc-681b-4d31-8a10-88435de2a06a_0_ID192MP3.mp3"
+},
+"l_457c5439-6200-4e04-bc54-3962002e040b": {
+"d": "2021-11-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/DgOtSELdtM-t1sPVlAvMgwHVPVyb9iRkpGRg5wN8LvQw",
+"n": 2997,
+"s": "Gabrielle lurer på hvorfor hun og hennes bandkompanjong får nervøs mage før konsert. Cecilie har fundert på om det er mer voldshendelser i samfunnet nå enn tidligere, Peder gir alle som har blitt «ghosta» en klapp på skulderen, i Kavehs kabinett lærer vi om (over)vekta, og en innsender lurer på hvorfor man får «middagsknekken». \n\n ",
+"t": "Gabrielle, diare, vold og ghosting",
+"u": "https://podkast.nrk.no/fil/god_bedring/2a9085f0-9d70-44b6-9cd2-cbb816753dee_0_ID192MP3.mp3"
+},
+"l_4729a3be-0b30-4b1c-a9a3-be0b30bb1c48": {
+"d": "2021-08-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/N2_yShW6EwHE2f4d-wDh5gJetu6dXmCVGf_Oxe-bL2cA",
+"n": 2719,
+"s": "Sandeep Singh får noia av å tenke på hjertet. Kavehs kabinett handler om voldtekt og Peders kuriosa tar for seg forskjellen mellom hvor mye plass kvinner og menn får i samfunnet. Og sist, men ikke minst, innsender fant potensmidler i kjærestens jobbveske, er han utro?",
+"t": "Sandeep Singh, hjertet, PMS, og potensmidler  ",
+"u": "https://podkast.nrk.no/fil/god_bedring/207226bd-2a17-4b02-a817-0cf0852ebae1_0_ID192MP3.mp3"
+},
+"l_485a540e-a438-4562-9a54-0ea4385562aa": {
+"d": "2021-05-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/UIRAjDUVYOmYbzz9IY_Gmw1jrDMZovZCkF7YNz8kIEdQ",
+"n": 2595,
+"s": "Hvorfor overtenker Marlene Stavrum? Er det vanlig å slite med søvnproblemer når man har dissosiativ identitetsforstyrrelse? Hva kan Kaveh lære oss om kjærligheten, og hvor problematisk er egentlig en såkalt dåsefjert?  ",
+"t": "Marlene Stavrum, overtenking, dissosiativ identitetsforstyrrelse, kjærlighet og dåsefjert. ",
+"u": "https://podkast.nrk.no/fil/god_bedring/0092280d-fb91-4bf8-b29f-2c3d2d04b1a8_0_ID192MP3.mp3"
+},
+"l_4b977ce0-1a33-4ec3-977c-e01a33dec3cb": {
+"d": "2022-06-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WU0tayscwIIiBiX7nq-3NAQW7WNiQvxzTErlaC995A6g",
+"n": 2825,
+"s": "Jørgen krabbet inn i en sovepose som 4-5 åring og tror det har sammenheng med hans klaustrofobi. En lytter trenger råd mot dødsangsten. Og kan biologien forsvare at menn er utro? ",
+"t": "Jørgen EP, klaustrofobi og klitorisstimulator",
+"u": "https://podkast.nrk.no/fil/god_bedring/077d291d-11a7-4f47-bca4-09dfbaff7d8e_0_ID192MP3.mp3"
+},
+"l_4e07ff14-4cc3-4e02-87ff-144cc33e023a": {
+"d": "2022-08-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/6YOftYcwZBqu-NgSnh9HXAOuVOFR3ZchwT3y4xn3DdAw",
+"n": 3093,
+"s": "Metteson lurer på om akupunkturen han fikk egentlig fungerte? \nEn lytter er usikker på om hun er skeiv, og Peder oppfordrer til å skrive dagbok. \nOgså snakker vi om illeluktende armhuler.",
+"t": "Metteson, musikalsk anhedoni og akupunktur",
+"u": "https://podkast.nrk.no/fil/god_bedring/57c1cdc1-4c53-45fe-ae8c-d4a02dc2510a_0_ID192MP3.mp3"
+},
+"l_52754202-f051-48e6-b542-02f05198e6a1": {
+"d": "2021-09-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GSIsP52u3ajj7QUAZmpOcAqFAIVpjMeJbU2K0fQK5jVg",
+"n": 2937,
+"s": "Magnus Devold spør hvorfor han får et drag mot å hoppe fra høyder. Innsender lurer på om hun bør planlegge sin egen begravelse sammen barna. Kaveh snakker om kjønnsskifte og Peder babler i vei om å besvime fordi ting er vakkert å se på. Også snakker vi om svettelukt.",
+"t": "Magnus Devold, høydeskrekk og begravelse",
+"u": "https://podkast.nrk.no/fil/god_bedring/1cc33046-0e41-4979-843d-21cd2eb93617_0_ID192MP3.mp3"
+},
+"l_58323e45-1597-4d6b-b23e-4515972d6b8b": {
+"d": "2020-12-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2766,
+"s": "Galvan Mehidi er gjest og har et svært privat spørsmål til panelet. Kaveh demonstrerer sjekken alle gutter bør ta jevnlig, nemlig testikkelsjekk. Hvorfor bør menn hogge ved? Stemmer det at damer faller for drittsekker? Og hvor er mannens g-punkt? ",
+"t": "Mannespesial med Galvan Mehidi. Snus og G-punkt.",
+"u": "https://podkast.nrk.no/fil/god_bedring/8a520188-0d4e-45af-83c7-0b60fdd3ce96_0_ID192MP3.mp3"
+},
+"l_58365bc9-297e-447f-b65b-c9297e547f50": {
+"d": "2022-06-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VPb6Sf_TYcMAQiBgB5IITw7HVBFAFjbFc7JLy8zAeaFQ",
+"n": 2912,
+"s": "Bahare lurer på om mørkere hud øker sannsynligheten for D-vitaminmangel. En lytter trenger råd til hvordan hun skal forholde seg til sønnens høye intelligens. Peder forteller at kvinner har mindre sexlyst enn for 12 år siden, og i studio er det delte meninger om evig liv.",
+"t": "Bahare Viken, evig liv og utfordringer med intelligens",
+"u": "https://podkast.nrk.no/fil/god_bedring/5a1fa3f9-9866-47bd-85fd-113a73d00f42_0_ID192MP3.mp3"
+},
+"l_594fb8d3-88f9-4f0d-8fb8-d388f9ff0d0e": {
+"d": "2021-10-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D4dys3P20aQfksy6_0iMEA3Q-o5r-P63tK7sN70Gr9ig",
+"n": 2854,
+"s": "Edvard lurer på hvorfor man blir fysisk sliten av mentale påkjenninger. Innsender opplever at sex fungerer som naturlig nesespray. Kaveh snakker om forskere som spiser lego og magesårbakterier, og Peder roser kvinnelige politibetjenter. Også snakker vi om herpes.",
+"t": "Edvard Smith Save, sex som nesespray og lego til middag.",
+"u": "https://podkast.nrk.no/fil/god_bedring/2253d77e-96dd-4e91-b412-7fe46a241306_0_ID192MP3.mp3"
+},
+"l_62096010-1638-45cc-8960-10163855cc63": {
+"d": "2021-07-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/JHHOtgxFfkU_0Qd6OvIAoA7kBeq176IpWE2j5sqggy0g",
+"n": 2733,
+"s": "Vi har «basic bitch» Kristine Grændsen på besøk, hun lurer på hva som er greia med stress. Er det godt for noe som helst? Innsender lurer på hvorfor hun aldri prioriteres av vennene sine, en hormonell og gravid kvinne føler på misunnelse og Peder snakker om misantropi.\n\n ",
+"t": "Kristine Grændsen, stress, vennskap og people=shit",
+"u": "https://podkast.nrk.no/fil/god_bedring/0ed12e5d-154b-4faf-ae37-3725a9508139_0_ID192MP3.mp3"
+},
+"l_62bceb78-9572-44e3-bceb-789572b4e3bc": {
+"d": "2022-05-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/sikyqh6ZDo1Krk2gIkZ8AQoZ7tRKrs51P3lAPoibghGg",
+"n": 3157,
+"s": "Kaayne har helseangst. En innsender faller alltid for «bad guys». Er det skadelig å sove med lyd på øret? Og hvor mye er et menneskeliv verdt i Norge?",
+"t": "Kaayne, helseangst og solbrenthet",
+"u": "https://podkast.nrk.no/fil/god_bedring/51f5f08d-933a-44dc-9a3e-d083d980bde1_0_ID192MP3.mp3"
+},
+"l_63f46a06-b166-4b6b-b46a-06b1667b6baa": {
+"d": "2021-12-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/EXuva-aECooOZy2vBMjrWArENSkl49K4XcZEbdpqijHw",
+"n": 2962,
+"s": "Leo Ajkic lurer på om det finnes positive sider ved narkotika. Mucofagi er det fine ordet for å spise snørr. En innsender er bekymret for eget inntak av alkohol, en annen for de grå hårene som stadig dukker opp, en etter en. Peder er opptatt av G-punktet og Kaveh deler sine meninger om kroppspress blant de unge i samfunnet.",
+"t": "Leo Ajkic, narkotika, grå hår og snørrspising",
+"u": "https://podkast.nrk.no/fil/god_bedring/70e9d67f-a54c-43f8-a656-01649c1d2342_0_ID192MP3.mp3"
+},
+"l_64a05f1b-81df-462b-a05f-1b81dfd62b58": {
+"d": "2022-09-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/V8Pc4eEvbmwqiuTvQn5MBAmTKLvtzxceCFkck5hNoYzQ",
+"n": 2613,
+"s": "Cecilie, Peder og Kaveh takker for seg og utnytter muligheten til å stille hverandre spørsmål. Peder føler seg bakpå som tenåringspappa, Cecilie vil unngå å bli tema i barnas fremtidige psykologtimer, og Kaveh trenger hjelp til å ta gode valg.",
+"t": "Siste episode av God Bedring!",
+"u": "https://podkast.nrk.no/fil/god_bedring/0f159ab6-20c8-4e54-8732-168b6c11519d_0_ID192MP3.mp3"
+},
+"l_65b733c9-6517-4854-b733-c96517c8547c": {
+"d": "2020-06-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2572,
+"s": "Hendelsene i USA preger nyhetsbildet, og vi lurer: er rasisme medfødt eller tillært? Else Kåss vikarierer for Cecilie, og sammen med Kaveh Rashidi og Peder Kjøs diskuterer hun meningen med livet – og om det å være distré kan være tegn på begynnende demens. Og hvorfor klør vi oss egentlig? Programlederne gir deg gode historier og svar på mer enn du visste at du lurte på!",
+"t": "Er vi født rasister? ",
+"u": "https://podkast.nrk.no/fil/god_bedring/164d86f4-bd2c-4500-8c41-ac8ecca67aa6_0_ID192MP3.mp3"
+},
+"l_65bf7a77-d50b-4717-bf7a-77d50bd71704": {
+"d": "2021-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YGIB5SSYgzUjOeDfc7UpSgYZS3JqnNMsmO5CViSM4zmg",
+"n": 2765,
+"s": "Sofie Frøysaa spør hva gråting egentlig er godt for. Peder kan fortelle hvordan pandemien har preget sexlivet vårt, Kaveh spiste brennmanent da han var munk, og en tobarnsmor spør hva hun kan gjøre for at barna skal bli robuste og sterke individer.",
+"t": " Sofie Frøysaa, gråting og rumpeentusiaster",
+"u": "https://podkast.nrk.no/fil/god_bedring/9170cced-4d28-4f6e-acf4-a3e0e859b4c8_0_ID192MP3.mp3"
+},
+"l_6cea6437-0925-4532-aa64-370925b53265": {
+"d": "2022-06-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/7ehj78VfHfrosne2D6PzfAhBrEVN3qWSOV-SsfvY098w",
+"n": 2752,
+"s": "Christine deler sine erfaringer med å gå på veggen. En deprimert lytter lurer på om hukommelsen kommer tilbake? Er det fordeler eller ulemper med konkurranseinnstinkt? Og er det en biologisk forklaring til at man forblir singel?",
+"t": "Christine Dancke, hukommelsestap og rødming",
+"u": "https://podkast.nrk.no/fil/god_bedring/b125fb48-b5ac-4b30-9930-d09217e2e8d0_0_ID192MP3.mp3"
+},
+"l_6e37bb91-b873-4040-b7bb-91b8732040ca": {
+"d": "2022-03-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/NQO4Nnf2fARppqaKfP_DAgS9ZSLWFn0J57TgH5_cjAmQ",
+"n": 2928,
+"s": "Kjemikeren Alexander vil bli bedre på å være «dårlig» på ting. En lytter har brutt kontakten med sin mor, og en annen sliter med samboerens alkoholforbruk. Kan Ritalin slå ut i narkotikatest? Og hva er egentlig hypnagogisk rykk?",
+"t": "Alexander H. Sandtorv, Ritalin og merkelige måter å kurere sykdommer på.",
+"u": "https://podkast.nrk.no/fil/god_bedring/79e5daef-d020-48e7-bef3-7078ceae548b_0_ID192MP3.mp3"
+},
+"l_6ef32915-96a1-4d74-b329-1596a1ad74fa": {
+"d": "2020-11-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2955,
+"s": "Silje Nordnes fra Maskorama er gjest, og spør panelet om det finnes positive effekter av Korona-epidemien, og om den kommende vaksinen trygg. Er forholdet verdt å redde når partneren har vært utro? Og hva er greia med hudrens? Peder forteller om Halo-effekten; og om man faktisk kan bli smartere av å være pen.",
+"t": "Korona-optimisme og utroskap",
+"u": "https://podkast.nrk.no/fil/god_bedring/41ac4269-ec94-4795-b776-e7ea9c7d86f7_0_ID192MP3.mp3"
+},
+"l_6f44ea1c-8914-4ef8-84ea-1c89143ef85c": {
+"d": "2022-01-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/h7V47-7gq5BGHRJRWAWJSAJ_eN49SURRvvXxId1uvcsg",
+"n": 2801,
+"s": "Bendik lurer på hvorfor hun stresser? Kan vi sørge like tungt over et kjæledyr, som over et menneske? Er vi mindre lykkelige nå enn før? Og spiller det noen rolle hvilket kjønn partneren er utro med?",
+"t": "Bendik, kjæledyr og utroskap med samme kjønn",
+"u": "https://podkast.nrk.no/fil/god_bedring/0c060132-aad6-40b9-af68-087bacf0cc41_0_ID192MP3.mp3"
+},
+"l_6f7775dc-523d-4fb0-b775-dc523d9fb0b9": {
+"d": "2022-08-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/TWijER5jrbVVamAhLl_ZSg_VkM5HVW8iDwJ4WfMYbAhA",
+"n": 2773,
+"s": "Tete har enda ikke byttet fastlege etter at han flyttet, men burde han det?\nEn lytter lurer på om livet har mening uten partner. Kaveh fortsetter å gi tips om dating.\nOg finnes det håp for de som sliter med tinnitus?\n\n ",
+"t": "Tete Lidbom, tinnitus og mosing av søte dyr   ",
+"u": "https://podkast.nrk.no/fil/god_bedring/08e6ed24-18cf-42fb-b21c-ccacf5df17d7_0_ID192MP3.mp3"
+},
+"l_6fb4f7ce-23e3-4220-b4f7-ce23e3a2205d": {
+"d": "2020-05-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3036,
+"s": "Hva gjør du når partneren din viser seg å være aseksuell, og hva kommer det av? Søsteren kan dø om hun blir smittet av korona - hvordan skal man forholde seg til dette, nå som samfunnet åpner opp? Hva hadde du gjort om du fant en pose med en million i kontanter? For 100 år siden var viltre og kampklare gutter en ressurs, i dag blir de diagnostisert med ADHD. Hør om dette og mye mer i ukas episode!",
+"t": "Når kjæresten er aseksuell",
+"u": "https://podkast.nrk.no/fil/god_bedring/7dc14336-eb3a-41ea-8289-b9583458d6bd_0_ID192MP3.mp3"
+},
+"l_72c03c3a-4f13-4996-803c-3a4f1339969a": {
+"d": "2020-06-16T09:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2601,
+"s": "Hør om polyamorøsitet, kvisepopping, Mensa og Riot Fashion. Og hva gjør du når moren din  inviterer til bryllup fullt av svenske gjester og bryter alle smittevernsregler? Programlederne gir deg gode historier og svar på mer enn du visste at du lurte på.",
+"t": "Å elske flere",
+"u": "https://podkast.nrk.no/fil/god_bedring/18be4c37-e47a-401d-921d-cf1e5dd1c24d_0_ID192MP3.mp3"
+},
+"l_73673dcf-4150-42f3-a73d-cf415042f3f1": {
+"d": "2021-12-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/CrxE99y7KZGTNXOsYHgcxAA1fyqsczhFfcMYUXyIFNWg",
+"n": 2723,
+"s": "Ingeborg Marie Mohn lurer på om man kan ta en MR av hjernen og se forskjell fra før og etter en psykisk nedtur, kan tanken endre kroppen? Hva er egentlig fenomenet fetisj? Er nyttårsforsetter egentlig til nytte? Kan man forhindre hjerneslag, og hvorfor fryser enkelte mer enn andre?",
+"t": "Ingeborg Marie Mohn, fetisj og hjerneslag",
+"u": "https://podkast.nrk.no/fil/god_bedring/cb58975f-a442-4c62-9717-02da1dbb4ba0_0_ID192MP3.mp3"
+},
+"l_74583501-bb54-4632-9835-01bb54e6325c": {
+"d": "2020-10-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2326,
+"s": "Episode 31: Hvorfor skrumper underlivet til menn i kulda? Kan stress eller sorg gi dårlig hukommelse? Og hvordan kan du stoppe negative spiraler i kjæresteforholdet? Else, Kaveh og Peder er igjen samlet for å svare på alt du måtte lure på om kropp og sinn.",
+"t": "Onde spiraler, konspirasjonsteorier og penislengde",
+"u": "https://podkast.nrk.no/fil/god_bedring/65a7a97d-f228-4767-94f6-34cb5e2cdd84_0_ID192MP3.mp3"
+},
+"l_74cfaf4c-8d27-4ba9-8faf-4c8d27eba99b": {
+"d": "2021-09-07T14:25:00+02:00",
+"i": "https://gfx.nrk.no/encDOwAemvWWJGZ_0PWVoQPeMHF3e1wWaTSIeXKG0AMQ",
+"n": 2808,
+"s": "Ingeborg Senneset spør om det finnes en best-før dato for når man kan få barn, mann (36) sliter med å komme når han har sex, Kaveh gir oss en innføring i antibiotikaresistens, og hvem er mest narsissistiske, kvinner eller menn?",
+"t": "Ingeborg Senneset, barn, orgasme, antibiotikaresistens",
+"u": "https://podkast.nrk.no/fil/god_bedring/b3b51cee-ccad-4206-a006-bad30e305dd3_0_ID192MP3.mp3"
+},
+"l_7521934a-3621-4a72-a193-4a36214a72d9": {
+"d": "2021-06-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/XWgHq_iugsq25kmpdWa7NgSoRt4cxm2ExSWd3UI0AqUA",
+"n": 2749,
+"s": " Annika spør hva som er meningen med livet, en innsender har bipolar lidelse og trenger råd om hvordan hun kan snakke med familien sin, i «Peders kuriosa» handler det om redde og fattige kvinner, og jente på 25 år spør om det er grunn nok til å dumpe en fyr fordi han har tynt hår og høye viker.  ",
+"t": "Annika Momrak, meningen med livet, fattigdom og høye viker ",
+"u": "https://podkast.nrk.no/fil/god_bedring/7ed369c4-d0a2-4da0-be8b-18072154d89c_0_ID192MP3.mp3"
+},
+"l_773f18a5-4772-44d7-bf18-a5477264d769": {
+"d": "2020-03-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3560,
+"s": "Påsken er offisielt avlyst, og vi er inne i en merkelig tid. Kaveh utdyper sex-rådene i forrige episode, etter mange lytter-spørsmål. Og hvordan kan en person være i karantene i en husstand og ikke de andre? Selv om mye er snudd på hodet, dreier ikke alt seg om korona. Her får du forklaring på hvorfor det er så vanskelig å komme med gode råd til en venn som er deprimert. ",
+"t": "Vår nye hverdag",
+"u": "https://podkast.nrk.no/fil/god_bedring/ee3ae79b-d0cc-46e1-88f5-265570783353_0_ID192MP3.mp3"
+},
+"l_788789a7-1b9d-4bb5-8789-a71b9d3bb5f4": {
+"d": "2021-11-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/dozCzYiaJ0RAVPfSpIJB4gCxl3jfHV8FUfq9Yeo54kVQ",
+"n": 2943,
+"s": "Abubakar Hussain aka «Abu» ønsker å unngå sokker på strand, og en innsender sliter med å komme. Kaveh snakker om fedme og fedmeoperasjon og Abu deler sine erfaringer. Ikke bare har Peder spist Napoleonskake, i tillegg har han ett og annet å lære oss om Napoleon-komplekset. Og, hvorfor er det vanskelig for noen å bæsje på reise? \n\n ",
+"t": "Abubakar Hussain, arr, Squid Game og fedme",
+"u": "https://podkast.nrk.no/fil/god_bedring/80ee4e8b-04f3-46c7-aa95-ce400adf43c7_0_ID192MP3.mp3"
+},
+"l_78ae7905-add7-4d2c-ae79-05add78d2c3a": {
+"d": "2020-12-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2784,
+"s": "Tinashe er gjest og lurer på  hvorfor vi kysser med øynene lukket?  \nForstår hunder når vi mennesker har sex? \nOg hvorfor kan vi bli deprimerte under graviditeten?\nKaveh byr på juleforskning og svar på hvorfor nissen er så god og rund.\n\n ",
+"t": "Tinashe Willamson, å kysse med lukkede øyne.",
+"u": "https://podkast.nrk.no/fil/god_bedring/dcaa1908-fcb7-47e8-8a00-68124dc21a8b_0_ID192MP3.mp3"
+},
+"l_7cd20907-270d-445b-9209-07270db45b83": {
+"d": "2020-08-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2603,
+"s": "Kan kvinner synkronisere mensen? Hva er veien til lykke? Er Donald Trump egentlig en kjernekar? Finnes det en real måte å dumpe en venn på? Sommeren er snart over, og programlederne er her for å gi deg en myk overgang til hverdagen. ",
+"t": "Mensenmyter og sprengte måker",
+"u": "https://podkast.nrk.no/fil/god_bedring/b7f78888-af18-430b-b25e-4341d113cf64_0_ID192MP3.mp3"
+},
+"l_806e6fbd-86e7-4791-ae6f-bd86e7a7917d": {
+"d": "2021-09-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VpbkcrFIWVHwy4n3b6kP8AacSv7bRPYEfBUmilasxxeg",
+"n": 2896,
+"s": " Live Nelvik spør om sex egentlig er så naturlig som noen av oss skal ha det til, innsender spør om hvorfor de fleste deler en hendelse først etter den er erfart, Kaveh snakker om rompa og Peder forteller om homoterapi fungerer eller ikke.",
+"t": "Live Nelvik, sex, rompa og homoterapi",
+"u": "https://podkast.nrk.no/fil/god_bedring/ae1d7812-cb2e-4fb5-902c-19da767a43e4_0_ID192MP3.mp3"
+},
+"l_81150002-b7bf-4f70-9500-02b7bfbf7013": {
+"d": "2020-12-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2761,
+"s": "Maria Stavang lurer på hvorfor vi kan bli sjalu uten grunn? Hvor deppa må du være før du vurderer lykkepiller, og  hva er grunnen til at kjæresten rakker din ned på eksen din? Peder forteller om hvorfor er det så lurt å holde hender i et parforhold, og hvorfor det ikke er lurt å rense øra med q-tips.",
+"t": "Maria Stavang. Forelskelse, sjalusi og lykkepiller.",
+"u": "https://podkast.nrk.no/fil/god_bedring/d4a9e0c1-5515-4602-8f6b-6d0580492695_0_ID192MP3.mp3"
+},
+"l_8272a10d-ba48-470a-b2a1-0dba48670a05": {
+"d": "2022-07-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/wSwLBHiMAKCb9qttnAHWJw-GDN2W9l5sP5B8fJa5tWHg",
+"n": 2868,
+"s": "Gjengen er klar for ekstra mange lytterspørsmål. Er kokosolje bra for ubalanse i skjeden? Hva er dysmorfofobi, og hvordan unngå det? Hva skjer i hjernen når man får fylleangst? Kaveh går gjennom symptombildet til lavt stoffskifte, og Peder analyserer klemming.",
+"t": "Lytterspesial! Sensitiv luktesans, fylleangst og lavt stoffskifte.",
+"u": "https://podkast.nrk.no/fil/god_bedring/ebf6d233-f15e-4847-800d-1200b15f193b_0_ID192MP3.mp3"
+},
+"l_84a93bf8-1911-41fc-a93b-f8191131fc69": {
+"d": "2022-08-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/xEK7Gqi2eIb81Gs6-cxrdQdjHy6jFapBlKnlkECIHFWQ",
+"n": 3115,
+"s": "Hedvig vil bli bedre på å forstå andre mennesker. En lytter klarer ikke stoppe å klø. En sofasliter trenger råd til endring. Kaveh gir oss tips for å få en perfekt date, og Peder ser på sammenhengen mellom fattigdom og barns utvikling.",
+"t": "Hedvig Wessel, kløe og optimale steder for dating",
+"u": "https://podkast.nrk.no/fil/god_bedring/940838b4-a299-445e-8ae6-89610b32c5a6_0_ID192MP3.mp3"
+},
+"l_851c2eca-d12f-4389-9c2e-cad12f8389e5": {
+"d": "2020-07-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2417,
+"s": "Hva gjør du når klokka tikker, men partneren vil vente med barn? Hvorfor blir menn usikre når dama tjener mer enn dem? Tisser du på stedet der du ble brent av en manet? Kanskje gjør du vondt verre. Sommermenyen ellers handler om sukkerkick, udefinerte vondter og fuck boys.",
+"t": "Fuck boys, brennmaneter og sukkerkick",
+"u": "https://podkast.nrk.no/fil/god_bedring/d3663e17-e0d3-47a5-8201-18b01cfa1efa_0_ID192MP3.mp3"
+},
+"l_85b6a6c0-4484-47f5-b6a6-c04484a7f538": {
+"d": "2020-08-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2433,
+"s": "Tar barn skade av å høre foreldre ha sex? Er det forskjell på høydeskrekk og falle-ned-skrekk? Og Kaveh Rashidi byr på dypere forståelse for bruk av munnbind og Peder Kjøs deler om egen forfengelighet",
+"t": "Foreldresex og she-bagging.",
+"u": "https://podkast.nrk.no/fil/god_bedring/2535a15d-8b61-46df-8af3-eafef03d36e6_0_ID192MP3.mp3"
+},
+"l_869b8529-443d-4be9-9b85-29443d8be9be": {
+"d": "2020-11-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3002,
+"s": "God bedring, episode 35:  Lars Berrum er på besøk og har sine  spørsmål til Kaveh og Peder. Hva er de sikre tegnene på at dama flørter med deg? Hva er forskjell på luft-og dråpesmitte? Hvorfor lærer man seg ikke å håndtere angst? Og bør man gjøre det slutt med kjæresten?  Det blir ellers prat om hårvekst og kjønnssykdommer.",
+"t": "Pliktsex og hårvekst  ",
+"u": "https://podkast.nrk.no/fil/god_bedring/f6f16e19-3415-440c-804a-981a1dfa951d_0_ID192MP3.mp3"
+},
+"l_88cf347a-0808-48ab-8f34-7a080868abb8": {
+"d": "2020-09-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2625,
+"s": "Hvordan skal jeg håndtere stygge blikk når jeg ammer barnet mitt på toget? Er det mulig at jeg ikke har evne til å bli stormforelsket? Hvordan leve med forskjellig sexlyst i et parforhold? Else Kåss Furuseth er vikar for Cecilie, Peder mener han har gaydar og Kaveh har med seg en teori om partnervalg hos skeive par. ",
+"t": "Gaydar og amme-skam",
+"u": "https://podkast.nrk.no/fil/god_bedring/d49099d1-d336-4b61-aead-fd4f43e327fe_0_ID192MP3.mp3"
+},
+"l_88d9aca4-5d9f-4fef-99ac-a45d9fbfef97": {
+"d": "2021-06-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GSIsP52u3ajj7QUAZmpOcAqFAIVpjMeJbU2K0fQK5jVg",
+"n": 2184,
+"s": "Maria Mena har spørsmål rundt antidepressiva. Innsender er bekymra for å ha fått klamydia i halsen og Kaveh ønsker å kvitte seg med den ensomme følelsen han ofte får. I dag er Silje Nordnes  vikar for Cecilie Ramona Kåss Furuseth.",
+"t": "Maria Mena, antidepressiva, klamydia og symmetri  ",
+"u": "https://podkast.nrk.no/fil/god_bedring/0a92ccf3-4bf0-49e2-85c6-199061497cd4_0_ID192MP3.mp3"
+},
+"l_894fea09-90c6-4133-8fea-0990c6b13316": {
+"d": "2021-05-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/8QPHlBINcflggyCych03xQtl4yuLeYFe73xCFB13MbwA",
+"n": 2825,
+"s": "Birgit Skarstein sliter med å samle fokus og holde konsentrasjonen oppe, finnes det råd? Er det farlig å «mikse» ulike vaksinetyper? Hva ligger i begrepet «god helse» og hvem er enig i at Pepsi Max er usexy?",
+"t": "Birgit Skarstein, uetisk forskning, holdningen til livet og P-Max.",
+"u": "https://podkast.nrk.no/fil/god_bedring/49595ffb-a503-4b08-9406-5e0515f4ffc2_0_ID192MP3.mp3"
+},
+"l_8c9d7a90-d496-44f9-9d7a-90d49654f944": {
+"d": "2022-01-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/dPBDBn2YM-8oIGZmH9cM3g1K70lPIbdK-SQ5WCK3QFJQ",
+"n": 2639,
+"s": "Henrik Fladseth vil ha tips om enkle grep for å opprettholde en god helse. \nMann 42 lurer på hvorfor han gråter så mye, Peder dykker inn i sammenhengen mellom kjønnsforskjeller og sjalusi, og Kaveh forklarer effekten av å være sint.\n\n ",
+"t": "Henrik Fladseth, sinnatagger og snap-sjalusi",
+"u": "https://podkast.nrk.no/fil/god_bedring/32e54f9b-c866-4bda-90bb-d0650e8f8790_0_ID192MP3.mp3"
+},
+"l_8dfe2ea8-3110-4ec2-be2e-a831105ec212": {
+"d": "2021-04-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iopDc-xiCBWgpXVpF2bWjQQJ3xA-LGr-4ZSbb_1fiWQA",
+"n": 2303,
+"s": "Ahmed Mamow lurer på hvorfor han gnisser tennene sammen når han sover. Hvorfor stirrer pikk-alma på penisene til alle menn hun møter i livet, og har du hørt om mozart-effekten?",
+"t": "Ahmed Mamow. Gnissig av tenner, stress og Mozart",
+"u": "https://podkast.nrk.no/fil/god_bedring/981a4c8d-148c-433a-9ab9-7a43c5ac86a5_0_ID192MP3.mp3"
+},
+"l_937e5238-4774-4a96-be52-3847742a9636": {
+"d": "2022-07-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/o9JVGNnKXtrzzqWXN9KnPQa-UE6xEe_FGOAVEuJE2C2Q",
+"n": 2942,
+"s": "Maria lurer på om religion hadde hjulpet vår mentale helse, en innsender spør på om sukker er bedre enn aspartam, Peder snakker om hvorfor dikt vekker følelser og Kaveh gir det endelige svaret på forrige ukes kabinett. Dessuten tåler hunder og mennesker forskjellig type mat. ",
+"t": "Maria Abrahamsen, gud og sukker ",
+"u": "https://podkast.nrk.no/fil/god_bedring/59345004-d0fe-4d17-8e34-69276657b37b_0_ID192MP3.mp3"
+},
+"l_947d7ef6-e465-4667-bd7e-f6e465d66779": {
+"d": "2020-05-05T08:00:00+02:00",
+"i": "https://gfx.nrk.no/gbgX4SJSScjxVkoC6P5_fg1gj9B85dmwqRCxlqqXNETQ",
+"n": 3716,
+"s": "Kan p-piller påvirke hvem vi forelsker oss i? \nEr man gal om man snakker mye med seg selv? Hør om kjæledyrenes mirakuløse helseeffekt, \nuskikkelige besteforeldre og hva som skjer i hjernen når vi tar på hverandre.",
+"t": "Berøring og belønning",
+"u": "https://podkast.nrk.no/fil/god_bedring/357a8a3d-3b44-4160-afbe-0079dd2ab3ee_0_ID192MP3.mp3"
+},
+"l_94c49d55-0dbf-45ee-849d-550dbf65eee0": {
+"d": "2021-07-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/2OarxGJTPLGvpCcHkhUjAACdHnieuJNeTZY88GnD4U8g",
+"n": 2766,
+"s": "Benjamin Myhre spør hvorfor det ikke finnes P-piller for menn. Innsender har tvangstanker om legningen sin, en annen har en kompis med mangel på empati. Kaveh knuser myter om selvmord. ",
+"t": "B-boy Myhre, P-piller for menn, tvangstanker og porno.",
+"u": "https://podkast.nrk.no/fil/god_bedring/ba8f930c-c353-4522-aec7-e005dbd103c1_0_ID192MP3.mp3"
+},
+"l_96478bf0-536e-4d3f-878b-f0536e0d3f6d": {
+"d": "2022-09-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/_Y2RWLRcJSZnCosMvHhHxwcY1G7BpQQiMhstr8ZATGFQ",
+"n": 3062,
+"s": "Gisle er 31 år og spør om det er for sent å endre personligheten sin? En innsender er usikker på hvordan og når han skal fortelle daten om overgrep fra barndommen, og det diskuteres om kumelk øker risikoen for kreft.\n",
+"t": "Gisle Agledahl, homofil blodgiver og valgfrihetens forbannelse.",
+"u": "https://podkast.nrk.no/fil/god_bedring/80ddca0d-a1f4-4dac-bfc8-43ab37e3dae3_0_ID192MP3.mp3"
+},
+"l_967ee23c-f3a6-4a6d-bee2-3cf3a62a6da0": {
+"d": "2020-03-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3469,
+"s": "Virus-tiltakene har endret hverdagen vår.  Hvordan klarer du å holde liv i forelskelsen når dere ikke kan se hverandre? Er tilfeldig sex nå helt uansvarlig? Vi snakker også om korona-shaming, positive trender, spennende forskning, tips for en mer givende hverdag og masse mer.\n",
+"t": "Kjærlighet og korona",
+"u": "https://podkast.nrk.no/fil/god_bedring/28a175ca-76e3-4947-a9f5-88add01598b8_0_ID192MP3.mp3"
+},
+"l_984658c2-69ea-430c-8658-c269ea830cb0": {
+"d": "2020-09-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2645,
+"s": "Har tarmskylling med en påfølgende kaffetår i rumpa noe for seg? Hva kan man gjøre for å komme seg ut av en dyp dal? Else Kåss Furuseth er vikar, Kaveh har med seg ADHD i kabinettet og Peder snakker om uavsluttede handlinger.",
+"t": "ADHD og livets bølgedaler",
+"u": "https://podkast.nrk.no/fil/god_bedring/94a9f1c3-1c1c-4518-aea4-3e2e5cf48108_0_ID192MP3.mp3"
+},
+"l_99661813-0430-41bf-a618-13043091bf28": {
+"d": "2021-06-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/tM2wPUHbYw9PbO132RDj-gNOPhGgEzE5rzgLanC5rOdw",
+"n": 2935,
+"s": "Vegard Harm lurer på om han har PTSD, innsender er bekymret for kombinasjonen angst og røykeslutt, en 62 år gammel mann har problemer med kjærlighetslivet og 23-åring har ereksjonsproblemer, er forresten gulrøtter kreftfremkallende?",
+"t": "Vegard Harm, PTSD, angst og røykeslutt",
+"u": "https://podkast.nrk.no/fil/god_bedring/86b603ad-d018-4a50-ba22-47ba616f9d5b_0_ID192MP3.mp3"
+},
+"l_9c9fe11a-16c2-4a04-9fe1-1a16c25a0492": {
+"d": "2021-04-19T17:10:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 35,
+"s": "Ny episode med God bedring i morgen!",
+"t": "God bedring, trailer ",
+"u": "https://podkast.nrk.no/fil/god_bedring/474cf6b6-63ff-4456-adaa-d7c799f2992e_0_ID192MP3.mp3"
+},
+"l_a221124d-5cb4-48a3-a112-4d5cb448a32f": {
+"d": "2020-05-19T09:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3244,
+"s": "Hasse Hope rådgir lytterne om hvordan det er mulig å endre personlighet basert på egne erfaringer. Menn med svangerskapssymptomer - fleip eller fakta? Kan angst kan skyldes ubalanse i tarmen? Peder gir deg tips om hvordan du skal oppnå den gode, dype samtalen, og du får gode historier og svar på mer enn du visste at du lurte på.",
+"t": "Hvordan få bedre selvtillit?",
+"u": "https://podkast.nrk.no/fil/god_bedring/5b04b33c-61b1-4e94-8fb3-a4b3f3f1a522_0_ID192MP3.mp3"
+},
+"l_a72c26e9-22ae-40d1-ac26-e922ae60d1e2": {
+"d": "2020-07-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2440,
+"s": "Er p-piller eller p-stav best? Hvordan fortelle iranske foreldre at man er skeiv? Kan man bli full av å spise helt vanlig mat,  og hva gir deg sommerstemning? \nProgramlederne byr på sommerlig underholdning, fleip eller fakta, svar på lytterspørsmål og alt du ikke visste du lurte på.",
+"t": "Prevensjon og sommerstemning",
+"u": "https://podkast.nrk.no/fil/god_bedring/9e5c8e54-6e5d-4db8-98fd-b265a527fed3_0_ID192MP3.mp3"
+},
+"l_a9c5c3a3-8f29-47ad-85c3-a38f2907ad0b": {
+"d": "2022-04-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/3YvZhN0c2j8kQdTg0s2_QAuqcGyIXgmSRi3oajcx8sqQ",
+"n": 2757,
+"s": "Gundelach ber om råd for å føle seg fornøyd med egen innsats. En lytter vil ha vaksine mot Noroviruset. Kaveh deler egne erfaringer om survivors guilt, og vi diskuterer om blålysbriller bidrar til bedre søvnkvalitet.\n\n   ",
+"t": "Kai Gundelach, blålysbriller og survivors guilt.",
+"u": "https://podkast.nrk.no/fil/god_bedring/a02885e3-a1b9-4ef3-819a-5841968813d7_0_ID192MP3.mp3"
+},
+"l_aa3eb5d3-ef68-4583-beb5-d3ef68b583a8": {
+"d": "2020-06-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2187,
+"s": "Hvor raskt  må du komme deg til legen om du blir bitt av huggorm?  Hvorfor bør vi ikke avvise mulighetene for et liv etter døden? Og hva skjer om lynet slår ned i deg? Det er snart sommer, og her får du vite alt du trenger å vite før du drar på tur.",
+"t": "Huggormbitt og livet etter døden",
+"u": "https://podkast.nrk.no/fil/god_bedring/01ecfc5a-0c04-44d5-b8fe-e32c5bcf0e3f_0_ID192MP3.mp3"
+},
+"l_b53feb2a-c420-4fd8-bfeb-2ac420cfd855": {
+"d": "2022-09-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/T0x5w7tYIXonf3-Q5v39Jgd5wtEBzSBbwjhIZV8bMNBg",
+"n": 2754,
+"s": "Siri ber om råd for å bli fornøyd med egen kropp. \nEn lytter ønsker å bli mindre irritabel, og en annen skulle ønske at fastleger visste mer om sykdommen fibromyalgi. \n\n ",
+"t": "Siri Kristiansen, fibromyalgi og one night stands",
+"u": "https://podkast.nrk.no/fil/god_bedring/70ed82d0-89d4-4d82-9be2-eae88759823b_0_ID192MP3.mp3"
+},
+"l_b87b8805-55b6-4b2c-bb88-0555b60b2ca3": {
+"d": "2022-02-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/pfw909FCf_PMuMVxQLdWqgW9uZaZdnv02DhcDK0wqWGg",
+"n": 2745,
+"s": "Karsten er redd for Post-Covid!\nKaveh undersøker om fatshaming egentlig funker mot fedme.\nEt samboerpar har klamydia, og en jente på 29 år lurer på om hun noen gang vil finne kjærligheten.",
+"t": "Karsten Blomvik, Post-Covid og fatshaming",
+"u": "https://podkast.nrk.no/fil/god_bedring/5c6eefd3-451d-4e24-8caf-d2b983b94cd4_0_ID192MP3.mp3"
+},
+"l_b9d1c818-3730-42d4-91c8-18373032d4b7": {
+"d": "2021-11-30T06:00:00+01:00",
+"i": "https://gfx.nrk.no/9FxTTJ2C_jUSbHNKgDrTHQgPoB34vRXmEDkL9aFXvosA",
+"n": 2882,
+"s": "Tamanna lurer på hvordan hun kan leve et godt liv med IBS. Kjæresten til en innsender er åpen om at han tenner seksuelt på andre, er det greit? Kaveh gir deg emner du kan samtale om i juleselskap. Hva er psykisk sykdom og hvorfor tenker vi at det er farlig? Peder forteller om at det går nedover med menneskeheten.\n\n ",
+"t": "Tamanna Agnihotri, IBS og smalltalk i jula.",
+"u": "https://podkast.nrk.no/fil/god_bedring/5a40c41c-b151-4dc0-bafa-26e8bd3389b6_0_ID192MP3.mp3"
+},
+"l_bb47285b-73a7-40e4-8728-5b73a7f0e47f": {
+"d": "2022-05-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/EGdKaiqzaPqVRBuMi2DVGA_NMyHbWJGhUXlQ2m405xUA",
+"n": 2596,
+"s": "Amanda sliter med ubesluttsomhet og klarer ikke engang å velge sofa. En lytter sliter med reiseangst, mens en annen lurer på hvorfor hun forandrer seg så mye i ulike miljøer? Peder snakker om hvorfor så mange er single i dag, og Kaveh gir oss ny innsikt om p-piller!",
+"t": "Amanda Tenfjord, ubesluttsomhet og single mennesker",
+"u": "https://podkast.nrk.no/fil/god_bedring/aa81790b-30c9-4092-9923-7347d330969b_0_ID192MP3.mp3"
+},
+"l_bb8d31b4-e5c5-4cec-8d31-b4e5c54cec6b": {
+"d": "2022-03-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/bGYEgshPn4v-0UM-pRyzogxc5q0fInl7KcUHii_wAhmA",
+"n": 3027,
+"s": "Vi har ryddet plass til enda flere lytterspørsmål: Er personlighetsforstyrrelse arvelig? Må jeg skaffe meg Jodix? Fungerer proteintilskudd? Kaveh gir innføring i hjerte-lungeredning, og Peder prøver å forstå Putin.",
+"t": "Lytterspesial! Bekymring om krigen, Jod og analprolaps",
+"u": "https://podkast.nrk.no/fil/god_bedring/edc24ef4-c678-4af5-8fdf-2fbb266bd610_0_ID192MP3.mp3"
+},
+"l_bbb5c094-f5a9-40c3-b5c0-94f5a9d0c345": {
+"d": "2021-06-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/ioAfQfy25cjNb8Q3qAQB-QccS2rna2ciWjs1qVjJtoQA",
+"n": 2633,
+"s": "Linn Skåber lurer på om Tjernobyl-ulykken i 1986 fortsatt har en effekt på helsen vår. Kan hypnose kurere angst og depresjon? En innsender har sluttet å tenne seksuelt på kjæresten sin mens en annen sliter med ettervirkningene av kreft.",
+"t": "Linn Skåber, immunsykdommer, hypnose, og nybakte foreldre med dårlig sexlyst",
+"u": "https://podkast.nrk.no/fil/god_bedring/1d4853e8-7c60-4f40-b0a6-e03ac47b9c40_0_ID192MP3.mp3"
+},
+"l_bd18c4cb-cd91-4479-98c4-cbcd91347914": {
+"d": "2021-04-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VnV7u8RU3zFX_gCdOjzQEQAlyV6xsBI7-Kv8v1nZvQgQ",
+"n": 2718,
+"s": "Ella Marie Hætta Isaksen lurer på hvorfor man får så rart uttrykk i ansiktet når man gråter. Hvorfor hater enkelte følelsen av å tygge på ispinner, og hvorfor blir innsender kåt av små rom, slik som minihus og campingvogner?",
+"t": "Sesongpremiere! Uglycry, Ella Marie, vaksine og det å bli kåt av små hus.  ",
+"u": "https://podkast.nrk.no/fil/god_bedring/6eb239bb-1932-435e-afe0-62932a8f2b6b_0_ID192MP3.mp3"
+},
+"l_bde922d4-5435-4050-a922-d454352050cb": {
+"d": "2022-07-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/FDCg-rIJtOh96WJ_R4eS5gvnfDEVASXPU0YRmE8hs_ig",
+"n": 2860,
+"s": "Jon Martin lurer på hvordan forholdet skal overleve oppussingskjøret, en kjøkkensjef er lei av allergiske restaurantgjester og en lytter lurer på om kvinner kan lære seg å få vaginal orgasme. Et innsenderspørsmål blir hard kost for Peder og Kaveh trenger en tidsmaskin - igjen.\n",
+"t": "Jon Martin Henriksen, vaginal orgasme og allergener ",
+"u": "https://podkast.nrk.no/fil/god_bedring/bfb6ac3b-5f80-44d4-b764-d779ca9ff980_0_ID192MP3.mp3"
+},
+"l_c0b44a31-3fa5-4e80-b44a-313fa50e80f3": {
+"d": "2020-06-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2955,
+"s": "Med Else Kåss Furuseth på besøk! Er foreldre lykkeligere enn andre? Hvorfor lukter vi på egen fis?  Og må man fortelle om at man har herpes til ny partner? Else er vikar for Cecilie denne uka og det blir gavedryss og absurd moro i tillegg til fine historier, svar på lytterspørsmål, siste forskning og kuriosa.",
+"t": "Om promp og paranoia",
+"u": "https://podkast.nrk.no/fil/god_bedring/f4ce5057-57e3-4d11-af49-b6799f3aa221_0_ID192MP3.mp3"
+},
+"l_c1ec06e4-7dc6-4613-ac06-e47dc6d6135f": {
+"d": "2022-04-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/C0W1JMtZ_29Qf1RXCbavPgKbTwP3ewFSN_lqFGGd_m5g",
+"n": 2811,
+"s": "Emilie lurer på om vi blir ekstra lykkelige om våren? En lytter blir misunnelig av sosiale medier, og Kaveh tror vi kommer til å le av alkohol i fremtiden. Og tar egentlig tenåringer skade av å se på porno?",
+"t": "Emilie Teige Skrattegård, kvitredilla og selvskading",
+"u": "https://podkast.nrk.no/fil/god_bedring/4b1e3f85-2dd6-4bc4-ad45-07eb1aa45694_0_ID192MP3.mp3"
+},
+"l_c1edb258-69ad-45b5-adb2-5869ad15b50a": {
+"d": "2021-03-17T10:05:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 60,
+"s": "Ventetiden er over! «God bedring» er endelig tilbake – for å gi deg råd om mental og fysisk helse. Cecilie, Kaveh og Peder gleder seg til å svare på spørsmålene dine!",
+"t": "Teaser - God bedring",
+"u": "https://podkast.nrk.no/fil/god_bedring/f74c3cf5-5de0-43ec-96cf-f16e40418dc2_0_ID192MP3.mp3"
+},
+"l_c2b3ee30-83a0-4131-b3ee-3083a081316e": {
+"d": "2022-05-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/a9CNCGIH-7ZaHb0D2PeiYwjX--5Nm23oJh9y6KodjP3Q",
+"n": 2852,
+"s": "Espen lurer på om vi klarer å dyrke forskjeller i Norge? En lytter har et alkoholproblem og er redd familien ikke forstår. Kaveh tar opp mannlig sterilisering, og en lytter spør om hvorfor vi mennesker får dårlig syn?",
+"t": "Espen P.A. Lervaag, pliktvennskap og sterilisering",
+"u": "https://podkast.nrk.no/fil/god_bedring/a547f811-51ec-423c-987e-b98dc7fe8fdc_0_ID192MP3.mp3"
+},
+"l_c81b5782-a1d9-413a-9b57-82a1d9013a25": {
+"d": "2022-05-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/M35MdNvfn4Scy9ajhTcCvQNBCKnGdJOic0g5xSrLDSzQ",
+"n": 2853,
+"s": "Justisministeren lurer på hvorfor hun drømmer så mye. Peder tar opp hva slags personer vi ønsker skal ha makt. En lytter spør oss om vi burde bli mer folkeopplyst om skadelige personlighetsforstyrrelser, og Kaveh utfordrer p-pilla. ",
+"t": "Emilie Enger Mehl, skadelige personligheter og hundeslikking.",
+"u": "https://podkast.nrk.no/fil/god_bedring/1d535ba3-b435-4d2e-8b00-a9c79390f802_0_ID192MP3.mp3"
+},
+"l_c921bc1e-0ed6-46fe-a1bc-1e0ed666fe55": {
+"d": "2022-09-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/rACAXmWCmZuCnISIFRvIIgWe6PZvE4SnuHd7894V7ORA",
+"n": 3087,
+"s": "Arin lurer på hvorfor hun har dårlig samvittighet hele tiden? Hvordan skal langvarig syke svare på spørsmålet \"hvordan går det?\". \nKaveh kartlegger hvilke type menn som kjøper sex. Og vi snakker om hårfjerning ved hjelp av hjemmelasere. ",
+"t": "Arin Soltanpanah, people pleasers og hjemmelaser",
+"u": "https://podkast.nrk.no/fil/god_bedring/46ec0c98-5191-4403-a5fb-7e16077a3f27_0_ID192MP3.mp3"
+},
+"l_cb8cb975-eeeb-4feb-8cb9-75eeeb3feb96": {
+"d": "2020-04-14T09:55:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3529,
+"s": "Ville du fortalt at du har parykk på første date? Hva har Korona-epidemien til felles med World of Warcraft? Tiltakene som følger pandemien endrer også politikk og regelverk, kunne Norge blitt som Gilead i Handmaids tale? Og hva er verst: Kremting eller snorking? Programlederne våre gir deg gode historier, svar på spørsmål, siste forskning og kuriosa.",
+"t": "Mot lysere tider",
+"u": "https://podkast.nrk.no/fil/god_bedring/3cd378c6-b5c4-4fd1-8405-8d441d9cffbe_0_ID192MP3.mp3"
+},
+"l_d0eee34f-a6ba-40bf-aee3-4fa6ba70bf84": {
+"d": "2022-03-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/OcYzGtr1veerBzCymOkAPwmWv-OTQx9vSbw2jYTTkyCw",
+"n": 2793,
+"s": "Tuva er brystoperert og spør om silikonet kan være skadelig? En lytter lurer på om hun er en dårlig feminist, og en annen har vondt i testiklene. Kaveh tar opp partnervold i Norge.",
+"t": "Tuva Fellman, dårlig ånde, partnervold og gjespe-smitte",
+"u": "https://podkast.nrk.no/fil/god_bedring/d6ba2231-a946-4ee8-92a9-64b261b5af90_0_ID192MP3.mp3"
+},
+"l_d78ef17b-5c46-4332-8ef1-7b5c46e332f7": {
+"d": "2021-08-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/hRAFK_af6FQTfKi8kvcIvAx2ifYr9QJzncHUihRBgYvQ",
+"n": 2851,
+"s": "Karsten Blomvik stiller det store spørsmålet, hva er god helse? Er menn mer opptatt av penislengde enn familie? Er alle som tror på alternativ medisin dumme? Hva gjør innsender når hun og hennes partner er uenige de skal omskjære sitt barn?",
+"t": "Karsten Blomvik, sex, usikkerhet og omskjæring",
+"u": "https://podkast.nrk.no/fil/god_bedring/fd534f2e-678c-4b47-92bd-5e8d9aa255a4_0_ID192MP3.mp3"
+},
+"l_da889b1b-c7a4-4a8e-889b-1bc7a4ea8e62": {
+"d": "2022-02-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/hG8jACxpPzzC4A9VWpDC3AC9SqnE8ki9zWqR_9cUA7Fg",
+"n": 2864,
+"s": "Hvorfor er jeg allergisk? Hvilke tiltak øker kreativitet og mental helse?\nHva er endometriose? Hvordan øke skjeggvekst, og hvorfor har Bremse-Berit bremsespor i trusa?\n\n ",
+"t": "Lytterspesial! Vi har kastet ut gjesten for å gi lytterne ekstra plass.",
+"u": "https://podkast.nrk.no/fil/god_bedring/018cdcb2-9150-41a5-927e-50c844d14e62_0_ID192MP3.mp3"
+},
+"l_dc6f66cc-2aa6-4ced-af66-cc2aa68cedba": {
+"d": "2020-04-21T11:10:00+02:00",
+"i": "https://gfx.nrk.no/gbgX4SJSScjxVkoC6P5_fg1gj9B85dmwqRCxlqqXNETQ",
+"n": 3277,
+"s": "Visste du at sex kan gjøre at du tåler det vemmelige og ekle bedre? Er det trygt å sende barna i barnehagen igjen? \nKan helseangst kureres? Programlederne gir deg gode historier og svar på mer enn du visste at du lurte på.\n",
+"t": "Vemmelse og sex",
+"u": "https://podkast.nrk.no/fil/god_bedring/54688f10-c0b0-4546-8b96-e56ada29b287_0_ID192MP3.mp3"
+},
+"l_df3b8c95-420d-4dc2-bb8c-95420d7dc27b": {
+"d": "2022-08-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/O4KC8QtFmnwpjNwoIkMDZgiCX_oECSnMEzvp-ZVIwxhw",
+"n": 2914,
+"s": "Iben vurderer å fryse ned egg til fremtidig graviditet. En lytter er redd for føflekkene sine, og en annen sliter med søvnparalyse. \nPeder forteller hva som skal til for å holde på dama, og Kaveh tar for seg sammenhengen mellom testosteron og ærlighet.",
+"t": "Iben Akerlie, eggfrysing og testosteron",
+"u": "https://podkast.nrk.no/fil/god_bedring/e44f2039-4867-4c0b-bee0-25331b00e22e_0_ID192MP3.mp3"
+},
+"l_e00e72db-2022-44bc-8e72-db2022b4bcb4": {
+"d": "2022-05-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/IlYgRuT125Rg5IO2ZDhOXADpgauGimRAg1EtFrKZenOQ",
+"n": 2905,
+"s": "Vetle lurer på hvordan «Lightning Process» gjorde han frisk fra ME, en lytter sliter med forholdet til svigerfamilien etter et selvmordsforsøk  og Kaveh forteller om de merkeligste sykdommer. Hvordan finner man egentlig tilbake til begjæret i et langt forhold?\n\n ",
+"t": "Vetle Velstad, selvmordsforsøk og begjær",
+"u": "https://podkast.nrk.no/fil/god_bedring/2532f23c-c411-464f-a973-8795379967c1_0_ID192MP3.mp3"
+},
+"l_e14f32ae-d2d5-4766-8f32-aed2d59766e4": {
+"d": "2022-07-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/FVwUm-J4oDpvITcK04D7GwlNpKWX8Z1RH4vZ2y79JgCw",
+"n": 2929,
+"s": "Haley blir mye kvalm og lurer på hva det dreier seg om. En lytter irriterer seg over kollegaen som alltid avbryter, Kaveh dykker ned i kompleksiteten i årsak og virkning, og Peder lanserer begrepet «halvannen-kulturell». Og hva er egentlig hold?",
+"t": "Haley Shea, kvalme og halvannen-kulturell",
+"u": "https://podkast.nrk.no/fil/god_bedring/e05164ba-aaf0-4955-95ff-30b3eed749e7_0_ID192MP3.mp3"
+},
+"l_e1be2dff-8c57-48f4-be2d-ff8c57b8f4a8": {
+"d": "2021-12-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/wWETywTPT_-r5lYPCugj9w9U8mhQGV4Jcn_idsA0LGMQ",
+"n": 2933,
+"s": "Morten Marius Skau lurer på hva som er greia med vaksinemotstandere. En innsender lurer på om ekstra tilskudd av melatonin er farlig, hva er melatonin og hvordan fungerer det på kroppen? Kaveh snakker om rullestol-sex og Peder å fake en orgasme. Til slutt, astrologi! Kan man leses ut i fra et stjernetegn? ",
+"t": "Morten Skau, vaksinemotstandere og astrologi",
+"u": "https://podkast.nrk.no/fil/god_bedring/f0d48850-bcf7-4be9-a30b-5ce88f21c74f_0_ID192MP3.mp3"
+},
+"l_e446026e-191f-41cd-8602-6e191f41cd9a": {
+"d": "2021-12-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7m02b6mXVZpgurGfQDw2_wyKHni8C_lbDu6lOzeBmkHQ",
+"n": 2765,
+"s": "Jonis Josef lurer på hva adrenalin gjør med kroppen. En innsender har hatt dårlig erfaring med sex og ønsker å bli komfortabel med å gå ned på kjæresten sin. En annen innsender lurer på om hun kanskje har en spiseforstyrrelse. Og er det like vondt å føde som de dere damene alltid klager på at det er? ",
+"t": "Jonis Josef, headpushing og adrenalin.",
+"u": "https://podkast.nrk.no/fil/god_bedring/49ba2aeb-1dde-49c2-b870-7f60bbf53539_0_ID192MP3.mp3"
+},
+"l_e6590683-cd93-47f2-9906-83cd9347f262": {
+"d": "2021-08-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/onmk1XVI_zEVoHl_d05gsQxL-2Fvxnq-jkhSXvmuiG4Q",
+"n": 3020,
+"s": "Ingrid Helene Håvik spør om hun kan stole på seg selv som gravid, en innsender lurer på hvorfor det gjør så vondt å ha kjærlighetssorg, Kaveh ber om unnskyldning for at han tidligere omtalte autisme som en sykdom. ",
+"t": "Ingrid Helene Håvik, kjærlighetssorg, hormoner og porno ",
+"u": "https://podkast.nrk.no/fil/god_bedring/7448693d-5bef-4fe3-879f-bf5e638a6f3e_0_ID192MP3.mp3"
+},
+"l_e6865be9-b940-41e9-865b-e9b94051e935": {
+"d": "2022-08-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/jnugZe3U7JB5CcbZL0Pj0AEXU2fL6mfaLVUirliIxq0A",
+"n": 2898,
+"s": "Rasmus er redd han har mistet evnen til å føle begeistring, en lytter lurer på hvorfor hun blir forstoppet på reise og Peder beveger seg ut på tynn is når han utforsker påstanden om at menn er bedre enn kvinner i sjakk. ",
+"t": "Rasmus Wold, manglende begeistring og forstoppelse",
+"u": "https://podkast.nrk.no/fil/god_bedring/0fc3b7b6-2825-4500-b0dc-74e9e835d091_0_ID192MP3.mp3"
+},
+"l_e6b46ac9-7c2e-4f11-b46a-c97c2e5f11e1": {
+"d": "2022-03-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/nZq5WA-krLMziBzBFyusbAUsNL0HiXDq2-G8-uh4BnTQ",
+"n": 2846,
+"s": "Frida lurer på hvorfor man ønsker å få barn? En lytter føler seg som en bedrager, og Kaveh snakker om meditasjon. Og klarer Peder å forklare hvorfor søstre av homofile menn får flere barn enn andre?",
+"t": "Frida Homlung, impostor syndrome og folk som snakker lavt",
+"u": "https://podkast.nrk.no/fil/god_bedring/fcf2bd46-f3b0-40d1-a208-df117367c2b2_0_ID192MP3.mp3"
+},
+"l_e7369d93-70cc-405e-b69d-9370cc205ea1": {
+"d": "2021-08-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/JyHTTag0EalqOsPlhittBghMoLyMQ4LYQ2iOPT7wA9ZQ",
+"n": 2625,
+"s": "Sval spør om hjertet noen ganger hopper over et slag eller to, Kaveh snakker ut om ufrivillig barnløshet- og abort, Peder snakker om promp, innsender er bekymret for bivirkninger av dose nummer 2. ",
+"t": "Sval, hjertestans, promp og angst.   ",
+"u": "https://podkast.nrk.no/fil/god_bedring/9480c883-6295-4934-be59-40e4f68b2ead_0_ID192MP3.mp3"
+},
+"l_e8167e30-8c7e-4cae-967e-308c7e3cae2e": {
+"d": "2021-08-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/ofybtKNE8kiInHpOZ-r5cgja9XsObZOLb4PeSF6NGf5w",
+"n": 2560,
+"s": "«God bedring» har hjemme alene fest. Blir man mer lykkelig av penger? Er homofili naturlig? Kan bleking av rompehullet kurere autisme? En innsender har møtt en lege som fikk henne til å føle seg dritt, en annen innsender har tisset i sengen.",
+"t": "Penger og lykke, homofile dyr og overvekt",
+"u": "https://podkast.nrk.no/fil/god_bedring/2a343dfb-19d4-4637-bf86-6e5a0d8e0e8c_0_ID192MP3.mp3"
+},
+"l_e8f64db2-0cda-45d2-b64d-b20cda75d27d": {
+"d": "2022-01-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/z-vXnVO92lm0PU_kRsiX5QB6-1TZ7jkacVLD2Kuwkq8g",
+"n": 2942,
+"s": "Erlend Mørch har spørsmål om genredigering/CRISPR, er det greit? Innsender lurer på hvorfor hun får utslett av alkohol, hvordan omvender man en antivaxxer, hva er TGA og er kjøttspisere mer deprimerte enn vegetarianere?",
+"t": "Erlend Mørch, Genredigering og muntre kjøtthuer",
+"u": "https://podkast.nrk.no/fil/god_bedring/a2f71312-a1bb-461e-a2d8-19842a29502c_0_ID192MP3.mp3"
+},
+"l_e9bb24dd-4744-48e5-bb24-dd474488e524": {
+"d": "2020-05-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3780,
+"s": "Hvorfor føles søken etter lykken konstant. Blir vi aldri fornøyd? Blir du mer kreativ av drugs? Mange føler på litt skrekkblandet fryd over at samfunnet åpnes opp, for noen trives godt i hjemmebobla. Men kanskje trenger du ikke å leve livet helt som før? Programlederne våre gir deg gode historier, svar på spørsmål, siste forskning og kuriosa.",
+"t": "Hva er lykke?",
+"u": "https://podkast.nrk.no/fil/god_bedring/6a145762-f66d-4c8f-b023-f07a1407789a_0_ID192MP3.mp3"
+},
+"l_eb5964be-4ffd-4afe-9964-be4ffd5afe52": {
+"d": "2022-02-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/ZYNOeQx9u4T4fi0OxC-TiQiQ8A9VRxA4L38nZ6nTa5oQ",
+"n": 2754,
+"s": "Marte lurer på hvorfor hun snakker høyt med seg selv?\nKaveh avslører forskning om egenkjærlighet og egoisme, og en lytter plages av svetting i ansiktet. Og hvorfor er sigg så digg når man drikker alkohol?\n\n ",
+"t": "Marte Bratberg, «coctailparty-effekten» og svetting i ansiktet   ",
+"u": "https://podkast.nrk.no/fil/god_bedring/42c62472-43f3-470e-af0c-74071ab8197e_0_ID192MP3.mp3"
+},
+"l_ec33f1d0-0624-4f0e-b3f1-d006249f0e0a": {
+"d": "2020-10-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2557,
+"s": "Hvorfor nyser noen menn så sykt høyt? Hva skyldes ukontrollerte raseriutbrudd? Går det an å gentestes for å utelukke genfeil hos barn? Else er igjen vikar, Kaveh har et kabinett med skjedekrans og chablis, og Peder snakker om veien til suksess.",
+"t": "Skjedekrans og chablis",
+"u": "https://podkast.nrk.no/fil/god_bedring/7d82c387-4cdf-4092-8e13-0901e12d31b5_0_ID192MP3.mp3"
+},
+"l_ef53b065-dba5-4206-93b0-65dba5d20605": {
+"d": "2020-07-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2511,
+"s": "Hvorfor får noen flere myggstikk enn andre? Hvor mye alkohol kan du drikke uten å være i faresonen?\nVi skal høre om sex som dreper og hva man bør gjøre når kompisen har forelsket seg i en potensiell catfish. Programlederne gir deg gøyal og smart ferieunderholdning, og svar på mer enn du visste du lurte på.",
+"t": "Myggstikk og dødelig sex",
+"u": "https://podkast.nrk.no/fil/god_bedring/1c548546-9c06-4179-a3d8-4ab9641fa8a9_0_ID192MP3.mp3"
+},
+"l_f09ace50-385b-4c5c-9ace-50385b9c5c32": {
+"d": "2022-01-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/n4B3uSIuOWehw4n3pKbMDQJxBBGBnOhOHLb-FL17cdwQ",
+"n": 2716,
+"s": "Christer vil vite hvordan man bryter et tankemønster under sex?\nEn lytter har gått opp i vekt under Corona og trenger råd.\nPeder forteller deg om hva andre synes om deg når du gjør en feil.\n\n ",
+"t": "Christer Falck, pandemi-kilo og tissing",
+"u": "https://podkast.nrk.no/fil/god_bedring/3a381e1a-16d7-4879-bffd-d91291c64d5c_0_ID192MP3.mp3"
+},
+"l_f16df6d3-458d-4e8c-adf6-d3458d9e8c9a": {
+"d": "2021-10-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/uXlfWubkmq2ZJssOFPQWYwFUh5olK8N3P8q_aHFnJf6g",
+"n": 3119,
+"s": "Odd Magnus lurer på hvorfor fler menn enn kvinner tar livet sitt, Cecilie stikker influensavaksine i skulderen til Kaveh, og Peder funderer over hvem som er ansvarlig når noen føler seg krenket. Også snakker vi om porno og rumpe-implantat.",
+"t": "Odd Magnus Williamson, fair-trade porno og vaksinestikk i studio!",
+"u": "https://podkast.nrk.no/fil/god_bedring/a5d95a4e-5ca3-4247-af84-0260e68fccd7_0_ID192MP3.mp3"
+},
+"l_f2dff6f2-5535-4bc9-9ff6-f25535abc9d5": {
+"d": "2021-11-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/SOHodQmdP8SMe6GBkRPStAghPt6rJvYxN3kKPjR2q-PA",
+"n": 3011,
+"s": "Daniel Kvammen lurer på om det finnes en måte å kurere fyllesjuke på som ikke er basert på kjerringråd. Innsender er en tidsoptimist, er det håp om noen gang å komme frem tidsnok? En fireåring har en dødssyk oldemor, hvordan snakker man med barn om døden? Til slutt et evig aktuelt spørsmål, hvordan flørter man basert på vitenskap?",
+"t": "Daniel Kvammen, alkohol, flørting og tidsoptimisme  ",
+"u": "https://podkast.nrk.no/fil/god_bedring/abfe1bb8-775a-4936-978b-984322c6aba7_0_ID192MP3.mp3"
+},
+"l_f42ab80d-bd0b-4c97-aab8-0dbd0b7c970d": {
+"d": "2020-11-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2415,
+"s": "Hvor ofte onanerer kvinner? Hvorfor sitter menn lengre på do? Er det farlig å ha mobilen på nattbordet? Og er det rart å ønske at partneren er mer sjalu?  Else forteller om pinlige øyblikk,  Peder føler seg beskyttet med munnbind og Kaveh gir innblikk i hvordan vi kan vite om behandling fungerer.",
+"t": "Onani og sjalusi",
+"u": "https://podkast.nrk.no/fil/god_bedring/e03f41b5-5bd6-441e-a86e-774322630f92_0_ID192MP3.mp3"
+},
+"l_f6d044b7-f33e-41c4-9044-b7f33eb1c436": {
+"d": "2020-08-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2502,
+"s": "Hvorfor må østlendinger etterligne min nordnorske dialekt hele tiden? Hva betyr det når man drømmer om sex med familiemedlemmer? Hvorfor får jeg diaré når jeg er stressa? Peder Kjøs forteller om hvorfor moren din ikke liker kjæreste-valget ditt, og Cecilie deler om bolle i ovnen.",
+"t": "Cecilie er gravid! Og pinlige drømmer.",
+"u": "https://podkast.nrk.no/fil/god_bedring/f902e3b4-c33a-44f4-ba62-b4f6a14af861_0_ID192MP3.mp3"
+},
+"l_f721ec51-ce2b-4e3d-a1ec-51ce2b7e3d56": {
+"d": "2020-11-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3002,
+"s": "Mikkel Niva er gjest, og han lurer på om han kan ha blitt dummere av en alvorlig hjernerystelse?  Hva betyr det at partneren vil vente med å flytte sammen? Hvorfor får jeg fysiske reaksjoner på psykiske ting? Og hva er en analfistel?  Velkommen til en lattermild episode.\n\n ",
+"t": "Hjernerystelse og analfistel",
+"u": "https://podkast.nrk.no/fil/god_bedring/e1472bf9-1d21-4e08-9b9a-a3fadcc07f74_0_ID192MP3.mp3"
+},
+"l_f8b8f5c1-1620-4339-b8f5-c11620e3399a": {
+"d": "2021-04-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/yDXar72SitZmsyso0NiKLw4oIXo69wEY5LstNi-oslaA",
+"n": 2480,
+"s": "Thea Sofie Loch Næss lurer på hvorfor så mange følelser er knyttet til hjertet. Hvordan takler man nervøs mage, hvorfor er jeg alltid så trøtt og visste du at kjærlighetssorg faktisk er sammenlignbart med å bli truffet av en lastebil?",
+"t": "God bedring! Gjest er Thea Sofie Loch Næss  ",
+"u": "https://podkast.nrk.no/fil/god_bedring/86c1ddec-7bba-4357-a53c-3d720225c984_0_ID192MP3.mp3"
+},
+"l_f9008516-b331-440f-8085-16b331440fab": {
+"d": "2022-03-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/PwbFZuWe2gFUZ-YZrWK3-A1I8ZtixIsllzoxn69ZrEvw",
+"n": 2945,
+"s": "Programleder Selma skal snart være vikar for Cecilie, men først er hun gjest! En lytter har kollegaer med for liten intimsone, og en rådvill kjæreste er i tvil om hun skal slå opp. Kaveh avslører luktesansens utrolige egenskaper.\n\n ",
+"t": "Selma Fergus Skavlan, intimsone og glupskhet",
+"u": "https://podkast.nrk.no/fil/god_bedring/33131113-1d17-48bc-8c82-1265a10c5e68_0_ID192MP3.mp3"
+},
+"l_fba2a761-1c9e-47bc-a2a7-611c9e17bc3e": {
+"d": "2020-12-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 2904,
+"s": "FINGERN gjester God Bedring og har spørsmål om hva han kan gjøre med tunge tanker i  mørketida. \nPeder, Else og Kaveh gir gode og enkle tips. Og hvor lang tid tar det å utvikle forelskelse? \nHolder partneren deg  på gress?  Ellers får du svar på  hvor raskt kan du bedre kondisen og hvilke Manga-tegneserier Peder anbefaler deg å legge under treet i år.",
+"t": "“Fingern” Thomas Gullestad. Mørketid og julestri",
+"u": "https://podkast.nrk.no/fil/god_bedring/b76dbf64-8ddf-4d3a-8d2c-6df48dee7a36_0_ID192MP3.mp3"
+},
+"l_fc4ce0a3-b82b-4049-8ce0-a3b82b4049b8": {
+"d": "2020-04-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"n": 3711,
+"s": "Er det mulig å statistisk beregne sannsynlighet for forelskelse? Kan fosteret i magen skades av morens stress og bekymringer? Du skal også få høre om den mandsjuriske pesten, hvordan sikre et langvarig forhold og mye mer.",
+"t": "Statistikk og kjærlighet",
+"u": "https://podkast.nrk.no/fil/god_bedring/833b370f-523b-48f6-8a5a-2d1719603595_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Kultur og samfunn",
+"id": "god_bedring",
+"image": "https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg",
+"subtitle": "Podkasten med akkurat det du trenger – akkurat nå. Har du spørsmål om kropp og sinn? Cecilie Ramona Kåss Furuseth, psykolog Peder Kjøs og lege Kaveh Rashidi gir deg lærerik moro basert på dine spørsmål og historier.",
+"title": "God bedring"
+},
+"v": 2
 }

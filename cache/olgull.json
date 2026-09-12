@@ -1,10 +1,76 @@
 {
-"l_21d493ca-a169-4e60-9493-caa1694e60ac": "https://podkast.nrk.no/fil/olgull/a8032df1-3d3c-4bf7-8691-105106ba0a43_0_ID192MP3.mp3",
-"l_39a2d5fc-16f2-4096-a2d5-fc16f2009661": "https://podkast.nrk.no/fil/olgull/0b0d068b-59e3-449d-b068-3e36ed11f49a_0_ID192MP3.mp3",
-"l_4fe735a6-7f46-4468-a735-a67f469468e4": "https://podkast.nrk.no/fil/olgull/74349761-272d-4e91-a8f7-879ee620fa5e_0_ID192MP3.mp3",
-"l_51b405b6-2936-4771-b405-b629366771ad": "https://podkast.nrk.no/fil/olgull/44fb246b-b987-4c39-986c-d038d683a0b3_0_ID192MP3.mp3",
-"l_5e6d3dfb-80e5-4f29-ad3d-fb80e53f2942": "https://podkast.nrk.no/fil/olgull/079b0b7d-0db1-4efa-9e7d-d838574e5d1f_0_ID192MP3.mp3",
-"l_845c9857-0250-46e5-9c98-57025066e544": "https://podkast.nrk.no/fil/olgull/ac16b99f-f39e-4057-98ac-61e636064111_0_ID192MP3.mp3",
-"l_8e07adb9-b123-45e3-87ad-b9b12395e314": "https://podkast.nrk.no/fil/olgull/ce887c1d-4dfa-49e5-835d-cfeb4d464254_0_ID192MP3.mp3",
-"l_fb006a07-2893-4d44-806a-0728933d4446": "https://podkast.nrk.no/fil/olgull/7e80a857-df8e-4a3c-bf2d-0996a87227e8_0_ID192MP3.mp3"
+"episodes": {
+"l_21d493ca-a169-4e60-9493-caa1694e60ac": {
+"d": "2024-06-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iVKIGAj0epIwviq6tcWeuwGFtNiNLL1MutIEjWY68olA",
+"n": 2865,
+"s": "Arrangørene slapp ut slitne duer som måtte bøte med livet. En 26-åring skjøt villsvin og en mann løp om kapp med en hest.",
+"t": "Seoul 1988",
+"u": "https://podkast.nrk.no/fil/olgull/a8032df1-3d3c-4bf7-8691-105106ba0a43_0_ID192MP3.mp3"
+},
+"l_39a2d5fc-16f2-4096-a2d5-fc16f2009661": {
+"d": "2024-06-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/zECbwaZQF3nkMRvIoAVmqwS5YmrJ6gprZHhp4AZavAMA",
+"n": 3212,
+"s": "En ål ble en av OL-historiens mest uventede helter – og Dagny Mellgren sto for tidenes kommentatorekstase.",
+"t": "Sydney  2000",
+"u": "https://podkast.nrk.no/fil/olgull/0b0d068b-59e3-449d-b068-3e36ed11f49a_0_ID192MP3.mp3"
+},
+"l_4fe735a6-7f46-4468-a735-a67f469468e4": {
+"d": "2024-06-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/fHeob_dIWcoB853cc1v57w3mQM9rYVXkezkQHroynYmw",
+"n": 4223,
+"s": "1992 var året da superstjernene inntok OL, en kvinne fra Nøtterøy ble historisk og vi endelig slo Sovjet.",
+"t": "Barcelona 1992",
+"u": "https://podkast.nrk.no/fil/olgull/74349761-272d-4e91-a8f7-879ee620fa5e_0_ID192MP3.mp3"
+},
+"l_51b405b6-2936-4771-b405-b629366771ad": {
+"d": "2024-07-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/TZDQJX5leZGoP2w_y2mvgARcrvHBRY5M-2zRw03zgbFg",
+"n": 3310,
+"s": "Paul McCartney åpnet lekene med Hey Jude. Cool Britannia var tilbake og Paralympics fikk endelig skinne.",
+"t": "London 2012",
+"u": "https://podkast.nrk.no/fil/olgull/44fb246b-b987-4c39-986c-d038d683a0b3_0_ID192MP3.mp3"
+},
+"l_5e6d3dfb-80e5-4f29-ad3d-fb80e53f2942": {
+"d": "2024-07-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/z5N2TrJ2Ztlghv-E19HOuArg878BCA-piYJuUeVShKeA",
+"n": 3833,
+"s": "På hjemmebane kunne Kina vise muskler, og Norge tok et etterlengtet gull. Men var den ballen egentlig inne?",
+"t": "Beijing 2008",
+"u": "https://podkast.nrk.no/fil/olgull/079b0b7d-0db1-4efa-9e7d-d838574e5d1f_0_ID192MP3.mp3"
+},
+"l_845c9857-0250-46e5-9c98-57025066e544": {
+"d": "2024-06-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nUXaHRE1EvoJadG5r_MojgFNFrBdKBpD4q-Um2iCHhuA",
+"n": 3911,
+"s": "Historien om da terroren traff OL-byen, den største tente ilden og den halve sjokoladen som skulle redde norsk OL-historie.",
+"t": "Atlanta 1996",
+"u": "https://podkast.nrk.no/fil/olgull/ac16b99f-f39e-4057-98ac-61e636064111_0_ID192MP3.mp3"
+},
+"l_8e07adb9-b123-45e3-87ad-b9b12395e314": {
+"d": "2024-07-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/1DVvnlolAv2Pkrm42cSkzwGI11jm7gbHM6IgWkczC-JA",
+"n": 2780,
+"s": "OL-historiens mørkeste timer under det verste anslaget mot de olympiske leker noensinne. Og litt doping var fortsatt lov.",
+"t": "München 1972",
+"u": "https://podkast.nrk.no/fil/olgull/ce887c1d-4dfa-49e5-835d-cfeb4d464254_0_ID192MP3.mp3"
+},
+"l_fb006a07-2893-4d44-806a-0728933d4446": {
+"d": "2024-07-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/IbDUoWph6cd82hGas4fSLwfelO_BxFVlJsBbxZyfXdAA",
+"n": 2987,
+"s": "Epidemien stengte så vidt en hel verden ute. Karsten Warholm ble kongen og tok opp arven etter Harald.",
+"t": "Tokyo 2021",
+"u": "https://podkast.nrk.no/fil/olgull/7e80a857-df8e-4a3c-bf2d-0996a87227e8_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Sport",
+"id": "olgull",
+"image": "https://gfx.nrk.no/y2an3qnykZd1Ck979G7TjQ5vRDXGBdF9g7btI9CaAdQQ",
+"subtitle": "128 år med juks, jubel og usannsynlige idrettshelter. OL-historien har alt man drømmer om av spenning og skuffelser. Bli med å grave etter OL-gull.",
+"title": "OL-gull"
+},
+"v": 2
 }

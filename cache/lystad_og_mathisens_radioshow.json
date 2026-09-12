@@ -1,23 +1,180 @@
 {
-"l_06cfadb7-c54c-4f4c-8fad-b7c54caf4c72": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-29_0630_2125.MP3",
-"l_174aabdf-389f-44f2-8aab-df389f44f200": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-26_0500_2835.MP3",
-"l_2a9cad93-ee15-4692-9cad-93ee15869246": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_549.MP3",
-"l_301991b8-8c50-47bd-9991-b88c50e7bd48": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_1683.MP3",
-"l_35cc6314-905c-4745-8c63-14905c5745be": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_1333.MP3",
-"l_3714ab82-5f79-40bb-94ab-825f7940bb22": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_2454.MP3",
-"l_37630a77-b51e-46f1-a30a-77b51ed6f100": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-01-01_0500_2230.MP3",
-"l_3f2fb82e-4d22-4a49-afb8-2e4d22aa4928": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_1034.MP3",
-"l_4bb4f301-7b23-4351-b4f3-017b23a351ae": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-29_0700_1922.MP3",
-"l_544d72e7-e3eb-4858-8d72-e7e3eb185869": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_2501.MP3",
-"l_5586e6ff-e896-4cd2-86e6-ffe8967cd290": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2081.MP3",
-"l_6b29916a-9d39-45ff-a991-6a9d3975ff3b": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_3494.MP3",
-"l_730a47eb-3321-44f3-8a47-eb332114f361": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2514.MP3",
-"l_7ae78cbf-2f67-4cc4-a78c-bf2f67ccc457": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-28_0500_2395.MP3",
-"l_8df0530c-8f81-485a-b053-0c8f81185ac7": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2323.MP3",
-"l_bd9ff794-8c7b-4ef1-9ff7-948c7b3ef164": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_2611.MP3",
-"l_c93b41a9-fbbc-41a4-bb41-a9fbbc01a49a": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-27_0500_2980.MP3",
-"l_c95f62b1-9ec6-437b-9f62-b19ec6037b82": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_1969.MP3",
-"l_cf390058-b77d-467c-b900-58b77d067cf2": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2815.MP3",
-"l_cfaa7c9a-c161-4007-aa7c-9ac161000705": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_3042.MP3",
-"l_d4aa3110-1a16-4f2d-aa31-101a16cf2deb": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-31_0500_1097.MP3"
+"episodes": {
+"l_06cfadb7-c54c-4f4c-8fad-b7c54caf4c72": {
+"d": "2018-06-29T08:30:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1627,
+"s": "Knut og Tom finner fordeler med demens, Tom innrømmer at han til tider føler seg feminin og Erna og Schei Grande stikker innom.",
+"t": "Episode 1: Demens, fasttelefon og Erna + Schei Grande",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-29_0630_2125.MP3"
+},
+"l_174aabdf-389f-44f2-8aab-df389f44f200": {
+"d": "2018-12-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1502,
+"s": "Knut Lystad og Tom Mathisen diskuterer andre juledag og åpner luken i romjulekalenderen. ",
+"t": "Julespesial 1: Andre juledag",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-26_0500_2835.MP3"
+},
+"l_2a9cad93-ee15-4692-9cad-93ee15869246": {
+"d": "2018-06-29T08:30:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1874,
+"s": "Hør om Tom sin lysende modellkarriere, guttas forhold til dataspill, swingers, el-biler og masse annet, tatt opp i fullt alvor. ",
+"t": "Episode 7: Modell-liv, gaming og swingers",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_549.MP3"
+},
+"l_301991b8-8c50-47bd-9991-b88c50e7bd48": {
+"d": "2019-04-13T09:00:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1704,
+"s": "Knut og Tom snakker om hva påsken er, og hvordan. Dessuten får du høre første episode av Hvem skjøt Rygh, årets morsomste påskekrim! ",
+"t": "Påskespesial 1",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_1683.MP3"
+},
+"l_35cc6314-905c-4745-8c63-14905c5745be": {
+"d": "2018-06-29T08:30:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 2004,
+"s": "Tom har fått ny telefon for første gang på 20 år. Hør også om Knut sitt møte med en amerikansk president, og: få med deg språkkurs for eldre i syden!",
+"t": "Episode 9: Iphone, presidenter og språkkurs for eldre",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_1333.MP3"
+},
+"l_3714ab82-5f79-40bb-94ab-825f7940bb22": {
+"d": "2018-06-29T08:30:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1924,
+"s": "Knut og Tom snakker om nye stillinger for eldre, når man kan si nei til egne barns spørsmål om barnebarn-pass og om ensomheten som kan inntreffe.",
+"t": "Episode 6: Sex for eldre og kan man si nei til barnebarn-pass?  ",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_2454.MP3"
+},
+"l_37630a77-b51e-46f1-a30a-77b51ed6f100": {
+"d": "2019-01-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1584,
+"s": "Tom og Knut snakker blant annet om året som kommer, nyttårsrennet og hårfarging!",
+"t": "Julespesial 5: Første nyttårsdag",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-01-01_0500_2230.MP3"
+},
+"l_3f2fb82e-4d22-4a49-afb8-2e4d22aa4928": {
+"d": "2019-04-13T09:00:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 379,
+"s": "Knut Lystad og Tom Mathisens påskekrim. Få med deg løsningen på mysteriet.",
+"t": "Hvem skjøt Rygh? Episode 3",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_1034.MP3"
+},
+"l_4bb4f301-7b23-4351-b4f3-017b23a351ae": {
+"d": "2018-06-29T08:30:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1804,
+"s": "Knut og Tom raljerer videre om det å bli eldre. Hva kan man bruke nesehår til? Hvordan er det egentlig å bli pensjonist? Og hva ville du gjort om du vant i Lotto?",
+"t": "Episode 2: Inkontinens, nesehår og Tom sin mobiletelefon ",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-29_0700_1922.MP3"
+},
+"l_544d72e7-e3eb-4858-8d72-e7e3eb185869": {
+"d": "2018-06-29T08:30:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 2044,
+"s": "I denne episoden snakker Knut og Tom om trening, triks for å snike i køen på legevakta og nye banneord. ",
+"t": "Episode 8: Trening, legevaktkollaps og nye banneord",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_2501.MP3"
+},
+"l_5586e6ff-e896-4cd2-86e6-ffe8967cd290": {
+"d": "2019-04-13T09:00:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1674,
+"s": "Knut og Tom tolker påskens budskap, og du får høre andre episode av Hvem skjøt Rygh, årets morsomste påskekrim!",
+"t": "Påskespesial 2",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2081.MP3"
+},
+"l_6b29916a-9d39-45ff-a991-6a9d3975ff3b": {
+"d": "2018-06-29T08:30:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1934,
+"s": "Her får du blant annet høre om rynker, arv og Knut sin helt spesielle link til Snurre Sprett. ",
+"t": "Episode 4: Arv, rynker og Snurre Sprett",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_3494.MP3"
+},
+"l_730a47eb-3321-44f3-8a47-eb332114f361": {
+"d": "2019-04-13T09:00:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1341,
+"s": "Knut og Tom hjelper deg ut på den andre siden av påsken i siste episoden av denne påskespesialen. Og ikke minst: Få med deg finalen i Hvem skjøt Rygh, årets morsomste påskekrim! ",
+"t": "Påskespesial 3",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2514.MP3"
+},
+"l_7ae78cbf-2f67-4cc4-a78c-bf2f67ccc457": {
+"d": "2018-12-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1500,
+"s": "Om ensomhet i julen, vinteraktiviteter før og nå og at visse allerede har begynt å feire påske.",
+"t": "Julespesial 3: Fjerde juledag",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-28_0500_2395.MP3"
+},
+"l_8df0530c-8f81-485a-b053-0c8f81185ac7": {
+"d": "2019-04-13T09:00:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 414,
+"s": "Knut Lystad og Tom Mathisens påskekrim. Få med deg fortsettelsen på det spennende dramaet på påskehytta. Hovedpersonene Math-Erik Tomsen og Ove Knutstad er på en hytte i påskefjellet. De skal ha fred og ro, men er livredde for at en massmorder er på vei...",
+"t": "Hvem skjøt Rygh? Episode 2",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2323.MP3"
+},
+"l_bd9ff794-8c7b-4ef1-9ff7-948c7b3ef164": {
+"d": "2018-06-29T08:30:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1792,
+"s": "Knut og Tom snakker om netthandel, vennskapet og om hva de synes om den nye Ni Liv-filmen (Den tolvte mann). ",
+"t": "Episode 5: Netthandel, vennskap og Ni Liv",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_2611.MP3"
+},
+"l_c93b41a9-fbbc-41a4-bb41-a9fbbc01a49a": {
+"d": "2018-12-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1766,
+"s": "Hva kan man gjøre tredje juledag? Jo, se julefilmer og urframføre en sketsj fritt etter en ide fra Per Asplin. ",
+"t": "Julespesial 2: Tredje juledag",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-27_0500_2980.MP3"
+},
+"l_c95f62b1-9ec6-437b-9f62-b19ec6037b82": {
+"d": "2018-06-29T08:30:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1911,
+"s": "Knut og Tom tar for seg store spørsmål som gudetro og nett-dating. Hør også om hvordan gutta har lurt ukebladene opp gjennom åra. ",
+"t": "Episode 3: Gudetro, nett-dating og Se&Hør",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_1969.MP3"
+},
+"l_cf390058-b77d-467c-b900-58b77d067cf2": {
+"d": "2019-04-13T09:00:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 261,
+"s": "Knut Lystad og Tom Mathisen i fri dresur. I denne serien blir vi med hovedpersonene Math-Erik Tomsen og Ove Knutstad på en hytte i påskefjellet. De er der for å få fred og ro, men det skal vise seg at det dukker opp mange etterhvert...",
+"t": "Hvem skjøt Rygh? Episode 1",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2815.MP3"
+},
+"l_cfaa7c9a-c161-4007-aa7c-9ac161000705": {
+"d": "2018-06-29T08:30:00+02:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 2172,
+"s": "I denne episoden får du høre livsvise råd. Knut Lystad og Tom Mathisen snakker også om tatoveringer, om drosjer før og nå og mye annet, som alltid tatt opp i fullt alvor!",
+"t": "Episode 10: Livsvisdom, tatoveringer og drosjer  ",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_3042.MP3"
+},
+"l_d4aa3110-1a16-4f2d-aa31-101a16cf2deb": {
+"d": "2018-12-31T06:00:00+01:00",
+"i": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"n": 1484,
+"s": "Noen litt merkelige nyttårsforsetter, og vi får møte Erna, Schei Grande, Hareide og Gahr Støre!",
+"t": "Julespesial 4: Nyttårsaften",
+"u": "https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-31_0500_1097.MP3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "lystad_og_mathisens_radioshow",
+"image": "https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg",
+"subtitle": "Her får du møte humorveteranene Knut Lystad og Tom Mathisen i godt gammelt slag. Tre nye påskespesial med blant annet påskens morsomste krim: Hvem skjøt Rygh?",
+"title": "Lystad og Mathisens radioshow"
+},
+"v": 2
 }

@@ -1,8 +1,60 @@
 {
-"l_2b32f74f-4d0e-4a28-b2f7-4f4d0eda28aa": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-11_1900_3928.MP3",
-"l_40c6e2ea-b9b2-4185-86e2-eab9b2918576": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-04_1903_1141.MP3",
-"l_c4261133-09bb-489b-a611-3309bbe89be8": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-04_1900_195.MP3",
-"l_cc079e53-6622-4e52-879e-536622be52b0": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-18_1945_3892.MP3",
-"l_d4046328-0ead-4d9e-8463-280eadbd9eee": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-12-02_2021_526.MP3",
-"l_f563557c-eb54-4b89-a355-7ceb546b89db": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-25_2100_3617.MP3"
+"episodes": {
+"l_2b32f74f-4d0e-4a28-b2f7-4f4d0eda28aa": {
+"d": "2018-11-11T20:00:00+01:00",
+"i": "https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw",
+"n": 2135,
+"s": "Jula kommer til Orderud gård, og Kristin Kirkemo bruker sine kriminelle kontakter til å skaffe våpen til Per og Veronica. Men hvorfor?",
+"t": "Lille julaften (3:6)",
+"u": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-11_1900_3928.MP3"
+},
+"l_40c6e2ea-b9b2-4185-86e2-eab9b2918576": {
+"d": "2018-11-04T19:03:00+01:00",
+"i": "https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw",
+"n": 2006,
+"s": "Per og foreldrene er uenige om fordelingen av arven mellom Per og søsteren. Men hvor dypt stikker konflikten? Dypt nok til å drepe?",
+"t": "Arven (2:6)",
+"u": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-04_1903_1141.MP3"
+},
+"l_c4261133-09bb-489b-a611-3309bbe89be8": {
+"d": "2018-11-04T18:57:00+01:00",
+"i": "https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw",
+"n": 1957,
+"s": "Hvis du hadde konkrete planer om å ta livet av noen, ville du da skrevet det i dagboka di? Vi tar en titt på Veronica Orderuds dagbok.",
+"t": "Veronicas dagbok (1:6)",
+"u": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-04_1900_195.MP3"
+},
+"l_cc079e53-6622-4e52-879e-536622be52b0": {
+"d": "2018-11-18T20:48:00+01:00",
+"i": "https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw",
+"n": 1986,
+"s": "Pinsen 1999 finner en eldre mann broren sin skutt og drept, sammen med kona og dattera. Midt i sjokk og sorg rettes mistanken mot nær familie.",
+"t": "Pinse på Sørumsand (4:6)",
+"u": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-18_1945_3892.MP3"
+},
+"l_d4046328-0ead-4d9e-8463-280eadbd9eee": {
+"d": "2018-12-02T21:21:00+01:00",
+"i": "https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw",
+"n": 1987,
+"s": "I årene etter dommen vokser splittelsen i familiene Orderud og Kirkemo. De dømte soner, men de som ble rammet av tragedien leter fortsatt etter svar.",
+"t": "Åpne sår (6:6)",
+"u": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-12-02_2021_526.MP3"
+},
+"l_f563557c-eb54-4b89-a355-7ceb546b89db": {
+"d": "2018-11-25T22:00:00+01:00",
+"i": "https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw",
+"n": 2059,
+"s": "Kristin Kirkemo forsøkte å trekke Lars Grønnerød med seg i avgrunnen, og ansikt til ansikt med juryen kjempet han en desperat kamp for å bli trodd.",
+"t": "Dommen (5:6)",
+"u": "https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-25_2100_3617.MP3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "familiene_paa_orderud",
+"image": "https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw",
+"subtitle": "Joachim Førsund graver i det menneskelige dramaet bak trippeldrapene på Orderud gård – her får du historien slik du aldri har hørt den før.",
+"title": "Familiene på Orderud"
+},
+"v": 2
 }

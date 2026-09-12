@@ -1,22 +1,172 @@
 {
-"l_0c9c1dc5-27d1-4a85-9c1d-c527d1ba8590": "https://podkast.nrk.no/fil/meininga_med_livet/bd833655-0f1a-4d1b-8386-353339ebce23_0_ID192MP3.mp3",
-"l_5bd102ab-38db-4091-9102-ab38dba091e7": "https://podkast.nrk.no/fil/meininga_med_livet/18aa86a4-94bc-4989-b6e4-e89590c48757_0_ID192MP3.mp3",
-"l_61d3c965-70ab-4816-93c9-6570ab18160b": "https://podkast.nrk.no/fil/meininga_med_livet/b8d0183a-e623-4b9b-9e39-d33a73d103dc_0_ID192MP3.mp3",
-"l_7ab7b181-eb08-45d5-b7b1-81eb0835d52b": "https://podkast.nrk.no/fil/meininga_med_livet/a1b7d93e-3312-402d-aa07-d7e4df6c216b_0_ID192MP3.mp3",
-"l_7f133b5f-4f31-4b17-933b-5f4f31eb17fd": "https://podkast.nrk.no/fil/meininga_med_livet/3c4a22b8-89d9-44b3-bc66-5810af61d72b_0_ID192MP3.mp3",
-"l_80834335-9693-4c9e-8343-3596932c9ebc": "https://podkast.nrk.no/fil/meininga_med_livet/1c192995-706f-4865-a93b-2f2276a71038_0_ID192MP3.mp3",
-"l_87b0a922-630f-4e6a-b0a9-22630f9e6ac5": "https://podkast.nrk.no/fil/meininga_med_livet/be065d3a-3786-4580-82f7-c662205e0ca5_0_ID192MP3.mp3",
-"l_95806a9b-66a0-4322-806a-9b66a0232289": "https://podkast.nrk.no/fil/meininga_med_livet/5c144d0a-42a6-41c8-a4c7-e59200fc26f4_0_ID192MP3.mp3",
-"l_ad1743d9-689d-4456-9743-d9689df4560d": "https://podkast.nrk.no/fil/meininga_med_livet/dc4c8014-97a1-41a6-8229-ec9dfb027156_0_ID192MP3.mp3",
-"l_aeab2c9c-4958-4417-ab2c-9c4958f4174c": "https://podkast.nrk.no/fil/meininga_med_livet/1f212896-0800-4c6d-a1f5-d7751efbf231_0_ID192MP3.mp3",
-"l_b4088224-159b-411e-8882-24159bd11e6b": "https://podkast.nrk.no/fil/meininga_med_livet/15e320fe-50ad-4fc0-9d82-676295378ef6_0_ID192MP3.mp3",
-"l_b9be2abe-0cb4-4843-be2a-be0cb47843cc": "https://podkast.nrk.no/fil/meininga_med_livet/6a2d7b94-c574-4408-9cf3-3b1a3b870df7_0_ID192MP3.mp3",
-"l_c24fb516-8495-4cbc-8fb5-168495dcbc72": "https://podkast.nrk.no/fil/meininga_med_livet/bbe60f84-ba39-42f8-8230-f5e3e342c3a5_0_ID192MP3.mp3",
-"l_c714509f-2e8e-4a07-9450-9f2e8e8a0710": "https://podkast.nrk.no/fil/meininga_med_livet/8627bc0b-c7ed-4943-af49-aff5b5c766eb_0_ID192MP3.mp3",
-"l_df6040fd-3b51-4603-a040-fd3b518603c5": "https://podkast.nrk.no/fil/meininga_med_livet/4bd0c06b-1c38-45fb-9075-dff472c8fdad_0_ID192MP3.mp3",
-"l_eb967444-eb6b-4039-9674-44eb6b5039f0": "https://podkast.nrk.no/fil/meininga_med_livet/f08cb707-aea1-4cd8-82a4-82ba75327a9a_0_ID192MP3.mp3",
-"l_f720539c-a7ae-4cf9-a053-9ca7ae6cf9ef": "https://podkast.nrk.no/fil/meininga_med_livet/0767ccd5-d3e7-4630-87f3-969f98786888_0_ID192MP3.mp3",
-"l_fd95a2e0-4c05-4412-95a2-e04c05341219": "https://podkast.nrk.no/fil/meininga_med_livet/0e51aee3-92e9-4035-96e8-36cd90a503d8_0_ID192MP3.mp3",
-"l_fddd59c5-911b-406b-9d59-c5911ba06bc9": "https://podkast.nrk.no/fil/meininga_med_livet/625f1fae-cae3-4b29-80b3-96e0a3e71ed6_0_ID192MP3.mp3",
-"l_ffe9bf81-08b2-48cd-a9bf-8108b258cde6": "https://podkast.nrk.no/fil/meininga_med_livet/5dfb847e-55a9-4f3a-aa50-5ca3f426395b_0_ID192MP3.mp3"
+"episodes": {
+"l_0c9c1dc5-27d1-4a85-9c1d-c527d1ba8590": {
+"d": "2023-10-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2356,
+"s": "Live vil bli som garderobeskapet til fotball-legenda David Beckham.",
+"t": "Rydd-it som Beckham",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/bd833655-0f1a-4d1b-8386-353339ebce23_0_ID192MP3.mp3"
+},
+"l_5bd102ab-38db-4091-9102-ab38dba091e7": {
+"d": "2023-09-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2029,
+"s": "Ronny konkurrerer mot kunstig intelligens i sang, medan Live har slitt med ein heim full av luseegg. ",
+"t": "Ikkje føl på luseskam!",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/18aa86a4-94bc-4989-b6e4-e89590c48757_0_ID192MP3.mp3"
+},
+"l_61d3c965-70ab-4816-93c9-6570ab18160b": {
+"d": "2024-02-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2583,
+"s": "Ronny har vore ute i uhyggeleg føre, men fann lukka likevel. Live har funne livets sitat, på eit treningssenter.",
+"t": "Tvungen bålkos",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/b8d0183a-e623-4b9b-9e39-d33a73d103dc_0_ID192MP3.mp3"
+},
+"l_7ab7b181-eb08-45d5-b7b1-81eb0835d52b": {
+"d": "2023-10-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 1710,
+"s": "Og Live hadde sagt eit rungande ja, om statsministeren tilbaud ho posten som kunnskapsminister.",
+"t": "Ronny vil bli fritidsminister",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/a1b7d93e-3312-402d-aa07-d7e4df6c216b_0_ID192MP3.mp3"
+},
+"l_7f133b5f-4f31-4b17-933b-5f4f31eb17fd": {
+"d": "2024-01-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2227,
+"s": "Ronny er attende og har begynt å sove med hanskar. Live har irritert seg over ein småleg sjåfør i trafikken. ",
+"t": "Kølle i varebil",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/3c4a22b8-89d9-44b3-bc66-5810af61d72b_0_ID192MP3.mp3"
+},
+"l_80834335-9693-4c9e-8343-3596932c9ebc": {
+"d": "2024-02-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 1909,
+"s": "Live og Ronny gir deg meininga med livet for siste gong. For no. ",
+"t": "Vi legg podkasten i kunstig koma",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/1c192995-706f-4865-a93b-2f2276a71038_0_ID192MP3.mp3"
+},
+"l_87b0a922-630f-4e6a-b0a9-22630f9e6ac5": {
+"d": "2023-11-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2603,
+"s": "Ronny trur han veit kvifor det er flaut å bli rørt blant folk, Live meiner konklusjonen er genial.",
+"t": "Flaut å bli rørt",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/be065d3a-3786-4580-82f7-c662205e0ca5_0_ID192MP3.mp3"
+},
+"l_95806a9b-66a0-4322-806a-9b66a0232289": {
+"d": "2023-11-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 1817,
+"s": "Ein kjend person har blitt teken for steling att, og Ronny og Live røper om dei nokon gong har stole noko",
+"t": "Har aldri stole kondom",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/5c144d0a-42a6-41c8-a4c7-e59200fc26f4_0_ID192MP3.mp3"
+},
+"l_ad1743d9-689d-4456-9743-d9689df4560d": {
+"d": "2023-09-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/TTqWauG3PIulgaRQbXlerwG0Chz0g4XttTUC_hEGMQ3Q",
+"n": 1881,
+"s": "Ronny testar ekteskapet til Live i gameshowet «Tillit eller ikkje tillit».\n",
+"t": "Bunnsolid ekteskap",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/dc4c8014-97a1-41a6-8229-ec9dfb027156_0_ID192MP3.mp3"
+},
+"l_aeab2c9c-4958-4417-ab2c-9c4958f4174c": {
+"d": "2024-01-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2378,
+"s": "Live har kalt inn ein supervikar i Ronny sitt fråver. Det er sjølvaste kunnskapsminister Kari Nessa Nordtun.",
+"t": "Mindre skjerm, meir badekar",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/1f212896-0800-4c6d-a1f5-d7751efbf231_0_ID192MP3.mp3"
+},
+"l_b4088224-159b-411e-8882-24159bd11e6b": {
+"d": "2023-11-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2535,
+"s": "Ronny og Live er opprørte over kva som skjer i verda no, og har ei melding til folket. Og har ringt til Nord-Noreg for å bekrefte noko. ",
+"t": "Dei ler av oss",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/15e320fe-50ad-4fc0-9d82-676295378ef6_0_ID192MP3.mp3"
+},
+"l_b9be2abe-0cb4-4843-be2a-be0cb47843cc": {
+"d": "2023-11-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2145,
+"s": "Sjølv om du står midt i noko kjipt, er Live og Ronny sitt mål at du skal få det litt hyggelegare saman med dei.  ",
+"t": "Hyggeleg kjensle midt i driten.",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/6a2d7b94-c574-4408-9cf3-3b1a3b870df7_0_ID192MP3.mp3"
+},
+"l_c24fb516-8495-4cbc-8fb5-168495dcbc72": {
+"d": "2023-09-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2177,
+"s": "Live er ufrivillig tanntrekkar, og Ronny vil gå med shorts i september.",
+"t": "Meininga er å møtast",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/bbe60f84-ba39-42f8-8230-f5e3e342c3a5_0_ID192MP3.mp3"
+},
+"l_c714509f-2e8e-4a07-9450-9f2e8e8a0710": {
+"d": "2023-10-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 1894,
+"s": "Ronny føler seg gammal, men Live har funne ein kur.",
+"t": "Kur mot aldersangst",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/8627bc0b-c7ed-4943-af49-aff5b5c766eb_0_ID192MP3.mp3"
+},
+"l_df6040fd-3b51-4603-a040-fd3b518603c5": {
+"d": "2024-01-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 1863,
+"s": "Ronny vedgår plagiat, Live har vore eit vrak på turné og dei ringer Nord-Noreg att, for å spørje om dei framleis ler.  ",
+"t": "Burde hatt broddar",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/4bd0c06b-1c38-45fb-9075-dff472c8fdad_0_ID192MP3.mp3"
+},
+"l_eb967444-eb6b-4039-9674-44eb6b5039f0": {
+"d": "2023-10-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2364,
+"s": "For Live og Ronny er lykka i livet ei tynn kake med trippel glasur.",
+"t": "Kake er nøkkelen til glede",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/f08cb707-aea1-4cd8-82a4-82ba75327a9a_0_ID192MP3.mp3"
+},
+"l_f720539c-a7ae-4cf9-a053-9ca7ae6cf9ef": {
+"d": "2024-01-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2108,
+"s": "Ronny og Live startar det nye året med å minnast nokre av høgdepunkta i 2023. ",
+"t": "Meininga mimrar",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/0767ccd5-d3e7-4630-87f3-969f98786888_0_ID192MP3.mp3"
+},
+"l_fd95a2e0-4c05-4412-95a2-e04c05341219": {
+"d": "2023-11-29T06:01:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 210,
+"s": "Denne veka kjem det ein anna podkast frå Ronny og Live . Endeleg attende i kottet! Hjartleg velkommen til å følgje Julestemning frå 1. desember. ",
+"t": "Raslar det i bjellene, Nelvik?",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/0e51aee3-92e9-4035-96e8-36cd90a503d8_0_ID192MP3.mp3"
+},
+"l_fddd59c5-911b-406b-9d59-c5911ba06bc9": {
+"d": "2024-02-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2358,
+"s": "Ronny har snike i ølkø og trur ryktet hans er øydelagd, og Live spør seg om verda rundt ho har blitt surare.",
+"t": "Levd liv Nelvik",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/625f1fae-cae3-4b29-80b3-96e0a3e71ed6_0_ID192MP3.mp3"
+},
+"l_ffe9bf81-08b2-48cd-a9bf-8108b258cde6": {
+"d": "2024-01-31T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"n": 2324,
+"s": "Live har late seg inspirere av visdom på Instagram, medan Ronny har feila i kvardagslivet.",
+"t": "Hatar du deg sjølv? Ta ein dusj",
+"u": "https://podkast.nrk.no/fil/meininga_med_livet/5dfb847e-55a9-4f3a-aa50-5ca3f426395b_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "meininga_med_livet",
+"image": "https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA",
+"subtitle": "Live og Ronny elskar å prate, aller helst saman. Kvar veke prøver dei å finne små og store augeblikk som gir livet (litt) meir meining.",
+"title": "Meininga med livet"
+},
+"v": 2
 }

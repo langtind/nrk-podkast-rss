@@ -1,8 +1,60 @@
 {
-"l_0d7e7bdc-fd8a-4b1d-be7b-dcfd8aab1d41": "https://podkast.nrk.no/fil/kaffipraati/b72aa280-9cca-4d65-a6e9-696ad1ec377a_0_ID192MP3.mp3",
-"l_0d95f179-cf91-4262-95f1-79cf91a26273": "https://podkast.nrk.no/fil/kaffipraati/b802142a-3d01-4035-a2c1-9437cea20f63_0_ID192MP3.mp3",
-"l_6cb9665c-5130-4a58-b966-5c5130ea5894": "https://podkast.nrk.no/fil/kaffipraati/ffb85ada-9207-4df3-b0c5-bad98fabd8e7_0_ID192MP3.mp3",
-"l_8e29b3db-7516-4546-a9b3-db751635461d": "https://podkast.nrk.no/fil/kaffipraati/10d6b762-a149-4869-9579-486809a365ea_0_ID192MP3.mp3",
-"l_9d3d87e2-7ac7-4d14-bd87-e27ac7bd1415": "https://podkast.nrk.no/fil/kaffipraati/e63f0732-1b06-416a-abb9-d5005ce0519b_0_ID192MP3.mp3",
-"l_ac9510c1-5bfa-4f2f-9510-c15bfa7f2f37": "https://podkast.nrk.no/fil/kaffipraati/6f027335-86c4-4387-932d-159d13496be9_0_ID192MP3.mp3"
+"episodes": {
+"l_0d7e7bdc-fd8a-4b1d-be7b-dcfd8aab1d41": {
+"d": "2025-04-26T06:04:00+02:00",
+"i": "https://gfx.nrk.no/Pbr7Fax8nARO81q15vHWjAPokiLyJRh5df7LzWWn1xNQ",
+"n": 1099,
+"s": "Kan et språk åpne hjertet til følelser som vi ikke klarer å forklare på annet vis? Merethe Eidstø forteller om hva hjertespråket har gjort for henne.",
+"t": "Hjertespråk",
+"u": "https://podkast.nrk.no/fil/kaffipraati/b72aa280-9cca-4d65-a6e9-696ad1ec377a_0_ID192MP3.mp3"
+},
+"l_0d95f179-cf91-4262-95f1-79cf91a26273": {
+"d": "2025-04-26T06:01:00+02:00",
+"i": "https://gfx.nrk.no/bpZiBsxlY4II4YyBYTcQ9wSxywlsI5XeCQQ8SiXNImdA",
+"n": 1010,
+"s": "«Löyly» er dampen fra badstueovnen når du kaster vann på den. Noora Marie Ollila Sandmo forklarer hvorfor det er så viktig i kvensk kultur.",
+"t": "Badstudampens hemmeligheter",
+"u": "https://podkast.nrk.no/fil/kaffipraati/b802142a-3d01-4035-a2c1-9437cea20f63_0_ID192MP3.mp3"
+},
+"l_6cb9665c-5130-4a58-b966-5c5130ea5894": {
+"d": "2025-04-26T06:02:00+02:00",
+"i": "https://gfx.nrk.no/T4Xyaf_Jvjg6wjUF9wPT1wJUn4vQ_wTvl6v4345ZFMnQ",
+"n": 1127,
+"s": "Nå er det «trendy» å spise protein, særlig når du trener. Men Anna-Kaisa Räisänen kan fortelle at kvenene begynte med dette for flere hundre år siden.",
+"t": "Vil du ha ost i kaffen?",
+"u": "https://podkast.nrk.no/fil/kaffipraati/ffb85ada-9207-4df3-b0c5-bad98fabd8e7_0_ID192MP3.mp3"
+},
+"l_8e29b3db-7516-4546-a9b3-db751635461d": {
+"d": "2025-04-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eFowVcHBNOSHwZCwlaFiFwNdvBs1ajy_-MG8KqDuvGww",
+"n": 1046,
+"s": "«Ei saa peittää» – eller «må ikke tildekkes», er noe mange har lest på ovnen på do. Katriina Pedersen forklarer hvorfor det betyr noe mer for kvenene.",
+"t": "Må ikke tildekkes",
+"u": "https://podkast.nrk.no/fil/kaffipraati/10d6b762-a149-4869-9579-486809a365ea_0_ID192MP3.mp3"
+},
+"l_9d3d87e2-7ac7-4d14-bd87-e27ac7bd1415": {
+"d": "2025-04-26T06:03:00+02:00",
+"i": "https://gfx.nrk.no/K3AsYsMjzPsMKuDlPr3jngkmtmab7oVmGYkl4k5oik9w",
+"n": 1129,
+"s": "«Sisu» beskriver kvener og finners indre utholdenhet og viljestyrke. Men er det bare de som har det? Vi spør Nils-Einar Ørnebakk.",
+"t": "Finn din indre kven",
+"u": "https://podkast.nrk.no/fil/kaffipraati/e63f0732-1b06-416a-abb9-d5005ce0519b_0_ID192MP3.mp3"
+},
+"l_ac9510c1-5bfa-4f2f-9510-c15bfa7f2f37": {
+"d": "2025-04-26T06:05:00+02:00",
+"i": "https://gfx.nrk.no/cdO3meOweo5v9M7CiFltsg7ETUqqcvTu8PzJChULGlOg",
+"n": 1038,
+"s": "De siste årene har kvensk språk og kultur blomstret som et vakkert landskap etter vinteren. Men Aili Eriksen synes våren har vært lang.",
+"t": "Den kvenske våren",
+"u": "https://podkast.nrk.no/fil/kaffipraati/6f027335-86c4-4387-932d-159d13496be9_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Kultur og samfunn",
+"id": "kaffipraati",
+"image": "https://gfx.nrk.no/3UWYhbqDOi-NuTyFWhae_QkSrB-ceQLSg_0eONVeSwNg",
+"subtitle": "I verdens første kvenske podkast dykker programleder Tomi Vaara ned i kvensk kultur og språk sammen med spennende gjester. Kom og ta en kaffe med oss!",
+"title": "Kaffipraatti"
+},
+"v": 2
 }

@@ -1,121 +1,964 @@
 {
-"l_05c3f8c6-f43f-4b53-83f8-c6f43f3b531e": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/b85e00f9-94e8-43e9-bdad-19f2f8c2b0a1_0_ID192MP3.mp3",
-"l_06743a90-67f5-4b5e-b43a-9067f53b5efb": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/e6a7b657-5385-428d-9a12-2249f73da218_0_ID192MP3.mp3",
-"l_07fd8c70-1447-43dc-bd8c-70144783dc57": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/03a55ea2-450c-4f87-8f21-9ee2acd53d1e_0_ID192MP3.mp3",
-"l_0878bb0c-2f74-4f22-b8bb-0c2f746f2207": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/55e557d4-3efa-4db6-b1e5-e0599c6dbb07_0_ID192MP3.mp3",
-"l_0991c556-b720-44c5-91c5-56b72044c58c": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/6afbd518-5211-4446-86b3-ebbaafbcb1e4_0_ID192MP3.mp3",
-"l_0b14df3a-7a42-48e8-94df-3a7a4238e8dd": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/e831d0d6-3d1d-47e3-8561-8f1aa463cdaa_0_ID192MP3.mp3",
-"l_0bec7e12-ee7e-4fec-ac7e-12ee7e2feca2": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/4827c268-db11-4402-95c5-3a775cea5f80_0_ID192MP3.mp3",
-"l_12787f66-876f-4c1e-b87f-66876f2c1e1f": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-08-07_0400_3427.MP3",
-"l_1b083250-af2a-4338-8832-50af2a733842": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/29540b7d-ad68-46dd-925c-f5d982eb9270_0_ID192MP3.mp3",
-"l_28ae1900-2955-4a81-ae19-0029557a812c": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/67fdcc60-fb9e-408e-8ff1-49a9871e3756_0_ID192MP3.mp3",
-"l_29d7993e-06c2-4eaa-9799-3e06c2deaaea": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/a739123c-4910-4117-86c9-1c4efd31c92f_0_ID192MP3.mp3",
-"l_2a072ce6-5869-450a-872c-e65869050a81": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-10-09_0400_3310.MP3",
-"l_2a390df2-73ad-46b6-b90d-f273ada6b6ea": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/d906e714-ee42-481f-a882-483c51e7146a_0_ID192MP3.mp3",
-"l_2c02f5c2-1220-42d1-82f5-c2122072d164": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-04-10_0400_1475.MP3",
-"l_2db5f790-095a-438a-b5f7-90095a238ad3": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/6c3fee2a-363c-4743-a77b-07d2b48810eb_0_ID192MP3.mp3",
-"l_2e87ca45-b85f-47dd-87ca-45b85f17dd95": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/3c0600d9-4629-4b40-a4f4-f4a592992e61_0_ID192MP3.mp3",
-"l_33159fd0-0064-4280-959f-d00064e28040": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/fc027fcd-471e-4821-ab18-7198d66b4330_0_ID192MP3.mp3",
-"l_35ff4a9f-ae91-4d4a-bf4a-9fae91ed4ab5": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/8b129296-e467-497d-8332-71c03c74b4e1_0_ID192MP3.mp3",
-"l_36242128-fa9b-4cc8-a421-28fa9b3cc802": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/f71005f9-162e-4610-b598-8a8e61e0018e_0_ID192MP3.mp3",
-"l_36fa22be-d4aa-4a95-ba22-bed4aa2a9562": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/d0f4de19-2af5-4d1c-afea-e9faf1fbe78c_0_ID192MP3.mp3",
-"l_37eae410-a72c-4f4e-aae4-10a72ccf4e9f": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/7e44d45d-fa2b-448b-aac1-abc3cc5aa232_0_ID192MP3.mp3",
-"l_3871ee75-a77c-4641-b1ee-75a77c36411d": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/0b0fc0ae-702a-4eea-a469-87a041c6ecfa_0_ID192MP3.mp3",
-"l_3c64c079-038c-4ac2-a4c0-79038c6ac2c4": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-11-13_0500_1917.MP3",
-"l_3ea1b807-8d72-403f-a1b8-078d72e03f89": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/5a32bce0-ef47-43b3-a0da-ff0764ec3387_0_ID192MP3.mp3",
-"l_3fef9d3e-9c68-49ed-af9d-3e9c6869eddc": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/1ede32b3-5df3-405b-8eee-1db65dbc3e63_0_ID192MP3.mp3",
-"l_407851ce-30c4-451a-b851-ce30c4051a2d": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/25986628-8510-4844-ae93-ce03bb91771b_0_ID192MP3.mp3",
-"l_40d68fca-4309-4d9c-968f-ca43093d9cfd": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/a141c60a-4798-4682-86af-c7b72822414c_0_ID192MP3.mp3",
-"l_43121ef4-a6e4-4abb-921e-f4a6e40abb38": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-11-27_0515_4159.MP3",
-"l_43d7f84e-1893-464d-97f8-4e1893f64d09": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/e2cb8dd0-e0fb-42f8-b790-e9683d37af88_0_ID192MP3.mp3",
-"l_486f85be-0503-4530-af85-be0503f53067": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-12-11_0654_2987.MP3",
-"l_48b3520a-077a-404e-b352-0a077a604e7a": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-08-28_0400_304.MP3",
-"l_4d384963-cb33-4000-b849-63cb331000a3": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/45ce1f0a-34ba-45d2-b202-fc5a97a06edc_0_ID192MP3.mp3",
-"l_4e8dad42-667e-4719-8dad-42667e27190e": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/5970ce52-70e4-4b36-9a80-4f0b4c538910_0_ID192MP3.mp3",
-"l_4e9e45ec-0f4a-4a1f-9e45-ec0f4a8a1f17": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/3989ef4a-bede-409e-ba61-ff33f86c5e7a_0_ID192MP3.mp3",
-"l_4ee974ee-1aa2-462e-a974-ee1aa2462ed7": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-12-04_0500_2343.MP3",
-"l_4ef3558b-f13a-4511-b355-8bf13a05119b": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/10d3bed5-5a15-44de-b0b7-62a154dfb310_0_ID192MP3.mp3",
-"l_51138992-b433-4485-9389-92b433d485fe": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-05-29_0400_2584.MP3",
-"l_514711c9-140a-42d4-8711-c9140a72d429": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/c669b22a-386c-44cb-bef6-c1d08890407c_0_ID192MP3.mp3",
-"l_538de37e-8413-4187-8de3-7e8413b18700": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/cea8e7aa-74a5-4333-b75b-2fa63f9fcc4a_0_ID192MP3.mp3",
-"l_540e62fd-8337-4dc8-8e62-fd83371dc8ea": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/cb3a8aac-439c-4f96-8617-0033c4e0fc37_0_ID192MP3.mp3",
-"l_559e7e6e-0fdb-4329-9e7e-6e0fdb032941": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/b9ebc8b9-f349-4612-942d-f38aac788d0a_0_ID192MP3.mp3",
-"l_56e4b1b8-ba03-429e-a4b1-b8ba03c29ef1": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/2292cbc0-4087-41cf-aa8c-db16163cf917_0_ID192MP3.mp3",
-"l_596ee1b9-6c68-443c-aee1-b96c68c43c1a": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/fb180d0f-46ea-4c3c-971a-92eb36d8208d_0_ID192MP3.mp3",
-"l_5ac0c2d0-0525-4b93-80c2-d00525cb93d2": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-10-30_0500_309.MP3",
-"l_5be8ef74-9b7a-48d0-a8ef-749b7ae8d07c": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/497a5f4c-c2a1-49c5-aca3-d88f75bc900d_0_ID192MP3.mp3",
-"l_5c937b56-14bb-47c0-937b-5614bb37c065": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/49e8c1da-d68d-4b68-9e9b-cc3565450cfc_0_ID192MP3.mp3",
-"l_5d67be56-0845-49fa-a7be-560845f9fa7a": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/31d39c02-c96d-4af4-acd8-9619f01786e1_0_ID192MP3.mp3",
-"l_60a29d6b-7ddb-40ab-a29d-6b7ddb90abdf": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/78b25784-0002-4fe9-a3f2-2b2594c11925_0_ID192MP3.mp3",
-"l_62d82ccb-ad26-4574-982c-cbad2635742a": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-04-24_0401_4166.MP3",
-"l_6392b71d-1365-4a57-92b7-1d1365aa576d": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-10-02_0400_574.MP3",
-"l_65397d2c-2376-41cc-b97d-2c237631ccd9": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/0b298c42-3175-48d8-b033-4ccfe51470a9_0_ID192MP3.mp3",
-"l_657a8d18-30e5-4335-ba8d-1830e53335b0": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-10-16_0400_2219.MP3",
-"l_69b9ccc0-bf31-414b-b9cc-c0bf31714b65": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-06-05_0424_3813.MP3",
-"l_6db0b3b1-d299-4480-b0b3-b1d299448004": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/6f99c348-45f5-4d8e-a2b3-d6f401d618f3_0_ID192MP3.mp3",
-"l_70e08cb0-8e55-4a95-a08c-b08e55fa959f": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/a00333ad-51e0-4997-94ae-b5a38f91be99_0_ID192MP3.mp3",
-"l_717922a2-5907-4a0a-b922-a259077a0a28": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-09-25_0400_818.MP3",
-"l_7527d8e7-7270-4083-a7d8-e77270908332": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/ff6e3c3e-5a86-4bf3-9168-889e145bf4fc_0_ID192MP3.mp3",
-"l_76a4a669-274c-41d3-a4a6-69274ca1d39f": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-06-12_0400_4021.MP3",
-"l_7ce0c274-fd86-4ae8-a0c2-74fd869ae8d5": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/81f39543-28c6-4c8d-b26e-dd26073f67d2_0_ID192MP3.mp3",
-"l_8413a4e9-b93d-4c88-93a4-e9b93d1c88a9": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/0ea20b52-9db4-46e7-a332-3eb730279350_0_ID192MP3.mp3",
-"l_84733c3d-6b88-4556-b33c-3d6b88555678": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/91865683-f554-4981-a88c-f18adb06e688_0_ID192MP3.mp3",
-"l_89e6d05c-4a25-407e-a6d0-5c4a25307ef9": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/000c0ed0-d574-4046-b70d-ca683808ab51_0_ID192MP3.mp3",
-"l_8aca44f5-bdb5-4532-8a44-f5bdb57532ec": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/062ce7e7-c790-4821-b6e2-909032a95729_0_ID192MP3.mp3",
-"l_8cf01bb5-7d03-46ca-b01b-b57d0386caf5": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/a5c7eb9f-aa4a-43df-916b-5329c7366b50_0_ID192MP3.mp3",
-"l_8e61ead2-8f0d-4951-a1ea-d28f0d0951c4": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/2d707d73-cd71-4338-85e1-4950d9358aca_0_ID192MP3.mp3",
-"l_912dbab6-bddf-4d41-adba-b6bddf4d4199": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/5a141729-627a-4d22-9f1e-05f859454d87_0_ID192MP3.mp3",
-"l_941e829e-2a87-468c-9e82-9e2a87f68c24": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/78862e6d-29ea-4d3a-bbf0-ea9fc8728f53_0_ID192MP3.mp3",
-"l_990d62df-5844-4607-8d62-df58442607d3": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/ba1a2b87-5389-4a94-94ce-884a8453d3ad_0_ID192MP3.mp3",
-"l_9aeaf8d7-da31-4343-aaf8-d7da31b3439d": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-05-08_0403_7.MP3",
-"l_a3b07f5f-6ef9-47ad-b07f-5f6ef927ad94": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/987cfdd0-9288-44ff-8dbd-1069fb26e472_0_ID192MP3.mp3",
-"l_a64af1ff-a437-4b45-8af1-ffa4376b456b": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/ab42e983-85c6-4f5b-b3f8-d7e90733a65e_0_ID192MP3.mp3",
-"l_a665cdbf-454c-4fec-a5cd-bf454c8fec00": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/eaa86ffe-8e73-40fe-901b-99744b2a4a35_0_ID192MP3.mp3",
-"l_a69bdb9e-f05a-4f22-9bdb-9ef05acf22ae": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-05-22_0400_3184.MP3",
-"l_a932fe45-dfdd-4872-b2fe-45dfdd687283": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/7e865719-a6a0-407d-b189-7b20038a3f09_0_ID192MP3.mp3",
-"l_ac845c8a-d2bd-4aa4-845c-8ad2bdaaa4fa": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/dbf1a125-1999-40e0-9869-ef8e4ae1c6ba_0_ID192MP3.mp3",
-"l_ad54ad19-33f8-420b-94ad-1933f8d20b62": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-09-11_0400_3408.MP3",
-"l_ae1ad0b2-16f4-4b51-9ad0-b216f43b5141": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/06ff8e78-3166-47ef-8d20-c97abd0cb01c_0_ID192MP3.mp3",
-"l_ae3aadc0-8ebb-41d1-baad-c08ebbd1d17b": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/bc9ab5e7-3a88-494d-ad31-39ca99771a15_0_ID192MP3.mp3",
-"l_b3e3d3a2-8adb-41d1-a3d3-a28adb51d113": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-05-15_0400_1669.MP3",
-"l_b449bcc9-5dc1-4607-89bc-c95dc196070c": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/6a1134d6-e9a9-4f7e-876d-5dc9856d675e_0_ID192MP3.mp3",
-"l_b481e87d-afda-43e0-81e8-7dafdab3e02f": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/b3ea153d-5e96-4404-8fd5-06c9d18c96b5_0_ID192MP3.mp3",
-"l_b6cbc4be-0f42-49a5-8bc4-be0f42b9a52d": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/867b1630-be24-44eb-b5c7-103dafbdcde3_0_ID192MP3.mp3",
-"l_bc91f828-4f44-4542-91f8-284f44e5424e": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-09-04_0400_3478.MP3",
-"l_be8b63d4-bd46-4edc-8b63-d4bd46aedcf2": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/bc3deeee-fd81-476e-9cb9-84297badee14_0_ID192MP3.mp3",
-"l_c036ba25-f312-441e-b6ba-25f312241ee9": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/50f813f6-924e-4aff-8140-9422209fa6b7_0_ID192MP3.mp3",
-"l_c240657b-c577-4bdf-8065-7bc577abdffb": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/8bc77c01-b224-4a80-8e28-a01bc2d8b97d_0_ID192MP3.mp3",
-"l_c2bb0ffd-cb2e-4c0f-bb0f-fdcb2e4c0f40": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/e53baf21-f5ee-45e8-a31c-6e8ff03d475f_0_ID192MP3.mp3",
-"l_c5c23049-ee86-4c54-8230-49ee862c54e7": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/d579a7c4-af4a-46e3-bc60-1f92c38a4e78_0_ID192MP3.mp3",
-"l_c8972de9-0a6a-4aaa-972d-e90a6a6aaad2": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-08-14_0400_3219.MP3",
-"l_ca352168-4a4c-4d43-b521-684a4c5d43c0": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/9196ec71-4e7c-40d2-bcd2-27f39e8742ca_0_ID192MP3.mp3",
-"l_caa43eac-b789-442f-a43e-acb789d42f81": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/84a50e1e-fa9e-45ea-8feb-7bbf10c59e5c_0_ID192MP3.mp3",
-"l_cc1a3310-742b-4ea4-9a33-10742baea4e3": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/8b16c86d-56f9-483c-88d7-57a84360b5da_0_ID192MP3.mp3",
-"l_cd0544b9-840f-42e7-8544-b9840f22e7e4": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/076dedab-b310-4ac1-ad05-d821c4c4e410_0_ID192MP3.mp3",
-"l_cdaa9bef-4906-4f28-aa9b-ef49064f28a4": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-10-23_0433_1616.MP3",
-"l_ce17f6ae-758f-4650-97f6-ae758fc65070": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/c19de465-57c2-4c6f-a907-ee71fab53605_0_ID192MP3.mp3",
-"l_d11544b8-bce2-48e8-9544-b8bce288e8ef": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/f596afa5-c7de-4b98-abcd-22a0d2fcbef0_0_ID192MP3.mp3",
-"l_d5e0d3b3-158f-437b-a0d3-b3158f337be3": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/4e613b35-93d0-431a-ba5e-2911c9a9b4c6_0_ID192MP3.mp3",
-"l_d68e95c6-d450-47b8-8e95-c6d45037b875": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-05-01_0400_347.MP3",
-"l_d718a637-4621-4908-98a6-374621e908e8": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/885c5ec6-811a-4c0d-9f49-0dc351cbee01_0_ID192MP3.mp3",
-"l_d9c0a7eb-8cb1-4e78-80a7-eb8cb18e783e": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-11-20_0500_1769.MP3",
-"l_daa69d00-ae6c-4a8e-a69d-00ae6c1a8ec7": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-08-21_0400_1241.MP3",
-"l_dcb03cfc-1392-4f13-b03c-fc13928f13c3": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/acf0cb9d-e117-416d-9e92-0a48736c4164_0_ID192MP3.mp3",
-"l_e3357b78-1c5c-4f3e-b57b-781c5c5f3ed7": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/3f2fbd7f-ccd0-446f-8bcd-051cd5c504ec_0_ID192MP3.mp3",
-"l_e3a6bd59-c035-4ffa-a6bd-59c035dffa94": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/acec8a3f-c386-4ed3-8e40-2f7ef2246c79_0_ID192MP3.mp3",
-"l_e4f6ad55-cc48-44a5-b6ad-55cc4884a551": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-04-03_0400_3042.MP3",
-"l_e5291026-33ac-41f1-a910-2633ac11f1b6": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-09-18_0400_3028.MP3",
-"l_e6b3ff17-4e28-42e5-b3ff-174e2882e5f9": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/f30873b4-9c50-4600-8578-51aee026dde0_0_ID192MP3.mp3",
-"l_e8832fcf-3f27-41de-832f-cf3f2781de23": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-11-06_0500_2906.MP3",
-"l_e8b43ebc-4cc3-42ee-b43e-bc4cc3d2ee15": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/1f24b4ef-2a10-411f-90f6-295c73f42892_0_ID192MP3.mp3",
-"l_eaabbac4-ce7d-4b89-abba-c4ce7d7b894c": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/01a7067b-2d7a-4708-b8b5-e3256567b081_0_ID192MP3.mp3",
-"l_edc14ede-0414-4bdb-814e-de0414bbdb66": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/0cac9a45-4663-4e74-9b8d-4877f3b7b002_0_ID192MP3.mp3",
-"l_ee7b45c4-8ec6-42d8-bb45-c48ec682d80c": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/932da53c-e1e3-4db8-b381-c26284d9452e_0_ID192MP3.mp3",
-"l_ef4698b3-693a-4bec-8698-b3693a5bec5d": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/b0320b37-c729-4248-8199-22a7571d6ee8_0_ID192MP3.mp3",
-"l_f0f70788-011a-4bbf-b707-88011a0bbf43": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-04-17_0400_2815.MP3",
-"l_f1407610-154a-4f19-8076-10154a8f1941": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/579e5a05-c28a-4f6d-93c2-c059c920bc0b_0_ID192MP3.mp3",
-"l_f5efc4d6-2a08-4adc-afc4-d62a080adc17": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-12-18_0500_2902.MP3",
-"l_f8133323-594b-489e-9333-23594ba89e2c": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/f8098663-75d0-4007-858c-677834968c83_0_ID192MP3.mp3",
-"l_fb4f0bd0-3c1b-4606-8f0b-d03c1bc60648": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/bbdd142c-e025-442c-b34f-f1072ac4d9b0_0_ID192MP3.mp3",
-"l_fd89db58-7811-4e85-89db-5878118e85ee": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/ced208ea-a28c-4a6c-a8dc-f600a481e129_0_ID192MP3.mp3"
+"episodes": {
+"l_05c3f8c6-f43f-4b53-83f8-c6f43f3b531e": {
+"d": "2021-01-13T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2470,
+"s": "Herman går på diett og har med Super Mario-fis på tape, Mikkel har både nyttårsforsetter og en ny, litt overraskende seksuell erfaring. Uncle Paul gir råd mot kjærlighetssorg (MED sang!), Roar fikk ikke med seg rakettene og podkasten har fått sitt første fadderbarn  <3 ",
+"t": "Galopp-start på 2021! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/b85e00f9-94e8-43e9-bdad-19f2f8c2b0a1_0_ID192MP3.mp3"
+},
+"l_06743a90-67f5-4b5e-b43a-9067f53b5efb": {
+"d": "2020-02-12T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2839,
+"s": "Mikkel tror ikke på Hermans lykkeamulett, audiovisuelt tulletelefonshow med brå slutt, reporter Ola Halvorsen og Roar med siste nytt. ",
+"t": "Hermans gummibjørn, språkreise gjennom London og reporter Roar",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/e6a7b657-5385-428d-9a12-2249f73da218_0_ID192MP3.mp3"
+},
+"l_07fd8c70-1447-43dc-bd8c-70144783dc57": {
+"d": "2021-08-18T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2387,
+"s": "Herman trodde han var god til å holde pusten, ønsker seg kaptein Sabeltann for voksne og har fått potteplante (og blitt 2% Mikkel). Mikkel har vært livredd for å kjede seg og gjort noe han aldrialdri skal gjøre igjen (og blitt 2% Herman). ",
+"t": "Fryktens sommer og Sabeltann ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/03a55ea2-450c-4f87-8f21-9ee2acd53d1e_0_ID192MP3.mp3"
+},
+"l_0878bb0c-2f74-4f22-b8bb-0c2f746f2207": {
+"d": "2021-10-06T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2364,
+"s": "Herman leser mailZ for første gang! Hellstrøm og Roar drar til Venus for å møte kåte Pingu, Mikkel har engelsk-kurs og vi blir med på time hos ADHD-legen.",
+"t": "Kåt Pingu, detektiv Roar og ADHD-lege",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/55e557d4-3efa-4db6-b1e5-e0599c6dbb07_0_ID192MP3.mp3"
+},
+"l_0991c556-b720-44c5-91c5-56b72044c58c": {
+"d": "2020-04-22T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2566,
+"s": "Herman har bestilt prostata-vibrator, og har hatt noen veldig gode ADHD-dager. I tillegg serverer Mikkel runke-rap, og drømmetyderen kommer innom for å tyde lytternes drømmer.",
+"t": "Prostata og Den perfekte ADHD-dagen",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/6afbd518-5211-4446-86b3-ebbaafbcb1e4_0_ID192MP3.mp3"
+},
+"l_0b14df3a-7a42-48e8-94df-3a7a4238e8dd": {
+"d": "2021-01-27T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1951,
+"s": "Herman går fremdeles på diett for en SUPERHEMMELIG rolle, men har gått på en smell. Mikkel henger seg opp i Ole-Gunnar Solskjærs engelsk, og Ahre Ketil forklarer greia med råning.",
+"t": "Pizzasprekk og greia med råning",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/e831d0d6-3d1d-47e3-8561-8f1aa463cdaa_0_ID192MP3.mp3"
+},
+"l_0bec7e12-ee7e-4fec-ac7e-12ee7e2feca2": {
+"d": "2020-03-04T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2245,
+"s": "Reisefeberen er maksimal(!) rett før ferie. Velkommen til medium nyttig språkkurs, japansk rap og noe smertefullt Herman har lært på YouTube. Būmu būmu taka būmu!   \n",
+"t": "Japansk gameshow spesial",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/4827c268-db11-4402-95c5-3a775cea5f80_0_ID192MP3.mp3"
+},
+"l_12787f66-876f-4c1e-b87f-66876f2c1e1f": {
+"d": "2019-08-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2196,
+"s": "Ny sesong! Herman er fått ny hårfrisyre og har sett Løvenes Konge (den nye). Mikkel har den beste tulletelefon-ideen og tvinger den på Herman. Mikkel har også  løsningen på problemet  \"låter du ikke får ut av hodet\".\n",
+"t": "En fis av et ferieminne, en tulletelefon på engelsk og et triks for å bli kvitt låter i hodet",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-08-07_0400_3427.MP3"
+},
+"l_1b083250-af2a-4338-8832-50af2a733842": {
+"d": "2020-09-02T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2773,
+"s": "Mikkel har sett \"Tenet\" på kino, og ble inspirert til å spille en scene med Herman – baklengs! En bonde i byen får hjelp til å klare seg i Oslo, og det blir tulleringing, lytter-remix og trailere til Mikkel og Hermans serie på Max.",
+"t": "Baklengs-film og bonde i byen",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/29540b7d-ad68-46dd-925c-f5d982eb9270_0_ID192MP3.mp3"
+},
+"l_28ae1900-2955-4a81-ae19-0029557a812c": {
+"d": "2020-03-11T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2501,
+"s": "Herman og Mikkel skulle egentlig vært i Japan, men sannheten er ganske annerledes. Flytur uteblir, men humortoget ruller videre med spenning/nerver før spa med \"magic circle\" og hvem kan hjelpe Slange-Frank å parkere trucken og mate dyra før show på eldresenteret?  ",
+"t": "Tokyo-trøbbel, magisk sirkel og tulletelefon med Slange-Franks slangeshow",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/67fdcc60-fb9e-408e-8ff1-49a9871e3756_0_ID192MP3.mp3"
+},
+"l_29d7993e-06c2-4eaa-9799-3e06c2deaaea": {
+"d": "2020-08-19T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2441,
+"s": "Hva skjedde i sommer?\nEr Herman en ekte skater?\nRoar har vært i Frankrike!\nE-post: friminutt@nrk.no",
+"t": "Ola Halvorsen stopper stamming!",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/a739123c-4910-4117-86c9-1c4efd31c92f_0_ID192MP3.mp3"
+},
+"l_2a072ce6-5869-450a-872c-e65869050a81": {
+"d": "2019-10-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2726,
+"s": "Herman har fylt opp jinglepadden og prøver ekstra hardt å få tittelen \"bestevenn\". Mikkel får ny farsfigur og status som influenser. Tulletelefon med blomsterbestilling til swingersklubb. ",
+"t": "Herman jobber med bestevennstatus, tulletelefon til blomsterbutikk og Mikkel får ny farsfigur",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-10-09_0400_3310.MP3"
+},
+"l_2a390df2-73ad-46b6-b90d-f273ada6b6ea": {
+"d": "2020-10-21T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2749,
+"s": "Mikkel tar en ufrivillig tulletelefon, Herman stresser over at han og Mikkel har blitt \"kjøpt\" for 275 000 kroner, og Hellstrøm og Roar får en bøssebærer på døra. I tillegg kommer Drømmetyderen, og det blir reklamer på mange språk!",
+"t": "Ufrivillig tulletelefon og frivillig bøssebæring",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/d906e714-ee42-481f-a882-483c51e7146a_0_ID192MP3.mp3"
+},
+"l_2c02f5c2-1220-42d1-82f5-c2122072d164": {
+"d": "2019-04-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2217,
+"s": "Herman tar hevn for tulleringing, og det gjør at Mikkel må ta en veldig motvillig telefon. Podkastfolket kommer med begravelsesønsker, og hva skal egentlig til for å bli en komplett spiller? I tillegg har Mikkel løyet litt for Herman, og i dag kommer unnskyldningen. ",
+"t": "Hevn, unnskyldninger og komplett spiller",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-04-10_0400_1475.MP3"
+},
+"l_2db5f790-095a-438a-b5f7-90095a238ad3": {
+"d": "2021-05-26T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1808,
+"s": "Mikkel blir fjernfikset av telefonhealer, pappaen til Hermans podkasttelefon, pappaen til Mikkel.... nei, vent. Sommerens viktigste værmelding med Sean Paul, Michelles oppkjøring og hvem skriver best pornoeventyr? ",
+"t": "Telefonhealing, Sean Paul og pappaen til Herman",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/6c3fee2a-363c-4743-a77b-07d2b48810eb_0_ID192MP3.mp3"
+},
+"l_2e87ca45-b85f-47dd-87ca-45b85f17dd95": {
+"d": "2021-02-10T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2749,
+"s": "HER er Friminutt 2023! Med koronapoliti, en radiofrokost det er vanskelig å komme seg ut av, Valentines-sang fra Hellstrøm og Ola Halvorsen, i ukas Ekko-reportasje møter vi Roar i Oslo kretsfengsel. Og her er Coldplay med Clocks. ",
+"t": "Radiofrokost, Valentines og Roar bak murene",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/3c0600d9-4629-4b40-a4f4-f4a592992e61_0_ID192MP3.mp3"
+},
+"l_33159fd0-0064-4280-959f-d00064e28040": {
+"d": "2020-07-01T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1238,
+"s": "Når \"kattene\" er borte, danser produsent Silje på bordet. Hun har funnet fram tre tulletelefoner til festlig gjenhør. Hør Mikkels telefon til instrumentbutikken, Herman som ringer PJYSK og den aller, aller første tulletelefonen, som startet humortoget. BOOM BOOM TAKA BOOM!  ",
+"t": "Sommerspesial: Tulletelefoner",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/fc027fcd-471e-4821-ab18-7198d66b4330_0_ID192MP3.mp3"
+},
+"l_35ff4a9f-ae91-4d4a-bf4a-9fae91ed4ab5": {
+"d": "2020-06-17T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2294,
+"s": "Mikkel øver på legeyrket og tar livet av faren til Herman i prosessen, Herman er nervøs før business-møte og drømmer om et liv som ufokusert psykolog. Én lengter etter fallskjermhopp og én har trøbbel i parsellhagen. ",
+"t": "Artistnavn, legetabbe og frisbeegolf",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/8b129296-e467-497d-8332-71c03c74b4e1_0_ID192MP3.mp3"
+},
+"l_36242128-fa9b-4cc8-a421-28fa9b3cc802": {
+"d": "2020-10-28T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2474,
+"s": "Mikkel får telefon fra en syngende uncle Paul, Herman blir testet i 4.klasse-pensum og grilles av Fredrik Solvang om hyttetur og prostitusjon, og ingen liker a cappella men det er vanskelig å la være... ",
+"t": "Debatten, synstolking og a cappella",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/f71005f9-162e-4610-b598-8a8e61e0018e_0_ID192MP3.mp3"
+},
+"l_36fa22be-d4aa-4a95-ba22-bed4aa2a9562": {
+"d": "2021-11-10T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2335,
+"s": "Herman har premierenerver før Førstegangstjenesten, setter ny svetterekord og besvimer nesten (igjen). Mikkel har bare ansvaret for cliffhanger i episode 4 og har bare litt diaré. Årets sinteste båtannonse, råd til far før fødsel, flere feilhørte låter og slampoesi om Oslo, din lille dritt. ",
+"t": "Tysk metall, svettetokter og Oslo-slam",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/d0f4de19-2af5-4d1c-afea-e9faf1fbe78c_0_ID192MP3.mp3"
+},
+"l_37eae410-a72c-4f4e-aae4-10a72ccf4e9f": {
+"d": "2020-04-15T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3815,
+"s": "Herman har vært rånete i påsken, og Mikkel har vært rånete tidligere i livet. Sammen ser de for seg hvordan det hadde vært å dra på telttur sammen. Dessuten serveres det lærer-rap, og det blir spørsmålsrunde fra mailboksen.",
+"t": "Livestream #4! Telttur, lærer-rap og spørsmålsrunde.",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/7e44d45d-fa2b-448b-aac1-abc3cc5aa232_0_ID192MP3.mp3"
+},
+"l_3871ee75-a77c-4641-b1ee-75a77c36411d": {
+"d": "2021-05-19T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1601,
+"s": "Spektrum er utsolgt! Vårens største, nei, årets største wrestlingevent går av stabelen akkurat NÅ! Dessuten har Ola Halvorsen blitt telefonselger, Herman har blitt optimist og Paul Jefferson har vekkerklokka di, din cocksucker. ",
+"t": "Wrestling og optimisme! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/0b0fc0ae-702a-4eea-a469-87a041c6ecfa_0_ID192MP3.mp3"
+},
+"l_3c64c079-038c-4ac2-a4c0-79038c6ac2c4": {
+"d": "2019-11-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1610,
+"s": "Hermans kamelmelk-reaksjon er klar på jinglepadden når Jorda rundt på seks steg oppsummeres. Mikkel har kjøpt noe genialt og roer Hermans nerver med tale og kos. Tulletelefon 4.0! ",
+"t": "Herman er nervøs og mimrer om kamelmelk, Mikkel holder taler og redder tulletelefonen",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-11-13_0500_1917.MP3"
+},
+"l_3ea1b807-8d72-403f-a1b8-078d72e03f89": {
+"d": "2020-07-15T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1156,
+"s": "Produsentens lytter-remix-favoritter! Hør Haugenstua i metal-versjon, gummibjørnsangen, årets sommerhit \"Venn av moren din\" (hele låta! Takk, Bjarne <3) og andre arkiv-godbiter! Send oss gjerne flere - eller andre mer eller mindre tilfeldige tanker til friminutt@nrk.no. ",
+"t": "Sommerspesial: Remix-mixtape",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/5a32bce0-ef47-43b3-a0da-ff0764ec3387_0_ID192MP3.mp3"
+},
+"l_3fef9d3e-9c68-49ed-af9d-3e9c6869eddc": {
+"d": "2020-02-26T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2345,
+"s": "Mikkel overreagerer og smartklokka vil ringe ambulanse, Herman får cred fra fengselet og planlegger ny tatovering. Norsk-amerikansk tulletelefon v/Maggie Jones. ",
+"t": "Rollebytte, snikfilming og motvillig Peer Gynt-rap",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/1ede32b3-5df3-405b-8eee-1db65dbc3e63_0_ID192MP3.mp3"
+},
+"l_407851ce-30c4-451a-b851-ce30c4051a2d": {
+"d": "2020-09-23T08:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2359,
+"s": "Hermans nervøse oppkjøring, en lærepenge om nakenhet, Champions Leagues nye kommentatorer og dobbelt Roar!",
+"t": "Gangstereventyret og kommentatorboksen",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/25986628-8510-4844-ae93-ce03bb91771b_0_ID192MP3.mp3"
+},
+"l_40d68fca-4309-4d9c-968f-ca43093d9cfd": {
+"d": "2020-11-18T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2403,
+"s": "Mikkel og Herman vil muntre opp alle i korona- og vinterdepresjon med sin egen versjon av BlimE! Tulletelefonen er tilbake, og endelig får gutta svaret på hva Friminutt er på samisk.  ",
+"t": "BlimE, friddjaminuhtta og tulletelefon",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/a141c60a-4798-4682-86af-c7b72822414c_0_ID192MP3.mp3"
+},
+"l_43121ef4-a6e4-4abb-921e-f4a6e40abb38": {
+"d": "2019-11-27T06:15:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2636,
+"s": "Herman er tilbake fra rideferie med mamma og har med gave. Mikkel har blitt advart mot Hermans løgner og er nervøs for å være skuespiller. Herman hjelper etter beste evne. Vi har funnet en deilig overraskelse i Biefilmen og et kjøpesenter gjør seg klare til chinchilla-show med Jose Bambino etter tulletelefonen. ",
+"t": "Herman lyver (litt), Mikkel får skuespillertime, tulletelefon med spanjol og chinchilla",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-11-27_0515_4159.MP3"
+},
+"l_43d7f84e-1893-464d-97f8-4e1893f64d09": {
+"d": "2021-04-21T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2051,
+"s": "Herman er selvsikker og livredd før innspilling av ny sesong av Førstegangstjenesten, Mikkel stryker i løvelyd men gjør en god hyene. Dessuten! Naturdokumentar, Norges dårligste sexolog, innredningstips fra Eyvind og Petter og Steinerskolens russelåt med eurytmi!   ",
+"t": "Sexolog, løvelyd og terningkastnerver",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/e2cb8dd0-e0fb-42f8-b790-e9683d37af88_0_ID192MP3.mp3"
+},
+"l_486f85be-0503-4530-af85-be0503f53067": {
+"d": "2019-12-11T07:54:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2567,
+"s": "Mikkel er fremdeles litt full og savner Olsen-banden. Herman har sett dokumentar og funnet sin indre, polske gangster-rapper. Der inne finner han også julehilsen fra Stordalen, Hellstrøms advenstvers og Olas rap om dum ribbe. Og hva er egentlig forskjellen på gastronom og gastroskopi? Hm? \nMusikk i episoden produsert av Soulker og Chandler Bouldin.",
+"t": "Mikkel er bakfull, polsk gangster-rap, Hellstrøms adventsvers og dum, dum ribbe",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-12-11_0654_2987.MP3"
+},
+"l_48b3520a-077a-404e-b352-0a077a604e7a": {
+"d": "2019-08-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2424,
+"s": "Herman lengter tilbake til livet i USA, Mikkel blir overrasket over egen latter, tulletelefon til byggevarehandel, mail fra lyttere, Herman spiller mer på tissen og en ønskereprise. ",
+"t": "Mer radioteater, Mikkels ondeste latter, tulletelefon, Herman spiller på tissen sin, RUN! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-08-28_0400_304.MP3"
+},
+"l_4d384963-cb33-4000-b849-63cb331000a3": {
+"d": "2020-09-30T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2657,
+"s": "Mikkels amerikanske onkel i Japan, mail-jazzing, lytter-remix, rydde rommet-rap og varieté-show! Send oss en e-post til Friminutt@nrk.no",
+"t": "Onkel fra Amerika, jazzing og varieté",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/45ce1f0a-34ba-45d2-b202-fc5a97a06edc_0_ID192MP3.mp3"
+},
+"l_4e8dad42-667e-4719-8dad-42667e27190e": {
+"d": "2020-02-05T08:58:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2985,
+"s": "Mikkel må rydde opp i misforståelse om coronaviruset, Herman ringer lokalavis, Ola Halvorsen freestyler om Henrik Wergeland og hvordan ville Friminutt hørtes ut for 200 år siden?",
+"t": "Dr. Flesvigs corona-kur, tidsreise til 1800-tallet, tulletelefon med ekstremvær",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/5970ce52-70e4-4b36-9a80-4f0b4c538910_0_ID192MP3.mp3"
+},
+"l_4e9e45ec-0f4a-4a1f-9e45-ec0f4a8a1f17": {
+"d": "2021-11-17T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1714,
+"s": "Mikkel og Herman solgte seg selv og en podkastinnspilling til TV-aksjonen og ENDElig er det klart for Friminutts første og siste liveshow! Live mailinnboks, mannssjåvinistisk franskmann, Namsos' lokalradio, sjekketips fra Tanja Laila m.m.!",
+"t": "Live fra Namsos! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/3989ef4a-bede-409e-ba61-ff33f86c5e7a_0_ID192MP3.mp3"
+},
+"l_4ee974ee-1aa2-462e-a974-ee1aa2462ed7": {
+"d": "2019-12-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2806,
+"s": "Mikkel har vært ute på tur og har med gave.\nLyttere har også vært på tur og kjøpt en gave til gutta, som blir VELDIG godt mottatt.\nEn lytter har også sendt en remix, som skaper stemning i studio.\nTvangstanker... tvangstanker... tvangstanker... \nHvor kleint blir det når slekta sender inn spørsmål til Mikkel.\nFå med deg dette og mer i denne episoden av Friminutt.\n",
+"t": "Tvangstanker, gaver langveisfra, gaver ikke fullt så langveisfra og juleminner",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-12-04_0500_2343.MP3"
+},
+"l_4ef3558b-f13a-4511-b355-8bf13a05119b": {
+"d": "2020-03-18T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3058,
+"s": "Herman bader i antibac og rapper «Kom deg hjem fra hytta», Mikkel fantaserer om zombieapokalypse og har med (for) gode forslag til hemmelig lytter-tegn. Barnebarnet til Max Mekker dukker plutselig opp og absolutt alle har plasthansker på.",
+"t": "Korona-rap og hemmelig tegn",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/10d3bed5-5a15-44de-b0b7-62a154dfb310_0_ID192MP3.mp3"
+},
+"l_51138992-b433-4485-9389-92b433d485fe": {
+"d": "2019-05-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2114,
+"s": "Mikkel er ferdig med et prosjekt, og kjenner på en tomhet. Herman stiller forberedt med forslag til ting de kan gjøre sammen - presentert i gameshowformat. Et bakeri får testet tålmodigheten når Herman tulleringer og bestiller en omfattende kake. ",
+"t": "Ny start, veldig bitter kake og alternative MGP-låter",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-05-29_0400_2584.MP3"
+},
+"l_514711c9-140a-42d4-8711-c9140a72d429": {
+"d": "2021-05-12T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2209,
+"s": "Friminutt serverer 17.mai-feiringen som ikke blir noe av! Velkommen til Eyvind Hellstrøms pølsebod, Ola Halvorsens snurrende tekopp og Roars oppkast, folkemengder og barnetog. Dessuten! Grov, tysk velkommensang, Hermans sommerbil og en personlig hilsen til DEG <3 OG remix! \n",
+"t": "Grov, tysk hump og tidlig 17.mai! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/c669b22a-386c-44cb-bef6-c1d08890407c_0_ID192MP3.mp3"
+},
+"l_538de37e-8413-4187-8de3-7e8413b18700": {
+"d": "2021-09-22T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2684,
+"s": "Mikkel holder pressekonferanse etter å ha sendt et drøyt bilde til sjefen, Herman lager rollespill med brystpumpebeat og Roy og Karl fra bilverkstedet får superonsdag-sang. ",
+"t": "Pressekonferansen, brystpumpa og superonsdag!",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/cea8e7aa-74a5-4333-b75b-2fa63f9fcc4a_0_ID192MP3.mp3"
+},
+"l_540e62fd-8337-4dc8-8e62-fd83371dc8ea": {
+"d": "2021-04-28T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2337,
+"s": "Herman og Mikkel oppdager at de er nesten prikk like, men svetter forskjellig. En reise gjennom radiohistorien, penisstørrelse, minner fra 90-tallet, battle i britisk og beverdokumentar og et snev av moral. Som fort går over.",
+"t": "David Attenboroughs bever og 90-tallet",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/cb3a8aac-439c-4f96-8617-0033c4e0fc37_0_ID192MP3.mp3"
+},
+"l_559e7e6e-0fdb-4329-9e7e-6e0fdb032941": {
+"d": "2020-04-08T06:30:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 4564,
+"s": "Friminutt feirer ett år som podkast i varme kostymer med Haugenstua-remix av metal-band og lærer, Hellstrøms anmeldelse med ekstra hals, Gjett fisen og kaptein Promps musikal. ",
+"t": "Livestream #3! - Bursdag! Med klining, kaptein Promp og myye mer",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/b9ebc8b9-f349-4612-942d-f38aac788d0a_0_ID192MP3.mp3"
+},
+"l_56e4b1b8-ba03-429e-a4b1-b8ba03c29ef1": {
+"d": "2020-12-09T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2824,
+"s": "Herman grilles nok en gang av Fredrik Solvang, Mikkel er kjøpt av Helsedirektoratet og hvor fort går lynsjakk?\n",
+"t": "Herman i kryssild, lynsjakk og livet med vaksine!",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/2292cbc0-4087-41cf-aa8c-db16163cf917_0_ID192MP3.mp3"
+},
+"l_596ee1b9-6c68-443c-aee1-b96c68c43c1a": {
+"d": "2021-10-13T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2409,
+"s": "Ny energi i studio etter jobbreise til Portugal, meeen Mikkel skylder Herman en unnskyldning. Bli med på flytur på business class, innom Sean Pauls navle nummer to, Gjermund Kvarmes bolleklipp og sushi og sint sang om såre temas. ",
+"t": "Rolex, analsex og Lisboa",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/fb180d0f-46ea-4c3c-971a-92eb36d8208d_0_ID192MP3.mp3"
+},
+"l_5ac0c2d0-0525-4b93-80c2-d00525cb93d2": {
+"d": "2019-10-30T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2409,
+"s": "Herman har vært på Stordalens halloweenfest og ble stoppet av politiet da han krabbet hjem. Mikkel har vært på hyttetur, lagt seg tidlig og dusjet naken i naturen. To (beste)venner med veldig ulike liv møtes til podkast-battle. Herman trumfer tulletelefon 2.0 og høyner med 3.0-versjon med lydeffekter. ",
+"t": "Fest, pistol og politi vs. nakendusj og natur",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-10-30_0500_309.MP3"
+},
+"l_5be8ef74-9b7a-48d0-a8ef-749b7ae8d07c": {
+"d": "2020-02-19T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2177,
+"s": "Tulletelefon til babybutikk, en postkasse full av fjert, minimale språkkunnskaper og hva er egentlig ikke-seksuell eksotisk dans? ",
+"t": "Gjett fisen - lytterutgave, kort spansktime og voksenbaby",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/497a5f4c-c2a1-49c5-aca3-d88f75bc900d_0_ID192MP3.mp3"
+},
+"l_5c937b56-14bb-47c0-937b-5614bb37c065": {
+"d": "2020-05-27T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2254,
+"s": "Hundre prosent synkronisert og manusbasert nørding, konspirasjonsteorier, visning med Roar og korona-tanker. ",
+"t": "Hva skal barnet hete? ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/49e8c1da-d68d-4b68-9e9b-cc3565450cfc_0_ID192MP3.mp3"
+},
+"l_5d67be56-0845-49fa-a7be-560845f9fa7a": {
+"d": "2020-05-06T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2718,
+"s": "Herman tvinges gjennom the return of the tulletelefon,  dramatisk mail-åpning med tyskerne hakk i hæl, Popek-remix og et viktig budskap fra Friminutts miljøarbeidere. ",
+"t": "Tulletelefon, Bergensrap og bukkene bruse (uten truse)",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/31d39c02-c96d-4af4-acd8-9619f01786e1_0_ID192MP3.mp3"
+},
+"l_60a29d6b-7ddb-40ab-a29d-6b7ddb90abdf": {
+"d": "2021-10-20T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1900,
+"s": "Herman har brukt feil krem på feil sted og Mikkel sliter med kjøttsvette. Kaptein Sabeltann møter Luksusfellen møter Squid Games og den perfekte løsningen på ALLE konflikter. ",
+"t": "Slampoesi, babyspråk og konfliktløsning",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/78b25784-0002-4fe9-a3f2-2b2594c11925_0_ID192MP3.mp3"
+},
+"l_62d82ccb-ad26-4574-982c-cbad2635742a": {
+"d": "2019-04-24T06:01:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2029,
+"s": "Herman og Mikkel starter hverdagen etter jobbpåske. Russetiden er i gang - gutta mimrer. Det blir kødderinging om problemer med rødt hår i skrittet. ",
+"t": "Rødt hår i skrittet, russebuss og sjekkeetikette",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-04-24_0401_4166.MP3"
+},
+"l_6392b71d-1365-4a57-92b7-1d1365aa576d": {
+"d": "2019-10-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2179,
+"s": "Det blir gavedryss på bursdagsbarnet, Herman kommer med et bruspulver-dikt, livet er travelt, og Mikkel skulle ønsker flere resirkulerte fordi han vil ikke ta hele jobben selv",
+"t": "Mikkel har bursdag, Herman har med gaver og dikt ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-10-02_0400_574.MP3"
+},
+"l_65397d2c-2376-41cc-b97d-2c237631ccd9": {
+"d": "2021-02-17T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1951,
+"s": "Roars rørende opptreden på The Voice, tilbake til Sesam stasjon 22 år etter, Herman må fremføre ukas beste poeng på stand up-scenen og en nesten ferdig Johan Golden-parodi leverer sint politisk satire. \n",
+"t": "The Voice, Sesam stasjon og Johan Golden",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/0b298c42-3175-48d8-b033-4ccfe51470a9_0_ID192MP3.mp3"
+},
+"l_657a8d18-30e5-4335-ba8d-1830e53335b0": {
+"d": "2019-10-16T06:15:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2865,
+"s": "Boom! Vi har fått tak i originalklippet til Boom boom taka boom-reklamen, Herman har fått hjelp av en lytter og funnet arkivgull, Mikkel kommer med en slags innrømmelse og humortoget går til Danmark. Og det er deilig å være norsk, i Danmark.   ",
+"t": "Boom boom taka boom! Herman har funnet en gammel innrømmelse fra Mikkel og tulletelefonen går på rim",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-10-16_0400_2219.MP3"
+},
+"l_69b9ccc0-bf31-414b-b9cc-c0bf31714b65": {
+"d": "2019-06-05T06:24:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2235,
+"s": "Herman har lagt til noe nytt på jingelpadden etter at han fikk ansvar og tar treninga si veldig seriøst. Mikkel er bekymret for at det skal bli for mye. Og Friminutt produserer Karpe og så ringer gutta en bensinstasjon og vil spille inn pornofilm. ",
+"t": "Pølsefest 5, Herman får MER ansvar og Mikkel lærer Herman å produsere Karpe",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-06-05_0424_3813.MP3"
+},
+"l_6db0b3b1-d299-4480-b0b3-b1d299448004": {
+"d": "2020-10-07T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2419,
+"s": "Herman lander etter premiereuke og byr på en bitteliten spoiler, Mikkels tvinges til taxitur og leverer overraskende magelyder og Hellström synger barnesang. ",
+"t": "Magesangen, Førstegangstjenesten og taxituren",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/6f99c348-45f5-4d8e-a2b3-d6f401d618f3_0_ID192MP3.mp3"
+},
+"l_70e08cb0-8e55-4a95-a08c-b08e55fa959f": {
+"d": "2019-12-25T12:10:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2893,
+"s": "Er ribbe eller pinnekjøtt best til Boom boom taka boom? Tulletelefon med gråt og gavebytte, masse gjester, Roar blir dårlig og Ola Halvorsen spiller live. BOOM! Takk for i år <3 ",
+"t": "Friminutts dumme romjulsjulebord! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/a00333ad-51e0-4997-94ae-b5a38f91be99_0_ID192MP3.mp3"
+},
+"l_717922a2-5907-4a0a-b922-a259077a0a28": {
+"d": "2019-09-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2572,
+"s": "Herman snubler i forsøket på å holde Mikkel i ørene, Mikkel har kjøpt ny gaming-PC, en ukjent kvinne har sett Herman slite med offentlige toalett, vi snakker om døden og hvordan du kan tjene på din nestes. Og Mikkel ringer til Bergen for å få hjelp med å parkere en fiende. Kjapt inn, enda kjappere ut.   ",
+"t": "MC Mikkel saboterer, Herman har vært på jentedo og Mikkel tar en tulletelefon om hevn.",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-09-25_0400_818.MP3"
+},
+"l_7527d8e7-7270-4083-a7d8-e77270908332": {
+"d": "2021-11-24T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3150,
+"s": "Hermano og Miguels siste Friminutt med ny spraytan, mimring over favorittøyeblikk, the return of \"Gjett fisen\", Paul Jeffersons beste USA-tips og pumpelåta som får deg herfra til Arendal (minst). Tusen på tusen takk for alle mailer, alle historier, alle remixer, alle fiser, (alle remixede fiser,) alle fine, rare og rørende mailer og TAKK for at du har hørt på! <3 ",
+"t": "Boom boom taka boom! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/ff6e3c3e-5a86-4bf3-9168-889e145bf4fc_0_ID192MP3.mp3"
+},
+"l_76a4a669-274c-41d3-a4a6-69274ca1d39f": {
+"d": "2019-06-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2311,
+"s": "I vårens aller siste podkast før sommerferien mimrer Herman og Mikkel tilbake til egen skolegang, eksamenstid og prestasjoner. Mikkel var en ramp, mens Herman briljerte som løgner. Gutta planlegger sommerens årlige fetishfest og ringer Badeland for å spørre hvordan lær reagerer på klor m.m. og det er tilløp til gjengslagsmål. God sommer! RUN!  ",
+"t": "Sæd i skolestilen, et knotete forsøk på nynorsk, tulletelefon og tilløp til gjengslagsmål.",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-06-12_0400_4021.MP3"
+},
+"l_7ce0c274-fd86-4ae8-a0c2-74fd869ae8d5": {
+"d": "2021-09-08T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3230,
+"s": "Rar start, ærespris med tårer, forbanna positivitet, Roars dramatiske kneoperasjon, en tale til hele Østfold fra Pørni og Hænna (sponset av Lille Berit) og eksklusivt intervju med selvtilliten til Herman. ",
+"t": "Kirurgi, lyden av kroppen vol.2, hællæ Østfold! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/81f39543-28c6-4c8d-b26e-dd26073f67d2_0_ID192MP3.mp3"
+},
+"l_8413a4e9-b93d-4c88-93a4-e9b93d1c88a9": {
+"d": "2020-01-29T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3024,
+"s": "Popek er ubehagelig nær, Herman blir livredd og klapper en tydelig beskjed til polensk skumleste gangsterrapper. Mikkel har med boom boom-advarsel og norsk 69-kjendis. Tulletelefon til byggevarefirma med sint kone i bakgrunnen. ",
+"t": "Popek puster gutta i nakken, tulletelefon med sint kone, Herman må ta ansvar",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/0ea20b52-9db4-46e7-a332-3eb730279350_0_ID192MP3.mp3"
+},
+"l_84733c3d-6b88-4556-b33c-3d6b88555678": {
+"d": "2021-03-10T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2040,
+"s": "Grisesnakk, Kaja-remix, Herman skammer seg over egne samples, Mikkel er mye grovere enn han egentlig liker, Tanja Laila og drømmetyderens tips mot våte drømmer og hva synger egentlig Brian Adams om i summer of 69? ",
+"t": "Grove rim, super-remix og drømmetips [Explicit lyrics] ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/91865683-f554-4981-a88c-f18adb06e688_0_ID192MP3.mp3"
+},
+"l_89e6d05c-4a25-407e-a6d0-5c4a25307ef9": {
+"d": "2020-07-29T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 846,
+"s": "Produsentens favoritter fra risikosporten \"plutselig radioteater\"! Husker du Hermans japanske drøm? Hvordan hørtes Friminutt ut på 1800-tallet? Mikkel og Herman parodierer hverandre og Pingu vil fortsatt pule. ",
+"t": "Sommerspesial: Radioteater",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/000c0ed0-d574-4046-b70d-ca683808ab51_0_ID192MP3.mp3"
+},
+"l_8aca44f5-bdb5-4532-8a44-f5bdb57532ec": {
+"d": "2020-01-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3296,
+"s": "Pedagogisk leder Mikkel og pasient/elev Herman starter året på nytt med overtenning, oppsummert råmjul, vrien dialekt-imitasjon, tulletelefon til musikkbutikk og én av to har logget av sosiale medier. ",
+"t": "Årets første overtenning, tiårets best kledde, tulletelefon med kukulele",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/062ce7e7-c790-4821-b6e2-909032a95729_0_ID192MP3.mp3"
+},
+"l_8cf01bb5-7d03-46ca-b01b-b57d0386caf5": {
+"d": "2021-03-24T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1917,
+"s": "Roar overrasker som toller og havner i rap battle med uncle Paul (nei, ikke samtidig), Mikkel har lært å sette pris på lyden og lukten av eksos og Herman åpner opp om livet som model. Med en l. ",
+"t": "Tollerne og rap battle med dobbel Roar",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/a5c7eb9f-aa4a-43df-916b-5329c7366b50_0_ID192MP3.mp3"
+},
+"l_8e61ead2-8f0d-4951-a1ea-d28f0d0951c4": {
+"d": "2021-03-03T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2382,
+"s": "Herman og Mikkel har på seg sixpence, som dessverre betyr at de MÅ synge som en a capella-gruppe. Krigen mot \"Misjonen\" fortsetter, og Herman har vist tissen på spa og fått et lite drypp.",
+"t": "Musikkbransjens incels og brunstige purker",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/2d707d73-cd71-4338-85e1-4950d9358aca_0_ID192MP3.mp3"
+},
+"l_912dbab6-bddf-4d41-adba-b6bddf4d4199": {
+"d": "2021-04-14T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2313,
+"s": "En reise til Paris med en fransk Herman og den lille, enkle jenta Mikkel, krabbesang neeesten som i en Disneyfilm, drømmetyderens lykkepodkast og Roar nekter å forklare seg. [Grovt, men sensurert]",
+"t": "Krabbesangen, Paris og eksperimentell jazz",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/5a141729-627a-4d22-9f1e-05f859454d87_0_ID192MP3.mp3"
+},
+"l_941e829e-2a87-468c-9e82-9e2a87f68c24": {
+"d": "2021-09-15T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2691,
+"s": "Mikkel har blitt storrøyker, Herman har stemt, Roar blir forbanna, Eyvind Hellstrøm er på jakt, Gjermund Kvarmes kumbaya og drømmetyderens peptalk i hockeygarderoben. ",
+"t": "Jakta med Hellstrøm, hockey og kumbaya",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/78862e6d-29ea-4d3a-bbf0-ea9fc8728f53_0_ID192MP3.mp3"
+},
+"l_990d62df-5844-4607-8d62-df58442607d3": {
+"d": "2020-11-11T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2385,
+"s": "Herman bruker hjelm inne, Mikkel sykler på loftet, Ahre-Ketils beste sjekkereplikker, Friminutts fornøyelsespark - og hva hadde skjedd hvis Herman og Stian Blipp fikk barn? ",
+"t": "Sjekketips, fornøyelsespark og Mensa-test",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/ba1a2b87-5389-4a94-94ce-884a8453d3ad_0_ID192MP3.mp3"
+},
+"l_9aeaf8d7-da31-4343-aaf8-d7da31b3439d": {
+"d": "2019-05-08T06:03:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2692,
+"s": "Travle bestevenner og/eller gode kollegaer har det fortsatt gøy sammen. Herman må trene, Mikkels planter er værfaste inne og Herman utfordrer Mikkel til å ringe et spa og be om happy ending, ",
+"t": "Sexy-klein utfordring i den sjette episoden, Hermans body og Mikkels babies",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-05-08_0403_7.MP3"
+},
+"l_a3b07f5f-6ef9-47ad-b07f-5f6ef927ad94": {
+"d": "2020-05-20T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2200,
+"s": "Dialekt-rap og nasjonalsang med beat, actionfilmen om Hermans hyttetur, filmen om Mikkels porno-overraskelse og oversetter-trikset du MÅ kunne. ",
+"t": "Actionfilm og japansk supertriks!",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/987cfdd0-9288-44ff-8dbd-1069fb26e472_0_ID192MP3.mp3"
+},
+"l_a64af1ff-a437-4b45-8af1-ffa4376b456b": {
+"d": "2020-06-10T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1845,
+"s": "Herman starter solo og forteller fra innspilling av Førstegangstjenesten, Mikkel gjennomfører årets tulletelefon og Roar er ærlig om tante Vivi og onkel Tom. ",
+"t": "Årets tulletelefon og Roar",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/ab42e983-85c6-4f5b-b3f8-d7e90733a65e_0_ID192MP3.mp3"
+},
+"l_a665cdbf-454c-4fec-a5cd-bf454c8fec00": {
+"d": "2020-07-22T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1264,
+"s": "Hola, hello, hei! HER er en bunke av produsentens internasjonale favoritt-øyeblikk. Med blant annet den svensk-spanske stripperen Pippi Frank, Jose Bambinos chinchilla-show, Stordalen, Roar og Hellstrøm for our international listeners og mere! ",
+"t": "Sommerspesial: Internasjonale favoritter",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/eaa86ffe-8e73-40fe-901b-99744b2a4a35_0_ID192MP3.mp3"
+},
+"l_a69bdb9e-f05a-4f22-9bdb-9ef05acf22ae": {
+"d": "2019-05-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2702,
+"s": "Mikkel lurer på hvor god speider Herman engang var og kanskje er? Hvordan ville Mikkel sett ut uten hår? Vi får et ganske tydelig svar på at det er tilnærmet en britisk kriminell. Det nærmer seg MGP. Jr, og vi får besøk av et representativt utvalg som deler sine tanker om hva slags låt de ville deltatt med. ",
+"t": "En god speider, Fæstelavens og Mikkel selger seg selv",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-05-22_0400_3184.MP3"
+},
+"l_a932fe45-dfdd-4872-b2fe-45dfdd687283": {
+"d": "2021-03-31T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2198,
+"s": "Herman venter på børstebilen, Mikkel får endelig svar fra banken, uncle Paul gjemmer egg og har blitt uteligger, dobbel remix og en alvorlig melding på britisk. Ish.",
+"t": "Påskeegg med krim, donorkort og dobbel remix",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/7e865719-a6a0-407d-b189-7b20038a3f09_0_ID192MP3.mp3"
+},
+"l_ac845c8a-d2bd-4aa4-845c-8ad2bdaaa4fa": {
+"d": "2020-05-13T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3013,
+"s": "Helt gratis spooning, Herman kommer opp i engelsk, Mikkel blir miljø-streng. OG tulletelefon til eiendomsmegler og improvisert trailer for Førstegangstjenesten! ",
+"t": "Spooning, swingersklubb og muntlig eksamen",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/dbf1a125-1999-40e0-9869-ef8e4ae1c6ba_0_ID192MP3.mp3"
+},
+"l_ad54ad19-33f8-420b-94ad-1933f8d20b62": {
+"d": "2019-09-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2748,
+"s": "Det er duket for bryllupsnatt på Jysk. Herman sitter i studio uten sko. Eivind Hellstrøm, Tore på sporet og Petter Stordalen kommer innom studio",
+"t": "Mikkel har kjørt leopard, bryllupsnatt på Jysk, mange gjester",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-09-11_0400_3408.MP3"
+},
+"l_ae1ad0b2-16f4-4b51-9ad0-b216f43b5141": {
+"d": "2020-11-04T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2583,
+"s": "Mikkel og Herman har vunnet priser, og Herman feiret med raw, raw, raw biff! Uncle Paul  har brukt flere navn på eks-kona, hva heter hun egentlig?  Og gutta avgjør hvem som er det beste nyhetsankeret i en duell.",
+"t": "Prisvinnere, lytter-remix og nyhetsduellen",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/06ff8e78-3166-47ef-8d20-c97abd0cb01c_0_ID192MP3.mp3"
+},
+"l_ae3aadc0-8ebb-41d1-baad-c08ebbd1d17b": {
+"d": "2021-09-29T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2467,
+"s": "Mikkel har vært på Stordalens gjenåpningsfest og planlagt fremtiden med Herman på landet, Herman har hoppet i fallskjerm, prøvd dameundertøy og funnet hemmelige budskap i kjente låter. Eyvind har lavet epletartar og begynte å drikke tidlig... ",
+"t": "Den STORE gjenåpningsfesten! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/bc9ab5e7-3a88-494d-ad31-39ca99771a15_0_ID192MP3.mp3"
+},
+"l_b3e3d3a2-8adb-41d1-a3d3-a28adb51d113": {
+"d": "2019-05-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2479,
+"s": "Det nærmer seg 17. Mai, og to glade gutter med korpsfortid gir deg en glimerende utgave av nasjonalsangen. Herman har vært syk, og får overtenning av energi når han er tilbake på jobb. Og er det mulig å skaffe en \"keeg\" bunad? ",
+"t": "Total overtenning, keeg bunad og korpsmusikk",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-05-15_0400_1669.MP3"
+},
+"l_b449bcc9-5dc1-4607-89bc-c95dc196070c": {
+"d": "2020-01-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2729,
+"s": "Herman forsker på smaksløker og har fått gave i posten, begge deler underlivsrelatert. Mikkel innser at Popek vet hvem han er, Ola Halvorsen snakker nynorsk, gode og dårlige Japan-tips og ekstra mye latter. ",
+"t": "Hermans baller, Mikkels latter, Ola Halvorsens pensum",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/6a1134d6-e9a9-4f7e-876d-5dc9856d675e_0_ID192MP3.mp3"
+},
+"l_b481e87d-afda-43e0-81e8-7dafdab3e02f": {
+"d": "2021-08-25T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3373,
+"s": "Herman og Mikkel har vært på teambuildingskurs og tar forholdet ett steg videre, derav overraskende mye info om Hermans pung og kalkun. Dessuten gode tips for vinsmaking, generell konfirmasjonshilsen, USA vs. Spania og diaréremix <3 ",
+"t": "Lange baller, vin og skam",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/b3ea153d-5e96-4404-8fd5-06c9d18c96b5_0_ID192MP3.mp3"
+},
+"l_b6cbc4be-0f42-49a5-8bc4-be0f42b9a52d": {
+"d": "2020-04-29T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2449,
+"s": "Herman har vært Instagram-Jesus og frelst en ung skater, og han og Mikkel forsøker å bytte roller med hverandre. Dessuten blir det MANGE lytter-remixer, og Helstrøm (med fler) deltar i America's got talent.",
+"t": "Instagram-Jesus, Lytter-Remixer og Helstrøm's got Talent",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/867b1630-be24-44eb-b5c7-103dafbdcde3_0_ID192MP3.mp3"
+},
+"l_bc91f828-4f44-4542-91f8-284f44e5424e": {
+"d": "2019-09-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2185,
+"s": "Værmelding med beatbox, Herman blir avslørt i tulletelefonen, gutta rydder opp i penis-misforståelse, mr. Worldwide er tilbake! ",
+"t": "Værmelding med beatbox, penis-misforståelse, Herman blir avslørt i tulletelefonen, mr. Worldwide! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-09-04_0400_3478.MP3"
+},
+"l_be8b63d4-bd46-4edc-8b63-d4bd46aedcf2": {
+"d": "2020-12-02T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2300,
+"s": "Herman avslører ukjent talent og går videre til finalen og Mikkel har fått fun facts fra analorienterte lyttere. Få en kickstart på jula med moderne adventsvers, julemarked og ting du ikke visste om vaskebjørner og rumpehull!",
+"t": "Kickstart, julemarked og frekke fun facts ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/bc3deeee-fd81-476e-9cb9-84297badee14_0_ID192MP3.mp3"
+},
+"l_c036ba25-f312-441e-b6ba-25f312241ee9": {
+"d": "2020-12-16T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2313,
+"s": "Herman har barbert hodet og Mikkel blir litt uvel av det. Vennskapet settes på prøve og ender i fylleprat, test av intimgrenser OG et viktig julebudskap. Dessuten! Svaret på hvor langt en fis kan reise, skumle søvnlyder, en hyllest til bioingeniører (og honning) og noen nøtter til Askepott. ",
+"t": "Nybarbert juleavslutning! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/50f813f6-924e-4aff-8140-9422209fa6b7_0_ID192MP3.mp3"
+},
+"l_c240657b-c577-4bdf-8065-7bc577abdffb": {
+"d": "2020-10-14T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2521,
+"s": "Herman drømmer om Kongens tale og har jinglepadden full av nye sjangre, Mikkel får telefon fra onkel Amerika og får blackout midt i rap battle. Dessuten: Jesus, japansk Manchester United-techno, visesang OG bonusspor! ",
+"t": "High School-film, sjangerkaos og slampoesi",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/8bc77c01-b224-4a80-8e28-a01bc2d8b97d_0_ID192MP3.mp3"
+},
+"l_c2bb0ffd-cb2e-4c0f-bb0f-fdcb2e4c0f40": {
+"d": "2020-09-16T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2709,
+"s": "Herman har debutert på Nytt på nytt, og orker egentlig ikke tulletelefon - men gjør det likevel. Mikkel har fått en flau mail fra Clitcommander, og får råd av en vis, gammel mann på toppen av et fjell! Og sist men ikke minst: en konfirmasjonsprest har laget verdens beste(?) rap.\n\nE-post: Friminutt@nrk.no",
+"t": "Pornotelefon og rumpeklaps fra mor",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/e53baf21-f5ee-45e8-a31c-6e8ff03d475f_0_ID192MP3.mp3"
+},
+"l_c5c23049-ee86-4c54-8230-49ee862c54e7": {
+"d": "2020-08-05T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1346,
+"s": "Ny runde med Siljes yndlings-tulletelefoner fra arkivet! Får Herman tak i babyseng og stellebord i voksenstørrelse? Overlever Mikkel egen gressklipper? Og hvordan gikk det med lytteren som trodde hun skulle opp på scenen med Celine Dion? ",
+"t": "Sommerspesial - Tulletelefoner #2",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/d579a7c4-af4a-46e3-bc60-1f92c38a4e78_0_ID192MP3.mp3"
+},
+"l_c8972de9-0a6a-4aaa-972d-e90a6a6aaad2": {
+"d": "2019-08-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2143,
+"s": "Mikkel er frynsete etter festivalsommeren og Herman får ENDA mer ansvar og har med nye lyder til jinglepadden. Dagens notat-roulette avslører gamle synder og gode ideer, og hvor langt er tatoveringsstudioet villig til å gå? Mikkel ringer og sjekker.",
+"t": "Frynsete etter festival, notat-roulette, oppdatert jinglepad og tulletelefon til tatoveringsstudio",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-08-14_0400_3219.MP3"
+},
+"l_ca352168-4a4c-4d43-b521-684a4c5d43c0": {
+"d": "2020-11-25T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2189,
+"s": "Uncle Paul er i Kina og avslører spesiell idrettsskade, hvem er best på dødsbudskap, hvem er best i Pingu og er flodhest egentlig et pattedyr? Send oss din beste funfact! Friminutt@nrk.no ",
+"t": "Bekkenløsning, funfacts og melding til politiet",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/9196ec71-4e7c-40d2-bcd2-27f39e8742ca_0_ID192MP3.mp3"
+},
+"l_caa43eac-b789-442f-a43e-acb789d42f81": {
+"d": "2021-05-05T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1885,
+"s": "Drømmen om Formel 1 og selvbruning i Monaco, Roar har flyttet til Tenerife og blitt kreativ torpedo, en imponerende remix og den store oppgaven om Russland. ",
+"t": "Formel 1, Roar spessial og Russland",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/84a50e1e-fa9e-45ea-8feb-7bbf10c59e5c_0_ID192MP3.mp3"
+},
+"l_cc1a3310-742b-4ea4-9a33-10742baea4e3": {
+"d": "2020-06-24T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2773,
+"s": "Det er sommerfest! Herman er på NRJ-intervju, og møter Mikkel på et utested med skyhøye skjønnhetsstandarder. Dessuten har det kommet inn en ordentlig BANGER av en lytter-remix!\n\n",
+"t": "Årets morsomste sommerfest!!",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/8b16c86d-56f9-483c-88d7-57a84360b5da_0_ID192MP3.mp3"
+},
+"l_cd0544b9-840f-42e7-8544-b9840f22e7e4": {
+"d": "2021-03-17T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2625,
+"s": "Hermans banksamtale fritt etter hukommelsen, mislykket forsøk på folkemusikk, munnharpe-rap, alt du ikke visste om hoggormpenis og større problemer enn forventet med r-tallet.\n",
+"t": "Munnharpe-rap, banken og dyrenes porno",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/076dedab-b310-4ac1-ad05-d821c4c4e410_0_ID192MP3.mp3"
+},
+"l_cdaa9bef-4906-4f28-aa9b-ef49064f28a4": {
+"d": "2019-10-23T06:33:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2828,
+"s": "Herman har ny protesenese og dagdrømmer om Himalaya og Mikkels død. Ikke samtidig. \nHellstrøm, Stordalen og Hareide dukker opp.\nBoom boom styrke boom! \n",
+"t": "Herman og Mikkel får Celine Dion-fan til å synge for livet i tulletelefon 2.0 Boom! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-10-23_0433_1616.MP3"
+},
+"l_ce17f6ae-758f-4650-97f6-ae758fc65070": {
+"d": "2020-06-03T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3046,
+"s": "Mikkel har fikset Herman intervju på The Tonight Show, en av gutta har nesten kjørt på Eyvind Hellstrøm og ingen av dem kan bøye kvisleis. ",
+"t": "Nynorsksmell, Jimmy Fallon og Hellstrøm",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/c19de465-57c2-4c6f-a907-ee71fab53605_0_ID192MP3.mp3"
+},
+"l_d11544b8-bce2-48e8-9544-b8bce288e8ef": {
+"d": "2020-04-01T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3268,
+"s": "Livestream #2 bjudar på fengselssamtale, språkblanding (vanskeligere enn man skulle tro!), sitcom med latterboks, mail fra metal-fan og en fet lytter-remix av Mikkels «hæ?» . Ny livestream tirsdag 7.4. på nrk.no/alltidsammen! Og mailen er døgnåpen: friminutt@nrk.no. ",
+"t": "Livestream #2! Språkblanding, death metal og lytterremix",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/f596afa5-c7de-4b98-abcd-22a0d2fcbef0_0_ID192MP3.mp3"
+},
+"l_d5e0d3b3-158f-437b-a0d3-b3158f337be3": {
+"d": "2020-08-12T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 951,
+"s": "Siste sommerspesial! Friminutts utvidede familie er på plass i sommerens siste parodibonanza! Aksel er med på linje fra USA, Roar holder visning, språkforsker Per Kvalme har for stor tunge og podkastens høye beskytter, Eyvind Hellstrøm, får dialekt og blir nesten Davy Wathne. NY episode neste uke! ",
+"t": "Sommerspesial - Parodier",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/4e613b35-93d0-431a-ba5e-2911c9a9b4c6_0_ID192MP3.mp3"
+},
+"l_d68e95c6-d450-47b8-8e95-c6d45037b875": {
+"d": "2019-05-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2351,
+"s": "Herman har fått mer \"ansvar\" i arbeidet med podkasten, og det ble brått litt slitsomt. Prompehumoren lever i beste velgående, og Mikkel utfordrer Herman til å tulleringe en folkehøyskole. Fallskjermsesongen er også i gang, og plutselig fikk vi besøk av flere som har en mening om dette. ",
+"t": "Fortsatt bestevenner, Herman får mer \"ansvar\" og prompehumor",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-05-01_0400_347.MP3"
+},
+"l_d718a637-4621-4908-98a6-374621e908e8": {
+"d": "2021-02-03T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2495,
+"s": "Pandemien har gjort Herman til en helt vanlig fyr og nå er han lei! Mikkel bygger ned imaget og intervjuer Scooter fra boden. En hjælpende hånd til kollektivet fra hælvete, motvillig mimring om egen fødsel, forferdelige fakta om oter og hvordan klarer Roar seg på Farmen? ",
+"t": "Farmen karakter-kjendis og en melding til regjeringen",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/885c5ec6-811a-4c0d-9f49-0dc351cbee01_0_ID192MP3.mp3"
+},
+"l_d9c0a7eb-8cb1-4e78-80a7-eb8cb18e783e": {
+"d": "2019-11-20T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3047,
+"s": "Herman er tilbake fra en uke med tv-opptak og har nesten mistet stemmen. (Beste)venn/kollega Mikkel feirer hjemkomsten med musikk og tale. Hes parodistemme gjør en forkjøla Stordalen og en veldig pjusk Hareide. Tulletelefon 3.0 med lydeffekter. ",
+"t": "Forkjøla parodier, tulletelefon 3.0 og mer enn normalt om chinchilla",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-11-20_0500_1769.MP3"
+},
+"l_daa69d00-ae6c-4a8e-a69d-00ae6c1a8ec7": {
+"d": "2019-08-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2978,
+"s": "Friminutt byr på radioteater med nok en oppdatert jinglepad, gutta leser mails fra lyttere, får besøk av Hellstrøm, Stordalen, Hennie og Roar, Herman ringer dyrebutikken med grevlingspørsmål. ",
+"t": "Plutselig radioteater, lyttermails, gjestebonanza og tulletelefon til dyrebutikken",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-08-21_0400_1241.MP3"
+},
+"l_dcb03cfc-1392-4f13-b03c-fc13928f13c3": {
+"d": "2020-07-08T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1130,
+"s": "Friminutts mixtape med musikalske innslag og høydepunkter fra arkivet. Pump opp volumet!  ",
+"t": "Sommerspesial: En musikal",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/acf0cb9d-e117-416d-9e92-0a48736c4164_0_ID192MP3.mp3"
+},
+"l_e3357b78-1c5c-4f3e-b57b-781c5c5f3ed7": {
+"d": "2020-03-25T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 4045,
+"s": "Premiere på live-stream. Mye energi i dag. Mikkel og Herman jazzer i studio med gummihansker og en meters avstand. Bli med behind the scenes – hør hva gutta snakker om når mikrofonene egentlig skal være skrudd av!",
+"t": "LIVESTREAM-episode: God ADHD-dag, masse karakterer og Ola Halvorsen-rap",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/3f2fbd7f-ccd0-446f-8bcd-051cd5c504ec_0_ID192MP3.mp3"
+},
+"l_e3a6bd59-c035-4ffa-a6bd-59c035dffa94": {
+"d": "2020-01-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2715,
+"s": "Det internasjonale multimedieshowet Friminutt byr på både gode og ikke så fullt så gode engelskkunnskaper, en reise til Japan, tulletelefon med jakt på beskyttelse og hevn på fotballbanen og mye mer. ",
+"t": "Herman utfordres til internasjonal karriere, Mikkel får 6 i engelsk muntlig (minst), noen skal til Japan og én ble nesten svartelista fra trampolineparken",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/acec8a3f-c386-4ed3-8e40-2f7ef2246c79_0_ID192MP3.mp3"
+},
+"l_e4f6ad55-cc48-44a5-b6ad-55cc4884a551": {
+"d": "2019-04-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2337,
+"s": "Herman og Mikkel har premiere på sin aller første podkast-episode! Mikkel utfordrer Herman til å gjøre noe av det flaueste han vet, det blir planlegging av begravelse, og du får vite hvordan det gikk til at nettopp disse to ble bestevenner.  ",
+"t": "Premierenerver, begravelse, og tulleringing ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-04-03_0400_3042.MP3"
+},
+"l_e5291026-33ac-41f1-a910-2633ac11f1b6": {
+"d": "2019-09-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2913,
+"s": "Herman avslører hull i pensumkunnskapen og Mikkel må bli streng, årets mørkeste tulletelefon går til Sverige og gutta synger coverlåter i egen versjon. ",
+"t": "Herman testes i pensum, årets mørkeste tulletelefon, coverlåter tolket på egen måte ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-09-18_0400_3028.MP3"
+},
+"l_e6b3ff17-4e28-42e5-b3ff-174e2882e5f9": {
+"d": "2020-08-26T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3021,
+"s": "Mikkels kjendisstatus, Hermans James Bond-audition tape, country med heftig ADHD, the return of drømmetyderen, tulletelefon med lysere og lysere stemme og lytterremix! ",
+"t": "Country-fest og tulletelefon med pitch",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/f30873b4-9c50-4600-8578-51aee026dde0_0_ID192MP3.mp3"
+},
+"l_e8832fcf-3f27-41de-832f-cf3f2781de23": {
+"d": "2019-11-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2638,
+"s": "Herman blir tvunget til parodishow på sparket og frykter for karrieren. Jinglepadden er fylt opp med fjert og en overraskelse. M&H er med på Jorda rundt på seks steg, hør mer om Boom boom taka booms hjemland. Tulletelefonen virker ikke, men vi bjudar på bonusspor med skytekonkurranse. ",
+"t": "Herman tvinges til parodishow, fjert på jinglepadden, reisen til Jordan og skytekonkurranse",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-11-06_0500_2906.MP3"
+},
+"l_e8b43ebc-4cc3-42ee-b43e-bc4cc3d2ee15": {
+"d": "2021-06-02T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2234,
+"s": "Sommeravslutning! Ferieplaner med hemoroider, sommerens store horoskop, alt om Hermans kropp (på innsiden), Mikkels nye bil, nye undulat OG nye slampoesianfall og en slags westernopplevelse. God sommer! <3 ",
+"t": "Sommerferie, horoskop og Hermans indre",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/1f24b4ef-2a10-411f-90f6-295c73f42892_0_ID192MP3.mp3"
+},
+"l_eaabbac4-ce7d-4b89-abba-c4ce7d7b894c": {
+"d": "2021-01-20T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2168,
+"s": "Herman savner smeltet ost og må i Luksusfellen etter dyr diett, vignetten til Mikkels underbevissthet, NY remix, hilsen både fra og til politiet, overraskende fact om kuer og ukas ord! ",
+"t": "Luksusfellen og hilsen fra politiet",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/01a7067b-2d7a-4708-b8b5-e3256567b081_0_ID192MP3.mp3"
+},
+"l_edc14ede-0414-4bdb-814e-de0414bbdb66": {
+"d": "2021-09-01T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2971,
+"s": "Herman har vært på gatebil, Mikkel vil motivere unge lyttere til å stemme og \"Lyden av kroppen\" testes ut som gameshow-konsept. ",
+"t": "Valgrap, gatebil og kroppslyder ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/0cac9a45-4663-4e74-9b8d-4877f3b7b002_0_ID192MP3.mp3"
+},
+"l_ee7b45c4-8ec6-42d8-bb45-c48ec682d80c": {
+"d": "2021-10-27T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2685,
+"s": "Herman byr på billetter til førpremiere på Førstegangstjenesten! Mikkel har fått litt ADHD og har begynt å se på lineær-TV. Shoutout til Danmark, verdens beste bunke misforståtte sangtekster og rollespill om navn, dressing og TRINE!! ",
+"t": "Sangtekstene, hot dog-dressingen og konkurranse! ",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/932da53c-e1e3-4db8-b381-c26284d9452e_0_ID192MP3.mp3"
+},
+"l_ef4698b3-693a-4bec-8698-b3693a5bec5d": {
+"d": "2021-02-24T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2580,
+"s": "Parodi-duell med Misjonen, Herman blir forlatt i verdensrommet, norskundervisning til vår venn sveitseren og ny favoritt-Admiral P-remix. \n",
+"t": "Parodi-duell, reisen til Mars og super-remix",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/b0320b37-c729-4248-8199-22a7571d6ee8_0_ID192MP3.mp3"
+},
+"l_f0f70788-011a-4bbf-b707-88011a0bbf43": {
+"d": "2019-04-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 1897,
+"s": "Det er Herman sin tur til å tulleringe, og Mikkel blir imponert over innsatsen når han utgir seg for å være Petter Stordalen. Hva er egentlig en komplett spiller? Podkastfolket har talt. Herman tror en barndomsdrøm kan være det perfekte frieriet, og Mikkel er stolt av sitt nye hageprosjekt.  ",
+"t": "Latterkrampe, Stordalen og det perfekte frieri",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-04-17_0400_2815.MP3"
+},
+"l_f1407610-154a-4f19-8076-10154a8f1941": {
+"d": "2020-09-09T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2202,
+"s": "Mikkel sjonglerer altfor mange baller i tulletelefonen, Herman har bare grått litt av sitt nyeste kallenavn og ADHD-remix redder dagen!  ",
+"t": "Mr. Nobody og trønderrock-remixen",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/579e5a05-c28a-4f6d-93c2-c059c920bc0b_0_ID192MP3.mp3"
+},
+"l_f5efc4d6-2a08-4adc-afc4-d62a080adc17": {
+"d": "2019-12-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 3187,
+"s": "Herman reagerte med nakenhet på seerrekord, Mikkel har vært syk og lært nytt, fett triks som ikke imponerer kollega/bestevenn nevneverdig. Både Pingu og Aksel Hennie dukker opp, høydepunktet fra årets julebord (mener én av to) og tulletelefon 3.0 om snøfreser med lydeffekter. \n",
+"t": "Mikkels nye triks, Hermans nye tv-serie, pingu vil pule, fettern til Popek og tulletelefon 3.0",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/friminutt_med_herman_og_mikkel_2019-12-18_0500_2902.MP3"
+},
+"l_f8133323-594b-489e-9333-23594ba89e2c": {
+"d": "2021-04-07T05:00:00+02:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2070,
+"s": "Mikkel misforstår dansebandlåt, Herman har lest Vi Menn og får (for mye) ansvar, Roar fremfører erotisk novelle og revygruppa i Bergen får kanskje ikke helt den åpningslåta de ønsket seg. Boom boom! ",
+"t": "Erotiske noveller, revysang og spam [Explicit lyrics - igjen]",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/f8098663-75d0-4007-858c-677834968c83_0_ID192MP3.mp3"
+},
+"l_fb4f0bd0-3c1b-4606-8f0b-d03c1bc60648": {
+"d": "2021-11-03T05:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2735,
+"s": "Herman øver før engelskprat på Skavlan og har fått en murstein og et viktig budskap i posten. Mikkel trenger terapi etter finger i rumpa og vurderer kort karriere i London. Høydepunkter fra korpskarriere, enda flere låter du trodde du kunne og snakk om det som en mann (og ekstra velkommen til broren til Tom!). ",
+"t": "Triangeltiss og en murstein i posten",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/bbdd142c-e025-442c-b34f-f1072ac4d9b0_0_ID192MP3.mp3"
+},
+"l_fd89db58-7811-4e85-89db-5878118e85ee": {
+"d": "2020-01-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"n": 2301,
+"s": "Velkommen til Friminutt-året 2020! Hva blir med videre på humortoget? \n",
+"t": "Hermans livsmotto, Mikkels drømmenavn, samisk vri og verdenshistoriens lengste boom boom taka boooooooom",
+"u": "https://podkast.nrk.no/fil/friminutt_med_herman_og_mikkel/ced208ea-a28c-4a6c-a8dc-f600a481e129_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "friminutt_med_herman_og_mikkel",
+"image": "https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q",
+"subtitle": "En podkast hvor vi snakker om det vi opplever i hverdagen, som vi synes er morsomt og interessant, bare avbrutt av tulletelefoner og annet gøy. Av og med Herman Flesvig og Mikkel Niva.",
+"title": "Friminutt med Herman og Mikkel"
+},
+"v": 2
 }

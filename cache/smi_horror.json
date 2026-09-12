@@ -1,47 +1,372 @@
 {
-"l_06e48db0-9f0b-4437-a48d-b09f0bb437e7": "https://podkast.nrk.no/fil/smi_horror/a8122642-cc85-4563-9cf5-6a1098ca9cc8_0_ID192MP3.mp3",
-"l_0981f3e9-d2da-400f-81f3-e9d2da300fbc": "https://podkast.nrk.no/fil/smi_horror/a1198022-cb26-4651-b0ea-5ab6a1a8e7b9_0_ID192MP3.mp3",
-"l_0d7d2ec2-2795-4e9f-bd2e-c22795ae9f0c": "https://podkast.nrk.no/fil/smi_horror/5e058d5c-3a41-4889-bb4e-ec64ad1f5606_0_ID192MP3.mp3",
-"l_114e2a45-35d1-4d34-8e2a-4535d1ed3474": "https://podkast.nrk.no/fil/smi_horror/972d9439-d226-42fa-bd29-f4fbade0ae39_0_ID192MP3.mp3",
-"l_16637c75-a900-41cf-a37c-75a90031cf1e": "https://podkast.nrk.no/fil/smi_horror/bdd7227b-a11e-4506-95bf-6903daade0c7_0_ID192MP3.mp3",
-"l_20078f82-4cc7-4c19-878f-824cc73c1974": "https://podkast.nrk.no/fil/smi_horror/8eb3add4-5c95-4483-92c5-25cfa7052ae4_0_ID192MP3.mp3",
-"l_22e3f334-ca2c-43b5-a3f3-34ca2c03b562": "https://podkast.nrk.no/fil/smi_horror/aec35753-eac6-4142-aaec-cdb17835890f_0_ID192MP3.mp3",
-"l_30d91be9-b749-4ba3-991b-e9b749cba380": "https://podkast.nrk.no/fil/smi_horror/df79a7f3-5dc1-4176-819c-a4ff5e53ed0e_0_ID192MP3.mp3",
-"l_32a1d848-0d7b-4886-a1d8-480d7b0886bf": "https://podkast.nrk.no/fil/smi_horror/4265e9b0-28c8-441f-865d-21ddc1db7a6a_0_ID192MP3.mp3",
-"l_39f90881-1ec3-4af8-b908-811ec35af8bf": "https://podkast.nrk.no/fil/smi_horror/f047e686-8ef3-4d61-b9cf-73898c3de5a8_0_ID192MP3.mp3",
-"l_3e324de7-bba5-43ba-b24d-e7bba5e3ba42": "https://podkast.nrk.no/fil/smi_horror/8f2586d1-7cd9-48f4-af11-74d97f9ec4de_0_ID192MP3.mp3",
-"l_40babb0d-b663-4995-babb-0db6633995dc": "https://podkast.nrk.no/fil/smi_horror/f334c17d-5c0b-47bb-8811-1dc672548923_0_ID192MP3.mp3",
-"l_45ef042d-a0fa-4085-af04-2da0fa9085b3": "https://podkast.nrk.no/fil/smi_horror/9a0a08db-4a50-4d3e-9baf-42be707e7cab_0_ID192MP3.mp3",
-"l_4f371cec-eff4-4d7f-b71c-eceff40d7f63": "https://podkast.nrk.no/fil/smi_horror/bda52f88-de0a-4f60-ae54-d6aade53741f_0_ID192MP3.mp3",
-"l_54f31760-b2c4-4a9f-b317-60b2c41a9fee": "https://podkast.nrk.no/fil/smi_horror/90c4b853-c4ba-4289-86a9-14bc43c57886_0_ID192MP3.mp3",
-"l_5b8497fe-ccf0-4049-8497-feccf06049c7": "https://podkast.nrk.no/fil/smi_horror/26a533e5-7857-4118-ba95-55e38103df6c_0_ID192MP3.mp3",
-"l_5f03fd6a-d089-45a0-83fd-6ad08915a007": "https://podkast.nrk.no/fil/smi_horror/70fec20d-b1a7-4e84-ac41-37827f499e87_0_ID192MP3.mp3",
-"l_624a8dd3-f7bd-450e-8a8d-d3f7bd550e3d": "https://podkast.nrk.no/fil/smi_horror/c092c069-f8c3-4ec4-a4be-ae41baf4f73a_0_ID192MP3.mp3",
-"l_6d0ace08-1af6-4788-8ace-081af6378847": "https://podkast.nrk.no/fil/smi_horror/8c6a7b9b-105d-4e05-8698-0d8a674bc509_0_ID192MP3.mp3",
-"l_70bfdad8-78d2-4bf8-bfda-d878d2abf88f": "https://podkast.nrk.no/fil/smi_horror/faafb8f1-148f-499f-9fc0-cf18d9e4494a_0_ID192MP3.mp3",
-"l_71bc59da-7fb5-4599-bc59-da7fb5a59901": "https://podkast.nrk.no/fil/smi_horror/6673daea-2872-4daa-b9f8-339365c061fe_0_ID192MP3.mp3",
-"l_71ce7f2b-6c58-4f75-8e7f-2b6c582f75dd": "https://podkast.nrk.no/fil/smi_horror/153e394b-98d7-4041-93a8-f9f3893e697e_0_ID192MP3.mp3",
-"l_81ebca78-8b39-4c7b-abca-788b39dc7b60": "https://podkast.nrk.no/fil/smi_horror/a5c164c4-2973-4bf4-8eba-1d9a313384de_0_ID192MP3.mp3",
-"l_843420f0-1068-41cb-b420-f0106891cb6c": "https://podkast.nrk.no/fil/smi_horror/292c6f8b-afb1-4d22-93b1-d29a10d4b4a5_0_ID192MP3.mp3",
-"l_8717f754-8b96-4e07-97f7-548b968e0729": "https://podkast.nrk.no/fil/smi_horror/9cc99dee-2b07-4415-b869-d0de53a3683a_0_ID192MP3.mp3",
-"l_893b0478-0ab8-472c-bb04-780ab8972cb3": "https://podkast.nrk.no/fil/smi_horror/c427098b-348e-4827-b608-4474de033e7a_0_ID192MP3.mp3",
-"l_911369ac-4683-4448-9369-ac4683844875": "https://podkast.nrk.no/fil/smi_horror/edcfe459-ce48-44f3-b51e-fca887d30242_0_ID192MP3.mp3",
-"l_95bbe997-05df-44cd-bbe9-9705df44cd94": "https://podkast.nrk.no/fil/smi_horror/71a5b48b-9c7c-4b44-a661-3bec1c43f5b5_0_ID192MP3.mp3",
-"l_95dae8ea-848e-4179-9ae8-ea848eb179e6": "https://podkast.nrk.no/fil/smi_horror/24b5b695-6492-4697-88d1-17e0791e5d41_0_ID192MP3.mp3",
-"l_9865f159-3ee5-4c7e-a5f1-593ee5fc7ec9": "https://podkast.nrk.no/fil/smi_horror/8dd0fde7-d3de-4ebb-98a1-74b7d5c400b1_0_ID192MP3.mp3",
-"l_9e14b264-6180-4154-94b2-6461803154e2": "https://podkast.nrk.no/fil/smi_horror/b271ceb7-273a-4d12-adf8-c3f7f8699541_0_ID192MP3.mp3",
-"l_ac00de00-0e1e-41f6-80de-000e1e21f600": "https://podkast.nrk.no/fil/smi_horror/7a34ebd1-7c0d-4676-91a9-352bc03884a0_0_ID192MP3.mp3",
-"l_af2e945c-d87e-4823-ae94-5cd87ec82366": "https://podkast.nrk.no/fil/smi_horror/b72af039-e0c9-4f8c-b631-1b2c2fa60fee_0_ID192MP3.mp3",
-"l_b125a4d8-bf7b-4e5a-a5a4-d8bf7b3e5a11": "https://podkast.nrk.no/fil/smi_horror/80bea1ca-d164-41d4-a811-44f5e97cc7fb_0_ID192MP3.mp3",
-"l_ba7e1598-35d9-43ee-be15-9835d983eef1": "https://podkast.nrk.no/fil/smi_horror/73965fd4-b47b-4771-b7da-0248c9cc4e55_0_ID192MP3.mp3",
-"l_bbeea6ec-b54d-404d-aea6-ecb54d904da0": "https://podkast.nrk.no/fil/smi_horror/511be635-d005-4d7a-a561-773fb4e49d83_0_ID192MP3.mp3",
-"l_bbf440ff-5496-495a-b440-ff5496b95a28": "https://podkast.nrk.no/fil/smi_horror/725e8226-58ec-424c-bbc7-c526e253af5e_0_ID192MP3.mp3",
-"l_becdeb71-4e30-4d7b-8deb-714e306d7b2c": "https://podkast.nrk.no/fil/smi_horror/cf64e378-8b13-4ace-bb67-ea87620a9369_0_ID192MP3.mp3",
-"l_c837eb73-a909-41dc-b7eb-73a90961dc2a": "https://podkast.nrk.no/fil/smi_horror/cc7468db-c2fb-4c84-914c-05325bc0f9cd_0_ID192MP3.mp3",
-"l_dd10f745-576f-4254-90f7-45576f42540f": "https://podkast.nrk.no/fil/smi_horror/73a48098-295e-4d88-9e19-70283bcef21b_0_ID192MP3.mp3",
-"l_dd8ae0ea-a30d-4c1b-8ae0-eaa30d1c1bf2": "https://podkast.nrk.no/fil/smi_horror/71df8b80-3aeb-4cb3-a3be-758eed2a59e0_0_ID192MP3.mp3",
-"l_e5a766b0-527a-4a44-a766-b0527afa446b": "https://podkast.nrk.no/fil/smi_horror/142fc9b9-0fba-45ea-9be1-9026088d1553_0_ID192MP3.mp3",
-"l_ebe5c780-ceb3-45ae-a5c7-80ceb335ae2f": "https://podkast.nrk.no/fil/smi_horror/d0c74b9b-2c0d-4f20-8441-2a1f4db1e652_0_ID192MP3.mp3",
-"l_f37450e0-53d4-429b-b450-e053d4d29b43": "https://podkast.nrk.no/fil/smi_horror/0190af53-a088-4dae-9f21-a2d4a4d3da96_0_ID192MP3.mp3",
-"l_fb59151a-6db1-4a25-9915-1a6db18a25cf": "https://podkast.nrk.no/fil/smi_horror/28f7a680-b0c6-4b42-9eb4-c955eaece614_0_ID192MP3.mp3"
+"episodes": {
+"l_06e48db0-9f0b-4437-a48d-b09f0bb437e7": {
+"d": "2025-02-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1654,
+"s": "Jos gulažat goassege eahpáračča bárgumin, de dat sáhttá leat čuorvumin alcces gástta.",
+"t": "Eahpáraš",
+"u": "https://podkast.nrk.no/fil/smi_horror/a8122642-cc85-4563-9cf5-6a1098ca9cc8_0_ID192MP3.mp3"
+},
+"l_0981f3e9-d2da-400f-81f3-e9d2da300fbc": {
+"d": "2021-10-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/UjRq0Ed3YqSJ8g0yEbUFbAomFS1mJapzjhRup2dxn5Ug",
+"n": 1666,
+"s": "Ulddát ja hálddit leat min searvvis vánddardan guhká, ja sii ihtet ain duollet dálle.\nEat mii dieđe gos sii bohtet ja geat sii leat, muhto diehtit ahte sii leat doppe.\nUnderjordiske vesen har funnets blant oss lenge, og noen ganger gjør de seg til kjenne. Vi vet ikke hvor de kommer fra eller hvem de er, men vi vet at de er der. \n",
+"t": "Ulddát ja hálddit / Underjordiske vesen (episode 5)",
+"u": "https://podkast.nrk.no/fil/smi_horror/a1198022-cb26-4651-b0ea-5ab6a1a8e7b9_0_ID192MP3.mp3"
+},
+"l_0d7d2ec2-2795-4e9f-bd2e-c22795ae9f0c": {
+"d": "2024-12-31T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1592,
+"s": "Dat lei oainnáhus, dat lei dakkár mii ii lean albma.",
+"t": "Jápmán olbmot",
+"u": "https://podkast.nrk.no/fil/smi_horror/5e058d5c-3a41-4889-bb4e-ec64ad1f5606_0_ID192MP3.mp3"
+},
+"l_114e2a45-35d1-4d34-8e2a-4535d1ed3474": {
+"d": "2022-03-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1624,
+"s": "Muhtomin sáhttá vásihit juoga maid lea váttis čilget, muhto maiddai váttis ipmirdit. Imašlágán oainnáhusat sáhttet ihtit vaikko goas.\nIbland blir det vanskelig å forklare det man har sett, men også vanskelig å forstå. Rare syner kommer når man minste aner.\n",
+"t": "Imaš oainnáhusat / Rare syner (episode 22)",
+"u": "https://podkast.nrk.no/fil/smi_horror/972d9439-d226-42fa-bd29-f4fbade0ae39_0_ID192MP3.mp3"
+},
+"l_16637c75-a900-41cf-a37c-75a90031cf1e": {
+"d": "2025-01-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1510,
+"s": "Gullá go boahtá, iige olle lusa, iige oidno mihkkege, iige vuhtto mihkkege, muhto de maŋŋá ilbmuda iežas.",
+"t": "Ovdosat addet dieđu",
+"u": "https://podkast.nrk.no/fil/smi_horror/bdd7227b-a11e-4506-95bf-6903daade0c7_0_ID192MP3.mp3"
+},
+"l_20078f82-4cc7-4c19-878f-824cc73c1974": {
+"d": "2021-11-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1766,
+"s": "Imaš jienaiguin ja ártegis oainnáhusaiguin ruohtesta varra ja guolggat hirragit. Muhtomin mii dušše oaidnit, dahje dušše gullat, ja earát fas dušše dovdet.\nFremmede lyder og merkelige syn gjør at blodet pumper og håret i nakken reiser seg. Noen ganger ser vi, andre ganger hører vi, og noen ganger føler man bare. \n",
+"t": "Jienat ja oainnáhusat / Fremmede lyder og merkelige syn (episode 8)",
+"u": "https://podkast.nrk.no/fil/smi_horror/8eb3add4-5c95-4483-92c5-25cfa7052ae4_0_ID192MP3.mp3"
+},
+"l_22e3f334-ca2c-43b5-a3f3-34ca2c03b562": {
+"d": "2024-12-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1764,
+"s": "Silisávžžis leat olu olbmot vásihan čilgetmeahttun dáhpáhusaid. Ja gosa vulggii mánná garra dálkin okto, imaštallá muitaleaddji.",
+"t": "Oaidnemeahttun mánát",
+"u": "https://podkast.nrk.no/fil/smi_horror/aec35753-eac6-4142-aaec-cdb17835890f_0_ID192MP3.mp3"
+},
+"l_30d91be9-b749-4ba3-991b-e9b749cba380": {
+"d": "2024-12-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1700,
+"s": "Idjadanlobi gal gánneha jearrat vai jođidettiin bálle báikkis ráfis vuoiŋŋastit ja nohkastit.\nMuitaleaddjit leat Mihkkal Issáha Niillas, Mikkel M.M. Logje, Edel Marit Gaino ja \nMihkkal Issáha Johan Mihkkal.",
+"t": "Idjadanbáikki imašlašvuođat",
+"u": "https://podkast.nrk.no/fil/smi_horror/df79a7f3-5dc1-4176-819c-a4ff5e53ed0e_0_ID192MP3.mp3"
+},
+"l_32a1d848-0d7b-4886-a1d8-480d7b0886bf": {
+"d": "2025-03-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/kqQjiMj9C_p-IkxP32YX4QDwSdtlp92_QI2WEq08BQdw",
+"n": 1668,
+"s": "Oainnáhusat sáhttet maid leat sáhkaovdosat, ja dieđusge balddihit olbmo.",
+"t": "Oainnáhusat",
+"u": "https://podkast.nrk.no/fil/smi_horror/4265e9b0-28c8-441f-865d-21ddc1db7a6a_0_ID192MP3.mp3"
+},
+"l_39f90881-1ec3-4af8-b908-811ec35af8bf": {
+"d": "2024-12-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 2251,
+"s": "Luondu lea báiki mii sáhttá sihke buoridit ja baldit olbmo. Ii leat álot buorre diehtit \nleago ealli dahje juoga eará mii gullo, ja lei go oainnáhus vai dušše dábálaš ealli. \nMuitaleaddjit leat Mihkkal Issáha Niillas, Mikkel M.M. Logje, Máhte Ristiinna ja Bikku \nÁillu Johan-Heandarat.",
+"t": "Luondu",
+"u": "https://podkast.nrk.no/fil/smi_horror/f047e686-8ef3-4d61-b9cf-73898c3de5a8_0_ID192MP3.mp3"
+},
+"l_3e324de7-bba5-43ba-b24d-e7bba5e3ba42": {
+"d": "2021-12-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1999,
+"s": "Olbmo jápmin lea eallima mannu, ja das ii beasa okta eret. Muhtomin eai láve vuoiŋŋat ge beassat viidáseabbon, vaikko vel girku čađa leat bidjojuvvon hávdái.\n\nDøden er en del av livet, og det kommer ingen unna. Men noen døde kommer seg ikke videre, selv om de er gravlagt gjennom kirken.",
+"t": "Jápmin ja girku  Døden og kirken  (episode 12)",
+"u": "https://podkast.nrk.no/fil/smi_horror/8f2586d1-7cd9-48f4-af11-74d97f9ec4de_0_ID192MP3.mp3"
+},
+"l_40babb0d-b663-4995-babb-0db6633995dc": {
+"d": "2025-04-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 2293,
+"s": "Rávvejuvvui ahte dákkár fámuiguin ii galgga stoahkat.",
+"t": "Spiritismma fámut",
+"u": "https://podkast.nrk.no/fil/smi_horror/f334c17d-5c0b-47bb-8811-1dc672548923_0_ID192MP3.mp3"
+},
+"l_45ef042d-a0fa-4085-af04-2da0fa9085b3": {
+"d": "2021-10-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1787,
+"s": "Čiekŋalis ávžžit ja dološ nuppi máilmmisoađi dáhpáhusat leat min álot baldán, ja juohke geardde go lahkonisgoahtá sevdnjes ávžži lávejit guolggat hirragit.",
+"t": "Silisávži ja nuppi máilmmisoahti",
+"u": "https://podkast.nrk.no/fil/smi_horror/9a0a08db-4a50-4d3e-9baf-42be707e7cab_0_ID192MP3.mp3"
+},
+"l_4f371cec-eff4-4d7f-b71c-eceff40d7f63": {
+"d": "2021-10-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1656,
+"s": "Sápmi lea stuoris ja viddis, ja go oktii lea vuolgán meahccái vánddardit de ii soaitte nuppi olbmo oaidnit máŋgga vahkkui. Vaikko meahcci orru leamen guoros, de it lea goitge okto.",
+"t": "Meahcis",
+"u": "https://podkast.nrk.no/fil/smi_horror/bda52f88-de0a-4f60-ae54-d6aade53741f_0_ID192MP3.mp3"
+},
+"l_54f31760-b2c4-4a9f-b317-60b2c41a9fee": {
+"d": "2021-09-28T15:00:00+02:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 29,
+"s": "Sápmelaččain lea guhkes muitalanvierru ja mii leat viššalat baldalit nubbi nuppi. Golggotmánu 5. beaivvi rájes gulat issoras muitalusažiid.",
+"t": "Sami Horror",
+"u": "https://podkast.nrk.no/fil/smi_horror/90c4b853-c4ba-4289-86a9-14bc43c57886_0_ID192MP3.mp3"
+},
+"l_5b8497fe-ccf0-4049-8497-feccf06049c7": {
+"d": "2022-01-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1914,
+"s": "Balddonasat ja vuoiŋŋat eai láve ihtit buohkaide, ja lávejit lohkat ahte son guhte gierdá, son oaidná.\nMuhtomin gal lávejit boahtit go olmmoš dáhttu. Hástaleapmi dahje hiistaleapmi, leage juoga maid máŋggas leat geahccalan.\nIkke alle ser spøkelser, og man bruker si at bare dem som tåler, ser dem. Ibland kommer dem når man ber om det, og mange har prøvd å utfordre spøkelser.",
+"t": "Hástaleapmi / Å utfordre (episode 14)",
+"u": "https://podkast.nrk.no/fil/smi_horror/26a533e5-7857-4118-ba95-55e38103df6c_0_ID192MP3.mp3"
+},
+"l_5f03fd6a-d089-45a0-83fd-6ad08915a007": {
+"d": "2021-11-30T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 2342,
+"s": "Luondu láve dáppe sámis leat ráfálaš baikin, gos ii nu dávjá oainne olbmuid. Muhto ii meahcci leat šat nu oadjebas dalle go vuoiŋŋat bohtet ovdii.\n\nNår man befinner seg utendørs i Sápmi er det vanligvis ro og fred overalt, og man treffer ikke så mange mennesker. Men skogen er ikke lenger så trygg når man møter på ånder.",
+"t": "Meahcis  I skogen  (episode 10)",
+"u": "https://podkast.nrk.no/fil/smi_horror/70fec20d-b1a7-4e84-ac41-37827f499e87_0_ID192MP3.mp3"
+},
+"l_624a8dd3-f7bd-450e-8a8d-d3f7bd550e3d": {
+"d": "2021-11-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/UjRq0Ed3YqSJ8g0yEbUFbAomFS1mJapzjhRup2dxn5Ug",
+"n": 1889,
+"s": "Gosa mii fal mannat, de lea álot soames gii oaidnit juoga. Lehkos dál duottar, vuopmi dahje mearragáddi. Doppe leat mii vásihan eanemusat, ja eai vásáhusat gal noga.\nHvor enn man drar, så er det alltid noen som er ser noe. Uansett om man befinner seg på vidda, i skogen eller på kysten. Der har det skjedd mye, og det blir aldri tomt for opplevelser.\n",
+"t": "Vuomit, mearra ja duottar / Skogen, havet og vidda (episode  7)",
+"u": "https://podkast.nrk.no/fil/smi_horror/c092c069-f8c3-4ec4-a4be-ae41baf4f73a_0_ID192MP3.mp3"
+},
+"l_6d0ace08-1af6-4788-8ace-081af6378847": {
+"d": "2021-12-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1806,
+"s": "Čilgemeahtton jietna lea issoras, ja vel eambbo issorasat šaddá go jietna boahtá doppe gos jietna ii livčče galgan gullot.\n\nUforklarlige lyder er skumle, og spesielt skumle er de når de kommer fra steder der det ikke skal komme lyder.",
+"t": "Jienat  Fremmede lyder  (episode 11)",
+"u": "https://podkast.nrk.no/fil/smi_horror/8c6a7b9b-105d-4e05-8698-0d8a674bc509_0_ID192MP3.mp3"
+},
+"l_70bfdad8-78d2-4bf8-bfda-d878d2abf88f": {
+"d": "2022-01-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 2030,
+"s": "Odná oasis mii fas vuolgit lundui, doppe mii orrutge vásihan buot eanemus ipmašiid. Luondu mii lea midjiide nu oahpis, muhto lihkká nu amas.\n\nI dagens episode er vi i naturen igjen, dersom det virker være en plass hvor vi mest opplever merkelige ting. Naturen som er vår trygghet, men likevel så ukjent for oss.",
+"t": "Luonddus / I naturen (episode 13)",
+"u": "https://podkast.nrk.no/fil/smi_horror/faafb8f1-148f-499f-9fc0-cf18d9e4494a_0_ID192MP3.mp3"
+},
+"l_71bc59da-7fb5-4599-bc59-da7fb5a59901": {
+"d": "2022-03-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1729,
+"s": "Mii leat máŋgga báikkis leamaš dán podcastas gos duođas lea gomit, ja odne mii fitnat báikkis gos eai oru nohkame fearánat.",
+"t": "Kárášjoga riebanfárbma / Revefarmen i Karasjok (episode 21)",
+"u": "https://podkast.nrk.no/fil/smi_horror/6673daea-2872-4daa-b9f8-339365c061fe_0_ID192MP3.mp3"
+},
+"l_71ce7f2b-6c58-4f75-8e7f-2b6c582f75dd": {
+"d": "2024-12-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1759,
+"s": "Jos olmmoš berošta dulkot ovdosiid, de sáhttá diehtit ovdalgihtii mii lea vuordagasas, leš dal buorre dahje heajos dáhpáhus.",
+"t": "Ovdosat",
+"u": "https://podkast.nrk.no/fil/smi_horror/153e394b-98d7-4041-93a8-f9f3893e697e_0_ID192MP3.mp3"
+},
+"l_81ebca78-8b39-4c7b-abca-788b39dc7b60": {
+"d": "2022-02-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1845,
+"s": "Dát min vásáhusat sáhttet boahtit vaikko makkár hámis, ja muhtomin šaddá váttisin čilget vásáhusa. De lávet daid dušše gohččodit ipmašin.\nVåre opplevelser kommer i mange former, og iblant er de vanskelige å forklare. Da kaller vi dem bare for rare syner.",
+"t": "Ipmašat / Rare syner (episode 20)",
+"u": "https://podkast.nrk.no/fil/smi_horror/a5c164c4-2973-4bf4-8eba-1d9a313384de_0_ID192MP3.mp3"
+},
+"l_843420f0-1068-41cb-b420-f0106891cb6c": {
+"d": "2022-03-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1742,
+"s": "Lehkos dál návli seainnis dahje imašlágán olbmot, de leat čilgetmeahttun vásáhusat vuolggahan min muitalusaid dás, ja daiguin min nai heaitit dán geardái.\n\nVare seg en spik i veggen eller rare mennesker, så har uforklarlige fenomen vært begynnelsen på historiene og det er der vi også slutter for denne gang.",
+"t": "Čilgetmeahttun vásáhusat / Uforklarlige fenomen",
+"u": "https://podkast.nrk.no/fil/smi_horror/292c6f8b-afb1-4d22-93b1-d29a10d4b4a5_0_ID192MP3.mp3"
+},
+"l_8717f754-8b96-4e07-97f7-548b968e0729": {
+"d": "2025-01-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/kqQjiMj9C_p-IkxP32YX4QDwSdtlp92_QI2WEq08BQdw",
+"n": 1909,
+"s": "Viesuin sáhttet leat vuoiŋŋat ja ipmašat mat ilmmuhit iežaset olbmuide iešguđetge láhkai. Dás gulat mo daiguin sáhttá birgehallat.",
+"t": "Ruojusvuohta",
+"u": "https://podkast.nrk.no/fil/smi_horror/9cc99dee-2b07-4415-b869-d0de53a3683a_0_ID192MP3.mp3"
+},
+"l_893b0478-0ab8-472c-bb04-780ab8972cb3": {
+"d": "2025-01-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1941,
+"s": "Almmi ja eatnama gaskkas ollu čilgetmeahttunvuođat maid olmmoš sáhttá vásihit feara gos.",
+"t": "Imaš dáhpáhusat",
+"u": "https://podkast.nrk.no/fil/smi_horror/c427098b-348e-4827-b608-4474de033e7a_0_ID192MP3.mp3"
+},
+"l_911369ac-4683-4448-9369-ac4683844875": {
+"d": "2025-02-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/kqQjiMj9C_p-IkxP32YX4QDwSdtlp92_QI2WEq08BQdw",
+"n": 1549,
+"s": "Jaskatvuođas sáhttá gullat ja oaidnit vaikko makkár ipmašiid, muhtumin sáhttet maid veahkkin leat.",
+"t": "Luonddu ipmašat",
+"u": "https://podkast.nrk.no/fil/smi_horror/edcfe459-ce48-44f3-b51e-fca887d30242_0_ID192MP3.mp3"
+},
+"l_95bbe997-05df-44cd-bbe9-9705df44cd94": {
+"d": "2025-01-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1652,
+"s": "Ulddat ja hálddit ellet maid iežaset eallima Sámis. Ja šiella lea buorre reaidu mainna olmmoš suddje iežas.",
+"t": "Ulddat ja hálddit",
+"u": "https://podkast.nrk.no/fil/smi_horror/71a5b48b-9c7c-4b44-a661-3bec1c43f5b5_0_ID192MP3.mp3"
+},
+"l_95dae8ea-848e-4179-9ae8-ea848eb179e6": {
+"d": "2021-10-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1881,
+"s": "Lávejit lohkat ahte sápmelačča njunnái galga biegga bossut, leage várra danne mii vásihit ipmašiid go šaddat moskus gámmárii.",
+"t": "Seinniid siskobealde",
+"u": "https://podkast.nrk.no/fil/smi_horror/24b5b695-6492-4697-88d1-17e0791e5d41_0_ID192MP3.mp3"
+},
+"l_9865f159-3ee5-4c7e-a5f1-593ee5fc7ec9": {
+"d": "2021-10-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1724,
+"s": "Jeakkit ja balssat leat várra leamašan váralaš juo doloža rájis, danne go doppe leat oaidnán sihke eahpáraččaid ja imaš olbmuid.",
+"t": "Eahpáraččat ja jeakkit",
+"u": "https://podkast.nrk.no/fil/smi_horror/8dd0fde7-d3de-4ebb-98a1-74b7d5c400b1_0_ID192MP3.mp3"
+},
+"l_9e14b264-6180-4154-94b2-6461803154e2": {
+"d": "2021-11-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 2071,
+"s": "Moskus seinniid siskobealde mii gal leat gullan ipmašiid, muhto gal čilgemeahttun vásáhusat lávejit maiddai boahtit dalle go olmmoš lea golgame.\n\nDet finnes vegger der det ikke finnes ro, der det oppstår uforklarlige syn, men også på reise oppstår slikt som ikke lar seg forklare.",
+"t": "Mátkis ja viesus  På reise og hjemme  (episode 9)",
+"u": "https://podkast.nrk.no/fil/smi_horror/b271ceb7-273a-4d12-adf8-c3f7f8699541_0_ID192MP3.mp3"
+},
+"l_ac00de00-0e1e-41f6-80de-000e1e21f600": {
+"d": "2025-03-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1610,
+"s": "Olbmos sáhttet leat várjaleaddjit ja oaidnemeahttun veahkit.",
+"t": "Unohisvuođaid vásihit",
+"u": "https://podkast.nrk.no/fil/smi_horror/7a34ebd1-7c0d-4676-91a9-352bc03884a0_0_ID192MP3.mp3"
+},
+"l_af2e945c-d87e-4823-ae94-5cd87ec82366": {
+"d": "2025-03-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1628,
+"s": "Muhtin noaide-ádjáid dagut leat beaggán ja begget ain viidát Sámis.",
+"t": "Noaide-ádját",
+"u": "https://podkast.nrk.no/fil/smi_horror/b72af039-e0c9-4f8c-b631-1b2c2fa60fee_0_ID192MP3.mp3"
+},
+"l_b125a4d8-bf7b-4e5a-a5a4-d8bf7b3e5a11": {
+"d": "2022-03-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1578,
+"s": "Jápmin láve dávjá boahtit vuorddegeahtta, ja eará gerddiid fas lea vuordimis. \nOdne mis leat muitalusat jápmimis ja imaš oainnáhusain.\nDøden kommer ofte uventet, men ibland vet vi at den kommer.\nDenne episoden forteller om døden og syner.\n",
+"t": "Jápmin ja oainnáhusat / Døden og syner",
+"u": "https://podkast.nrk.no/fil/smi_horror/80bea1ca-d164-41d4-a811-44f5e97cc7fb_0_ID192MP3.mp3"
+},
+"l_ba7e1598-35d9-43ee-be15-9835d983eef1": {
+"d": "2024-12-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 2022,
+"s": "Dácca čalbmái sáhttá okta sieidi leat dušše dábálaš geađgi, muhto mii geat dáppe \nleat vánddardan agi beaivve diehtit ahte sieiddis lea earenoamáš fápmu. \nMuitaleaddjit leat Mihkkal Issáha Niillas, Bikku Áillu Johan-Heandarat, Mihkkal \nIssáha Johan Mihkkal ja Sámmolaš Máhte Jon Niillas.",
+"t": "Sieiddit",
+"u": "https://podkast.nrk.no/fil/smi_horror/73965fd4-b47b-4771-b7da-0248c9cc4e55_0_ID192MP3.mp3"
+},
+"l_bbeea6ec-b54d-404d-aea6-ecb54d904da0": {
+"d": "2021-11-02T10:00:00+01:00",
+"i": "https://gfx.nrk.no/UjRq0Ed3YqSJ8g0yEbUFbAomFS1mJapzjhRup2dxn5Ug",
+"n": 1996,
+"s": "Earret go meahcis, de leat vásihan eanemus ipmašiid seinniid siskobealde. Eat mii dieđe leat go mii olbmot geat eat soaba seinniid siskobeallái, vai leat go ieš balddonasat geat hálidit olggos beassat.\nDet er oftest innendørs man opplever merkelige ting. Vi vet ikke om det er folk som ikke klarer å enes innenfor fire vegger, eller er det spøkelser som prøver å komme seg ut. \n",
+"t": "Seinniid siskobealde / Inne i veggene (episode 6)",
+"u": "https://podkast.nrk.no/fil/smi_horror/511be635-d005-4d7a-a561-773fb4e49d83_0_ID192MP3.mp3"
+},
+"l_bbf440ff-5496-495a-b440-ff5496b95a28": {
+"d": "2025-02-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/kqQjiMj9C_p-IkxP32YX4QDwSdtlp92_QI2WEq08BQdw",
+"n": 2120,
+"s": "Ruoktu lea dábálaččat oadjebasbáiki, muhto muhtomin sáhttet boahtit oaidnemeahttumat guossái.",
+"t": "Ráfehisbáikkit",
+"u": "https://podkast.nrk.no/fil/smi_horror/725e8226-58ec-424c-bbc7-c526e253af5e_0_ID192MP3.mp3"
+},
+"l_becdeb71-4e30-4d7b-8deb-714e306d7b2c": {
+"d": "2022-02-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 2311,
+"s": "Oađidettiin láve olmmoš ráfáleamoš dilis leahkit, muhto niegut maid lávejit min sihke ráfehuhttit ja veahkehit.\nDen største roen kommer med søvn, men drømmer kan også forstyrre roen eller hjelpe.",
+"t": "Niegut / Drømmer (episode 17)",
+"u": "https://podkast.nrk.no/fil/smi_horror/cf64e378-8b13-4ace-bb67-ea87620a9369_0_ID192MP3.mp3"
+},
+"l_c837eb73-a909-41dc-b7eb-73a90961dc2a": {
+"d": "2022-02-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1549,
+"s": "Duoppet dáppe sámis gávdnojit stobut gos agis lea gávdnon juoga mii ii leat min máilbmái gullevaš, ja muhton stobuin sáhttet ulddát nai jođašit.\nI Sápmi har vi hytter hvor det sies at det finns noe umenneskelig, og i noen av dem så bruker huldrene hilse på.",
+"t": "Stobut ja ulddát / Hytter og huldrer (episode 18)",
+"u": "https://podkast.nrk.no/fil/smi_horror/cc7468db-c2fb-4c84-914c-05325bc0f9cd_0_ID192MP3.mp3"
+},
+"l_dd10f745-576f-4254-90f7-45576f42540f": {
+"d": "2022-01-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1842,
+"s": "De mii galgat fas seinniid siskobeallái vuolgit. Daidda báikkiide gos ii soaitte álot nu buhtis dahje ráffi.\n\nDa skal vi innenfor veggene igjen. Til de plassene som er verken rene eller fridfulle.\n",
+"t": "Fas seinniid siskobealde / Innenfor veggene igjen (episode 16)",
+"u": "https://podkast.nrk.no/fil/smi_horror/73a48098-295e-4d88-9e19-70283bcef21b_0_ID192MP3.mp3"
+},
+"l_dd8ae0ea-a30d-4c1b-8ae0-eaa30d1c1bf2": {
+"d": "2025-03-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1755,
+"s": "Sáhttá go luohttit dasa maid oaidná?",
+"t": "Albma vai ii",
+"u": "https://podkast.nrk.no/fil/smi_horror/71df8b80-3aeb-4cb3-a3be-758eed2a59e0_0_ID192MP3.mp3"
+},
+"l_e5a766b0-527a-4a44-a766-b0527afa446b": {
+"d": "2025-02-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/kqQjiMj9C_p-IkxP32YX4QDwSdtlp92_QI2WEq08BQdw",
+"n": 2322,
+"s": "Jođi buoret go oru, dalle sáhttá vaikko maid vásihit ja oaidnit.",
+"t": "Oainnáhusat",
+"u": "https://podkast.nrk.no/fil/smi_horror/142fc9b9-0fba-45ea-9be1-9026088d1553_0_ID192MP3.mp3"
+},
+"l_ebe5c780-ceb3-45ae-a5c7-80ceb335ae2f": {
+"d": "2022-02-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1732,
+"s": "Dain min ipmašiin maid gullat ja oaidnit leat ollu namat, ja muhtomin min lávet daid gohčodit vuoigŋan.\nVåre ubeskrivelige syner har mange navn, og iblant kaller vi dem for ånder.",
+"t": "Vuoiŋŋat / Ånder (episode 19)",
+"u": "https://podkast.nrk.no/fil/smi_horror/d0c74b9b-2c0d-4f20-8441-2a1f4db1e652_0_ID192MP3.mp3"
+},
+"l_f37450e0-53d4-429b-b450-e053d4d29b43": {
+"d": "2022-01-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"n": 1737,
+"s": "Mátkosteaddji láve dávjá golgame amas báikkiin, muhto gal amas diŋggat sáhtet ihtit oahpes báikkiin nai.\nOfte reiser vi på fremmede plasser, men fremmede syner kan også komme på kjente plasser.",
+"t": "Mátkis / På reise (episode 15)",
+"u": "https://podkast.nrk.no/fil/smi_horror/0190af53-a088-4dae-9f21-a2d4a4d3da96_0_ID192MP3.mp3"
+},
+"l_fb59151a-6db1-4a25-9915-1a6db18a25cf": {
+"d": "2025-04-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw",
+"n": 1797,
+"s": "Ulddaid sáhttá duos dás vásihit.",
+"t": "Ulddat bieguhit",
+"u": "https://podkast.nrk.no/fil/smi_horror/28f7a680-b0c6-4b42-9eb4-c955eaece614_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Kultur og samfunn",
+"id": "smi_horror",
+"image": "https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA",
+"subtitle": "Sápmelaččain lea guhkes muitalanvierru ja mii leat viššalat baldalit nubbi nuppi. Čohkkehastte gullat issoras ja čilgetmeahttun fearániid.",
+"title": "Sámi Horror"
+},
+"v": 2
 }

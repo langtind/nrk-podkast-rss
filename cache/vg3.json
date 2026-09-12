@@ -1,17 +1,132 @@
 {
-"l_0fc15901-cd4f-4320-8159-01cd4f3320c7": "https://podkast.nrk.no/fil/vg3/ea2473cc-7d81-4b7f-a26d-aa2b800158e8_0_ID192MP3.mp3",
-"l_22d4b932-e4d7-4b54-94b9-32e4d74b546c": "https://podkast.nrk.no/fil/vg3/9d6d363c-c4e9-49a1-9141-89288ec07d9b_0_ID192MP3.mp3",
-"l_24755093-c304-49ae-b550-93c30459ae2b": "https://podkast.nrk.no/fil/vg3/4de9807b-e400-4245-81b3-c062e8112e83_0_ID192MP3.mp3",
-"l_3c1e0262-e009-4f4b-9e02-62e0098f4b4d": "https://podkast.nrk.no/fil/vg3/1590bb71-c51d-4d5e-97a8-149b53507b0f_0_ID192MP3.mp3",
-"l_56f02b93-d368-4f50-b02b-93d3681f5071": "https://podkast.nrk.no/fil/vg3/68e676bb-349b-4d26-9550-d22c1aa48b8e_0_ID192MP3.mp3",
-"l_63375160-c512-4ca0-b751-60c512fca041": "https://podkast.nrk.no/fil/vg3/683c1b18-d62d-4c17-9de8-387279f327b4_0_ID192MP3.mp3",
-"l_6d7898c2-c5a8-4c58-b898-c2c5a8bc585a": "https://podkast.nrk.no/fil/vg3/4511df31-64b0-4f81-84ce-bb773e9d5fa6_0_ID192MP3.mp3",
-"l_718e4939-6938-4172-8e49-396938417278": "https://podkast.nrk.no/fil/vg3/58e37a80-80cb-4f55-b895-2195fa7e2fb1_0_ID192MP3.mp3",
-"l_977c8889-0433-4ae5-bc88-8904338ae5a4": "https://podkast.nrk.no/fil/vg3/c30af62c-5f10-466a-b3da-ff10da37cec9_0_ID192MP3.mp3",
-"l_a09baaa5-58ad-44d8-9baa-a558adb4d8b2": "https://podkast.nrk.no/fil/vg3/7ea666dd-a777-47a2-8d34-96b6d6277b23_0_ID192MP3.mp3",
-"l_b5175e02-a64e-4670-975e-02a64e8670a6": "https://podkast.nrk.no/fil/vg3/0044091d-4db3-4812-94f4-7dfbed1a1645_0_ID192MP3.mp3",
-"l_c9c7ab5e-3c4d-4309-87ab-5e3c4d5309d1": "https://podkast.nrk.no/fil/vg3/8c3a8fd1-c8ad-410b-9721-be0983cd4a2f_0_ID192MP3.mp3",
-"l_f315551b-0543-46fb-9555-1b054346fbbc": "https://podkast.nrk.no/fil/vg3/c49b903a-e97a-41d4-94d2-e09195540d49_0_ID192MP3.mp3",
-"l_f418db09-ee99-4723-98db-09ee99b723dc": "https://podkast.nrk.no/fil/vg3/8e9ace3d-2de5-4b0b-b105-62083cd2bbe9_0_ID192MP3.mp3",
-"l_fab14024-ab89-401a-b140-24ab89c01afe": "https://podkast.nrk.no/fil/vg3/79227c34-49c2-4a17-b34a-94905d352d36_0_ID192MP3.mp3"
+"episodes": {
+"l_0fc15901-cd4f-4320-8159-01cd4f3320c7": {
+"d": "2021-03-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1124,
+"s": "Møt 18 år gamle Stephany Gabriela Crespo La Rosa. Hun vil opp og frem i en verden av kjendiser, bloggere og influensere. Men først må hun kapre tittelen som russepresident på Molde VGS. ",
+"t": "Litt sånn rosablogger (3:14)",
+"u": "https://podkast.nrk.no/fil/vg3/ea2473cc-7d81-4b7f-a26d-aa2b800158e8_0_ID192MP3.mp3"
+},
+"l_22d4b932-e4d7-4b54-94b9-32e4d74b546c": {
+"d": "2021-05-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1188,
+"s": "Vennskap i VG3-gjengen står på utrygg grunn når leddbussen til Jacob publiserer «svarteliste» på Instagram. ",
+"t": "Svartelista og slitne vennskap  (12:14)",
+"u": "https://podkast.nrk.no/fil/vg3/9d6d363c-c4e9-49a1-9141-89288ec07d9b_0_ID192MP3.mp3"
+},
+"l_24755093-c304-49ae-b550-93c30459ae2b": {
+"d": "2021-04-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1103,
+"s": "VG3-ungdommene må forberede seg på livet etter VGS, og Stephany er usikker på hva hun skal studere.   ",
+"t": "Fremtiden (7:14)",
+"u": "https://podkast.nrk.no/fil/vg3/4de9807b-e400-4245-81b3-c062e8112e83_0_ID192MP3.mp3"
+},
+"l_3c1e0262-e009-4f4b-9e02-62e0098f4b4d": {
+"d": "2021-04-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1133,
+"s": "Jacob synes Oslo-russen tar for mye plass, mens slektningen Isak ikke skjønner poenget med russetid i det hele tatt. ",
+"t": "Distrikts og TIX (9:14)",
+"u": "https://podkast.nrk.no/fil/vg3/1590bb71-c51d-4d5e-97a8-149b53507b0f_0_ID192MP3.mp3"
+},
+"l_56f02b93-d368-4f50-b02b-93d3681f5071": {
+"d": "2021-03-10T23:15:00+01:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 161,
+"s": "Hedda og Stephany forteller om en uke med oppturer og nedturer etter premiere på podkasten VG3. ",
+"t": "10. mars",
+"u": "https://podkast.nrk.no/fil/vg3/68e676bb-349b-4d26-9550-d22c1aa48b8e_0_ID192MP3.mp3"
+},
+"l_63375160-c512-4ca0-b751-60c512fca041": {
+"d": "2021-04-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1234,
+"s": "En uventet duo former seg når Sebastian og Stephany skal danse sammen i presidentshowet. Men i oppløpet skal det trenes, spises riktig og bygges kropp.\n",
+"t": "Kroppen klar for show (6:14)",
+"u": "https://podkast.nrk.no/fil/vg3/683c1b18-d62d-4c17-9de8-387279f327b4_0_ID192MP3.mp3"
+},
+"l_6d7898c2-c5a8-4c58-b898-c2c5a8bc585a": {
+"d": "2021-05-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1021,
+"s": "VG3-gjengen forteller om de siste festdagene i Molde, og russen roses for god oppførsel. ",
+"t": "Russens festdager rundt 17. mai (13:14)",
+"u": "https://podkast.nrk.no/fil/vg3/4511df31-64b0-4f81-84ce-bb773e9d5fa6_0_ID192MP3.mp3"
+},
+"l_718e4939-6938-4172-8e49-396938417278": {
+"d": "2021-03-05T06:01:00+01:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 993,
+"s": "I første episode av dokumentarserien VG3, møter vi 18-åringen Jacob Lyche, som er buss-sjef på Møre og Romsdals største russebuss. I ryktebyen Molde må han navigere seg gjennom et russepresidentvalg, falske rykter, kjærlighet og koronasituasjonen for å få rulle med bussen Cruisin’ i 2021. ",
+"t": "Ryktebyen (1:14)",
+"u": "https://podkast.nrk.no/fil/vg3/58e37a80-80cb-4f55-b895-2195fa7e2fb1_0_ID192MP3.mp3"
+},
+"l_977c8889-0433-4ae5-bc88-8904338ae5a4": {
+"d": "2021-06-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1624,
+"s": "I siste episode av VG3 får vi høre om bussen til Jacob faktisk blir klar i tide til russetiden, hva som nå skjer med presidentvalget, og hvordan russetiden blir for resten av VG3-ungdommene. ",
+"t": "Russetid = rulletid? (14:14)",
+"u": "https://podkast.nrk.no/fil/vg3/c30af62c-5f10-466a-b3da-ff10da37cec9_0_ID192MP3.mp3"
+},
+"l_a09baaa5-58ad-44d8-9baa-a558adb4d8b2": {
+"d": "2021-03-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1160,
+"s": "Et mutert virus truer Molde, og med dette, russetiden til ungdommene i VG3. Deres drømmer om rulling, fester og russetreff henger nå i en tynn tråd.   ",
+"t": "Koronarussen (4:14)",
+"u": "https://podkast.nrk.no/fil/vg3/7ea666dd-a777-47a2-8d34-96b6d6277b23_0_ID192MP3.mp3"
+},
+"l_b5175e02-a64e-4670-975e-02a64e8670a6": {
+"d": "2021-03-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1055,
+"s": "Sebastian står opp mot rasisme, Stephany taler for samhold, og Jacob kritiserer russestyret når de skal kvalifisere seg i et nominasjonsvalg før presidentshowet. ",
+"t": "Nominasjonsvalget (5:14)",
+"u": "https://podkast.nrk.no/fil/vg3/0044091d-4db3-4812-94f4-7dfbed1a1645_0_ID192MP3.mp3"
+},
+"l_c9c7ab5e-3c4d-4309-87ab-5e3c4d5309d1": {
+"d": "2021-04-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 976,
+"s": "MDMA ser ut som godteri, selges på Snapchat og kan gi følelsen av å være forelska. VG3-ungdommene reflekterer rundt rusproblematikk i ungdomstiden.",
+"t": "MDMA-bølgen (8:14)",
+"u": "https://podkast.nrk.no/fil/vg3/8c3a8fd1-c8ad-410b-9721-be0983cd4a2f_0_ID192MP3.mp3"
+},
+"l_f315551b-0543-46fb-9555-1b054346fbbc": {
+"d": "2021-03-05T06:02:00+01:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1165,
+"s": "Våren kommer, og med den; et oppløp til en russetid ingen vet hvordan blir. Sebastian Byttingsvik er en av kandidatene som stiller til russepresidentvalg i 2021. Men på veien dit, må han bestemme seg for om han skal slå vekk eller slå seg sammen med sin gamle bestevenn og største rival, Jacob Lyche. ",
+"t": "Rivalene (2:14)",
+"u": "https://podkast.nrk.no/fil/vg3/c49b903a-e97a-41d4-94d2-e09195540d49_0_ID192MP3.mp3"
+},
+"l_f418db09-ee99-4723-98db-09ee99b723dc": {
+"d": "2021-04-30T09:15:00+02:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1143,
+"s": "Missekandidat Stephany reiser til Oslo for å trene på catwalken, men møter uventede utfordringer i hovedstaden. I mellomtiden slipper Jacob nytt bussnavn, og Hedda prøver seg på en temmelig krevende YouTube-utfordring.",
+"t": "Miss Eide og såre føtter i Oslo (10:14)",
+"u": "https://podkast.nrk.no/fil/vg3/8e9ace3d-2de5-4b0b-b105-62083cd2bbe9_0_ID192MP3.mp3"
+},
+"l_fab14024-ab89-401a-b140-24ab89c01afe": {
+"d": "2021-05-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"n": 1050,
+"s": "Kan man likevel gjøre ungdomsopprør når man er innestengt hjemme med mamma og pappa midt i en pandemi?",
+"t": "Pandemi-lei av mamma (11:14)",
+"u": "https://podkast.nrk.no/fil/vg3/79227c34-49c2-4a17-b34a-94905d352d36_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "vg3",
+"image": "https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig",
+"subtitle": "VG3: Året det skjer mest i livet. Vi følger fire elever på Molde VGS skoleåret 20/21 – og deres håp om fester, kjærlighet og karriere. Og en skikkelig russetid.",
+"title": "VG3"
+},
+"v": 2
 }

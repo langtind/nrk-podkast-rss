@@ -1,5 +1,36 @@
 {
-"l_68cb20c7-5a8c-4031-8b20-c75a8c003183": "https://podkast.nrk.no/fil/bjoernen_lyver/bjoernen_lyver_2018-02-16_1300_760.MP3",
-"l_709fe866-13a5-498d-9fe8-6613a5d98d1f": "https://podkast.nrk.no/fil/bjoernen_lyver/bjoernen_lyver_2018-02-16_1300_1467.MP3",
-"l_855054b7-0263-4725-9054-b70263472512": "https://podkast.nrk.no/fil/bjoernen_lyver/bjoernen_lyver_2018-02-16_1300_1976.MP3"
+"episodes": {
+"l_68cb20c7-5a8c-4031-8b20-c75a8c003183": {
+"d": "2018-02-19T15:01:00+01:00",
+"i": "https://gfx.nrk.no/lTx98dvw9td5H6HaQLf2RANQqdGTS6OW0nL06ZwS098Q",
+"n": 1473,
+"s": "Den russiske dopingskandalen sjokkerte en hel idrettsverden. To norske kollegaer føler seg totalt sviktet og lurt av Grigory Rodchenkov. Peter Hemmersbach var selv tilstede på laboratoriet under OL i Sotsji der det skal ha blitt svindlet i stor stil.",
+"t": "Sviktet (2:3)",
+"u": "https://podkast.nrk.no/fil/bjoernen_lyver/bjoernen_lyver_2018-02-16_1300_760.MP3"
+},
+"l_709fe866-13a5-498d-9fe8-6613a5d98d1f": {
+"d": "2018-02-19T15:02:00+01:00",
+"i": "https://gfx.nrk.no/lTx98dvw9td5H6HaQLf2RANQqdGTS6OW0nL06ZwS098Q",
+"n": 1575,
+"s": "IOC mente de hadde gode beviser på systematisk russisk doping og mente de straffet russerne hardt. Mange russiske utøvere ble utestengt og Russland som nasjon fikk ikke lov til å delta i vinter-OL 2018. Men dokumentarfilmskaper Bryan Fogel mener likevel at IOC ikke gjorde nok.",
+"t": "Straffen (3:3)",
+"u": "https://podkast.nrk.no/fil/bjoernen_lyver/bjoernen_lyver_2018-02-16_1300_1467.MP3"
+},
+"l_855054b7-0263-4725-9054-b70263472512": {
+"d": "2018-02-19T15:00:00+01:00",
+"i": "https://gfx.nrk.no/lTx98dvw9td5H6HaQLf2RANQqdGTS6OW0nL06ZwS098Q",
+"n": 1501,
+"s": "Den russiske dopingskandalen sjokkerte en hel idrettsverden. Mistenkelige dødsfall, hemmelige agenter, en eksentrisk antihelt, svik og løgner. Det høres ut som en spionthriller, men dette er virkeligheten. Hør første episode av podkasten om dopingsvindelen.",
+"t": "Varsleren (1:3)",
+"u": "https://podkast.nrk.no/fil/bjoernen_lyver/bjoernen_lyver_2018-02-16_1300_1976.MP3"
+}
+},
+"meta": {
+"category": "Sport",
+"id": "bjoernen_lyver",
+"image": "https://gfx.nrk.no/lTx98dvw9td5H6HaQLf2RANQqdGTS6OW0nL06ZwS098Q",
+"subtitle": "Den russiske dopingskandalen sjokkerte en hel idrettsverden.\nMistenkelige dødsfall, hemmelige agenter, en eksentrisk antihelt, svik og løgner. \nDet høres ut som en spionthriller men dette er virkeligheten.",
+"title": "Bjørnen lyver"
+},
+"v": 2
 }

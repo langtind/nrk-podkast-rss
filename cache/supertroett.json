@@ -1,6 +1,44 @@
 {
-"l_102f86a6-ac7b-44d5-af86-a6ac7b54d5d3": "https://podkast.nrk.no/fil/supertroett/5cd1df23-8a92-49a5-b53e-6a41deb33ffe_0_ID192MP3.mp3",
-"l_12b371aa-5982-4e35-b371-aa59821e3505": "https://podkast.nrk.no/fil/supertroett/c3aac6b6-5f65-471d-8240-da59256b6e9e_0_ID192MP3.mp3",
-"l_b3b2bddc-0849-4979-b2bd-dc0849597986": "https://podkast.nrk.no/fil/supertroett/b3b2bddc-0849-4979-b2bd-dc0849597986_1_ID192MP3.mp3",
-"l_efb6d452-1e2b-4ae6-b6d4-521e2beae675": "https://podkast.nrk.no/fil/supertroett/efb6d452-1e2b-4ae6-b6d4-521e2beae675_1_ID192MP3.mp3"
+"episodes": {
+"l_102f86a6-ac7b-44d5-af86-a6ac7b54d5d3": {
+"d": "2024-03-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/BDJ4GHYHpC1LaM0hlF04OwfXUt1S6BW3cvJJrB7sktcg",
+"n": 506,
+"s": "Henrik Hyene skal sove, men nå har han latterkrampe – han klarer ikke slutte å le! Og hvorfor stikker pysjen sånn?\n\nFortalt av Bjørn Alexander.",
+"t": "Henrik hyene har latterkrampe",
+"u": "https://podkast.nrk.no/fil/supertroett/5cd1df23-8a92-49a5-b53e-6a41deb33ffe_0_ID192MP3.mp3"
+},
+"l_12b371aa-5982-4e35-b371-aa59821e3505": {
+"d": "2024-03-22T06:01:00+01:00",
+"i": "https://gfx.nrk.no/PAm1X_9dQ__GaYSAnKy4VQ2bOaELuaM5tOwiVOeTc9zg",
+"n": 578,
+"s": "Det er ikke lett å pusse tenner når man er en ildsprutende drage som heller vil være regnbueridder enn å legge seg.\n\nFortalt av Ane Norum Kvistad.",
+"t": "Dordi drage og regnbueridderen",
+"u": "https://podkast.nrk.no/fil/supertroett/c3aac6b6-5f65-471d-8240-da59256b6e9e_0_ID192MP3.mp3"
+},
+"l_b3b2bddc-0849-4979-b2bd-dc0849597986": {
+"d": "2026-06-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/5BgHkoiuZSE_VmEikPFJ2QS55NlIY8-9_oM6C7GMihLw",
+"n": 825,
+"s": "Kaja Katt vil ikke legge seg, og hun vil i alle fall ikke vaske seg. Selv om hun har blitt skitten på nesen i sommerfugljakt. \n\nFortalt av Tamanna Agnihotri.",
+"t": "Kaja Katt og sommerfuglen",
+"u": "https://podkast.nrk.no/fil/supertroett/b3b2bddc-0849-4979-b2bd-dc0849597986_1_ID192MP3.mp3"
+},
+"l_efb6d452-1e2b-4ae6-b6d4-521e2beae675": {
+"d": "2026-06-19T06:01:00+02:00",
+"i": "https://gfx.nrk.no/zfhetyJVoXd1bMMAqiWg9AZyXNlzsFn11gMD3xX4uaWw",
+"n": 573,
+"s": "Jaff Sjiraff får ikke sove. Han får med seg alt som skjer med den lange halsen sin. Fortalt av Viljar Natlandsmyr.",
+"t": "Jaff Sjiraff har en lang hals",
+"u": "https://podkast.nrk.no/fil/supertroett/efb6d452-1e2b-4ae6-b6d4-521e2beae675_1_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Barn",
+"id": "supertroett",
+"image": "https://gfx.nrk.no/dhCz90zRlHrLO237nig6RQN9GLNPKvf8nQGrLjKWXCNw",
+"subtitle": "Avslutt kveldsstellet med små, underfundige fortellinger som får barna i sovestemning før du sovner selv.",
+"title": "Supertrøtt"
+},
+"v": 2
 }

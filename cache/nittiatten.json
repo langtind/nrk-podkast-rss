@@ -1,93 +1,740 @@
 {
-"l_022b4885-2dcc-4fd6-ab48-852dccffd6f3": "https://podkast.nrk.no/fil/nittiatten/022b4885-2dcc-4fd6-ab48-852dccffd6f3_1_ID192MP3.mp3",
-"l_0335625a-5527-49a7-b562-5a5527d9a73e": "https://podkast.nrk.no/fil/nittiatten/0335625a-5527-49a7-b562-5a5527d9a73e_1_ID192MP3.mp3",
-"l_08a53db8-b637-4888-a53d-b8b637a8881c": "https://podkast.nrk.no/fil/nittiatten/e46abee1-6123-4b13-b62c-81db40114fd8_0_ID192MP3.mp3",
-"l_0b38709b-503a-4b3d-b870-9b503a2b3dbe": "https://podkast.nrk.no/fil/nittiatten/0b38709b-503a-4b3d-b870-9b503a2b3dbe_1_ID192MP3.mp3",
-"l_0d5eb0b7-f800-4cb0-9eb0-b7f800bcb093": "https://podkast.nrk.no/fil/nittiatten/a108ae93-f650-475f-bf9b-cfe7aac47f50_0_ID192MP3.mp3",
-"l_11a31afd-cb7b-44bf-a31a-fdcb7b24bff6": "https://podkast.nrk.no/fil/nittiatten/6d1ead02-776c-45f3-b98a-729d02ebfec3_0_ID192MP3.mp3",
-"l_1435f479-5bae-4117-b5f4-795baec11768": "https://podkast.nrk.no/fil/nittiatten/b3e95413-11c2-4d55-ac95-875b7b6248dc_0_ID192MP3.mp3",
-"l_149abc9c-afed-40aa-9abc-9cafed20aaab": "https://podkast.nrk.no/fil/nittiatten/149abc9c-afed-40aa-9abc-9cafed20aaab_1_ID192MP3.mp3",
-"l_15564ab0-2580-4993-964a-b0258029935a": "https://podkast.nrk.no/fil/nittiatten/15564ab0-2580-4993-964a-b0258029935a_1_ID192MP3.mp3",
-"l_1d594be1-9515-43af-994b-e19515c3afa0": "https://podkast.nrk.no/fil/nittiatten/edc58b5c-0620-4ebd-a60d-66a8d25380fd_0_ID192MP3.mp3",
-"l_1d93f7fe-5887-42a9-93f7-fe5887c2a91c": "https://podkast.nrk.no/fil/nittiatten/82012dfe-2d79-4f60-b54f-4a98ec481a95_0_ID192MP3.mp3",
-"l_2401b8d7-37c4-4aa6-81b8-d737c47aa675": "https://podkast.nrk.no/fil/nittiatten/d054a6ff-0c7c-4a77-8db3-935f9d30364a_0_ID192MP3.mp3",
-"l_24c10520-ea97-467f-8105-20ea97267f3a": "https://podkast.nrk.no/fil/nittiatten/c8012c78-3eb0-4a18-b5b4-88adb81aef1d_0_ID192MP3.mp3",
-"l_2a745b2f-cb3d-4691-b45b-2fcb3d569156": "https://podkast.nrk.no/fil/nittiatten/2a745b2f-cb3d-4691-b45b-2fcb3d569156_1_ID192MP3.mp3",
-"l_2e0eae00-0c22-48f6-8eae-000c22b8f6cc": "https://podkast.nrk.no/fil/nittiatten/2e0eae00-0c22-48f6-8eae-000c22b8f6cc_1_ID192MP3.mp3",
-"l_2e1da5d4-e428-45fa-9da5-d4e428a5fa41": "https://podkast.nrk.no/fil/nittiatten/6d28e4c8-11b8-474d-8a52-e896abe90f42_0_ID192MP3.mp3",
-"l_35bec2cf-ff04-4ed0-bec2-cfff045ed0ba": "https://podkast.nrk.no/fil/nittiatten/a05e26b4-e4e1-44be-85f6-0b20d14a3bc4_0_ID192MP3.mp3",
-"l_361d52a0-d529-4a59-9d52-a0d529da593c": "https://podkast.nrk.no/fil/nittiatten/361d52a0-d529-4a59-9d52-a0d529da593c_1_ID192MP3.mp3",
-"l_37c60720-b762-432e-8607-20b762a32ef2": "https://podkast.nrk.no/fil/nittiatten/37c60720-b762-432e-8607-20b762a32ef2_1_ID192MP3.mp3",
-"l_3e31b3ab-6c67-448e-b1b3-ab6c67c48ed9": "https://podkast.nrk.no/fil/nittiatten/3e31b3ab-6c67-448e-b1b3-ab6c67c48ed9_1_ID192MP3.mp3",
-"l_42f68e57-c84c-49b7-b68e-57c84c39b7e7": "https://podkast.nrk.no/fil/nittiatten/a161a158-e9b9-4d5b-9b8e-f281d7d1032b_0_ID192MP3.mp3",
-"l_430a1d55-b2b1-459c-8a1d-55b2b1f59c41": "https://podkast.nrk.no/fil/nittiatten/430a1d55-b2b1-459c-8a1d-55b2b1f59c41_1_ID192MP3.mp3",
-"l_45d691fa-ade9-4f89-9691-faade9cf8922": "https://podkast.nrk.no/fil/nittiatten/45d691fa-ade9-4f89-9691-faade9cf8922_1_ID192MP3.mp3",
-"l_45d8e404-74db-4943-98e4-0474db5943e8": "https://podkast.nrk.no/fil/nittiatten/9a215203-b938-491b-8bbf-c3c3f0e71727_0_ID192MP3.mp3",
-"l_461acacf-d4a5-476d-9aca-cfd4a5b76d22": "https://podkast.nrk.no/fil/nittiatten/461acacf-d4a5-476d-9aca-cfd4a5b76d22_1_ID192MP3.mp3",
-"l_48d5a4f7-9470-4009-95a4-f79470800947": "https://podkast.nrk.no/fil/nittiatten/48d5a4f7-9470-4009-95a4-f79470800947_1_ID192MP3.mp3",
-"l_4aaba10b-2d3f-46b2-aba1-0b2d3f46b26f": "https://podkast.nrk.no/fil/nittiatten/c6f2240d-11a3-4042-aa72-3e6f0cec4ab9_0_ID192MP3.mp3",
-"l_5413731d-f5a7-4540-9373-1df5a7754075": "https://podkast.nrk.no/fil/nittiatten/5959e1f3-7f22-4a04-b26f-25bacfc1a587_0_ID192MP3.mp3",
-"l_5a1123b7-4982-4869-9123-b7498228698f": "https://podkast.nrk.no/fil/nittiatten/c472a9d6-e67a-45fc-9729-26288f8bc891_0_ID192MP3.mp3",
-"l_5d0929f6-e2c4-45ee-8929-f6e2c485ee18": "https://podkast.nrk.no/fil/nittiatten/5d0929f6-e2c4-45ee-8929-f6e2c485ee18_2_ID192MP3.mp3",
-"l_5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a": "https://podkast.nrk.no/fil/nittiatten/5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a_1_ID192MP3.mp3",
-"l_5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f": "https://podkast.nrk.no/fil/nittiatten/5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f_1_ID192MP3.mp3",
-"l_6281fcef-dd34-4aed-81fc-efdd344aedc8": "https://podkast.nrk.no/fil/nittiatten/6281fcef-dd34-4aed-81fc-efdd344aedc8_1_ID192MP3.mp3",
-"l_65c709a5-c297-460a-8709-a5c297d60aee": "https://podkast.nrk.no/fil/nittiatten/65c709a5-c297-460a-8709-a5c297d60aee_1_ID192MP3.mp3",
-"l_6745e96d-a064-41b7-85e9-6da064b1b71e": "https://podkast.nrk.no/fil/nittiatten/6745e96d-a064-41b7-85e9-6da064b1b71e_2_ID192MP3.mp3",
-"l_703599be-9b1f-4104-b599-be9b1f010424": "https://podkast.nrk.no/fil/nittiatten/22d359dd-10db-4613-afe3-6acf84dc17a1_0_ID192MP3.mp3",
-"l_71180169-10e3-4584-9801-6910e3c5844c": "https://podkast.nrk.no/fil/nittiatten/5b60c06f-75b3-4706-b8fc-6bf286bd7f1a_0_ID192MP3.mp3",
-"l_7567ba81-e7cf-4807-a7ba-81e7cf280739": "https://podkast.nrk.no/fil/nittiatten/7567ba81-e7cf-4807-a7ba-81e7cf280739_1_ID192MP3.mp3",
-"l_7966c460-153c-4ab2-a6c4-60153caab271": "https://podkast.nrk.no/fil/nittiatten/7966c460-153c-4ab2-a6c4-60153caab271_1_ID192MP3.mp3",
-"l_7c14ad90-d7aa-4bd2-94ad-90d7aa7bd2ab": "https://podkast.nrk.no/fil/nittiatten/d8358183-9c6f-45d1-bffe-04ea10df3254_0_ID192MP3.mp3",
-"l_7f0ac7b2-df50-43e8-8ac7-b2df50a3e8ae": "https://podkast.nrk.no/fil/nittiatten/7f0ac7b2-df50-43e8-8ac7-b2df50a3e8ae_1_ID192MP3.mp3",
-"l_7f29d22f-80b2-4be0-a9d2-2f80b26be00f": "https://podkast.nrk.no/fil/nittiatten/7f29d22f-80b2-4be0-a9d2-2f80b26be00f_1_ID192MP3.mp3",
-"l_83254ca7-10d5-471e-a54c-a710d5971eb6": "https://podkast.nrk.no/fil/nittiatten/83254ca7-10d5-471e-a54c-a710d5971eb6_1_ID192MP3.mp3",
-"l_8347a00d-0b68-4f2a-87a0-0d0b68cf2af3": "https://podkast.nrk.no/fil/nittiatten/f84de954-acbb-48d9-a0fc-cb5279483dcc_0_ID192MP3.mp3",
-"l_8551a173-66b9-4629-91a1-7366b956298a": "https://podkast.nrk.no/fil/nittiatten/7093844e-4cd3-467b-8653-43c25aa6e3ba_0_ID192MP3.mp3",
-"l_86a0c817-dfca-46e9-a0c8-17dfca26e939": "https://podkast.nrk.no/fil/nittiatten/86a0c817-dfca-46e9-a0c8-17dfca26e939_1_ID192MP3.mp3",
-"l_88e93175-0425-4350-a931-7504253350c6": "https://podkast.nrk.no/fil/nittiatten/88e93175-0425-4350-a931-7504253350c6_1_ID192MP3.mp3",
-"l_8ea23c8f-1bd0-404f-a23c-8f1bd0704f59": "https://podkast.nrk.no/fil/nittiatten/5dd1c47c-4440-409d-8afc-5626bf95f8c1_0_ID192MP3.mp3",
-"l_918b2a45-370c-44c0-8b2a-45370c94c0d2": "https://podkast.nrk.no/fil/nittiatten/918b2a45-370c-44c0-8b2a-45370c94c0d2_1_ID192MP3.mp3",
-"l_9267d5f2-caa7-410f-a7d5-f2caa7f10fdf": "https://podkast.nrk.no/fil/nittiatten/9267d5f2-caa7-410f-a7d5-f2caa7f10fdf_1_ID192MP3.mp3",
-"l_9df245f6-7d64-4cf0-b245-f67d64fcf02a": "https://podkast.nrk.no/fil/nittiatten/9df245f6-7d64-4cf0-b245-f67d64fcf02a_1_ID192MP3.mp3",
-"l_9e0076f6-72eb-4adb-8076-f672ebcadb4c": "https://podkast.nrk.no/fil/nittiatten/bd16164d-6e7c-49e6-ba0f-2ee302171d2e_0_ID192MP3.mp3",
-"l_a56128fd-73e1-4450-a128-fd73e164508d": "https://podkast.nrk.no/fil/nittiatten/a56128fd-73e1-4450-a128-fd73e164508d_1_ID192MP3.mp3",
-"l_a888cd20-83b8-4253-88cd-2083b8e25370": "https://podkast.nrk.no/fil/nittiatten/b1293b52-3f7b-41e5-97bb-1ae29b6644de_0_ID192MP3.mp3",
-"l_ab508024-a43e-4905-9080-24a43e1905f6": "https://podkast.nrk.no/fil/nittiatten/0b2ea14f-9046-4bfd-847b-9b46fc98ad70_0_ID192MP3.mp3",
-"l_ab537901-dc62-403e-9379-01dc62703e65": "https://podkast.nrk.no/fil/nittiatten/ab537901-dc62-403e-9379-01dc62703e65_1_ID192MP3.mp3",
-"l_acf1a795-eabe-4862-b1a7-95eabe28627a": "https://podkast.nrk.no/fil/nittiatten/2f18a1fb-4e92-4f35-a7f6-98128eb31abe_0_ID192MP3.mp3",
-"l_ad0892d4-1a17-42e3-8892-d41a1702e36e": "https://podkast.nrk.no/fil/nittiatten/ad0892d4-1a17-42e3-8892-d41a1702e36e_1_ID192MP3.mp3",
-"l_ad6a03ab-f303-418f-aa03-abf303218fca": "https://podkast.nrk.no/fil/nittiatten/da530db8-1344-43b0-b726-f6d47e06c46b_0_ID192MP3.mp3",
-"l_ae1d5005-56d1-4da2-9d50-0556d17da2d2": "https://podkast.nrk.no/fil/nittiatten/ae1d5005-56d1-4da2-9d50-0556d17da2d2_1_ID192MP3.mp3",
-"l_b0d8a3d3-bd17-485c-98a3-d3bd17385c54": "https://podkast.nrk.no/fil/nittiatten/b0d8a3d3-bd17-485c-98a3-d3bd17385c54_1_ID192MP3.mp3",
-"l_b66c01f8-f814-46a1-ac01-f8f814b6a1fe": "https://podkast.nrk.no/fil/nittiatten/b66c01f8-f814-46a1-ac01-f8f814b6a1fe_1_ID192MP3.mp3",
-"l_b92aff4a-448a-4ebf-aaff-4a448a1ebf30": "https://podkast.nrk.no/fil/nittiatten/70505775-89bf-45f0-a2e4-f270687a52d9_0_ID192MP3.mp3",
-"l_b9420e57-2123-4dd5-820e-5721235dd509": "https://podkast.nrk.no/fil/nittiatten/b9420e57-2123-4dd5-820e-5721235dd509_2_ID192MP3.mp3",
-"l_c4a76111-6b00-4893-a761-116b00a8934e": "https://podkast.nrk.no/fil/nittiatten/fc7105bb-56a8-4999-8335-f18a622424d9_0_ID192MP3.mp3",
-"l_c511e103-d578-46a9-91e1-03d57846a9aa": "https://podkast.nrk.no/fil/nittiatten/c511e103-d578-46a9-91e1-03d57846a9aa_1_ID192MP3.mp3",
-"l_cd195982-42be-4b6a-9959-8242be2b6a58": "https://podkast.nrk.no/fil/nittiatten/cd195982-42be-4b6a-9959-8242be2b6a58_1_ID192MP3.mp3",
-"l_cfe29e94-37c1-4213-a29e-9437c17213d8": "https://podkast.nrk.no/fil/nittiatten/cfe29e94-37c1-4213-a29e-9437c17213d8_2_ID192MP3.mp3",
-"l_d07edf5d-5b68-4158-bedf-5d5b68315870": "https://podkast.nrk.no/fil/nittiatten/d87b56f3-804c-45f0-ae56-f64816ceb96c_0_ID192MP3.mp3",
-"l_d22300d5-ea38-4bd6-a300-d5ea38bbd68f": "https://podkast.nrk.no/fil/nittiatten/d22300d5-ea38-4bd6-a300-d5ea38bbd68f_1_ID192MP3.mp3",
-"l_d54b943a-a60a-4b63-8b94-3aa60aeb6376": "https://podkast.nrk.no/fil/nittiatten/fd5d76e2-cb38-4a9c-be43-90fc735ae83c_0_ID192MP3.mp3",
-"l_d858819b-fa8f-497a-9881-9bfa8f997ac9": "https://podkast.nrk.no/fil/nittiatten/d858819b-fa8f-497a-9881-9bfa8f997ac9_1_ID192MP3.mp3",
-"l_da64b6b7-f580-4986-a4b6-b7f580b98695": "https://podkast.nrk.no/fil/nittiatten/6312a359-04d0-42ee-ad07-af7248822cc2_0_ID192MP3.mp3",
-"l_dbaf3276-7ad0-4ed1-af32-767ad07ed139": "https://podkast.nrk.no/fil/nittiatten/0bc39f78-7cf2-43df-9469-59b2a406ee69_0_ID192MP3.mp3",
-"l_dbbbd109-6eec-4a42-bbd1-096eecaa425d": "https://podkast.nrk.no/fil/nittiatten/dbbbd109-6eec-4a42-bbd1-096eecaa425d_1_ID192MP3.mp3",
-"l_dffcbaa7-cba5-4e05-bcba-a7cba5ce05b6": "https://podkast.nrk.no/fil/nittiatten/dffcbaa7-cba5-4e05-bcba-a7cba5ce05b6_1_ID192MP3.mp3",
-"l_e14cb793-7422-4cf0-8cb7-937422ecf044": "https://podkast.nrk.no/fil/nittiatten/e14cb793-7422-4cf0-8cb7-937422ecf044_1_ID192MP3.mp3",
-"l_e75fe6d7-b58b-479a-9fe6-d7b58bb79a34": "https://podkast.nrk.no/fil/nittiatten/fd4f8069-e7eb-431b-be14-727a4e78d2cf_0_ID192MP3.mp3",
-"l_e8127a8c-c075-42b9-927a-8cc075f2b98d": "https://podkast.nrk.no/fil/nittiatten/e8127a8c-c075-42b9-927a-8cc075f2b98d_1_ID192MP3.mp3",
-"l_f01b529a-6ef5-40f8-9b52-9a6ef5d0f8ba": "https://podkast.nrk.no/fil/nittiatten/f01b529a-6ef5-40f8-9b52-9a6ef5d0f8ba_1_ID192MP3.mp3",
-"l_f2771044-0ee6-4645-b710-440ee6e64536": "https://podkast.nrk.no/fil/nittiatten/f2771044-0ee6-4645-b710-440ee6e64536_1_ID192MP3.mp3",
-"l_f2d9ceb4-8278-4ff8-99ce-b482789ff853": "https://podkast.nrk.no/fil/nittiatten/f2d9ceb4-8278-4ff8-99ce-b482789ff853_1_ID192MP3.mp3",
-"l_f33e20fa-6af5-42a3-be20-fa6af532a36b": "https://podkast.nrk.no/fil/nittiatten/f33e20fa-6af5-42a3-be20-fa6af532a36b_1_ID192MP3.mp3",
-"l_f412d9ba-a662-422e-92d9-baa662822e48": "https://podkast.nrk.no/fil/nittiatten/71ce38ad-4776-4718-880b-af63551bac6a_0_ID192MP3.mp3",
-"l_f515c7f1-36aa-4d9a-95c7-f136aa5d9a18": "https://podkast.nrk.no/fil/nittiatten/f515c7f1-36aa-4d9a-95c7-f136aa5d9a18_1_ID192MP3.mp3",
-"l_f6570c89-9510-4197-970c-899510b19772": "https://podkast.nrk.no/fil/nittiatten/f6570c89-9510-4197-970c-899510b19772_1_ID192MP3.mp3",
-"l_f7754287-de0d-4b47-b542-87de0d3b4797": "https://podkast.nrk.no/fil/nittiatten/ad9e7a48-3079-4a28-8e3d-e9937e2f11fc_0_ID192MP3.mp3",
-"l_f9603860-29b2-4c11-a038-6029b25c118c": "https://podkast.nrk.no/fil/nittiatten/f9603860-29b2-4c11-a038-6029b25c118c_ID192MP3.mp3",
-"l_fc7c61cd-f5cb-4c2b-bc61-cdf5cb0c2b7e": "https://podkast.nrk.no/fil/nittiatten/fc7c61cd-f5cb-4c2b-bc61-cdf5cb0c2b7e_1_ID192MP3.mp3",
-"l_fecfad48-6ec2-4013-8fad-486ec2c013ae": "https://podkast.nrk.no/fil/nittiatten/fecfad48-6ec2-4013-8fad-486ec2c013ae_1_ID192MP3.mp3",
-"l_ff8b8fb5-d4da-4854-8b8f-b5d4da3854bd": "https://podkast.nrk.no/fil/nittiatten/c24313c8-34b7-4416-a995-cef7efebd304_0_ID192MP3.mp3"
+"episodes": {
+"l_022b4885-2dcc-4fd6-ab48-852dccffd6f3": {
+"d": "2026-05-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/r9mP48rYt_6QI66BQJIyGwCT1axoJPXiCcpxczY3aj0A",
+"n": 1948,
+"s": "Et lysende McDonald’s-skilt holdt på å drepe Else. \nFranky og Mo sjekker ut om hun egentlig har rizz.",
+"t": "Else Kåss Furuseth på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/022b4885-2dcc-4fd6-ab48-852dccffd6f3_1_ID192MP3.mp3"
+},
+"l_0335625a-5527-49a7-b562-5a5527d9a73e": {
+"d": "2026-05-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/1XoI9CdqTzIi0RW4EWshfwncanldDTJ3ca2B7m4gOsUA",
+"n": 2564,
+"s": "– Jeg tømte Se og Hør-hylla! Kristine vil ikke være dama som melket kuer under fyllefest.",
+"t": "Kristine Arntzen på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/0335625a-5527-49a7-b562-5a5527d9a73e_1_ID192MP3.mp3"
+},
+"l_08a53db8-b637-4888-a53d-b8b637a8881c": {
+"d": "2025-06-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1613,
+"s": "Mo har sett en dame bæsje ute i byen og Franky vil snakke om Diddy-saken.",
+"t": "Diddy er cooked",
+"u": "https://podkast.nrk.no/fil/nittiatten/e46abee1-6123-4b13-b62c-81db40114fd8_0_ID192MP3.mp3"
+},
+"l_0b38709b-503a-4b3d-b870-9b503a2b3dbe": {
+"d": "2026-02-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/I3PVNRVoGBEpSwYvBBDXVgsdrs0-zmMV92dVV9o3_nMw",
+"n": 1849,
+"s": "Viggo Venn sjokkerer Franky og Mo med klovnelivet, og hvordan fungerer egentlig klovne-sex?",
+"t": "Viggo Venn på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/0b38709b-503a-4b3d-b870-9b503a2b3dbe_1_ID192MP3.mp3"
+},
+"l_0d5eb0b7-f800-4cb0-9eb0-b7f800bcb093": {
+"d": "2025-06-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/fgkNocjxkwu0DkQbI6KaUQsdUnQyCfnwaZrEppIejgdA",
+"n": 2521,
+"s": "Tyr overrasker Mo og Franky med å være en lesehest. Og hvorfor begynte han ikke å rappe på norsk før?",
+"t": "Tyr på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/a108ae93-f650-475f-bf9b-cfe7aac47f50_0_ID192MP3.mp3"
+},
+"l_11a31afd-cb7b-44bf-a31a-fdcb7b24bff6": {
+"d": "2025-05-08T13:07:00+02:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1330,
+"s": "OBS! Vi har hatt tekniske problemer på flere episoder og beklager dårlig lydkvalitet. Vi lover at det snart blir bedre!\n\nFranky og Mo er sjokkert etter å ha sett «Sinners», og Mo røper at han ikke har runka siden 1. januar.",
+"t": "Vi har sett «Sinners»",
+"u": "https://podkast.nrk.no/fil/nittiatten/6d1ead02-776c-45f3-b98a-729d02ebfec3_0_ID192MP3.mp3"
+},
+"l_1435f479-5bae-4117-b5f4-795baec11768": {
+"d": "2025-02-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1859,
+"s": "Mo har analysert Super Bowl Halftime Show, og en ting skurrer – Kendrick Lamars bukser. Hvem vant beefen mellom Drake og Kendrick?",
+"t": "Neck slap og slengbukse",
+"u": "https://podkast.nrk.no/fil/nittiatten/b3e95413-11c2-4d55-ac95-875b7b6248dc_0_ID192MP3.mp3"
+},
+"l_149abc9c-afed-40aa-9abc-9cafed20aaab": {
+"d": "2025-10-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1438,
+"s": "Kjærlighetssagaen mellom Mo og Kiwi-jenta er over, Mo har slutta å følge trafikkreglene og ukas negative «shout out» går til Jonas Gahr Støre.",
+"t": "Mo følger ikke trafikkregler lenger",
+"u": "https://podkast.nrk.no/fil/nittiatten/149abc9c-afed-40aa-9abc-9cafed20aaab_1_ID192MP3.mp3"
+},
+"l_15564ab0-2580-4993-964a-b0258029935a": {
+"d": "2025-10-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/z-GRMc69X1kLvuUy1AWD9wSgnqnsh9QZU5mNgjwaqLJQ",
+"n": 1779,
+"s": "TikTok-stjernen Mufano forteller om livet som kvoteflyktning og om den gangen han prøvde å lage fufu av hundemat.",
+"t": "Mufano «Isebjørn» Heritier på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/15564ab0-2580-4993-964a-b0258029935a_1_ID192MP3.mp3"
+},
+"l_1d594be1-9515-43af-994b-e19515c3afa0": {
+"d": "2025-02-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2196,
+"s": "Gutta diskuterer det virale klippet \"Montoya por favor\". Mo vil starte et nytt politisk parti som visstnok skal gjøre Norge bedre.",
+"t": "Utroskap og avskaffe monarkiet",
+"u": "https://podkast.nrk.no/fil/nittiatten/edc58b5c-0620-4ebd-a60d-66a8d25380fd_0_ID192MP3.mp3"
+},
+"l_1d93f7fe-5887-42a9-93f7-fe5887c2a91c": {
+"d": "2024-11-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2028,
+"s": "Mo lurer på hvorfor det er så mange massasjesalonger. Franky har fått modelloppdrag og gutta har fått seg en gratis sofa.",
+"t": "Massasje og gratis sofa",
+"u": "https://podkast.nrk.no/fil/nittiatten/82012dfe-2d79-4f60-b54f-4a98ec481a95_0_ID192MP3.mp3"
+},
+"l_2401b8d7-37c4-4aa6-81b8-d737c47aa675": {
+"d": "2025-06-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1586,
+"s": "Hvem er Franky og Mo sine topp fem hvite folk? Og Mo lurer på hvordan han kan gå bak damer uten å skremme dem.",
+"t": "Top five white people",
+"u": "https://podkast.nrk.no/fil/nittiatten/d054a6ff-0c7c-4a77-8db3-935f9d30364a_0_ID192MP3.mp3"
+},
+"l_24c10520-ea97-467f-8105-20ea97267f3a": {
+"d": "2025-04-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1848,
+"s": "Energidrikk, søvnpiller og en kropp som sier stopp. Mo er ferdig med å late som han har kontroll.",
+"t": "Hjertebank og dårlig dømmekraft",
+"u": "https://podkast.nrk.no/fil/nittiatten/c8012c78-3eb0-4a18-b5b4-88adb81aef1d_0_ID192MP3.mp3"
+},
+"l_2a745b2f-cb3d-4691-b45b-2fcb3d569156": {
+"d": "2026-02-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/XTtZW4W-DoGQN24WTQsM1g8VNCLLYuGtOD0Dzw1i-SNg",
+"n": 2494,
+"s": "Musti deler en stor nyhet og forteller Franky og Mo om da hun fikk kjeft på Hver gang vi møtes.",
+"t": "Musti på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/2a745b2f-cb3d-4691-b45b-2fcb3d569156_1_ID192MP3.mp3"
+},
+"l_2e0eae00-0c22-48f6-8eae-000c22b8f6cc": {
+"d": "2025-11-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1517,
+"s": "Mo får melding fra ei jente på Tinder som egentlig vil møte Franky. Mo føler seg brukt.",
+"t": "Mo ble brukt på Tinder!",
+"u": "https://podkast.nrk.no/fil/nittiatten/2e0eae00-0c22-48f6-8eae-000c22b8f6cc_1_ID192MP3.mp3"
+},
+"l_2e1da5d4-e428-45fa-9da5-d4e428a5fa41": {
+"d": "2025-05-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1076,
+"s": "Mo innrømmer å ha løyet om body count fordi han er jomfru og Franky kommer aldri til å date en 18-åring.",
+"t": "Alle lyver",
+"u": "https://podkast.nrk.no/fil/nittiatten/6d28e4c8-11b8-474d-8a52-e896abe90f42_0_ID192MP3.mp3"
+},
+"l_35bec2cf-ff04-4ed0-bec2-cfff045ed0ba": {
+"d": "2024-11-29T06:00:00+01:00",
+"i": "https://gfx.nrk.no/RhGatshz2oxwTGccgik35w917AYqzpNWadWiB-wcf2_w",
+"n": 2508,
+"s": "Vi er i studio til Arif på Munchmuseet.",
+"t": "Arif er gjest",
+"u": "https://podkast.nrk.no/fil/nittiatten/a05e26b4-e4e1-44be-85f6-0b20d14a3bc4_0_ID192MP3.mp3"
+},
+"l_361d52a0-d529-4a59-9d52-a0d529da593c": {
+"d": "2025-11-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/pNgNpcmO3k7uXHtcILCe7Astu_f3cj6W0E25SIifjC1Q",
+"n": 2367,
+"s": "Snorre forteller om store klasseforskjeller i oppveksten, om Karpe-låten som ga ham lyst til å bli politiker, og om «beefen» med «Gutta».",
+"t": "Snorre Rein er på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/361d52a0-d529-4a59-9d52-a0d529da593c_1_ID192MP3.mp3"
+},
+"l_37c60720-b762-432e-8607-20b762a32ef2": {
+"d": "2025-09-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1651,
+"s": "Mo lager nye jobber til kongefamilien.",
+"t": "Hva kan kronprinsen gjøre for «lægs»",
+"u": "https://podkast.nrk.no/fil/nittiatten/37c60720-b762-432e-8607-20b762a32ef2_1_ID192MP3.mp3"
+},
+"l_3e31b3ab-6c67-448e-b1b3-ab6c67c48ed9": {
+"d": "2026-05-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1623,
+"s": "Gutta har vært på hver sin kaotiske ferie!\nHør om hvordan Mo ble fatshamet i Vietnam og hvorfor Frankie signerte sin egen dødsattest i Tyrkia.",
+"t": "Ekstra large i Vietnam",
+"u": "https://podkast.nrk.no/fil/nittiatten/3e31b3ab-6c67-448e-b1b3-ab6c67c48ed9_1_ID192MP3.mp3"
+},
+"l_42f68e57-c84c-49b7-b68e-57c84c39b7e7": {
+"d": "2025-01-29T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1630,
+"s": "Franky har vært hos legen og Mo har bestemt seg for å aldri dra på guttetur igjen.",
+"t": "Besvimte i dusjen",
+"u": "https://podkast.nrk.no/fil/nittiatten/a161a158-e9b9-4d5b-9b8e-f281d7d1032b_0_ID192MP3.mp3"
+},
+"l_430a1d55-b2b1-459c-8a1d-55b2b1f59c41": {
+"d": "2025-11-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/OJ1QgmjNghSDZbnmuCKKigPN9Pec1lJuFjs7d6GAt8Nw",
+"n": 1675,
+"s": "Franky og Mo snakker med «Loverboy» fra Undergrunn om alt fra norsk rap til romvesen.",
+"t": "UG Loverboy på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/430a1d55-b2b1-459c-8a1d-55b2b1f59c41_1_ID192MP3.mp3"
+},
+"l_45d691fa-ade9-4f89-9691-faade9cf8922": {
+"d": "2025-09-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/C3c1M-z20hfDcCCDkEMBjw5S-hL-RcTUiwaJ3uzC1Ztg",
+"n": 1891,
+"s": "Tigergutt forteller om hvordan det er å bo og jobbe sammen – og om det egentlig er lov å tulle med alt.",
+"t": "Tigergutt på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/45d691fa-ade9-4f89-9691-faade9cf8922_1_ID192MP3.mp3"
+},
+"l_45d8e404-74db-4943-98e4-0474db5943e8": {
+"d": "2024-11-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1883,
+"s": "Mo og Franky har spist så mye take away at det har ført dem inn i økonomiske problemer.",
+"t": "– Vi trenger ikke lage mat lenger!",
+"u": "https://podkast.nrk.no/fil/nittiatten/9a215203-b938-491b-8bbf-c3c3f0e71727_0_ID192MP3.mp3"
+},
+"l_461acacf-d4a5-476d-9aca-cfd4a5b76d22": {
+"d": "2025-09-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/jtZk3WvpxU57avY2ShLpMAHn2w6_Kv56y4iuMEC7Szsg",
+"n": 1228,
+"s": "Storesøster Fetisha er på besøk og Franky og Mo får sjokk når de byr henne opp til Wolt-duell.",
+"t": "Fetisha Williams på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/461acacf-d4a5-476d-9aca-cfd4a5b76d22_1_ID192MP3.mp3"
+},
+"l_48d5a4f7-9470-4009-95a4-f79470800947": {
+"d": "2026-06-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/9l6Wl45eaFrznXfphlGolQrwC382LHiBknCmRxZdIHcg",
+"n": 2190,
+"s": "TikTok-stjerne Even Sjamel om trusler som Haaland-lookalike og da han mistet lappen til dundrende syremusikk. \nGutta tar også den ukomfortable debatten om det egentlig er greit å tisse i dusjen.",
+"t": "Even Sjamel på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/48d5a4f7-9470-4009-95a4-f79470800947_1_ID192MP3.mp3"
+},
+"l_4aaba10b-2d3f-46b2-aba1-0b2d3f46b26f": {
+"d": "2024-11-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2028,
+"s": "Mo og Franky nekter å bytte hår for å redde klimaet.",
+"t": "– Jeg har bedre hår enn deg ",
+"u": "https://podkast.nrk.no/fil/nittiatten/c6f2240d-11a3-4042-aa72-3e6f0cec4ab9_0_ID192MP3.mp3"
+},
+"l_5413731d-f5a7-4540-9373-1df5a7754075": {
+"d": "2025-01-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2238,
+"s": "Mo synes jentene i Oslo er røffere enn i Tromsø og Franky har en egen metode for å sjekke opp damer.",
+"t": "Hvordan sjekke opp jenter?",
+"u": "https://podkast.nrk.no/fil/nittiatten/5959e1f3-7f22-4a04-b26f-25bacfc1a587_0_ID192MP3.mp3"
+},
+"l_5a1123b7-4982-4869-9123-b7498228698f": {
+"d": "2025-01-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1734,
+"s": "Hva er greia med Mo og Kiwi-jenta? Og vil gutta helst ha en kid som blir mobber eller mobbeoffer?",
+"t": "Mo og Kiwi-jenta",
+"u": "https://podkast.nrk.no/fil/nittiatten/c472a9d6-e67a-45fc-9729-26288f8bc891_0_ID192MP3.mp3"
+},
+"l_5d0929f6-e2c4-45ee-8929-f6e2c485ee18": {
+"d": "2026-03-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/WP-q5LiIq-lb1N0ifScXJA1V5x7viWi-NYs6--Mfa5Pg",
+"n": 1764,
+"s": "Ballinciaga åpner opp om alt fra beefen med Helsedirektoratet til det dummeste de noensinne har kjøpt.",
+"t": "Ballinciaga på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/5d0929f6-e2c4-45ee-8929-f6e2c485ee18_2_ID192MP3.mp3"
+},
+"l_5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a": {
+"d": "2025-09-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/joK7cCT-TEtQS7j9YYowlQvX2VbXh1mITb_3VXVDud9A",
+"n": 2977,
+"s": "Hvorfor er det bra å være en følsom grisegutt? Hva skjer med fitta når ei jente ligger rundt? Iselin Guttormsen gir seksualundervisning til Franky og Mo.",
+"t": "Iselin Guttormsen på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a_1_ID192MP3.mp3"
+},
+"l_5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f": {
+"d": "2026-03-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/yx_kb6kzLaUKBzxVEhGvXQAyF5lZyxGJe8QxE76aAVtw",
+"n": 2340,
+"s": "Programlederen fra Ville fristelser er gjest og avslører sin liste over topp tre «white girl»-låter.",
+"t": "Nate Kahungu på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f_1_ID192MP3.mp3"
+},
+"l_6281fcef-dd34-4aed-81fc-efdd344aedc8": {
+"d": "2025-09-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1490,
+"s": "Mo deler om soloreisen til Thailand, en by med muligheter og risiko. Chatten holder ikke tilbake, og Franky og Mo gir råd som treffer.",
+"t": "Alt går galt i Thailand",
+"u": "https://podkast.nrk.no/fil/nittiatten/6281fcef-dd34-4aed-81fc-efdd344aedc8_1_ID192MP3.mp3"
+},
+"l_65c709a5-c297-460a-8709-a5c297d60aee": {
+"d": "2025-11-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1344,
+"s": "Mo drømmer om å bli pappa før 23, mens Franky planlegger å få barna sine til å tro at han er fattig.",
+"t": "EGOISTISK Å IKKE VIL HA BARN?",
+"u": "https://podkast.nrk.no/fil/nittiatten/65c709a5-c297-460a-8709-a5c297d60aee_1_ID192MP3.mp3"
+},
+"l_6745e96d-a064-41b7-85e9-6da064b1b71e": {
+"d": "2026-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GDyVKgB8zF6cnd0_FDL_kAFV2ME5tNYIOIu1o4ekKv-A",
+"n": 1694,
+"s": "Abbo og Amara forteller om alt fra festivalopplevelser til kondom-angst på butikken. Og hva er guttas dummeste kjøp?",
+"t": "Abbo & Amara på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/6745e96d-a064-41b7-85e9-6da064b1b71e_2_ID192MP3.mp3"
+},
+"l_703599be-9b1f-4104-b599-be9b1f010424": {
+"d": "2025-03-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/aqB2kIoeiSu8hEcAcTnCLQLAZ-xK8SUpfR5adcGtPBFw",
+"n": 2232,
+"s": "Hkeem om deltagelse på boksen, ny låt og hatkommentarer.",
+"t": "Hkeem på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/22d359dd-10db-4613-afe3-6acf84dc17a1_0_ID192MP3.mp3"
+},
+"l_71180169-10e3-4584-9801-6910e3c5844c": {
+"d": "2025-05-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/viP93QxrNKh4431Nk_7R6gS998sXQtLAuEKxEe40tI_Q",
+"n": 3416,
+"s": "OBS! Vi har hatt tekniske problemer på flere episoder og beklager dårlig lydkvalitet. Vi lover at det snart blir bedre!\nFretty fra Undergrunn om Sovjet-vibber og liveshow som må smelle.",
+"t": "UG Fretty på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/5b60c06f-75b3-4706-b8fc-6bf286bd7f1a_0_ID192MP3.mp3"
+},
+"l_7567ba81-e7cf-4807-a7ba-81e7cf280739": {
+"d": "2025-10-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1517,
+"s": "Bursdagsbarnet Franky har tryna på el-sparkesykkel og Mo tar «boikott Eurovision»-kampanjen til et nytt nivå.",
+"t": "Det var ikke min skyld, det var Amy!",
+"u": "https://podkast.nrk.no/fil/nittiatten/7567ba81-e7cf-4807-a7ba-81e7cf280739_1_ID192MP3.mp3"
+},
+"l_7966c460-153c-4ab2-a6c4-60153caab271": {
+"d": "2026-06-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 2058,
+"s": "Mo flytter til vestkanten og Franky flytter til østkanten, og gutta avslører hvordan det egentlig har vært å bo med hverandre. Mo får kjørt seg!",
+"t": "Hva er galt med å gå naken?",
+"u": "https://podkast.nrk.no/fil/nittiatten/7966c460-153c-4ab2-a6c4-60153caab271_1_ID192MP3.mp3"
+},
+"l_7c14ad90-d7aa-4bd2-94ad-90d7aa7bd2ab": {
+"d": "2024-12-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2245,
+"s": "Franky ble ydmyket på fotoshoot.",
+"t": "– Jeg skal begynne å ta trening seriøst!",
+"u": "https://podkast.nrk.no/fil/nittiatten/d8358183-9c6f-45d1-bffe-04ea10df3254_0_ID192MP3.mp3"
+},
+"l_7f0ac7b2-df50-43e8-8ac7-b2df50a3e8ae": {
+"d": "2025-10-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YeAMe04zcoKW9s_3ySsnFw4Y1pcAIAGQWcmqC59L4uxg",
+"n": 1608,
+"s": "Mike forteller om alt fra sine største fuck-ups til da han endelig fikk anerkjennelse fra faren sin. Fotografen har aldri gått glipp av en Karpe-gig!",
+"t": "Mike Angeles på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/7f0ac7b2-df50-43e8-8ac7-b2df50a3e8ae_1_ID192MP3.mp3"
+},
+"l_7f29d22f-80b2-4be0-a9d2-2f80b26be00f": {
+"d": "2026-03-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/BM8JuSclHVtPm2I1aKgRuA5PQVDQ1P3hIijwLQIm9qbQ",
+"n": 2689,
+"s": "Dronninga av «Med all respekt» er gjest – og forteller hvordan hun endte opp med en romaskin som snackbord.",
+"t": "Tara Lina på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/7f29d22f-80b2-4be0-a9d2-2f80b26be00f_1_ID192MP3.mp3"
+},
+"l_83254ca7-10d5-471e-a54c-a710d5971eb6": {
+"d": "2026-01-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0Nnjzg35qCgfK65x9IHGFw6iY8hJR0Eebjj8pTIM8WmQ",
+"n": 2246,
+"s": "Kevin Kildal snakker ut om fortiden som bygderasist og om hvorfor han har valgt å «snippe» sekken.",
+"t": "Kevin Kildal på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/83254ca7-10d5-471e-a54c-a710d5971eb6_1_ID192MP3.mp3"
+},
+"l_8347a00d-0b68-4f2a-87a0-0d0b68cf2af3": {
+"d": "2025-01-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/rUJ614_pXXVNjPXw4-K--w3tV_DiqW5sKfwvP5r0P73A",
+"n": 2317,
+"s": "Vollan tvillingene er internasjonale modeller.",
+"t": "Vollan-tvillingene er gjester",
+"u": "https://podkast.nrk.no/fil/nittiatten/f84de954-acbb-48d9-a0fc-cb5279483dcc_0_ID192MP3.mp3"
+},
+"l_8551a173-66b9-4629-91a1-7366b956298a": {
+"d": "2025-06-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2003,
+"s": "Franky og Mo deler store nyheter og diskuterer hvor ketchupen egentlig skal stå.",
+"t": "Reality og ketchup",
+"u": "https://podkast.nrk.no/fil/nittiatten/7093844e-4cd3-467b-8653-43c25aa6e3ba_0_ID192MP3.mp3"
+},
+"l_86a0c817-dfca-46e9-a0c8-17dfca26e939": {
+"d": "2026-01-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/ygjxCaIkM9Q0_-k0z2eTAAPi6rFaGcGIAUBmnUB9DOKA",
+"n": 1521,
+"s": "Beathoven om vennskap, mental helse og det nye hotellet",
+"t": "Beathoven på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/86a0c817-dfca-46e9-a0c8-17dfca26e939_1_ID192MP3.mp3"
+},
+"l_88e93175-0425-4350-a931-7504253350c6": {
+"d": "2026-01-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Y58-HzK_ZtzNwaxTQekYqgyI9kNLOh08IB1-z1eN15Kw",
+"n": 2184,
+"s": "Nytt år! Dropp Klarna-fella og ta kontroll over pengene dine. Hallgeir viser deg hvordan du hacker økonomien",
+"t": "Hallgeir Kvadsheim på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/88e93175-0425-4350-a931-7504253350c6_1_ID192MP3.mp3"
+},
+"l_8ea23c8f-1bd0-404f-a23c-8f1bd0704f59": {
+"d": "2025-01-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1585,
+"s": "Mo har havnet i et moralsk dilemma og gutta finner ut hvem som er best i Spelling bee.",
+"t": "Er det ok å snitche?",
+"u": "https://podkast.nrk.no/fil/nittiatten/5dd1c47c-4440-409d-8afc-5626bf95f8c1_0_ID192MP3.mp3"
+},
+"l_918b2a45-370c-44c0-8b2a-45370c94c0d2": {
+"d": "2025-09-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0puQtxYjgP-Ztrg1-FCOzQU-OtBO4UFEtKcQTGGi3yMA",
+"n": 2570,
+"s": "Mankegard forteller om da han fikk sparken fra musikkbransjen og hvorfor en bolle ikke bare er en bolle.",
+"t": "Mankegard på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/918b2a45-370c-44c0-8b2a-45370c94c0d2_1_ID192MP3.mp3"
+},
+"l_9267d5f2-caa7-410f-a7d5-f2caa7f10fdf": {
+"d": "2026-06-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VwDk9vv-yamkNMny5cNplQi2eLbJl0XIO2G8E3UIIGbg",
+"n": 3039,
+"s": "Mo er ikke imponert over Martin Ødegaard, men hva tenker gutta fra Buzz Studio? Og en av dem har en annerledes VM-spådom.",
+"t": "Buzz Studio på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/9267d5f2-caa7-410f-a7d5-f2caa7f10fdf_1_ID192MP3.mp3"
+},
+"l_9df245f6-7d64-4cf0-b245-f67d64fcf02a": {
+"d": "2025-10-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/L30MwmJoNATfkIIAdbVW5AOZwD0UzlHwl5xCCKBy1G0w",
+"n": 1951,
+"s": "Ida Broen snakker om «Forræder», mote og sine 200 sneakers. Og hva er «drip or skip» om dagen?",
+"t": "Ida Broen på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/9df245f6-7d64-4cf0-b245-f67d64fcf02a_1_ID192MP3.mp3"
+},
+"l_9e0076f6-72eb-4adb-8076-f672ebcadb4c": {
+"d": "2024-12-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2237,
+"s": "Mo og Franky har gått den gule løperen på P3 Gull. Sebastian Solberg har vurdert antrekkene, men Franky fikk ikke terningkast for sitt antrekk.",
+"t": "–Det irriterte dritten ut av meg",
+"u": "https://podkast.nrk.no/fil/nittiatten/bd16164d-6e7c-49e6-ba0f-2ee302171d2e_0_ID192MP3.mp3"
+},
+"l_a56128fd-73e1-4450-a128-fd73e164508d": {
+"d": "2025-11-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/C_zdK0NhlqeCNb8i2d9h_wGlwYxWtoWd84Fr4fRxJf7g",
+"n": 2292,
+"s": "Var Cengiz full på «Skal vi danse»? Han forteller også om tiden som ung «Skam»-stjerne.",
+"t": "Cengiz Al på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/a56128fd-73e1-4450-a128-fd73e164508d_1_ID192MP3.mp3"
+},
+"l_a888cd20-83b8-4253-88cd-2083b8e25370": {
+"d": "2025-04-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2711,
+"s": "Uinvitert, overstimulert og uflaks med interiøret. Mo sin hjemmefest-debut var ikke akkurat en suksess.",
+"t": "Jeg var ikke invitert",
+"u": "https://podkast.nrk.no/fil/nittiatten/b1293b52-3f7b-41e5-97bb-1ae29b6644de_0_ID192MP3.mp3"
+},
+"l_ab508024-a43e-4905-9080-24a43e1905f6": {
+"d": "2025-04-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2427,
+"s": "Franky legger seg kl 02 og Mo har vært på utenlandsreise. Gutta snakker rutiner, rasisme og reality-checks i utlandet.",
+"t": "Søvnmangel og solo travel",
+"u": "https://podkast.nrk.no/fil/nittiatten/0b2ea14f-9046-4bfd-847b-9b46fc98ad70_0_ID192MP3.mp3"
+},
+"l_ab537901-dc62-403e-9379-01dc62703e65": {
+"d": "2025-10-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1972,
+"s": "Mo og Franky mimrer tilbake til da de var lærere og diskuterer dilemma: hva gjør du når du er forelska i søsteren til kompisen?",
+"t": "Du kunne aldri datet søsteren min!",
+"u": "https://podkast.nrk.no/fil/nittiatten/ab537901-dc62-403e-9379-01dc62703e65_1_ID192MP3.mp3"
+},
+"l_acf1a795-eabe-4862-b1a7-95eabe28627a": {
+"d": "2024-10-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2250,
+"s": "Mo og Franky irriterer seg over hverandres uvaner.",
+"t": "Ketsjupflaske på badet?",
+"u": "https://podkast.nrk.no/fil/nittiatten/2f18a1fb-4e92-4f35-a7f6-98128eb31abe_0_ID192MP3.mp3"
+},
+"l_ad0892d4-1a17-42e3-8892-d41a1702e36e": {
+"d": "2026-04-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/50w1SCsLruSXHfr4uays7wpt9nqF4NyrGsnqUIXjF_IQ",
+"n": 3022,
+"s": "Klinisk ernæringsfysiolog Christian Johnston svarer på alt om mat og trening. Hva er overvurdert og undervurdert?",
+"t": "Nutritac på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/ad0892d4-1a17-42e3-8892-d41a1702e36e_1_ID192MP3.mp3"
+},
+"l_ad6a03ab-f303-418f-aa03-abf303218fca": {
+"d": "2025-02-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1626,
+"s": "Mo og Franky har vært på premiere på Flus 2 og Tshawe visste ikke hvem de var. Hvem er Steinar Wangen?",
+"t": "Tshawe og Steinar Wangen",
+"u": "https://podkast.nrk.no/fil/nittiatten/da530db8-1344-43b0-b726-f6d47e06c46b_0_ID192MP3.mp3"
+},
+"l_ae1d5005-56d1-4da2-9d50-0556d17da2d2": {
+"d": "2026-04-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/UjswOUaEvIglAHy0neHABQvTpVG5BFYm6jDZQKYlpFVQ",
+"n": 1862,
+"s": "Odda forteller om da han kjøpte leilighet i dundrende fylla og hvorfor han mener «alfa-menn» bare driver med lureri",
+"t": "Odd-Magnus Williamson på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/ae1d5005-56d1-4da2-9d50-0556d17da2d2_1_ID192MP3.mp3"
+},
+"l_b0d8a3d3-bd17-485c-98a3-d3bd17385c54": {
+"d": "2026-01-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Yt0ziuCGbACtH-f1dKiUowB3KdSbVZvyrXl-eMqoOEVA",
+"n": 2194,
+"s": "Simen Velle er gjest og kan melde at statsministeren er lættis og at Stortinget er som VGS 2.0",
+"t": "Simen Velle på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/b0d8a3d3-bd17-485c-98a3-d3bd17385c54_1_ID192MP3.mp3"
+},
+"l_b66c01f8-f814-46a1-ac01-f8f814b6a1fe": {
+"d": "2025-12-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/ZUdnGpMMiLfY4HSwujzvbg0wG258Jc1a7l9lQLbO-XVw",
+"n": 1905,
+"s": "Mathea Bjørndalen er kjent for måten hun nyter bakst på TikTok. Hvem av Franky og Mo er best til å presentere en bolle på samme måte?",
+"t": "Mathea Bjørndalen på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/b66c01f8-f814-46a1-ac01-f8f814b6a1fe_1_ID192MP3.mp3"
+},
+"l_b92aff4a-448a-4ebf-aaff-4a448a1ebf30": {
+"d": "2025-05-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/8rsbZqiGYx_zS8uaJiPZjgi2RYBUtoWiu69JRJp7Iamw",
+"n": 1704,
+"s": "Hva skjer hvis Prinsesse Ingrid Alexandra og Mo matcher på Hinge? Og Franky er slått ut av 17. mai og Kongens aura.",
+"t": "My man, Kongen",
+"u": "https://podkast.nrk.no/fil/nittiatten/70505775-89bf-45f0-a2e4-f270687a52d9_0_ID192MP3.mp3"
+},
+"l_b9420e57-2123-4dd5-820e-5721235dd509": {
+"d": "2026-03-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/MGIGp43bETP4Lq66siNZ_w4-DuiykUN3JPOKcqBIcRgw",
+"n": 1826,
+"s": "Bryter'n uten fortenner er gjest, og Franky og Mo lurer på om kroppen hans egentlig tåler mer.",
+"t": "Morten Thoresen på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/b9420e57-2123-4dd5-820e-5721235dd509_2_ID192MP3.mp3"
+},
+"l_c4a76111-6b00-4893-a761-116b00a8934e": {
+"d": "2025-04-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/lkVLSE6tRacHuIiISLGWUgbVjn9dSKSLmD_ZAdIVcaGA",
+"n": 2626,
+"s": "Hvordan har styrketreneren klart å poste på TikTok hver dag – i årevis? Og hvor skummelt var det å gi opp proffdrømmen?  ",
+"t": "Kasper Kvello på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/fc7105bb-56a8-4999-8335-f18a622424d9_0_ID192MP3.mp3"
+},
+"l_c511e103-d578-46a9-91e1-03d57846a9aa": {
+"d": "2025-11-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1593,
+"s": "Franky og Mo snakker om alt nordmenn gjør som de ikke får til å gi mening.",
+"t": "Nordmenn forvirrer oss",
+"u": "https://podkast.nrk.no/fil/nittiatten/c511e103-d578-46a9-91e1-03d57846a9aa_1_ID192MP3.mp3"
+},
+"l_cd195982-42be-4b6a-9959-8242be2b6a58": {
+"d": "2025-10-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1508,
+"s": "Franky og Mo klikker på sine egne favorittapper. Chatten kommer med et vilt dilemma – hva hadde du valgt?",
+"t": "– Snapchat har mistet det",
+"u": "https://podkast.nrk.no/fil/nittiatten/cd195982-42be-4b6a-9959-8242be2b6a58_1_ID192MP3.mp3"
+},
+"l_cfe29e94-37c1-4213-a29e-9437c17213d8": {
+"d": "2026-05-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GQG3S_vbbDZ5UxtwkMt1SgkwHR5DU-bfa47vQm1Z-vrw",
+"n": 1913,
+"s": "YLVA har med seg en pendel som spår Mo i bryllup og Frankie i luksusfellen",
+"t": "YLVA på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/cfe29e94-37c1-4213-a29e-9437c17213d8_2_ID192MP3.mp3"
+},
+"l_d07edf5d-5b68-4158-bedf-5d5b68315870": {
+"d": "2024-11-20T09:01:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2095,
+"s": "Mo vil teste ut standup selv om han har sceneskrekk, og Franky lurer på hvem av barna mora hans liker best.",
+"t": "Si noe morsomt!",
+"u": "https://podkast.nrk.no/fil/nittiatten/d87b56f3-804c-45f0-ae56-f64816ceb96c_0_ID192MP3.mp3"
+},
+"l_d22300d5-ea38-4bd6-a300-d5ea38bbd68f": {
+"d": "2026-04-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/U780xdEWXh6fIAxah7AAlgq9OMp6hAqGlG-Bjx1AbsbQ",
+"n": 2071,
+"s": "Erna forteller om den gangen hun prøvde å dra en likestillingsvits i Iran og om det dummeste hun noensinne har kjøpt.",
+"t": "Erna Solberg på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/d22300d5-ea38-4bd6-a300-d5ea38bbd68f_1_ID192MP3.mp3"
+},
+"l_d54b943a-a60a-4b63-8b94-3aa60aeb6376": {
+"d": "2025-05-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nYVcJdRbzUw_GUG2Ow56vg_lbS8F2Tb-2OREzFi-L05A",
+"n": 2337,
+"s": "Tale Torjussen er på besøk og gir gutta tips om alt fra skuespill til hvordan man ikke blir lurt i Asia.",
+"t": "Tale Torjussen på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/fd5d76e2-cb38-4a9c-be43-90fc735ae83c_0_ID192MP3.mp3"
+},
+"l_d858819b-fa8f-497a-9881-9bfa8f997ac9": {
+"d": "2025-10-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/0HCewAgqXWilSLBdL6LgoAG4cH_jYXl-afiYcOx1WE8g",
+"n": 1370,
+"s": "Undergrunnsrapperen SA_G besøker Franky og Mo, men blir sjokkert når de ikke skjønner hvem Amy Winehouse er.",
+"t": "SA_G på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/d858819b-fa8f-497a-9881-9bfa8f997ac9_1_ID192MP3.mp3"
+},
+"l_da64b6b7-f580-4986-a4b6-b7f580b98695": {
+"d": "2025-03-27T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 2357,
+"s": "Mo og Franky tester en boujee restaurant. Ferieturen går rett vest, og herreklær skuffer igjen.",
+"t": "Jenter har null drip",
+"u": "https://podkast.nrk.no/fil/nittiatten/6312a359-04d0-42ee-ad07-af7248822cc2_0_ID192MP3.mp3"
+},
+"l_dbaf3276-7ad0-4ed1-af32-767ad07ed139": {
+"d": "2025-03-20T06:00:00+01:00",
+"i": "https://gfx.nrk.no/D2atNkgnZOLbZic4SsplUQ97B046ceexW16RWxPBsTTw",
+"n": 1755,
+"s": "Et overraskende samarbeid! Aksel Hennie forteller Franky og Mo hvorfor han og Jonas har slått seg sammen og hva som egentlig skjer bak kulissene.",
+"t": "Aksel Hennie og Jonas Benyoub på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/0bc39f78-7cf2-43df-9469-59b2a406ee69_0_ID192MP3.mp3"
+},
+"l_dbbbd109-6eec-4a42-bbd1-096eecaa425d": {
+"d": "2025-11-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1485,
+"s": "Mo og Franky prøver å finne ut når man egentlig blir “gammel”, etter at et barn på TikTok mente at 05-kullet er godt voksen.",
+"t": "05 er gammel?!",
+"u": "https://podkast.nrk.no/fil/nittiatten/dbbbd109-6eec-4a42-bbd1-096eecaa425d_1_ID192MP3.mp3"
+},
+"l_dffcbaa7-cba5-4e05-bcba-a7cba5ce05b6": {
+"d": "2025-12-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/zOo1n11j3yYj1-ntqoCbmglXsSefO16HvlWPC83QKA5w",
+"n": 2098,
+"s": "Har Margrethe bannet i et barneprogram? Og vet hun hva «gyat» betyr? Franky, Mo og Margrethe bader i nostalgi.",
+"t": "Margrethe Røed på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/dffcbaa7-cba5-4e05-bcba-a7cba5ce05b6_1_ID192MP3.mp3"
+},
+"l_e14cb793-7422-4cf0-8cb7-937422ecf044": {
+"d": "2026-03-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/_XecveiPmp2T8euFNEW0GAxxEkGkgaDoLrIFYYvTQgiA",
+"n": 3077,
+"s": "Marcus og Martinus snakker om alt fra ungdomstid til fotball, og en av dem røper at han fikk sitt første kyss som 19-åring.",
+"t": "Marcus og Martinus på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/e14cb793-7422-4cf0-8cb7-937422ecf044_1_ID192MP3.mp3"
+},
+"l_e75fe6d7-b58b-479a-9fe6-d7b58bb79a34": {
+"d": "2025-03-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1843,
+"s": "–Kan du ikke drikke vann engang? Mo får mange dumme spørsmål om Ramadan. \nDet blir ny runde med verdt det eller ikke?",
+"t": "Fasting og Ramadan",
+"u": "https://podkast.nrk.no/fil/nittiatten/fd4f8069-e7eb-431b-be14-727a4e78d2cf_0_ID192MP3.mp3"
+},
+"l_e8127a8c-c075-42b9-927a-8cc075f2b98d": {
+"d": "2026-02-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1330,
+"s": "Frankie og Mo tar for seg alt fra irriterende søstre til maktsyke lærere, og Mo overrasker med innsideinfo fra da han jobbet i kundeservice.",
+"t": "Ting som irriterer oss",
+"u": "https://podkast.nrk.no/fil/nittiatten/e8127a8c-c075-42b9-927a-8cc075f2b98d_1_ID192MP3.mp3"
+},
+"l_f01b529a-6ef5-40f8-9b52-9a6ef5d0f8ba": {
+"d": "2025-12-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1171,
+"s": "Franky og Mo havner i tidenes mest unødvendig, men seriøse lukt-duell.",
+"t": "Promp VS svette: Hvem vinner?",
+"u": "https://podkast.nrk.no/fil/nittiatten/f01b529a-6ef5-40f8-9b52-9a6ef5d0f8ba_1_ID192MP3.mp3"
+},
+"l_f2771044-0ee6-4645-b710-440ee6e64536": {
+"d": "2025-12-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/egz_vhNlD8-dVQQ8K1xywg71WYzQ-apo93khcr_2a8oA",
+"n": 1597,
+"s": "Abu mener Franky og Mo er heldige som har vokst opp i Tromsø, men hvor kommer de feteste utlendingene fra?",
+"t": "Abubakar Hussain på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/f2771044-0ee6-4645-b710-440ee6e64536_1_ID192MP3.mp3"
+},
+"l_f2d9ceb4-8278-4ff8-99ce-b482789ff853": {
+"d": "2026-06-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/HnDiDDEY_iJQdNQ6WqL8OQjL7t2PUcB8nQXjQlrPknkw",
+"n": 1291,
+"s": "Fotballspilleren Big T ble stor på TikTok over natten og i «Nittiatten» blir han erklært kjendis. Hør om flausen da han ble benka foran mamma.",
+"t": "Big T på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/f2d9ceb4-8278-4ff8-99ce-b482789ff853_1_ID192MP3.mp3"
+},
+"l_f33e20fa-6af5-42a3-be20-fa6af532a36b": {
+"d": "2025-11-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/HChMXovDaDvTscw0tpkqCgbdpeMhg7mmoTVnooAHNM1Q",
+"n": 2103,
+"s": "Franky og Mo lurer på hvordan man blir Stian Blipp. Stian Blipp lurer på hva som foregår i hue til Mo ved pissoaret.",
+"t": "Stian Blipp er på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/f33e20fa-6af5-42a3-be20-fa6af532a36b_1_ID192MP3.mp3"
+},
+"l_f412d9ba-a662-422e-92d9-baa662822e48": {
+"d": "2024-12-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1952,
+"s": "Hør hva som skjedde da Mo glemte Mac-en på bussen.\nEn blanding av stress, panikk og noen lærerike øyeblikk.",
+"t": "– Den er dritdyr",
+"u": "https://podkast.nrk.no/fil/nittiatten/71ce38ad-4776-4718-880b-af63551bac6a_0_ID192MP3.mp3"
+},
+"l_f515c7f1-36aa-4d9a-95c7-f136aa5d9a18": {
+"d": "2025-09-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1607,
+"s": "Franky mener Jonas Gahr Støre kunne vært Norges største influenser og roast-battle konge. Mo mener han blir hypa altfor mye.",
+"t": "Jonas Gahr Støre er min «daddy»",
+"u": "https://podkast.nrk.no/fil/nittiatten/f515c7f1-36aa-4d9a-95c7-f136aa5d9a18_1_ID192MP3.mp3"
+},
+"l_f6570c89-9510-4197-970c-899510b19772": {
+"d": "2026-02-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/oiFwkhavmC0d0V-acOaF5wcyBS2iog0zjl07pWwQOdMA",
+"n": 2259,
+"s": "Hvem av Franky og Mo er best til å be noen ut på date? Sofie fra Unormal er nådeløs.",
+"t": "Sofie på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/f6570c89-9510-4197-970c-899510b19772_1_ID192MP3.mp3"
+},
+"l_f7754287-de0d-4b47-b542-87de0d3b4797": {
+"d": "2024-10-30T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1744,
+"s": "Bestemora til Franky mener han må ha mer sex, mens Mo er klar for kone og barn. Eller er han egentlig det?",
+"t": "- Du har ikke nok sex!",
+"u": "https://podkast.nrk.no/fil/nittiatten/ad9e7a48-3079-4a28-8e3d-e9937e2f11fc_0_ID192MP3.mp3"
+},
+"l_f9603860-29b2-4c11-a038-6029b25c118c": {
+"d": "2025-12-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1600,
+"s": "Franky og Mo diskuterer hva vi må legge fra oss i 2025, men hva tar de med seg inn i det nye året?",
+"t": "Hva legger vi fra oss i 2025?",
+"u": "https://podkast.nrk.no/fil/nittiatten/f9603860-29b2-4c11-a038-6029b25c118c_ID192MP3.mp3"
+},
+"l_fc7c61cd-f5cb-4c2b-bc61-cdf5cb0c2b7e": {
+"d": "2025-12-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/yuxXHK_vBBNf5nCrwIT5awdag8kxR2ZK7wJJgpR_VQ1Q",
+"n": 1490,
+"s": "Gaute Berg Næss er gjest, og Franky og Mo er nysgjerrige på humoren hans. Hvem vinner vitsekonkurransen der Gaute er dommer?",
+"t": "Gucci Gaute på besøk",
+"u": "https://podkast.nrk.no/fil/nittiatten/fc7c61cd-f5cb-4c2b-bc61-cdf5cb0c2b7e_1_ID192MP3.mp3"
+},
+"l_fecfad48-6ec2-4013-8fad-486ec2c013ae": {
+"d": "2025-10-31T06:00:00+01:00",
+"i": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"n": 1542,
+"s": "Mo og Franky nekter å gi godteri til barna siden Franky aldri fikk selv, og Mo skylder på inflasjon.",
+"t": "Vi deler ikke godteri!",
+"u": "https://podkast.nrk.no/fil/nittiatten/fecfad48-6ec2-4013-8fad-486ec2c013ae_1_ID192MP3.mp3"
+},
+"l_ff8b8fb5-d4da-4854-8b8f-b5d4da3854bd": {
+"d": "2025-02-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg",
+"n": 1821,
+"s": "Mo så seg selv på en «Oslo nightlife»-video.",
+"t": "Mo ble catcha på byen",
+"u": "https://podkast.nrk.no/fil/nittiatten/c24313c8-34b7-4416-a995-cef7efebd304_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "nittiatten",
+"image": "https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw",
+"subtitle": "En humorpodkast med tromsøgutta Franky og Mo om å drømme stort – og tryne på veien.",
+"title": "Nittiatten"
+},
+"v": 2
 }

@@ -1,99 +1,788 @@
 {
-"l_006d402b-a9b1-480b-ad40-2ba9b1b80b57": "https://podkast.nrk.no/fil/tyrann/006d402b-a9b1-480b-ad40-2ba9b1b80b57_1_ID192MP3.mp3",
-"l_01907f0c-54ea-4ff9-907f-0c54eaeff9d3": "https://podkast.nrk.no/fil/tyrann/01907f0c-54ea-4ff9-907f-0c54eaeff9d3_1_ID192MP3.mp3",
-"l_01bb5e06-040c-407e-bb5e-06040c407ee9": "https://podkast.nrk.no/fil/tyrann/01bb5e06-040c-407e-bb5e-06040c407ee9_2_ID192MP3.mp3",
-"l_0286efff-096f-45d5-86ef-ff096f15d573": "https://podkast.nrk.no/fil/tyrann/04b34250-8599-48bd-927c-33bda2752ec6_0_ID192MP3.mp3",
-"l_034789d3-0bc6-4e2b-8789-d30bc6de2baa": "https://podkast.nrk.no/fil/tyrann/034789d3-0bc6-4e2b-8789-d30bc6de2baa_1_ID192MP3.mp3",
-"l_040befb1-8980-468d-8bef-b18980468d2b": "https://podkast.nrk.no/fil/tyrann/040befb1-8980-468d-8bef-b18980468d2b_1_ID192MP3.mp3",
-"l_0cd12bef-4e0e-49bb-912b-ef4e0eb9bb8d": "https://podkast.nrk.no/fil/tyrann/25159458-9958-4ec6-a6eb-9fd40e6bdbda_0_ID192MP3.mp3",
-"l_1b177e0c-beb7-4687-977e-0cbeb7268720": "https://podkast.nrk.no/fil/tyrann/7d8101d7-3e54-44ea-96d5-bebede723c35_0_ID192MP3.mp3",
-"l_1e4ea748-e360-47f4-8ea7-48e36007f4a4": "https://podkast.nrk.no/fil/tyrann/afba721d-40b1-4230-ae21-cc8737abfbf9_0_ID192MP3.mp3",
-"l_21823b73-7f02-4175-823b-737f023175df": "https://podkast.nrk.no/fil/tyrann/dc177bf4-fbc8-4680-9989-ff057167edef_0_ID192MP3.mp3",
-"l_21b2c608-e2d3-4856-b2c6-08e2d36856ac": "https://podkast.nrk.no/fil/tyrann/36dddb32-e0dd-4684-a1fd-196a6a681007_0_ID192MP3.mp3",
-"l_243ad498-6e72-4c58-bad4-986e727c5837": "https://podkast.nrk.no/fil/tyrann/c89a7013-9bd6-44f4-be42-6d2e96ecde49_0_ID192MP3.mp3",
-"l_25af223f-25bc-45aa-af22-3f25bc25aae1": "https://podkast.nrk.no/fil/tyrann/36035507-b073-47f8-a025-62fb3bcb2537_0_ID192MP3.mp3",
-"l_25c45756-3e68-4ee5-8457-563e680ee583": "https://podkast.nrk.no/fil/tyrann/d8655451-fd90-4a14-932f-b97cead122c9_0_ID192MP3.mp3",
-"l_26d61086-0565-41de-9610-860565a1ded2": "https://podkast.nrk.no/fil/tyrann/26d61086-0565-41de-9610-860565a1ded2_ID192MP3.mp3",
-"l_2adfdab5-ec38-45ad-9fda-b5ec38b5adf2": "https://podkast.nrk.no/fil/tyrann/bd306695-34e8-4689-8c16-44b8b28cefa3_0_ID192MP3.mp3",
-"l_2bc19d21-29f9-4a16-819d-2129f9fa1648": "https://podkast.nrk.no/fil/tyrann/2bc19d21-29f9-4a16-819d-2129f9fa1648_1_ID192MP3.mp3",
-"l_2c54d299-1eb0-43e4-94d2-991eb043e4af": "https://podkast.nrk.no/fil/tyrann/08173939-76d0-4baf-a10e-b81b439138b6_0_ID192MP3.mp3",
-"l_2d899fe9-7bcf-4ec7-899f-e97bcfeec78a": "https://podkast.nrk.no/fil/tyrann/2d899fe9-7bcf-4ec7-899f-e97bcfeec78a_1_ID192MP3.mp3",
-"l_2dfa5f1e-f496-4e70-ba5f-1ef496ee7087": "https://podkast.nrk.no/fil/tyrann/50588961-e048-494c-bed3-e7ad525274d4_0_ID192MP3.mp3",
-"l_2e9ab28f-8702-415c-9ab2-8f8702315cfd": "https://podkast.nrk.no/fil/tyrann/2e9ab28f-8702-415c-9ab2-8f8702315cfd_ID192MP3.mp3",
-"l_30b32ca2-1d9e-4a2d-b32c-a21d9e7a2d36": "https://podkast.nrk.no/fil/tyrann/de177a4d-6d39-462f-94e8-48bb56e7170c_0_ID192MP3.mp3",
-"l_359733aa-c2e5-4442-9733-aac2e5144225": "https://podkast.nrk.no/fil/tyrann/359733aa-c2e5-4442-9733-aac2e5144225_ID192MP3.mp3",
-"l_35d5f8eb-24dc-485c-95f8-eb24dc585c9e": "https://podkast.nrk.no/fil/tyrann/35d5f8eb-24dc-485c-95f8-eb24dc585c9e_1_ID192MP3.mp3",
-"l_36df3213-8fae-4130-9f32-138fae013089": "https://podkast.nrk.no/fil/tyrann/36df3213-8fae-4130-9f32-138fae013089_ID192MP3.mp3",
-"l_37bbde15-1f35-4767-bbde-151f359767ec": "https://podkast.nrk.no/fil/tyrann/37bbde15-1f35-4767-bbde-151f359767ec_2_ID192MP3.mp3",
-"l_40231a67-0cea-4a8d-a31a-670ceaea8dd9": "https://podkast.nrk.no/fil/tyrann/40231a67-0cea-4a8d-a31a-670ceaea8dd9_1_ID192MP3.mp3",
-"l_40859bde-649d-494f-859b-de649db94ff6": "https://podkast.nrk.no/fil/tyrann/0f247d06-5b0f-4a6b-b96f-c18eeaa4ac58_0_ID192MP3.mp3",
-"l_40d4b4ec-3a86-4b18-94b4-ec3a86ab1842": "https://podkast.nrk.no/fil/tyrann/785ab647-4222-4916-b9fe-41fc7b3552bd_0_ID192MP3.mp3",
-"l_4109d560-1c43-476e-89d5-601c43c76e59": "https://podkast.nrk.no/fil/tyrann/4109d560-1c43-476e-89d5-601c43c76e59_1_ID192MP3.mp3",
-"l_41becb19-56e1-4530-becb-1956e16530d3": "https://podkast.nrk.no/fil/tyrann/327cce0d-3a68-4100-8c98-e546841650fc_0_ID192MP3.mp3",
-"l_489c30ae-d26d-472d-9c30-aed26de72d70": "https://podkast.nrk.no/fil/tyrann/489c30ae-d26d-472d-9c30-aed26de72d70_1_ID192MP3.mp3",
-"l_49636cf6-8680-470b-a36c-f68680a70b69": "https://podkast.nrk.no/fil/tyrann/49636cf6-8680-470b-a36c-f68680a70b69_1_ID192MP3.mp3",
-"l_49e21f4e-5771-4153-a21f-4e5771615337": "https://podkast.nrk.no/fil/tyrann/49e21f4e-5771-4153-a21f-4e5771615337_1_ID192MP3.mp3",
-"l_4abfb346-5ec8-43ac-bfb3-465ec8a3ac38": "https://podkast.nrk.no/fil/tyrann/4abfb346-5ec8-43ac-bfb3-465ec8a3ac38_1_ID192MP3.mp3",
-"l_4d105dbd-5242-435f-905d-bd5242035f8c": "https://podkast.nrk.no/fil/tyrann/b8e65765-e52a-4506-be1c-509e24edcd7a_0_ID192MP3.mp3",
-"l_53b206c6-868a-4867-b206-c6868a586754": "https://podkast.nrk.no/fil/tyrann/53b206c6-868a-4867-b206-c6868a586754_1_ID192MP3.mp3",
-"l_53e9332d-fba6-41d7-a933-2dfba611d7f6": "https://podkast.nrk.no/fil/tyrann/53e9332d-fba6-41d7-a933-2dfba611d7f6_1_ID192MP3.mp3",
-"l_58ec67c3-20f4-4b2b-ac67-c320f48b2bd0": "https://podkast.nrk.no/fil/tyrann/2601aed2-ad19-4f74-a23d-a46d14ca2f14_0_ID192MP3.mp3",
-"l_5a3ceae2-8aa8-4924-bcea-e28aa8492487": "https://podkast.nrk.no/fil/tyrann/5a3ceae2-8aa8-4924-bcea-e28aa8492487_1_ID192MP3.mp3",
-"l_5a86322c-8dfd-4c6b-8632-2c8dfd2c6b37": "https://podkast.nrk.no/fil/tyrann/5a86322c-8dfd-4c6b-8632-2c8dfd2c6b37_2_ID192MP3.mp3",
-"l_5b91a5c7-eae5-452a-91a5-c7eae5552a7f": "https://podkast.nrk.no/fil/tyrann/5b91a5c7-eae5-452a-91a5-c7eae5552a7f_1_ID192MP3.mp3",
-"l_5ee05f1c-9e73-4430-a05f-1c9e73543002": "https://podkast.nrk.no/fil/tyrann/8b3322a1-c345-44b5-a128-a941a813b600_0_ID192MP3.mp3",
-"l_5fac9026-179a-499e-ac90-26179af99ebf": "https://podkast.nrk.no/fil/tyrann/5fac9026-179a-499e-ac90-26179af99ebf_ID192MP3.mp3",
-"l_629f2e8e-d30a-45c4-9f2e-8ed30ab5c4d2": "https://podkast.nrk.no/fil/tyrann/629f2e8e-d30a-45c4-9f2e-8ed30ab5c4d2_ID192MP3.mp3",
-"l_647f4782-463b-4665-bf47-82463b1665e0": "https://podkast.nrk.no/fil/tyrann/8dabbbff-87bd-4673-9d3a-9bf2f85666b0_0_ID192MP3.mp3",
-"l_6bab1b71-ddf2-481f-ab1b-71ddf2c81fcc": "https://podkast.nrk.no/fil/tyrann/6bab1b71-ddf2-481f-ab1b-71ddf2c81fcc_ID192MP3.mp3",
-"l_6de75a12-0edc-4f96-a75a-120edc4f9656": "https://podkast.nrk.no/fil/tyrann/6de75a12-0edc-4f96-a75a-120edc4f9656_2_ID192MP3.mp3",
-"l_6e6f9e1c-2d4e-44c1-af9e-1c2d4e74c1a0": "https://podkast.nrk.no/fil/tyrann/6e6f9e1c-2d4e-44c1-af9e-1c2d4e74c1a0_2_ID192MP3.mp3",
-"l_7b3e7338-00d3-4877-be73-3800d35877ac": "https://podkast.nrk.no/fil/tyrann/1f6b8969-0774-41d4-8d04-54055c1d1f3d_0_ID192MP3.mp3",
-"l_7c4540af-05f7-4e1e-8540-af05f7fe1e44": "https://podkast.nrk.no/fil/tyrann/7c4540af-05f7-4e1e-8540-af05f7fe1e44_1_ID192MP3.mp3",
-"l_7f7b10af-8fb1-407f-bb10-af8fb1207fdf": "https://podkast.nrk.no/fil/tyrann/7f7b10af-8fb1-407f-bb10-af8fb1207fdf_ID192MP3.mp3",
-"l_8108e9a3-3b12-4045-88e9-a33b12c04567": "https://podkast.nrk.no/fil/tyrann/8108e9a3-3b12-4045-88e9-a33b12c04567_ID192MP3.mp3",
-"l_81208312-002f-4cde-a083-12002f8cded5": "https://podkast.nrk.no/fil/tyrann/81208312-002f-4cde-a083-12002f8cded5_ID192MP3.mp3",
-"l_82447699-238c-4fd0-8476-99238cdfd096": "https://podkast.nrk.no/fil/tyrann/8085725d-6e55-4413-b9b0-b7df6e92789a_0_ID192MP3.mp3",
-"l_8259995b-c22a-4800-9999-5bc22a58008c": "https://podkast.nrk.no/fil/tyrann/196979be-88d8-497c-9b37-15b987389bb8_0_ID192MP3.mp3",
-"l_83027f54-a9ef-4ae5-827f-54a9efdae56c": "https://podkast.nrk.no/fil/tyrann/36c22444-be65-40f6-831a-28c6e894cc9b_0_ID192MP3.mp3",
-"l_838e3b4d-5964-4cd9-8e3b-4d5964ccd9bb": "https://podkast.nrk.no/fil/tyrann/838e3b4d-5964-4cd9-8e3b-4d5964ccd9bb_1_ID192MP3.mp3",
-"l_84a12eb9-47ed-4a12-a12e-b947ed3a12e2": "https://podkast.nrk.no/fil/tyrann/84a12eb9-47ed-4a12-a12e-b947ed3a12e2_2_ID192MP3.mp3",
-"l_886d1fa4-c56f-45a9-ad1f-a4c56fe5a98e": "https://podkast.nrk.no/fil/tyrann/886d1fa4-c56f-45a9-ad1f-a4c56fe5a98e_1_ID192MP3.mp3",
-"l_8946ee28-0799-4d9f-86ee-2807998d9fdf": "https://podkast.nrk.no/fil/tyrann/8946ee28-0799-4d9f-86ee-2807998d9fdf_ID192MP3.mp3",
-"l_8b6b1353-7411-49cd-ab13-53741129cd24": "https://podkast.nrk.no/fil/tyrann/8b6b1353-7411-49cd-ab13-53741129cd24_1_ID192MP3.mp3",
-"l_91b3f66f-581c-4fdb-b3f6-6f581c7fdb47": "https://podkast.nrk.no/fil/tyrann/91b3f66f-581c-4fdb-b3f6-6f581c7fdb47_ID192MP3.mp3",
-"l_92848756-ff05-4287-8487-56ff05e28797": "https://podkast.nrk.no/fil/tyrann/92848756-ff05-4287-8487-56ff05e28797_ID192MP3.mp3",
-"l_9acab3df-09a9-4747-8ab3-df09a9274787": "https://podkast.nrk.no/fil/tyrann/9acab3df-09a9-4747-8ab3-df09a9274787_1_ID192MP3.mp3",
-"l_a0227e2e-5d5e-4385-a27e-2e5d5ee38541": "https://podkast.nrk.no/fil/tyrann/a0227e2e-5d5e-4385-a27e-2e5d5ee38541_1_ID192MP3.mp3",
-"l_a16aab26-6346-46d6-aaab-266346b6d6af": "https://podkast.nrk.no/fil/tyrann/95e91150-5805-4554-8994-b9b0b2f86600_0_ID192MP3.mp3",
-"l_a1c4c78b-42ac-4188-84c7-8b42acb188df": "https://podkast.nrk.no/fil/tyrann/66b64624-1ea8-48be-b044-3d23f3088f33_0_ID192MP3.mp3",
-"l_a8e10b5a-283a-4698-a10b-5a283a0698db": "https://podkast.nrk.no/fil/tyrann/3dc2753d-c143-49a8-a021-230187b510d7_0_ID192MP3.mp3",
-"l_aca4f4ab-0085-4b72-a4f4-ab0085bb72f1": "https://podkast.nrk.no/fil/tyrann/0713f801-afea-444f-b005-91c3a30ff157_0_ID192MP3.mp3",
-"l_aefd39d6-d0cc-42eb-bd39-d6d0cc42eb7a": "https://podkast.nrk.no/fil/tyrann/aefd39d6-d0cc-42eb-bd39-d6d0cc42eb7a_1_ID192MP3.mp3",
-"l_b6163684-aaa7-4973-9636-84aaa70973c3": "https://podkast.nrk.no/fil/tyrann/fbe9211a-7086-4aab-9d89-a8e52bc4d06b_0_ID192MP3.mp3",
-"l_b6866248-dc4b-4136-8662-48dc4bd1366b": "https://podkast.nrk.no/fil/tyrann/a925c6e6-32fe-4ae5-9315-8565578a0d1f_0_ID192MP3.mp3",
-"l_bda60d1e-a5c7-4e60-a60d-1ea5c71e60a8": "https://podkast.nrk.no/fil/tyrann/bda60d1e-a5c7-4e60-a60d-1ea5c71e60a8_1_ID192MP3.mp3",
-"l_c02f52b7-5b9c-489f-af52-b75b9c489f67": "https://podkast.nrk.no/fil/tyrann/5ed7ae3e-3604-4621-afc0-f51b8e13f235_0_ID192MP3.mp3",
-"l_c153f33d-05f4-476e-93f3-3d05f4e76e30": "https://podkast.nrk.no/fil/tyrann/2fef0bdb-04e6-4893-8632-5ff21a2074d2_0_ID192MP3.mp3",
-"l_c26d5321-a77e-4172-ad53-21a77e8172bf": "https://podkast.nrk.no/fil/tyrann/c26d5321-a77e-4172-ad53-21a77e8172bf_ID192MP3.mp3",
-"l_c283d80e-d1d6-4c6b-83d8-0ed1d63c6bb7": "https://podkast.nrk.no/fil/tyrann/6e5049a4-910c-452c-a02a-2602509fc1e4_0_ID192MP3.mp3",
-"l_c56a2c16-f0a2-4dd7-aa2c-16f0a26dd717": "https://podkast.nrk.no/fil/tyrann/c56a2c16-f0a2-4dd7-aa2c-16f0a26dd717_1_ID192MP3.mp3",
-"l_c7984076-92fc-4e12-9840-7692fcce12a8": "https://podkast.nrk.no/fil/tyrann/c7984076-92fc-4e12-9840-7692fcce12a8_1_ID192MP3.mp3",
-"l_cdf6d6b7-ed83-47e0-b6d6-b7ed8307e06b": "https://podkast.nrk.no/fil/tyrann/7a4b8972-50b0-470d-904d-7dd369f6d665_0_ID192MP3.mp3",
-"l_d02e99d4-67b3-407a-ae99-d467b3207ab8": "https://podkast.nrk.no/fil/tyrann/f6a2874e-2547-43a3-ac2b-d59636153f16_0_ID192MP3.mp3",
-"l_d0acea7b-86b8-432c-acea-7b86b8b32c5a": "https://podkast.nrk.no/fil/tyrann/26bee58a-659b-4c17-8408-469e8cd70061_0_ID192MP3.mp3",
-"l_d0f28f7c-5aaf-4a8a-b28f-7c5aaf6a8aa5": "https://podkast.nrk.no/fil/tyrann/d0f28f7c-5aaf-4a8a-b28f-7c5aaf6a8aa5_ID192MP3.mp3",
-"l_d176a9b4-2bbe-47ce-b6a9-b42bbec7ceee": "https://podkast.nrk.no/fil/tyrann/d176a9b4-2bbe-47ce-b6a9-b42bbec7ceee_ID192MP3.mp3",
-"l_d3e4a2f9-bba0-4c54-a4a2-f9bba0fc54eb": "https://podkast.nrk.no/fil/tyrann/d3e4a2f9-bba0-4c54-a4a2-f9bba0fc54eb_1_ID192MP3.mp3",
-"l_d677c5d8-a4a0-4cee-b7c5-d8a4a08ceef7": "https://podkast.nrk.no/fil/tyrann/d677c5d8-a4a0-4cee-b7c5-d8a4a08ceef7_2_ID192MP3.mp3",
-"l_dff3e492-8d8c-4d12-b3e4-928d8c8d12b0": "https://podkast.nrk.no/fil/tyrann/dff3e492-8d8c-4d12-b3e4-928d8c8d12b0_ID192MP3.mp3",
-"l_e2f2ad65-94e9-4b26-b2ad-6594e9eb26f9": "https://podkast.nrk.no/fil/tyrann/e2f2ad65-94e9-4b26-b2ad-6594e9eb26f9_ID192MP3.mp3",
-"l_e6dc3fb6-7ec8-42a5-9c3f-b67ec832a561": "https://podkast.nrk.no/fil/tyrann/80664c4a-0e78-4a46-8956-636dd7689a5c_0_ID192MP3.mp3",
-"l_ea6b51d9-b124-40e0-ab51-d9b12420e07f": "https://podkast.nrk.no/fil/tyrann/eaa2f7c6-f58f-4f38-a016-5751dfb143f4_0_ID192MP3.mp3",
-"l_ed1562b8-2c2d-40f5-9562-b82c2df0f597": "https://podkast.nrk.no/fil/tyrann/d8670218-8207-40cd-87f9-245bf020d363_0_ID192MP3.mp3",
-"l_eff6581b-273e-4614-b658-1b273e16144f": "https://podkast.nrk.no/fil/tyrann/938442fc-5dfd-4ca5-90f3-b4b93d0c3bc7_0_ID192MP3.mp3",
-"l_f1c0907d-bee5-4a77-8090-7dbee52a779c": "https://podkast.nrk.no/fil/tyrann/f1c0907d-bee5-4a77-8090-7dbee52a779c_2_ID192MP3.mp3",
-"l_f720fa8c-2c2f-43e0-a0fa-8c2c2fd3e0e8": "https://podkast.nrk.no/fil/tyrann/51240369-e600-4626-835e-39367585a7ba_0_ID192MP3.mp3",
-"l_f87dbd1f-22fd-409f-bdbd-1f22fde09fc6": "https://podkast.nrk.no/fil/tyrann/f87dbd1f-22fd-409f-bdbd-1f22fde09fc6_ID192MP3.mp3",
-"l_f95f8ff9-e73f-4542-9f8f-f9e73fd54242": "https://podkast.nrk.no/fil/tyrann/2ed819a8-571c-4bd3-b170-7ee36d80f612_0_ID192MP3.mp3"
+"episodes": {
+"l_006d402b-a9b1-480b-ad40-2ba9b1b80b57": {
+"d": "2026-06-27T06:02:00+02:00",
+"i": "https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw",
+"n": 1648,
+"s": "Hoxha elsker to ting: statuer av seg selv, og bunkere til folket. Han er nemlig den eneste som kan beskytte albanerne mot fienden.",
+"t": "Enver Hoxha (3:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/006d402b-a9b1-480b-ad40-2ba9b1b80b57_1_ID192MP3.mp3"
+},
+"l_01907f0c-54ea-4ff9-907f-0c54eaeff9d3": {
+"d": "2026-05-30T06:01:00+02:00",
+"i": "https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g",
+"n": 2196,
+"s": "For første gang er makten innen rekkevidde, men snart kommer Taylor på kant med de brutale mennene som skulle føre ham til topps.",
+"t": "Charles Taylor (2:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/01907f0c-54ea-4ff9-907f-0c54eaeff9d3_1_ID192MP3.mp3"
+},
+"l_01bb5e06-040c-407e-bb5e-06040c407ee9": {
+"d": "2025-08-23T06:04:00+02:00",
+"i": "https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA",
+"n": 2262,
+"s": "På én natt dreper amerikanske brannbomber 100 000 i Tokyo, men Hirohito nekter å overgi seg. Så slipper USA atombomber over Japan.",
+"t": "Hirohito (5:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/01bb5e06-040c-407e-bb5e-06040c407ee9_2_ID192MP3.mp3"
+},
+"l_0286efff-096f-45d5-86ef-ff096f15d573": {
+"d": "2024-10-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA",
+"n": 2055,
+"s": "Saddam har i hele barndommen blitt utsatt for ydmykelse, juling og mobbing. Men én dag blir det HANS tur til å pine og plage.\n\nKilder:\nBlaydes, Lisa (2018): State of Repression\nCoughlin, Con (2002): Saddam\nFaust, Aaron M. (2015): Ba'thifiseringen av Irak\nKarsh, Ephraim og Inari Rautsi (1991): Saddam Hussein\nNielsen, Helle Lykke (2004): Saddam\nNixon, John (2016): Debriefing the President\n\nTyrann er en versjonering av den danske podkasten med samme navn.",
+"t": "Saddam Hussein (1:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/04b34250-8599-48bd-927c-33bda2752ec6_0_ID192MP3.mp3"
+},
+"l_034789d3-0bc6-4e2b-8789-d30bc6de2baa": {
+"d": "2026-05-02T06:04:00+02:00",
+"i": "https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g",
+"n": 1708,
+"s": "Khomeini er svært fornøyd med revolusjonen sin, og vil spre sitt gledelige budskap til nabolandene. Men en av naboene går til krig!",
+"t": "Khomeini (5:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/034789d3-0bc6-4e2b-8789-d30bc6de2baa_1_ID192MP3.mp3"
+},
+"l_040befb1-8980-468d-8bef-b18980468d2b": {
+"d": "2026-04-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/SZrX6HFMpzk_bMFFDOUGYAoXmVSyBuS5K3p1dfrL_CWQ",
+"n": 1781,
+"s": "Etter å ha mistet mor og søsken i et digert jordskjelv jobber lille Nijazov seg opp til storhet. Eller rendyrket stormannsgalskap?\n\nKilder:\nRuhnama Bind 1 & 2 -  Saparmurat Nijazov\nThe Temptations of Tyranny in Central Asia - David Lewis\nIt's a Gas - Funny Business in the Turkmen-Ukraine Gastrade - Global Witness (website)\nWhen a Kleptocratic, Megalomanûacal Dictator Goes Bad - Ilan Greenberg (New York Times)\nThe Golden Man - Paul Theroux (The New Yorker)",
+"t": "Nijazov (1:3)",
+"u": "https://podkast.nrk.no/fil/tyrann/040befb1-8980-468d-8bef-b18980468d2b_1_ID192MP3.mp3"
+},
+"l_0cd12bef-4e0e-49bb-912b-ef4e0eb9bb8d": {
+"d": "2025-02-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/QCWgbUDXZQ3sQqcdnfv-SATspwZx9KNHlzMRcWDsjNTQ",
+"n": 2154,
+"s": "\"Tonton Macoute\" er  navnet på et barnespisende monster fra haitisk folketro. Men også det folk kaller Papa Docs nye private hær.",
+"t": "Papa Doc (2:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/25159458-9958-4ec6-a6eb-9fd40e6bdbda_0_ID192MP3.mp3"
+},
+"l_1b177e0c-beb7-4687-977e-0cbeb7268720": {
+"d": "2025-05-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA",
+"n": 2083,
+"s": "Lenin vil styrte tsaren og starte revolusjon i Russland. Men hver gang muligheten byr seg, sitter han tusenvis av kilometer unna.",
+"t": "Lenin (2:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/7d8101d7-3e54-44ea-96d5-bebede723c35_0_ID192MP3.mp3"
+},
+"l_1e4ea748-e360-47f4-8ea7-48e36007f4a4": {
+"d": "2025-01-07T06:05:00+01:00",
+"i": "https://gfx.nrk.no/M0QWEaLxN1kpHpmIAWIyjg8yTdlOj88D6VQoXXS1PEzA",
+"n": 1678,
+"s": "Mussolini forfører massene og kaller seg Il Duce – Føreren. Han vil ta makta og får forstadsfascistene til å marsjere mot Roma.",
+"t": "Benito Mussolini (2:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/afba721d-40b1-4230-ae21-cc8737abfbf9_0_ID192MP3.mp3"
+},
+"l_21823b73-7f02-4175-823b-737f023175df": {
+"d": "2025-03-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Z2P-NsjX8l3lA-hrtQMgJAB_DxQ-6cHM3UYLtQPHsSYw",
+"n": 2103,
+"s": "Frykten for kommunistene har holdt Suhartos diktatormaskin i gang. Nå følger en blodig jakt på kommunister i nabolandet Øst-Timor.",
+"t": "SUHARTO (3:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/dc177bf4-fbc8-4680-9989-ff057167edef_0_ID192MP3.mp3"
+},
+"l_21b2c608-e2d3-4856-b2c6-08e2d36856ac": {
+"d": "2024-10-29T06:00:00+01:00",
+"i": "https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA",
+"n": 2155,
+"s": "Saddams familieliv er som en blodig såpeopera. Bestående av en bisarr samling psykopater, divaer og mordere.",
+"t": "Saddam Hussein (4:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/36dddb32-e0dd-4684-a1fd-196a6a681007_0_ID192MP3.mp3"
+},
+"l_243ad498-6e72-4c58-bad4-986e727c5837": {
+"d": "2025-01-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/M0QWEaLxN1kpHpmIAWIyjg8yTdlOj88D6VQoXXS1PEzA",
+"n": 1741,
+"s": "Roma gjennomsyres av fascistisk propaganda. På bygg, trikker og kinofilmer. Land skal erobres, og det romerske imperiet gjenfødes!",
+"t": "Benito Mussolini (3:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/c89a7013-9bd6-44f4-be42-6d2e96ecde49_0_ID192MP3.mp3"
+},
+"l_25af223f-25bc-45aa-af22-3f25bc25aae1": {
+"d": "2024-11-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/sMu2d2YYk1odBMshimtJcAMrhvqClJcrSZc-_wXvQnQQ",
+"n": 2071,
+"s": "I en tåke av frykt og paranoia, setter Pol Pot i gang en kjede av bestialske voldshandlinger. Advarsel: beskrivelse av vold og tortur.",
+"t": "Pol Pot (4:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/36035507-b073-47f8-a025-62fb3bcb2537_0_ID192MP3.mp3"
+},
+"l_25c45756-3e68-4ee5-8457-563e680ee583": {
+"d": "2025-01-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/M0QWEaLxN1kpHpmIAWIyjg8yTdlOj88D6VQoXXS1PEzA",
+"n": 2191,
+"s": "Mussolini og Adolf Hitler har blitt venner. Men snart taper Mussolini i konkurransen om hvem som er den beste fascisten.",
+"t": "Benito Mussolini (4:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/d8655451-fd90-4a14-932f-b97cead122c9_0_ID192MP3.mp3"
+},
+"l_26d61086-0565-41de-9610-860565a1ded2": {
+"d": "2025-10-18T06:01:00+02:00",
+"i": "https://gfx.nrk.no/melVaukBbHoRySHtX893GwAskKMQYOLnc7MfSOfj66FA",
+"n": 2610,
+"s": "I den spanske borgerkrigen pøser Franco på med skitne triks, inkludert militær hjelp fra sine fascistkolleger Hitler og Mussolini.",
+"t": "Franco (2:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/26d61086-0565-41de-9610-860565a1ded2_ID192MP3.mp3"
+},
+"l_2adfdab5-ec38-45ad-9fda-b5ec38b5adf2": {
+"d": "2025-06-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nwIg_fF50IbohUY8zrFiAgnYFHc5u-1MRe0sBCaEPmxw",
+"n": 1748,
+"s": "Når Pinochet får overtenning presser USA på for å få dempet diktatorens blodtørst. Men klarer en tyrann gi fra seg makt frivillig?",
+"t": "Pinochet (3:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/bd306695-34e8-4689-8c16-44b8b28cefa3_0_ID192MP3.mp3"
+},
+"l_2bc19d21-29f9-4a16-819d-2129f9fa1648": {
+"d": "2025-09-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/cFlHWeXp-d-9QvF-xxK2nwm_6fISUmxC7jvbJqO0GyaQ",
+"n": 2317,
+"s": "Milošević går over mange lik for å få makt. Først ryker nære venner, så etter hvert alle som er imot serbisk dominans på Balkan.\n\n\nKilder: \nMilošević: portrait of a tyrant - Branson, Louise og Dusko doder (1999) \nSerpent in the bosom : the rise and fall of Slobodan Milošević - Cohen, Lenard J. (2000) \nRadovan Karadžić: Architect of the Bosnian genocide - Donia, Robert J. (2015) \nThe Kosovo report : conflict, international response, lessons learned - Independent International Commission on Kosovo (2000) \nMilošević: a biography  - Lebor, Adam (2004)  \nSlobodan Milošević and the destruction of Yugoslavia - Sell, Louis (2003)",
+"t": "Milošević (1:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/2bc19d21-29f9-4a16-819d-2129f9fa1648_1_ID192MP3.mp3"
+},
+"l_2c54d299-1eb0-43e4-94d2-991eb043e4af": {
+"d": "2024-12-31T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7k_YzC46-QZTe1ICXmNclwkQsLqJMEwgWmEkjj9GFj2Q",
+"n": 2413,
+"s": "I et forsøk på å skaffe seg nye allierte i muslimske land, setter Idi Amin seg opp mot Israel. Det skulle han aldri ha gjort.",
+"t": "Idi Amin (6:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/08173939-76d0-4baf-a10e-b81b439138b6_0_ID192MP3.mp3"
+},
+"l_2d899fe9-7bcf-4ec7-899f-e97bcfeec78a": {
+"d": "2026-05-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g",
+"n": 2631,
+"s": "Fattiggutten Charles Taylor drømmer om å endre Liberias skjebne. For å oppfylle drømmen, behøver han folk med blod på hendene.\n\nKilder:\nCharles Taylor and Liberia: Ambition and Atrocity in Africa's Lone Star State - Collin M. Waugh (Zed Books, 2011)\nHuman Rights Watch Reports 1990, 1993, 1994, 1995, 2001, 2004\nChildren in combat, TRC Final Report - https://www.trcofliberia.org/index.html\n\nTaylors forsvar: \nhttps://www.youtube.com/@charlestaylor1182\n\nRettsdokumenter: https://www.sierra-leone.org/Documents/Decisions/Taylor/1283/SCSL-03-01-T-1283.pdf?utm_source=chatgpt.com\n\nAmnesty: https://www.amnesty.org/fr/wp-content/uploads/2021/08/afr340092004en.pdf?utm_source=chatgpt.com + https://www.amnesty.org/en/wp-content/uploads/2021/06/afr340092001en.pdf?utm_source=chatgpt.com\n\nWikipedia",
+"t": "Charles Taylor (1:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/2d899fe9-7bcf-4ec7-899f-e97bcfeec78a_1_ID192MP3.mp3"
+},
+"l_2dfa5f1e-f496-4e70-ba5f-1ef496ee7087": {
+"d": "2025-03-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Z2P-NsjX8l3lA-hrtQMgJAB_DxQ-6cHM3UYLtQPHsSYw",
+"n": 1858,
+"s": "Indonesias økonomi begynner å vakle, og USA er heller ikke så begeistret lenger. Men Suharto er ikke en du blir kvitt så lett.",
+"t": "SUHARTO (4:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/50588961-e048-494c-bed3-e7ad525274d4_0_ID192MP3.mp3"
+},
+"l_2e9ab28f-8702-415c-9ab2-8f8702315cfd": {
+"d": "2026-02-07T06:02:00+01:00",
+"i": "https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA",
+"n": 1873,
+"s": "Trujillo er blitt gammel og mer og mer skranten. Han babler hele tiden om at noen vil drepe ham. Og det kan han jo ha helt rett i.",
+"t": "Trujillo (3:3)",
+"u": "https://podkast.nrk.no/fil/tyrann/2e9ab28f-8702-415c-9ab2-8f8702315cfd_ID192MP3.mp3"
+},
+"l_30b32ca2-1d9e-4a2d-b32c-a21d9e7a2d36": {
+"d": "2025-04-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/cl8RHGvnCh1aQncYHkqDgQAcmOV6Q-8LJhGFl55sbdLg",
+"n": 1964,
+"s": "Ble Kim Jong Il født under en dobbel regnbue ved foten av et magisk fjell mens en nyfødt stjerne tindret på himmelen, eller...?",
+"t": "Kim Il Sung & Kim Jong Il (2:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/de177a4d-6d39-462f-94e8-48bb56e7170c_0_ID192MP3.mp3"
+},
+"l_359733aa-c2e5-4442-9733-aac2e5144225": {
+"d": "2026-03-07T06:03:00+01:00",
+"i": "https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog",
+"n": 2343,
+"s": "Etter et statsbesøk i Nord-Korea ønsker Ceaușescu å omskape seg selv til en like høyt elsket og guddommelig leder som Kim Il Sung.",
+"t": "Ceaușescu (4:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/359733aa-c2e5-4442-9733-aac2e5144225_ID192MP3.mp3"
+},
+"l_35d5f8eb-24dc-485c-95f8-eb24dc585c9e": {
+"d": "2026-09-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg",
+"n": 1455,
+"s": "Opprørere jager Gaddafi og hans få tilhengere ut i ørkenen. Snart regner NATO-bomber ned fra himmelen og over diktatorens kolonne.",
+"t": "Gaddafi (1:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/35d5f8eb-24dc-485c-95f8-eb24dc585c9e_1_ID192MP3.mp3"
+},
+"l_36df3213-8fae-4130-9f32-138fae013089": {
+"d": "2025-11-15T06:01:00+01:00",
+"i": "https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA",
+"n": 1722,
+"s": "Bokassas fetter er president i Den sentralafrikanske republikk. Han ydmyker hærsjef Bokassa offentlig. Det skulle han aldri gjort.",
+"t": "Bokassa (2:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/36df3213-8fae-4130-9f32-138fae013089_ID192MP3.mp3"
+},
+"l_37bbde15-1f35-4767-bbde-151f359767ec": {
+"d": "2025-08-23T06:01:00+02:00",
+"i": "https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA",
+"n": 1634,
+"s": "Gudekeiser Hirohito regjerer allmektig over Japans imperium, men ser passivt på når hæren hans plutselig invaderer et fremmed land.",
+"t": "Hirohito (2:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/37bbde15-1f35-4767-bbde-151f359767ec_2_ID192MP3.mp3"
+},
+"l_40231a67-0cea-4a8d-a31a-670ceaea8dd9": {
+"d": "2026-05-02T06:02:00+02:00",
+"i": "https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g",
+"n": 2310,
+"s": "Khomeini sendes i eksil til Tyrkia, men skjønner at sjahens makt minker. Misnøyen i Iran vokser, og Khomeini puster liv til bålet.",
+"t": "Khomeini (3:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/40231a67-0cea-4a8d-a31a-670ceaea8dd9_1_ID192MP3.mp3"
+},
+"l_40859bde-649d-494f-859b-de649db94ff6": {
+"d": "2024-12-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7k_YzC46-QZTe1ICXmNclwkQsLqJMEwgWmEkjj9GFj2Q",
+"n": 1844,
+"s": "Obote har gjort Amin steinrik. Men det er ikke nok for Idi. Han vil også ha makta i landet, og da må han kvitte seg med kompisen.",
+"t": "Idi Amin (3:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/0f247d06-5b0f-4a6b-b96f-c18eeaa4ac58_0_ID192MP3.mp3"
+},
+"l_40d4b4ec-3a86-4b18-94b4-ec3a86ab1842": {
+"d": "2025-01-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/M0QWEaLxN1kpHpmIAWIyjg8yTdlOj88D6VQoXXS1PEzA",
+"n": 2366,
+"s": "Mussolini må ha hjelp av Hitler i alle sine kriger. Hitler frykter at Il Duces udugelighet ødelegger tyskernes felttog i øst.",
+"t": "Benito Mussolini (5:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/785ab647-4222-4916-b9fe-41fc7b3552bd_0_ID192MP3.mp3"
+},
+"l_4109d560-1c43-476e-89d5-601c43c76e59": {
+"d": "2026-05-02T06:03:00+02:00",
+"i": "https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g",
+"n": 1586,
+"s": "Steininger, fengslinger og henrettelser. Ayatollah Khomeinis nye Iran ble ikke akkurat sånn som han hadde lovet det iranske folket.",
+"t": "Khomeini (4:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/4109d560-1c43-476e-89d5-601c43c76e59_1_ID192MP3.mp3"
+},
+"l_41becb19-56e1-4530-becb-1956e16530d3": {
+"d": "2024-12-03T06:05:00+01:00",
+"i": "https://gfx.nrk.no/7k_YzC46-QZTe1ICXmNclwkQsLqJMEwgWmEkjj9GFj2Q",
+"n": 2346,
+"s": "En uskyldig stamme har blitt massakrert, og alle piler peker mot Idi Amin. Hans skjebne avhenger nå av den nye presidenten Obote.",
+"t": "Idi Amin (2:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/327cce0d-3a68-4100-8c98-e546841650fc_0_ID192MP3.mp3"
+},
+"l_489c30ae-d26d-472d-9c30-aed26de72d70": {
+"d": "2025-09-20T06:01:00+02:00",
+"i": "https://gfx.nrk.no/cFlHWeXp-d-9QvF-xxK2nwm_6fISUmxC7jvbJqO0GyaQ",
+"n": 2465,
+"s": "Bosniske Radovan Karadžić og Milošević  setter Balkan i brann. Særlig får byene Sarajevo og Srebrenica føle serberledernes galskap.",
+"t": "Milošević (2:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/489c30ae-d26d-472d-9c30-aed26de72d70_1_ID192MP3.mp3"
+},
+"l_49636cf6-8680-470b-a36c-f68680a70b69": {
+"d": "2026-09-05T06:01:00+02:00",
+"i": "https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg",
+"n": 1761,
+"s": "Muammar Gaddafi vokser opp i ruinene av verdenskrigen. I det ødelagte Libya gjør landets nye konge minimalt for å løse problemene.",
+"t": "Gaddafi (2:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/49636cf6-8680-470b-a36c-f68680a70b69_1_ID192MP3.mp3"
+},
+"l_49e21f4e-5771-4153-a21f-4e5771615337": {
+"d": "2026-01-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ",
+"n": 2494,
+"s": "Når det enorme Kina kollapser og kaos setter inn, griper den revolusjonære særingen Mao makta og en hensynsløs tyrann vokser fram.",
+"t": "Mao (1:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/49e21f4e-5771-4153-a21f-4e5771615337_1_ID192MP3.mp3"
+},
+"l_4abfb346-5ec8-43ac-bfb3-465ec8a3ac38": {
+"d": "2026-01-10T06:01:00+01:00",
+"i": "https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ",
+"n": 1750,
+"s": "Bare noen få overlever Den Lange Marsjen. Nå må Mao gjenoppbygge kommunistpartiet, vinne borgerkrigen og få orden på privatlivet.",
+"t": "Mao (2:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/4abfb346-5ec8-43ac-bfb3-465ec8a3ac38_1_ID192MP3.mp3"
+},
+"l_4d105dbd-5242-435f-905d-bd5242035f8c": {
+"d": "2025-03-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Z2P-NsjX8l3lA-hrtQMgJAB_DxQ-6cHM3UYLtQPHsSYw",
+"n": 2169,
+"s": "Suhartos jakt på kommunister leder til et grotesk folkemord. Og amerikanerne vil gjerne hjelpe ham med å bli president.",
+"t": "SUHARTO (2:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/b8e65765-e52a-4506-be1c-509e24edcd7a_0_ID192MP3.mp3"
+},
+"l_53b206c6-868a-4867-b206-c6868a586754": {
+"d": "2026-09-05T06:03:00+02:00",
+"i": "https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg",
+"n": 1917,
+"s": "Opprørske naboland, afrikanske diktatorer og internasjonale terrorister – alle kan bli hjulpet av Gaddafis oljepenger og militser.",
+"t": "Gaddafi (4:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/53b206c6-868a-4867-b206-c6868a586754_1_ID192MP3.mp3"
+},
+"l_53e9332d-fba6-41d7-a933-2dfba611d7f6": {
+"d": "2026-01-10T06:04:00+01:00",
+"i": "https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ",
+"n": 1750,
+"s": "Mao mister tillit til sin lojale høyre hånd, Lin Biao. Men det rammer også formannen selv, for hva er vel livet verdt uten venner?",
+"t": "Mao (5:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/53e9332d-fba6-41d7-a933-2dfba611d7f6_1_ID192MP3.mp3"
+},
+"l_58ec67c3-20f4-4b2b-ac67-c320f48b2bd0": {
+"d": "2025-05-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA",
+"n": 1943,
+"s": "For Lenin er politikk også lik vold. Overfor politiske motstandere, rikfolk og adel, og ikke minst overfor tsaren og hans familie.",
+"t": "Lenin (4:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/2601aed2-ad19-4f74-a23d-a46d14ca2f14_0_ID192MP3.mp3"
+},
+"l_5a3ceae2-8aa8-4924-bcea-e28aa8492487": {
+"d": "2026-09-05T06:02:00+02:00",
+"i": "https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg",
+"n": 1948,
+"s": "Gaddafi har store vyer for Libya. Hele samfunnet skal rives opp med roten og omformes. Men hvorfor må man alltid forhandle om alt?",
+"t": "Gaddafi (3:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/5a3ceae2-8aa8-4924-bcea-e28aa8492487_1_ID192MP3.mp3"
+},
+"l_5a86322c-8dfd-4c6b-8632-2c8dfd2c6b37": {
+"d": "2025-08-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA",
+"n": 2014,
+"s": "Hirohito blir født som gud, og etter en bisarr oppvekst ender han opp som en sosialt hemma keiser med kronisk beslutningsvegring.\n\n\nKilder:\nHirohito and the making of modern Japan - Herbert Bix \nTojo: The last Banzai - Courtney Browne \nUnit 731: testimony - Hal Gold \nShanghai 1937: Stalingrad on the yangtze - Peter Harmsen \nStorm over Stillehavet anden verdenskrig i Asien - Peter Harmsen \nHirohito's War- The Pacific War, 1941-1945 - Francis Pike \nFactories of death: Japanese biological warfare, 1932-45, and the American cover-up - Sheldon Harris",
+"t": "Hirohito (1:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/5a86322c-8dfd-4c6b-8632-2c8dfd2c6b37_2_ID192MP3.mp3"
+},
+"l_5b91a5c7-eae5-452a-91a5-c7eae5552a7f": {
+"d": "2026-06-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw",
+"n": 2152,
+"s": "Etter å ha fått kasta nazistene ut av Albania blir Enver Hoxha landets kommunistleder. De neste 43 åra får ikke folket mye frihet.\n\nKilder:\nDancing Bears: True Stories of People Nostalgic for Life Under Tyranny - Witold Szablowski (Penguin Books 2014)\nEnver Hoxha: The Iron Fist of Albania - Blendi Fevizu (Bloomsbury Academic, 2022)\nThe Accursed Mountains - Robert Carver (Abbeville Press, 1998)\n\nPodkast:\nEnver Hoxha - hersker af Europas mest lukkede land (Radio IIII, 2025)",
+"t": "Enver Hoxha (1:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/5b91a5c7-eae5-452a-91a5-c7eae5552a7f_1_ID192MP3.mp3"
+},
+"l_5ee05f1c-9e73-4430-a05f-1c9e73543002": {
+"d": "2025-05-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA",
+"n": 2545,
+"s": "Lenin er svært syk. Han vant makta, nå vil han bare dø. Men Stalin tillater ikke det, og Lenins og landets lidelser dras ut i tid.",
+"t": "Lenin (5:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/8b3322a1-c345-44b5-a128-a941a813b600_0_ID192MP3.mp3"
+},
+"l_5fac9026-179a-499e-ac90-26179af99ebf": {
+"d": "2026-03-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog",
+"n": 1647,
+"s": "Ceaușescus oppvekst er fattig på kjærlighet. Han forelsker seg i kommunismen, og kastes ut i en turbulent ungdomstid i Romania.\n\nKilder:\nNicolae Ceaușescu : a study in political leadership - Mary Ellen Fischer \nCeaușescus taler: Uddrag af taler, interviews og artikler - Nicolae Ceaușescu / K. Helveg Petersen \nRed Horizons: The True Story of Nicolae and Elena Ceaușescus' Crimes, Lifestyle, and Corruption - Ion Mihai Pacepa \nCeaușescu and the Securitate: Coercion and Dissent in Romania, 1965-1989 - Dennis Deletant \nKiss the hand you cannot bite - Edward Behr\nThe King of Communism: Nicolae Ceaușescu (2016) BBC-dokumentar \nThe Autobiography of Nicolae Ceaușescu (2010) rumensk dokumentar",
+"t": "Ceaușescu (1:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/5fac9026-179a-499e-ac90-26179af99ebf_ID192MP3.mp3"
+},
+"l_629f2e8e-d30a-45c4-9f2e-8ed30ab5c4d2": {
+"d": "2025-11-15T06:02:00+01:00",
+"i": "https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA",
+"n": 2088,
+"s": "Frankrikes president Giscard d'Estaing elsker Bokassas diamantgaver og safariturer, og blir den brutale diktatorens høye beskytter.",
+"t": "Bokassa (3:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/629f2e8e-d30a-45c4-9f2e-8ed30ab5c4d2_ID192MP3.mp3"
+},
+"l_647f4782-463b-4665-bf47-82463b1665e0": {
+"d": "2025-02-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/QCWgbUDXZQ3sQqcdnfv-SATspwZx9KNHlzMRcWDsjNTQ",
+"n": 2062,
+"s": "Den gode barnelegen Francois Duvalier forvandles til den onde presidenten «Papa Doc». Folket i Haiti får det mye, mye verre. \n\nKildeliste: \nPapa Doc: Haiti and its Dictator: Barnard Diederich & Al Burt \nPapa Doc, Baby Doc: Haiti and the Duvaliers: James Ferguson \nFrancois & Jean-Claude Duvalier; Erin Condit \nHaiti: A Shattered Nation; Elizabeth Abbott \nWritten in Blood: Robert Debs Heinl \nThird-World Folk Beliefs: Haiti Medical Anthropology: Bryant C. Freeman \nDominican Republic & Haiti country studies: Helen Chapin Metz (red)",
+"t": "Papa Doc  (1:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/8dabbbff-87bd-4673-9d3a-9bf2f85666b0_0_ID192MP3.mp3"
+},
+"l_6bab1b71-ddf2-481f-ab1b-71ddf2c81fcc": {
+"d": "2026-02-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA",
+"n": 1986,
+"s": "Den blodtørstige tyrannen Rafael Trujillo kom fra usle kår og endte med å styre Den dominikanske republikk med drap og folkemord.\n\nKilder\nDeath of the Goat - Bermard Diederich \nTrujillo: The life and times of a caribbean Dictator - Robert D. Crassweller \nThe dictator's seduction - Lauren Derby \nFoundations of despotism - Richard Lee Turits \nThe dictator next door - Eric Paul Roorda",
+"t": "Trujillo (1:3)",
+"u": "https://podkast.nrk.no/fil/tyrann/6bab1b71-ddf2-481f-ab1b-71ddf2c81fcc_ID192MP3.mp3"
+},
+"l_6de75a12-0edc-4f96-a75a-120edc4f9656": {
+"d": "2025-08-23T06:02:00+02:00",
+"i": "https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA",
+"n": 1983,
+"s": "Alt er lov for å vinne krigen mot Kina. Hirohito oppretter Enhet 731, et prosjekt som forsker fram de grusomste biologiske våpen.",
+"t": "Hirohito (3:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/6de75a12-0edc-4f96-a75a-120edc4f9656_2_ID192MP3.mp3"
+},
+"l_6e6f9e1c-2d4e-44c1-af9e-1c2d4e74c1a0": {
+"d": "2026-09-05T06:04:00+02:00",
+"i": "https://gfx.nrk.no/W5bM4maq2U-OwYgLuQhlOQcHq6RPZ4MOSRa3TsfvGtOg",
+"n": 2805,
+"s": "Lockerbie-katastrofen tvinger Gaddafi til å endre taktikk. Men ingen maktmidler kan redde Gaddafi fra hans egen befolknings vrede.",
+"t": "Gaddafi (5:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/6e6f9e1c-2d4e-44c1-af9e-1c2d4e74c1a0_2_ID192MP3.mp3"
+},
+"l_7b3e7338-00d3-4877-be73-3800d35877ac": {
+"d": "2024-11-12T06:05:00+01:00",
+"i": "https://gfx.nrk.no/sMu2d2YYk1odBMshimtJcAMrhvqClJcrSZc-_wXvQnQQ",
+"n": 2081,
+"s": "Om dagen er Pol Pot en beundret gymnaslærer. Om natten en fryktinngytende revolusjonær som planlegger en blodig vei til makten.",
+"t": "Pol Pot (2:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/1f6b8969-0774-41d4-8d04-54055c1d1f3d_0_ID192MP3.mp3"
+},
+"l_7c4540af-05f7-4e1e-8540-af05f7fe1e44": {
+"d": "2026-05-02T06:05:00+02:00",
+"i": "https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g",
+"n": 2247,
+"s": "Kan Khomeini være udødelig? Han er kanskje mer enn en vismann, men til slutt er Khomeini framfor alt en dårlig, blodtørstig taper.",
+"t": "Khomeini (6:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/7c4540af-05f7-4e1e-8540-af05f7fe1e44_1_ID192MP3.mp3"
+},
+"l_7f7b10af-8fb1-407f-bb10-af8fb1207fdf": {
+"d": "2026-03-07T06:01:00+01:00",
+"i": "https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog",
+"n": 1947,
+"s": "I fengsel blir Ceaușescu kjent med partitoppene. Tenner han sigarettene og pusser skoene deres, kan de kanskje gi ham noe tilbake?",
+"t": "Ceaușescu (2:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/7f7b10af-8fb1-407f-bb10-af8fb1207fdf_ID192MP3.mp3"
+},
+"l_8108e9a3-3b12-4045-88e9-a33b12c04567": {
+"d": "2025-11-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA",
+"n": 1799,
+"s": "Bokassa var en foreldreløs 6-åring som ble fransk krigshelt og keiser i eget land - med en skjebne dynket i død, blod og galskap.\n\nKilder: \nDark Age: The Political Odyssey of Emperor Bokassa - Brian Titley \nFrance in Centrafriqu - Peter Baxter \nNarcissus and other Pall Bearers - Wole Soyinka \nMade in France - Thomas O'Toole \nThe Coronation of Emperor Bokassa - John H. Crabb \nFall of a Savage Emperor - Alex Shoumatoff \nBokassa 1er, empereur de Françafrique (TV, Program 33, 2011) \nLa République Centrafricaine de Bokassa (TV, RTBF, 1976) \nCouronnement de Bokassa 1er (TV, Antenne 2, 1977) \nEchos aus einem düsteren Reich (dokumentarfilm, 1990) - Werner Herzog \nLa chute de Bokassa (TV, RTS, 1979)",
+"t": "Bokassa (1:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/8108e9a3-3b12-4045-88e9-a33b12c04567_ID192MP3.mp3"
+},
+"l_81208312-002f-4cde-a083-12002f8cded5": {
+"d": "2026-03-07T06:04:00+01:00",
+"i": "https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog",
+"n": 1432,
+"s": "Mens opprøret ulmer i en stadig mer undertrykt befolkning, tar paranoiaen overhånd hos Ceaușescu. Til slutt eksploderer det hele.",
+"t": "Ceaușescu (5:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/81208312-002f-4cde-a083-12002f8cded5_ID192MP3.mp3"
+},
+"l_82447699-238c-4fd0-8476-99238cdfd096": {
+"d": "2024-10-22T06:03:00+02:00",
+"i": "https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA",
+"n": 1972,
+"s": "Saddams regime har gjort irakerne fattige og sinte. Svaret på alle problemene er en invasjon av det lille nabolandet Kuwait.",
+"t": "Saddam Hussein (3:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/8085725d-6e55-4413-b9b0-b7df6e92789a_0_ID192MP3.mp3"
+},
+"l_8259995b-c22a-4800-9999-5bc22a58008c": {
+"d": "2024-10-22T06:01:00+02:00",
+"i": "https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA",
+"n": 1815,
+"s": "Kurdere, sjiamuslimer og nabolandet Iran skaper problemer for Saddam. Han løser problemene med brutal vold, våpen og giftig gass.",
+"t": "Saddam Hussein (2:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/196979be-88d8-497c-9b37-15b987389bb8_0_ID192MP3.mp3"
+},
+"l_83027f54-a9ef-4ae5-827f-54a9efdae56c": {
+"d": "2025-04-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/cl8RHGvnCh1aQncYHkqDgQAcmOV6Q-8LJhGFl55sbdLg",
+"n": 2474,
+"s": "Diktatorsønnen Kim Jong Il kidnappet en filmstjerne og en regissør fra Sør-Korea. De skulle vise verden at Nord-Korea er best!\n\nKilder: \n\"Nothing to Envy\" av Babara Demick \n\"Under the Loving Care of the Fatherly Leader\" av Brad K. Martin \n\"Koreas Place in the sun: A modern History\" av Bruce Cummings \n\"With the century\" av Kim Il Sung  \n\"Anecdotes of Kim Jong Ils life\" av Kim Jong Il \n\"A Kim Jong-Il Production\" av Paul Fischer",
+"t": "Kim Il Sung & Kim Jong Il (1:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/36c22444-be65-40f6-831a-28c6e894cc9b_0_ID192MP3.mp3"
+},
+"l_838e3b4d-5964-4cd9-8e3b-4d5964ccd9bb": {
+"d": "2026-05-30T06:02:00+02:00",
+"i": "https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g",
+"n": 2519,
+"s": "Hevnens time er kommet! Hvis de andre tyr til skitne triks i kampen om makten, så vil Taylor definitivt bruke samme våpen mot dem.",
+"t": "Charles Taylor (3:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/838e3b4d-5964-4cd9-8e3b-4d5964ccd9bb_1_ID192MP3.mp3"
+},
+"l_84a12eb9-47ed-4a12-a12e-b947ed3a12e2": {
+"d": "2025-08-23T06:03:00+02:00",
+"i": "https://gfx.nrk.no/K8fNQOnw0qmJ2jBgij8qsAHBOchCkN4eHCHA1wuYhGAA",
+"n": 1887,
+"s": "Helt ut av det blå smadrer Hirohitos bomber Pearl Harbor. Men konsekvensene for Japans triumf blir etter hvert et helvete på jord!",
+"t": "Hirohito (4:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/84a12eb9-47ed-4a12-a12e-b947ed3a12e2_2_ID192MP3.mp3"
+},
+"l_886d1fa4-c56f-45a9-ad1f-a4c56fe5a98e": {
+"d": "2026-01-10T06:02:00+01:00",
+"i": "https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ",
+"n": 2413,
+"s": "Kina må bli en industriell stormakt. Dermed starter Mao reformer som dreper millioner av kinesere. Samt så å si samtlige spurver.",
+"t": "Mao (3:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/886d1fa4-c56f-45a9-ad1f-a4c56fe5a98e_1_ID192MP3.mp3"
+},
+"l_8946ee28-0799-4d9f-86ee-2807998d9fdf": {
+"d": "2026-03-07T06:02:00+01:00",
+"i": "https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog",
+"n": 1848,
+"s": "Ut av det blå blir Ceaușescu Romanias nye leder. Han slipper gjerne litt frisk luft inn i landet, om han selv kan bli mer populær.",
+"t": "Ceaușescu (3:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/8946ee28-0799-4d9f-86ee-2807998d9fdf_ID192MP3.mp3"
+},
+"l_8b6b1353-7411-49cd-ab13-53741129cd24": {
+"d": "2026-06-27T06:03:00+02:00",
+"i": "https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw",
+"n": 1836,
+"s": "I 40 år har Hoxha ventet en invasjon, men ennå har ikke noen fiende vist seg. Helt til Mustafa og hans bande går i land i Albania.",
+"t": "Enver Hoxha (4:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/8b6b1353-7411-49cd-ab13-53741129cd24_1_ID192MP3.mp3"
+},
+"l_91b3f66f-581c-4fdb-b3f6-6f581c7fdb47": {
+"d": "2025-10-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/melVaukBbHoRySHtX893GwAskKMQYOLnc7MfSOfj66FA",
+"n": 2386,
+"s": "Stjernegeneral Franco vurderer å fronte et militært opprør fordi han synes Spanias politiske utvikling er totalt ute av kontroll.\n\nKilder:\nFranco : Den store bedrager - Paul Preston \nFrancisco Franco - Joaquin Arraras \nFranco (Profiles in power), Sheelagh Ellwood \nFrancisco Franco: A Life From Beginning To End - Hourly History \nFranco - Antonio Cazorla Sánches \nThe Franco regime - Stanley G. Payne \nFranco : A personal and political biography - Stanley G. Payne & Jesús Palacios",
+"t": "Franco (1:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/91b3f66f-581c-4fdb-b3f6-6f581c7fdb47_ID192MP3.mp3"
+},
+"l_92848756-ff05-4287-8487-56ff05e28797": {
+"d": "2026-02-07T06:01:00+01:00",
+"i": "https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA",
+"n": 1650,
+"s": "Når Trujillo blir lei av dårlige haitiske naboer, løser han det med et grusomt folkemord på alle de som ikke kan uttale \"persille\".",
+"t": "Trujillo (2:3)",
+"u": "https://podkast.nrk.no/fil/tyrann/92848756-ff05-4287-8487-56ff05e28797_ID192MP3.mp3"
+},
+"l_9acab3df-09a9-4747-8ab3-df09a9274787": {
+"d": "2026-01-10T06:03:00+01:00",
+"i": "https://gfx.nrk.no/r4NN2mNTQ8dkN_UO2H4NswoNyaBVecpMNT5hDhy2tnyQ",
+"n": 2137,
+"s": "Mao stoler ikke på noen lengre, så han restarter like godt hele kommunistbevegelsen med Den Store Proletariske Kulturrevolusjonen.",
+"t": "Mao (4:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/9acab3df-09a9-4747-8ab3-df09a9274787_1_ID192MP3.mp3"
+},
+"l_a0227e2e-5d5e-4385-a27e-2e5d5ee38541": {
+"d": "2026-04-04T06:01:00+02:00",
+"i": "https://gfx.nrk.no/SZrX6HFMpzk_bMFFDOUGYAoXmVSyBuS5K3p1dfrL_CWQ",
+"n": 1870,
+"s": "Nijazov styrer landet som et SIMS-spill, og reiser statuer av seg selv i gull og marmor, med statskassa som sin private lommebok.",
+"t": "Nijazov (2:3)",
+"u": "https://podkast.nrk.no/fil/tyrann/a0227e2e-5d5e-4385-a27e-2e5d5ee38541_1_ID192MP3.mp3"
+},
+"l_a16aab26-6346-46d6-aaab-266346b6d6af": {
+"d": "2025-02-25T06:00:00+01:00",
+"i": "https://gfx.nrk.no/pfbMAw29fCFERvE7oYMKqgSeRFjO1yaanorqosm3SiXg",
+"n": 2513,
+"s": "«Baby Doc» gjør Haiti enda verre enn det var under faren, og tjerner store penger på å selge fattigfolks blod og lik til USA.",
+"t": "Baby Doc (4:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/95e91150-5805-4554-8994-b9b0b2f86600_0_ID192MP3.mp3"
+},
+"l_a1c4c78b-42ac-4188-84c7-8b42acb188df": {
+"d": "2025-03-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Z2P-NsjX8l3lA-hrtQMgJAB_DxQ-6cHM3UYLtQPHsSYw",
+"n": 2464,
+"s": "Kommunistiske feminister har drept seks generaler på perverst vis! Det må hevnes, blir folk fortalt. Men er historien sann?   \n\nKilder: \nFriend, Theodore: Indonesian Destinies. \nVickers, Adrian: A history of modern Indonesia. \nElson, Robert E.: Suharto - A Political Biography. \nBevins, Vincent: The Jakarta Method. \nCIA - Research Study: Indonesia - 1965, The Coup that Backfired. \nOppenheimer, Joshua: The Act of Killing. \nRoosa, John: Pretext for Mass Murder. \nPilger, John: Death of a Nation: The East Timor Conspiracy.",
+"t": "SUHARTO (1:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/66b64624-1ea8-48be-b044-3d23f3088f33_0_ID192MP3.mp3"
+},
+"l_a8e10b5a-283a-4698-a10b-5a283a0698db": {
+"d": "2024-12-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7k_YzC46-QZTe1ICXmNclwkQsLqJMEwgWmEkjj9GFj2Q",
+"n": 1935,
+"s": "Amin har endt opp i et “rengjøringsvanvidd”. Han vil rydde i Uganda, og da må alle asiatene i landet dra. Ellers er det verst for dem!",
+"t": "Idi Amin (5:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/3dc2753d-c143-49a8-a021-230187b510d7_0_ID192MP3.mp3"
+},
+"l_aca4f4ab-0085-4b72-a4f4-ab0085bb72f1": {
+"d": "2024-12-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7k_YzC46-QZTe1ICXmNclwkQsLqJMEwgWmEkjj9GFj2Q",
+"n": 1459,
+"s": "Idi er far til mellom 40 og 60 barn. Hør når han hypnotiserer kvinnene,  og tar med utenlandske journalister på krokodillesafari.",
+"t": "Idi Amin (4:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/0713f801-afea-444f-b005-91c3a30ff157_0_ID192MP3.mp3"
+},
+"l_aefd39d6-d0cc-42eb-bd39-d6d0cc42eb7a": {
+"d": "2026-05-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g",
+"n": 1920,
+"s": "Før han går i gang med fatwa og sharia, er den unge Khomeini hellig overbevist om at han er mye tettere på Allah enn alle andre. \n\nKilder:\nI knew the Shah - Al Jazeera (dokumentar, 2009)\nI knew Khomeini - Al Jazeera (dokumentar, 2017)\n\nBlack Wave: Saudi Arabia, Iran and the Rivalry that Unravelled the Middle East - Ghattas, K. (Wildfire, 2020)\nThe Shah - Milani, A. (New York: St. Martin’s Griffin, 2011)  \nKhomeini: Life of the Ayatollah - Moin, B. (London: I.B. Tauris, 1999)  \nIrans moderne historie - Elling, Rasmus Christian\n\nEmergency Episode: Qassem Soleimani and the Bastardful History of U.S./Iran - Evans, R. (host) (‘Relations’ [Podcast episode]. Behind the Bastards, 2020) ‘ iHeartPodcasts, 8 January 2020. (Accessed: 30 January 2026).\nEmpire podcast series on iran: episode 96-125\nConflicted podcast series on Iran\nWiser world podcast series on Iran: “Iran 101”",
+"t": "Khomeini (1:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/aefd39d6-d0cc-42eb-bd39-d6d0cc42eb7a_1_ID192MP3.mp3"
+},
+"l_b6163684-aaa7-4973-9636-84aaa70973c3": {
+"d": "2024-12-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7k_YzC46-QZTe1ICXmNclwkQsLqJMEwgWmEkjj9GFj2Q",
+"n": 2030,
+"s": "Gjennom utallige blodige og brutale kamper for det britiske kolonistyret baner den unge Idi seg vei oppover i systemet i Uganda.\n\nKilder: \nAlicia C. Decker: Idi Amin's Shadow: Women, Gender, and Militarism in Uganda. \nMark Leopold: Idi Amin - The story of Africa's icon of evil. \nHenry Kyemba: Afrikas Hitler - tyve år med Idi Amin. \nErich Wiedemann: Idi Amin - Ugandas diktator. \nBiskop Festo Kivengere: I love Idi Amin. \nWitold Szablowski: How to feed a Dictator.",
+"t": "Idi Amin (1:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/fbe9211a-7086-4aab-9d89-a8e52bc4d06b_0_ID192MP3.mp3"
+},
+"l_b6866248-dc4b-4136-8662-48dc4bd1366b": {
+"d": "2024-11-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/sMu2d2YYk1odBMshimtJcAMrhvqClJcrSZc-_wXvQnQQ",
+"n": 1646,
+"s": "I Pol Pots Kambodsja er nesten alt forbudt, bortsett fra å arbeide på rismarkene. Til og med det å ha en mamma blir ulovlig.\n\nKilder: \nDavid P. Chandler (1992): Brother number one. \nDavid P. Chandler (1999): Voices from S-21. \nHenri Locard (2004): Pol Pots little red book. \nBen Kiernan (2004): How Pol Pot came to power. \nPhilip Short (2004): Pol Pot, historien om et mareritt.\nTyrann er en versjonering av den danske podkasten med samme navn.",
+"t": "Pol Pot (1:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/a925c6e6-32fe-4ae5-9315-8565578a0d1f_0_ID192MP3.mp3"
+},
+"l_bda60d1e-a5c7-4e60-a60d-1ea5c71e60a8": {
+"d": "2026-05-30T06:03:00+02:00",
+"i": "https://gfx.nrk.no/rqLZ_dbqdbUdUvlNjIE_UwZ_Q-thDmWj8c6YDNIT030g",
+"n": 2629,
+"s": "Taylor har nådd toppen, men skjebnen vil noe annet. Nå gjelder ikke lengre Taylors jakt på makt, men rettferdighetens jakt på ham.",
+"t": "Charles Taylor (4:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/bda60d1e-a5c7-4e60-a60d-1ea5c71e60a8_1_ID192MP3.mp3"
+},
+"l_c02f52b7-5b9c-489f-af52-b75b9c489f67": {
+"d": "2025-01-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/M0QWEaLxN1kpHpmIAWIyjg8yTdlOj88D6VQoXXS1PEzA",
+"n": 2111,
+"s": "Benito Mussolini vokser opp til å bli en sint ung mann som vil endre Italia. Han danner Fascistpartiet, som banker opp dem som er uenige. \n\nKildeliste: \nBlood And Power, John Foot - 2022 \nFascist Voices, Christopher Duggan - 2015.  \nMussolini and Italy, Edward Townley - 2015.  \nFascismens Italien, Flemming Larsen - 2010. \nMussolini, R.J.B. Bosworth - 2003.  \nBenito Mussolini, David Downing - 2002.  \nMussolini og Fascismen, Margaret Mulvihill - 1993. \nMy autobiography, Benito Mussolini - 1994.  \nJeg snakker med Bruno, Benito Mussolini, 1942 \nJeg, Il Duces kvinne, Claretta Petacci, 2009 \nMussolini, en studie i makt, Göran Hägg, 2009  \nTalks with Mussolini, by Emil Ludwig 1933, fra The Penguin books of Interviews 1993",
+"t": "Benito Mussolini (1:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/5ed7ae3e-3604-4621-afc0-f51b8e13f235_0_ID192MP3.mp3"
+},
+"l_c153f33d-05f4-476e-93f3-3d05f4e76e30": {
+"d": "2024-11-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/DprXff0ONf72RanxnmXdYggbI_rRG_9DPzNNu5B9KCqA",
+"n": 2161,
+"s": "Saddam sitter fortapt og skitten i et hull i bakken. En gruppe amerikanske soldater i ferd med å kaste en håndgranat ned i hullet.\n\nKilder;  \nBlaydes, Lisa (2018): State of Repression  \nCoughlin, Con (2002): Saddam  \nFaust, Aaron M. (2015): Ba'thifiseringen av Irak  \nKarsh, Ephraim og Inari Rautsi (1991): Saddam Hussein  \nNielsen, Helle Lykke (2004): Saddam  \nNixon, John (2016): Debriefing the President",
+"t": "Saddam Hussein (5:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/2fef0bdb-04e6-4893-8632-5ff21a2074d2_0_ID192MP3.mp3"
+},
+"l_c26d5321-a77e-4172-ad53-21a77e8172bf": {
+"d": "2025-10-18T06:02:00+02:00",
+"i": "https://gfx.nrk.no/melVaukBbHoRySHtX893GwAskKMQYOLnc7MfSOfj66FA",
+"n": 1663,
+"s": "Franco er blitt Spanias diktator og setter straks i gang med å underskrive dødsdommer. Pluss å gjøre Spania mer katolsk enn Paven.",
+"t": "Franco (3:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/c26d5321-a77e-4172-ad53-21a77e8172bf_ID192MP3.mp3"
+},
+"l_c283d80e-d1d6-4c6b-83d8-0ed1d63c6bb7": {
+"d": "2025-02-18T06:00:00+01:00",
+"i": "https://gfx.nrk.no/QCWgbUDXZQ3sQqcdnfv-SATspwZx9KNHlzMRcWDsjNTQ",
+"n": 2296,
+"s": "«Papa Doc» påstår at han ikke kan drepes, og bygger opp et image som «voodoo-gud» som hersker over liv og død.",
+"t": "Papa Doc (3:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/6e5049a4-910c-452c-a02a-2602509fc1e4_0_ID192MP3.mp3"
+},
+"l_c56a2c16-f0a2-4dd7-aa2c-16f0a26dd717": {
+"d": "2025-09-20T06:03:00+02:00",
+"i": "https://gfx.nrk.no/cFlHWeXp-d-9QvF-xxK2nwm_6fISUmxC7jvbJqO0GyaQ",
+"n": 2084,
+"s": "Milošević kjemper sin siste krig, men nå går det galt. NATO bomber Serbia, økonomien kollapser, og folket snur seg mot diktatoren.",
+"t": "Milošević (4:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/c56a2c16-f0a2-4dd7-aa2c-16f0a26dd717_1_ID192MP3.mp3"
+},
+"l_c7984076-92fc-4e12-9840-7692fcce12a8": {
+"d": "2025-09-20T06:02:00+02:00",
+"i": "https://gfx.nrk.no/cFlHWeXp-d-9QvF-xxK2nwm_6fISUmxC7jvbJqO0GyaQ",
+"n": 1616,
+"s": "Plutselig vil Milošević være klok statsmann, mens vold, korrupsjon og nepotisme gjennomsyrer et Serbia der kun de lojale belønnes.",
+"t": "Milošević (3:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/c7984076-92fc-4e12-9840-7692fcce12a8_1_ID192MP3.mp3"
+},
+"l_cdf6d6b7-ed83-47e0-b6d6-b7ed8307e06b": {
+"d": "2025-06-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nwIg_fF50IbohUY8zrFiAgnYFHc5u-1MRe0sBCaEPmxw",
+"n": 1990,
+"s": "Diktatorer og valg er en dårlig mix. Men etter at chilenerne har stemt ut Pinochet, får han støtte fra en gammel, mektig venninne.",
+"t": "Pinochet (4:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/7a4b8972-50b0-470d-904d-7dd369f6d665_0_ID192MP3.mp3"
+},
+"l_d02e99d4-67b3-407a-ae99-d467b3207ab8": {
+"d": "2024-11-12T06:10:00+01:00",
+"i": "https://gfx.nrk.no/sMu2d2YYk1odBMshimtJcAMrhvqClJcrSZc-_wXvQnQQ",
+"n": 1573,
+"s": "Pol Pot tømmer hovedstaden for folk, og avskaffer penger. Alle skal jobbe på rismarkene, og barn fødes til Røde Khmer-soldater.",
+"t": "Pol Pot (3:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/f6a2874e-2547-43a3-ac2b-d59636153f16_0_ID192MP3.mp3"
+},
+"l_d0acea7b-86b8-432c-acea-7b86b8b32c5a": {
+"d": "2024-11-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/sMu2d2YYk1odBMshimtJcAMrhvqClJcrSZc-_wXvQnQQ",
+"n": 1619,
+"s": "Året er 1994. I jungelen sitter en svekket Pol Pot og leser franske sladderblader. Så kommer noen backpackere reisende forbi.",
+"t": "Pol Pot (5:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/26bee58a-659b-4c17-8408-469e8cd70061_0_ID192MP3.mp3"
+},
+"l_d0f28f7c-5aaf-4a8a-b28f-7c5aaf6a8aa5": {
+"d": "2025-10-18T06:03:00+02:00",
+"i": "https://gfx.nrk.no/melVaukBbHoRySHtX893GwAskKMQYOLnc7MfSOfj66FA",
+"n": 2182,
+"s": "Spania er svekket og knekt etter borgerkrigen. Europa vender Franco ryggen etter andre verdenskrig. Så tilbyr USA en vennlig hånd.",
+"t": "Franco (4:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/d0f28f7c-5aaf-4a8a-b28f-7c5aaf6a8aa5_ID192MP3.mp3"
+},
+"l_d176a9b4-2bbe-47ce-b6a9-b42bbec7ceee": {
+"d": "2026-03-07T06:05:00+01:00",
+"i": "https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog",
+"n": 1566,
+"s": "Plutselig er revolusjonen i gang i Romania, og mens jula ringes inn må Ceaușescus flykte for livet fra folkets oppdemte hevntørst.",
+"t": "Ceaușescu (6:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/d176a9b4-2bbe-47ce-b6a9-b42bbec7ceee_ID192MP3.mp3"
+},
+"l_d3e4a2f9-bba0-4c54-a4a2-f9bba0fc54eb": {
+"d": "2026-06-27T06:01:00+02:00",
+"i": "https://gfx.nrk.no/aLvs8uZtbTm3E8cL3rVQgw9awsf6XQaqY5JrqGOl7OWw",
+"n": 1853,
+"s": "Hoxha er blodfan av Stalin. Alt skal gjøres på Sovjetlederens måte. Men når Stalin dør, blir Hoxha og Albania fullstendig isolert.",
+"t": "Enver Hoxha (2:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/d3e4a2f9-bba0-4c54-a4a2-f9bba0fc54eb_1_ID192MP3.mp3"
+},
+"l_d677c5d8-a4a0-4cee-b7c5-d8a4a08ceef7": {
+"d": "2026-05-02T06:01:00+02:00",
+"i": "https://gfx.nrk.no/vHEgBKeLA9m7apQD1UvSowNWxkV57CKHc-X5z3HixZ1g",
+"n": 2240,
+"s": "Alt Khomeini hater, elsker sjahen. Med støtte fra USA vil sjahen bygge et moderne Iran, noe som gjør Khomeini überklar for opprør.",
+"t": "Khomeini (2:6)",
+"u": "https://podkast.nrk.no/fil/tyrann/d677c5d8-a4a0-4cee-b7c5-d8a4a08ceef7_2_ID192MP3.mp3"
+},
+"l_dff3e492-8d8c-4d12-b3e4-928d8c8d12b0": {
+"d": "2025-10-18T06:04:00+02:00",
+"i": "https://gfx.nrk.no/melVaukBbHoRySHtX893GwAskKMQYOLnc7MfSOfj66FA",
+"n": 2427,
+"s": "Politisk kaos truer det moderne Spania, og en aldrende Franco må atter ta jernhanskene fram for å få landet tilbake på rett kurs.",
+"t": "Franco (5:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/dff3e492-8d8c-4d12-b3e4-928d8c8d12b0_ID192MP3.mp3"
+},
+"l_e2f2ad65-94e9-4b26-b2ad-6594e9eb26f9": {
+"d": "2025-11-15T06:04:00+01:00",
+"i": "https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA",
+"n": 2209,
+"s": "Det er tid for folkets revansje, og en snufsende Bokassa styrtes og ydmykes for åpen scene. Men hvor lenge holder en allmenn hevn?",
+"t": "Bokassa (5:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/e2f2ad65-94e9-4b26-b2ad-6594e9eb26f9_ID192MP3.mp3"
+},
+"l_e6dc3fb6-7ec8-42a5-9c3f-b67ec832a561": {
+"d": "2025-05-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA",
+"n": 2346,
+"s": "1917 er det vanvittige revolusjonsåret da Lenins og Russlands skjebner ristes sammen, og ingenting blir noensinne det samme igjen.",
+"t": "Lenin (3:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/80664c4a-0e78-4a46-8956-636dd7689a5c_0_ID192MP3.mp3"
+},
+"l_ea6b51d9-b124-40e0-ab51-d9b12420e07f": {
+"d": "2025-06-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nwIg_fF50IbohUY8zrFiAgnYFHc5u-1MRe0sBCaEPmxw",
+"n": 2336,
+"s": "Brutalt fikk Pinochet bombet seg til topps i Chile. For å få rensket ut all opposisjon, er absolutt alle tenkelige midler tillatt.",
+"t": "Pinochet (2:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/eaa2f7c6-f58f-4f38-a016-5751dfb143f4_0_ID192MP3.mp3"
+},
+"l_ed1562b8-2c2d-40f5-9562-b82c2df0f597": {
+"d": "2025-06-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nwIg_fF50IbohUY8zrFiAgnYFHc5u-1MRe0sBCaEPmxw",
+"n": 2529,
+"s": "I 40 år jobber Pinochet lojalt for Chiles folkevalgte. Men plutselig snur generalen og begår et blodig kupp mot landets president.\n\n\nKilder: \nThe Pinochet File - Peter Kornbluh \nPolitics of Torture - Hugh O'Shaughnessy \nThe Pinochet Affair - Roger Burbach \nSådan forvandlede Pinochet Chile til en rædselsstat - historienet.dk \nMusic and Torture in Chilean Detention Centers - Katia Chornik\nKuppet i Chile og den danske venstrefløj - Morten Lassen",
+"t": "Pinochet (1:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/d8670218-8207-40cd-87f9-245bf020d363_0_ID192MP3.mp3"
+},
+"l_eff6581b-273e-4614-b658-1b273e16144f": {
+"d": "2025-04-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/rNL8dHmJsLS2eF8vbqrxAgwBm24OL4wfYulZQD-NdnwA",
+"n": 2181,
+"s": "Lille Vladimir er egentlig bare en asosial tenåringsnerd. Men når storebroren hans blir hengt, sverger gutten hevn over tsaren!\n\nKilder:  \n'Lenin' av Kurt Jacobsen \n'Lenin - En revolutionær fundamentalist' av Niels Erik Rosenfeldt \n'Lenin - The Dictator' av Victor Sebestyen \n'History's Greatest Heist - The Looting of Russia by the Bolscheviks' av Sean McMeekin \n'Immortalization Commission - The Strange Quest to Cheat Death' av John Gray \n'Lenin Lives!' av Nina Tumarkin",
+"t": "Lenin (1:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/938442fc-5dfd-4ca5-90f3-b4b93d0c3bc7_0_ID192MP3.mp3"
+},
+"l_f1c0907d-bee5-4a77-8090-7dbee52a779c": {
+"d": "2026-04-04T06:02:00+02:00",
+"i": "https://gfx.nrk.no/SZrX6HFMpzk_bMFFDOUGYAoXmVSyBuS5K3p1dfrL_CWQ",
+"n": 2391,
+"s": "Nijazovs storverk Ruhnama er verdens beste bok, skrevet av en genial forfatter. Men får folket nå mer enn nok diktator i monitor?",
+"t": "Nijazov (3:3)",
+"u": "https://podkast.nrk.no/fil/tyrann/f1c0907d-bee5-4a77-8090-7dbee52a779c_2_ID192MP3.mp3"
+},
+"l_f720fa8c-2c2f-43e0-a0fa-8c2c2fd3e0e8": {
+"d": "2025-04-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/cl8RHGvnCh1aQncYHkqDgQAcmOV6Q-8LJhGFl55sbdLg",
+"n": 2227,
+"s": "Under hungersnøden på 90-tallet tvinges mange nordkoreanere til kannibalisme. Så dør Kim Il Sung. Da kan vel ikke ting bli verre?",
+"t": "Kim Il Sung & Kim Jong Il (4:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/51240369-e600-4626-835e-39367585a7ba_0_ID192MP3.mp3"
+},
+"l_f87dbd1f-22fd-409f-bdbd-1f22fde09fc6": {
+"d": "2025-11-15T06:03:00+01:00",
+"i": "https://gfx.nrk.no/u_6PGtVn5GTibetMAQdUCAVTxitBCJX5c6gfGDuLCmAA",
+"n": 2389,
+"s": "Bokassa tømmer statskassa for å betale sin egen keiserkroning. Deretter slår han i hjel protesterende skoleelever. Med egne never.",
+"t": "Bokassa (4:5)",
+"u": "https://podkast.nrk.no/fil/tyrann/f87dbd1f-22fd-409f-bdbd-1f22fde09fc6_ID192MP3.mp3"
+},
+"l_f95f8ff9-e73f-4542-9f8f-f9e73fd54242": {
+"d": "2025-04-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/cl8RHGvnCh1aQncYHkqDgQAcmOV6Q-8LJhGFl55sbdLg",
+"n": 2032,
+"s": "Desperasjonen rår når nordkoreanske diplomater smugler 150 kilo hasj til Skandinavia for å styrke hjemlandets skakkjørte økonomi.",
+"t": "Kim Il Sung & Kim Jong Il (3:4)",
+"u": "https://podkast.nrk.no/fil/tyrann/2ed819a8-571c-4bd3-b170-7ee36d80f612_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "tyrann",
+"image": "https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg",
+"subtitle": "Noen mennesker har rett og slett gjort verden til et dårligere sted. Morderiske, korrupte og maktsyke ledere med helt vanvittige historier. Nye Tyranner blir publisert hver måned.\n\nTyrann er en versjonering av den danske podkasten med samme navn.",
+"title": "Tyrann"
+},
+"v": 2
 }

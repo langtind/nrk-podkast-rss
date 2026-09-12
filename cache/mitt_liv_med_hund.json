@@ -1,22 +1,172 @@
 {
-"l_0e8672ad-df5a-48e2-8672-addf5a28e2a6": "https://podkast.nrk.no/fil/mitt_liv_med_hund/a59e4d01-7473-458a-bc16-1e8fd90713a9_0_ID192MP3.mp3",
-"l_1332ec90-e691-4219-b2ec-90e691521980": "https://podkast.nrk.no/fil/mitt_liv_med_hund/d1abcb27-647a-471e-991e-e7a182fdd5d7_0_ID192MP3.mp3",
-"l_16ad10ba-5871-4b2f-ad10-ba58713b2fd1": "https://podkast.nrk.no/fil/mitt_liv_med_hund/ac64c8bb-38c1-4bf7-bb19-468481edf36d_0_ID192MP3.mp3",
-"l_1f75d318-0175-4ac7-b5d3-1801754ac7c0": "https://podkast.nrk.no/fil/mitt_liv_med_hund/2369a4e7-1472-49f6-9817-ee2e1e197f3a_0_ID192MP3.mp3",
-"l_25bc377a-478f-4455-bc37-7a478ff4552e": "https://podkast.nrk.no/fil/mitt_liv_med_hund/68eac459-5dfa-4ce2-8e55-1a3f003883ce_0_ID192MP3.mp3",
-"l_2a6bf8c9-33a1-4bcf-abf8-c933a1fbcf65": "https://podkast.nrk.no/fil/mitt_liv_med_hund/b08ca0ec-256a-48e2-b35e-aeed00f5ab90_0_ID192MP3.mp3",
-"l_42256104-cd8e-4773-a561-04cd8ec77367": "https://podkast.nrk.no/fil/mitt_liv_med_hund/96b559d4-2414-481b-81fc-b427e9b7ff47_0_ID192MP3.mp3",
-"l_5e04a602-05f7-4bf9-84a6-0205f78bf930": "https://podkast.nrk.no/fil/mitt_liv_med_hund/ee8e7b30-05a0-4217-81a2-f52bd698e255_0_ID192MP3.mp3",
-"l_67d3d268-585d-45b1-93d2-68585d95b16a": "https://podkast.nrk.no/fil/mitt_liv_med_hund/926005f3-7941-45c3-a4f5-74fef3c72806_0_ID192MP3.mp3",
-"l_6d89353e-6af3-4328-8935-3e6af313282a": "https://podkast.nrk.no/fil/mitt_liv_med_hund/38dcc49a-5dea-42c5-9a62-1cfd9652fece_0_ID192MP3.mp3",
-"l_85e0c472-f875-4552-a0c4-72f8757552da": "https://podkast.nrk.no/fil/mitt_liv_med_hund/08d9fd61-1f76-499f-a2c9-cd02c93124dd_0_ID192MP3.mp3",
-"l_887f5ce9-9300-40a5-bf5c-e99300a0a5c6": "https://podkast.nrk.no/fil/mitt_liv_med_hund/5dcfba30-3b0c-4f25-ae0c-f54e82b572a6_0_ID192MP3.mp3",
-"l_959cb781-26c4-4d69-9cb7-8126c4dd6960": "https://podkast.nrk.no/fil/mitt_liv_med_hund/ab3848d1-fbd8-4c6c-9234-dd828a2b509b_0_ID192MP3.mp3",
-"l_a0679e9a-a65e-44cc-a79e-9aa65ef4ccf6": "https://podkast.nrk.no/fil/mitt_liv_med_hund/a1c8b8af-9fba-49b6-876a-b7a1fc5e0582_0_ID192MP3.mp3",
-"l_affe1822-c216-4378-be18-22c216837872": "https://podkast.nrk.no/fil/mitt_liv_med_hund/3644eddc-d0e4-4aa2-9232-99dabaf5a7cf_0_ID192MP3.mp3",
-"l_befaa2bf-b5e0-40b9-baa2-bfb5e090b91b": "https://podkast.nrk.no/fil/mitt_liv_med_hund/91288756-d9a4-4afa-bf7e-3a5793470984_0_ID192MP3.mp3",
-"l_c117a6d1-3cd1-4e83-97a6-d13cd1de8303": "https://podkast.nrk.no/fil/mitt_liv_med_hund/b88e0535-e7ae-4086-ab04-2517ef2d935b_0_ID192MP3.mp3",
-"l_cd8c28cd-5121-44e4-8c28-cd512104e490": "https://podkast.nrk.no/fil/mitt_liv_med_hund/6ce2c6de-9df9-485c-8dc0-7bf90a9375b3_0_ID192MP3.mp3",
-"l_d9a0a0d9-4cee-4fe7-a0a0-d94ceeafe725": "https://podkast.nrk.no/fil/mitt_liv_med_hund/82bc7a9b-873d-43fc-bf92-1fe41bc21d7c_0_ID192MP3.mp3",
-"l_f163d717-86f2-427b-a3d7-1786f2527b0a": "https://podkast.nrk.no/fil/mitt_liv_med_hund/bfb2a26a-88cd-41f5-8923-f5eead6e59c5_0_ID192MP3.mp3"
+"episodes": {
+"l_0e8672ad-df5a-48e2-8672-addf5a28e2a6": {
+"d": "2021-02-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/CqNMPRS31iOCYHcQyKGIdQPASF0Y36jJlcI-x0YOkkVA",
+"n": 1818,
+"s": "Bård lurer på hvordan han skal få hunden Jippi til å unngå å spise menneskebæsj.",
+"t": "Bård Tufte Johansen og Jippi",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/a59e4d01-7473-458a-bc16-1e8fd90713a9_0_ID192MP3.mp3"
+},
+"l_1332ec90-e691-4219-b2ec-90e691521980": {
+"d": "2021-03-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/9vQsAzoxFcGPNGLQR04KxQa-TcSj3ynwpa7oKSXS6fhw",
+"n": 1871,
+"s": "Supermodell Juliane er kjæreste med Marius Borg Høiby: – Vi trenger hjelp til å få Louie til å slutte å tisse inne 15 ganger om dagen!",
+"t": "Juliane Snekkestad, Louie og Gabana",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/d1abcb27-647a-471e-991e-e7a182fdd5d7_0_ID192MP3.mp3"
+},
+"l_16ad10ba-5871-4b2f-ad10-ba58713b2fd1": {
+"d": "2021-01-26T06:05:00+01:00",
+"i": "https://gfx.nrk.no/np-RLdGpd6tTIDN7Y35Zogh5FLo6OOChteQAAOsSqbhQ",
+"n": 1679,
+"s": "Maria vil gjerne ha råd fra Maren om hundens sexliv.  ",
+"t": "Maria Mena og Julius",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/ac64c8bb-38c1-4bf7-bb19-468481edf36d_0_ID192MP3.mp3"
+},
+"l_1f75d318-0175-4ac7-b5d3-1801754ac7c0": {
+"d": "2021-03-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/JmGog1FZDeZzW5fTvsQgKAaLgvNw0htQyIAXq4c443-Q",
+"n": 1727,
+"s": "Gunhild skulle ønske at Rammstein på 75 kilo kunne leve bærekraftig og spise insekter istedenfor kjøtt.   ",
+"t": "Gunhild Stordalen og Rammstein",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/2369a4e7-1472-49f6-9817-ee2e1e197f3a_0_ID192MP3.mp3"
+},
+"l_25bc377a-478f-4455-bc37-7a478ff4552e": {
+"d": "2021-10-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/QHat8MMhfwKASGKPIaqGNgUpQ77i26YJ-a0sI5g1hZDQ",
+"n": 1707,
+"s": "Siv Jensen byttet karriere fra toppolitiker til hundemamma, og er bekymret for at lille Karma skal bli gravid med hunden til Morten Hegseth.",
+"t": "Siv Jensen og Karma",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/68eac459-5dfa-4ce2-8e55-1a3f003883ce_0_ID192MP3.mp3"
+},
+"l_2a6bf8c9-33a1-4bcf-abf8-c933a1fbcf65": {
+"d": "2021-09-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/zCPnGp533fo1Z78lMiKnTgfEXKMFetTtBR8sXCoNXZeg",
+"n": 1637,
+"s": "Anna er en pen, selvstendig og lat boxer som gjør akkurat det hun gidder til enhver tid, og det passer Kåre Magnus perfekt. ",
+"t": "Kåre Magnus Bergh og Anna",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/b08ca0ec-256a-48e2-b35e-aeed00f5ab90_0_ID192MP3.mp3"
+},
+"l_42256104-cd8e-4773-a561-04cd8ec77367": {
+"d": "2021-11-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/-bI0CTPr7c7AGFYyWeDWqw9VySueNyDjNzD2iAwfIP6A",
+"n": 1666,
+"s": "Jan Thomas og Harlem har med seg lille Tyr, som bjeffer mot fremmede, men elsker å være på spa. ",
+"t": "Jan Thomas, Harlem og Tyr",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/96b559d4-2414-481b-81fc-b427e9b7ff47_0_ID192MP3.mp3"
+},
+"l_5e04a602-05f7-4bf9-84a6-0205f78bf930": {
+"d": "2021-11-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/vKahjZJ0gd8gK6C6bt6irQ69Q2VX6UZ3Rfdrv_gtW-kQ",
+"n": 1634,
+"s": "Alexandra har akkurat fått seg en Rottweilervalp, og hun trenger hjelp av Maren for å unngå at han blir en bølle som sin 4 år gamle «storebror».",
+"t": "Alexandra Joner, Bobby og James",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/ee8e7b30-05a0-4217-81a2-f52bd698e255_0_ID192MP3.mp3"
+},
+"l_67d3d268-585d-45b1-93d2-68585d95b16a": {
+"d": "2021-10-31T06:00:00+01:00",
+"i": "https://gfx.nrk.no/omsK8aQZIkKEWo6Xtlve4QvmceAmgwPaWkFF_SqqhZkA",
+"n": 1859,
+"s": "Janne ser på lille Billie som det andre barnet hun aldri fikk, og da er det litt pinlig at det første hun gjør hos Maren er å tisse på teppet.",
+"t": "Janne Formoe og Billie",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/926005f3-7941-45c3-a4f5-74fef3c72806_0_ID192MP3.mp3"
+},
+"l_6d89353e-6af3-4328-8935-3e6af313282a": {
+"d": "2021-02-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/uJJjUT35uCYc5jfsO6u4hwqpV8mqGj7IqCTl_3JscLgg",
+"n": 2035,
+"s": "Kadafi ber Maren om hjelp til å roe ned Rambo – så mammaen ikke blir så redd.",
+"t": "Kadafi Zaman og Rambo",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/38dcc49a-5dea-42c5-9a62-1cfd9652fece_0_ID192MP3.mp3"
+},
+"l_85e0c472-f875-4552-a0c4-72f8757552da": {
+"d": "2021-10-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Ro1aC208nwGjLUGQ2iNwRw8HsaFPJYmb1a3MB_OwIzXg",
+"n": 1576,
+"s": "Anne Lindmo trenger hjelp av Maren, for hunden hennes Bamse har begynt å stjele og hun er oppriktig redd for at han skal bli skikkelig kriminell.",
+"t": "Anne Lindmo og Bamse ",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/08d9fd61-1f76-499f-a2c9-cd02c93124dd_0_ID192MP3.mp3"
+},
+"l_887f5ce9-9300-40a5-bf5c-e99300a0a5c6": {
+"d": "2021-03-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/AxM45Z7-nq9FJxzUBlLECQ0XEFli1UQS_el5liuon8VQ",
+"n": 1894,
+"s": "Hvorfor har Marte en 3 meter bred dobbelseng og hvorfor går de fire barna rundt og roper at Lille lukter anal?\nDet er din skyld at jeg sitter her med to hunder, Maren!",
+"t": "Marte Stokstad, Bosse og Lille",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/5dcfba30-3b0c-4f25-ae0c-f54e82b572a6_0_ID192MP3.mp3"
+},
+"l_959cb781-26c4-4d69-9cb7-8126c4dd6960": {
+"d": "2021-02-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Fv60WzHU42X7Brb1dNPrDQOfAn3nGPgm9fYHGLz60HMw",
+"n": 2113,
+"s": "Nicolay får hjelp av Chili med å bli litt mindre høy på seg selv.",
+"t": "Nicolay Ramm og Chili",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/ab3848d1-fbd8-4c6c-9234-dd828a2b509b_0_ID192MP3.mp3"
+},
+"l_a0679e9a-a65e-44cc-a79e-9aa65ef4ccf6": {
+"d": "2021-03-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/5HsAMtu_Lan1rzlbW-OJbg9iG-A16WXNBBDBdRfEXL_Q",
+"n": 1656,
+"s": "Odd-Bjørn og familien lurte en stund på om de måtte gi fra seg Stella: – Ikke i nærheten av det jeg forestilte meg.",
+"t": "Odd-Bjørn Hjelmeset og Stella",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/a1c8b8af-9fba-49b6-876a-b7a1fc5e0582_0_ID192MP3.mp3"
+},
+"l_affe1822-c216-4378-be18-22c216837872": {
+"d": "2021-10-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/HLYJ2tVupZaWklk4iRS9EgaYc8CbiSvHTPaNGJPIaAKQ",
+"n": 1737,
+"s": "Emilie Nicolas fikk en slags fødselsdepresjon da hun kjøpte valp, men nå er livet uten Mumi umulig å forestille seg. ",
+"t": "Emilie Nicolas og Mumi",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/3644eddc-d0e4-4aa2-9232-99dabaf5a7cf_0_ID192MP3.mp3"
+},
+"l_befaa2bf-b5e0-40b9-baa2-bfb5e090b91b": {
+"d": "2021-09-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/3od0d31waHsBZRSAgXW-JQl8A9nDfKxE9AXWF19heF-w",
+"n": 1550,
+"s": "Jon har et svar på alt, men når han kommer til Maren lærer han mye nytt om sin lille hund Nemi.",
+"t": "Jon Almaas og Nemi",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/91288756-d9a4-4afa-bf7e-3a5793470984_0_ID192MP3.mp3"
+},
+"l_c117a6d1-3cd1-4e83-97a6-d13cd1de8303": {
+"d": "2021-02-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/wRcu3FaSAFtFR3OWPut4FQIXqBC8ajoxWX7uSMCZ_QaA",
+"n": 1515,
+"s": "Atle tar bleier på Milo for å unngå tissing inne.",
+"t": "Atle Pettersen og Milo",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/b88e0535-e7ae-4086-ab04-2517ef2d935b_0_ID192MP3.mp3"
+},
+"l_cd8c28cd-5121-44e4-8c28-cd512104e490": {
+"d": "2021-01-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/KQ0-bKDMsFfN0i1x8ek8agA1O3rG6MA10Y4zfjLJ2HsQ",
+"n": 2253,
+"s": "Niklas lurer på om det er noe galt med Bjarne fordi han er så glad hele tiden.  ",
+"t": "Niklas Baarli og Bjarne",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/6ce2c6de-9df9-485c-8dc0-7bf90a9375b3_0_ID192MP3.mp3"
+},
+"l_d9a0a0d9-4cee-4fe7-a0a0-d94ceeafe725": {
+"d": "2021-09-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/-g__F02dCe1xfcUXfAsxxQHhCc20pnlAF1Z8G38XrW0w",
+"n": 1392,
+"s": "Caroline mistet to hunder for under ett år siden, men hun har døyvet sorgen med en smørblid og ivrig valp som ser ut som en kosete isbjørn.",
+"t": "Caroline Berg Eriksen og Ozo",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/82bc7a9b-873d-43fc-bf92-1fe41bc21d7c_0_ID192MP3.mp3"
+},
+"l_f163d717-86f2-427b-a3d7-1786f2527b0a": {
+"d": "2021-10-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/ss0vOIRYXGs-RUyKAAKg_gNbHrwGRmJt3DAwE4bFsOtg",
+"n": 1422,
+"s": "Morten elsker Olaf så høyt at det gjør vondt, men nå er han redd for at han har blitt for tjukk, for han er et matvrak uten grenser.",
+"t": "Morten Hegseth og Olaf",
+"u": "https://podkast.nrk.no/fil/mitt_liv_med_hund/bfb2a26a-88cd-41f5-8923-f5eead6e59c5_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "mitt_liv_med_hund",
+"image": "https://gfx.nrk.no/zCPnGp533fo1Z78lMiKnTgfEXKMFetTtBR8sXCoNXZeg",
+"subtitle": "Hva sier ditt forhold til hunden din om hvem du er? Hundetrener Maren Teien Rørvik snakker med kjente personer om forholdet til deres firbente venner.",
+"title": "Mitt liv med hund"
+},
+"v": 2
 }

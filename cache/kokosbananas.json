@@ -1,5 +1,36 @@
 {
-"l_810de249-e5d3-4a12-8de2-49e5d33a12d2": "https://podkast.nrk.no/fil/kokosbananas/kokosbananas_2018-09-25_1415_1786.MP3",
-"l_c1919e6d-7311-4cae-919e-6d7311dcae09": "https://podkast.nrk.no/fil/kokosbananas/kokosbananas_2018-09-25_1417_2714.MP3",
-"l_cb5acb0d-1284-47d0-9acb-0d128447d0c2": "https://podkast.nrk.no/fil/kokosbananas/kokosbananas_2018-09-25_1417_4124.MP3"
+"episodes": {
+"l_810de249-e5d3-4a12-8de2-49e5d33a12d2": {
+"d": "2018-09-25T16:15:00+02:00",
+"i": "https://gfx.nrk.no/zv44y6MbO7n8s23rqLa_ZAIz6096GCTQjxfwSZPCy6Wg",
+"n": 741,
+"s": "Kokosbananas og de andre førsteklassingene får ikke sykle til skolen. Det har Kokosbananas tenkt å gjøre noe med. ",
+"t": "Superdupersykkelen (1:3)",
+"u": "https://podkast.nrk.no/fil/kokosbananas/kokosbananas_2018-09-25_1415_1786.MP3"
+},
+"l_c1919e6d-7311-4cae-919e-6d7311dcae09": {
+"d": "2018-09-25T16:21:00+02:00",
+"i": "https://gfx.nrk.no/zv44y6MbO7n8s23rqLa_ZAIz6096GCTQjxfwSZPCy6Wg",
+"n": 747,
+"s": "Kokosbananas får et jobbtilbud han ikke kan si nei til.",
+"t": "Bråkebyrået (3:3)",
+"u": "https://podkast.nrk.no/fil/kokosbananas/kokosbananas_2018-09-25_1417_2714.MP3"
+},
+"l_cb5acb0d-1284-47d0-9acb-0d128447d0c2": {
+"d": "2018-09-25T16:17:00+02:00",
+"i": "https://gfx.nrk.no/zv44y6MbO7n8s23rqLa_ZAIz6096GCTQjxfwSZPCy6Wg",
+"n": 579,
+"s": "Kokosbananas møter en hval i problemer. ",
+"t": "Melonhvalen (2:3)",
+"u": "https://podkast.nrk.no/fil/kokosbananas/kokosbananas_2018-09-25_1417_4124.MP3"
+}
+},
+"meta": {
+"category": "Barn",
+"id": "kokosbananas",
+"image": "https://gfx.nrk.no/zv44y6MbO7n8s23rqLa_ZAIz6096GCTQjxfwSZPCy6Wg",
+"subtitle": "Kokosbananas er halvt kokosnøtt, halvt ananas og 100 prosent genial oppfinner. Han har nettopp flyttet med familien sin til det lille stedet Nøttvik. Nå skal han begynne på skolen og få seg helt nye venner, men det ikke alltid like lett.\n\nEn podkastserie for barn fra NRK Super.",
+"title": "Kokosbananas"
+},
+"v": 2
 }

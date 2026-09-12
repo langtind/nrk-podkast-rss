@@ -1,111 +1,884 @@
 {
-"l_00deeb48-661a-4f4d-9eeb-48661aff4d78": "https://podkast.nrk.no/fil/historiske_kjendiser/cfeb5b7e-6e70-47bc-93e7-4f06ce432333_0_ID192MP3.mp3",
-"l_00ec851e-622b-4fa5-ac85-1e622b5fa55a": "https://podkast.nrk.no/fil/historiske_kjendiser/00ec851e-622b-4fa5-ac85-1e622b5fa55a_1_ID192MP3.mp3",
-"l_01073c82-2538-4ca0-873c-822538aca08c": "https://podkast.nrk.no/fil/historiske_kjendiser/01073c82-2538-4ca0-873c-822538aca08c_1_ID192MP3.mp3",
-"l_02a9edbe-addb-49e8-a9ed-beaddb49e834": "https://podkast.nrk.no/fil/historiske_kjendiser/50d05420-2940-4e55-989e-90828ad31119_0_ID192MP3.mp3",
-"l_030de868-0376-4a96-8de8-6803766a96ce": "https://podkast.nrk.no/fil/historiske_kjendiser/cd11c8af-58fe-4c68-adce-02144ac98bf3_0_ID192MP3.mp3",
-"l_073536d3-4730-4965-b536-d347309965f2": "https://podkast.nrk.no/fil/historiske_kjendiser/073536d3-4730-4965-b536-d347309965f2_ID192MP3.mp3",
-"l_0f131cce-ba29-4fc5-931c-ceba29cfc586": "https://podkast.nrk.no/fil/historiske_kjendiser/2bd2832f-475c-4b0b-a7b6-6cbca2616706_0_ID192MP3.mp3",
-"l_14936d44-822a-4a54-936d-44822aea5437": "https://podkast.nrk.no/fil/historiske_kjendiser/a42d4bdc-178b-476f-9bf8-f557bdd33763_0_ID192MP3.mp3",
-"l_150961b8-98db-4801-8961-b898db080133": "https://podkast.nrk.no/fil/historiske_kjendiser/dc47f95a-0af3-46ea-a6f1-a11fa9da30a5_0_ID192MP3.mp3",
-"l_15490ab5-52fe-4ce4-890a-b552fe8ce4df": "https://podkast.nrk.no/fil/historiske_kjendiser/55659d82-5727-428e-829f-0693b052c4c5_0_ID192MP3.mp3",
-"l_17a6f840-8a6c-42f9-a6f8-408a6c92f958": "https://podkast.nrk.no/fil/historiske_kjendiser/5cf33a67-68a5-426f-9e89-63e11b27574a_0_ID192MP3.mp3",
-"l_1cf09a7b-2ef0-45dc-b09a-7b2ef005dc4f": "https://podkast.nrk.no/fil/historiske_kjendiser/1cf09a7b-2ef0-45dc-b09a-7b2ef005dc4f_1_ID192MP3.mp3",
-"l_1d09849a-0fe5-459b-8984-9a0fe5959bf4": "https://podkast.nrk.no/fil/historiske_kjendiser/fa59e0f3-4964-41e1-af4a-757cda59c589_0_ID192MP3.mp3",
-"l_1ec8c3a2-6ec0-4828-88c3-a26ec0a828ff": "https://podkast.nrk.no/fil/historiske_kjendiser/843c0dfb-6291-4c61-a6ce-2e25af313e9b_0_ID192MP3.mp3",
-"l_24325b1d-e2b9-4817-b25b-1de2b9d817a9": "https://podkast.nrk.no/fil/historiske_kjendiser/007c85f8-ea27-4192-8021-efff43cac730_0_ID192MP3.mp3",
-"l_24541bce-4d23-4085-941b-ce4d23c085b4": "https://podkast.nrk.no/fil/historiske_kjendiser/a39000df-6db3-4d4a-9165-4b993dbef47d_0_ID192MP3.mp3",
-"l_264c28cf-1339-4009-8c28-cf1339d0094d": "https://podkast.nrk.no/fil/historiske_kjendiser/264c28cf-1339-4009-8c28-cf1339d0094d_1_ID192MP3.mp3",
-"l_296c3fe9-94dd-4c65-ac3f-e994ddec655d": "https://podkast.nrk.no/fil/historiske_kjendiser/be48b438-fb74-4f29-a734-0464cc2f4812_0_ID192MP3.mp3",
-"l_2f058301-9441-4436-8583-019441543682": "https://podkast.nrk.no/fil/historiske_kjendiser/fd0c12f0-8e86-4e2e-a11b-2645aed2850d_0_ID192MP3.mp3",
-"l_30b10fdd-54d8-46d0-b10f-dd54d886d01e": "https://podkast.nrk.no/fil/historiske_kjendiser/899c79cb-5cb4-4fea-b963-bf789e8192c9_0_ID192MP3.mp3",
-"l_3212e1dd-d8b9-43a4-92e1-ddd8b993a4aa": "https://podkast.nrk.no/fil/historiske_kjendiser/b7d57b2e-172d-4e29-ab1c-14d54a1f1e1a_0_ID192MP3.mp3",
-"l_335e3e44-e8e5-4384-9e3e-44e8e52384b3": "https://podkast.nrk.no/fil/historiske_kjendiser/50a5e0ba-adf0-4dca-a09f-b5780c60c2c9_0_ID192MP3.mp3",
-"l_34f542af-98ce-489c-b542-af98cee89cb5": "https://podkast.nrk.no/fil/historiske_kjendiser/34f542af-98ce-489c-b542-af98cee89cb5_1_ID192MP3.mp3",
-"l_3553bf68-9b1b-43b0-93bf-689b1bc3b033": "https://podkast.nrk.no/fil/historiske_kjendiser/d370105b-d9ab-4e4a-98ba-05e83539a79d_0_ID192MP3.mp3",
-"l_37328c3a-0e27-4160-b28c-3a0e27f160e9": "https://podkast.nrk.no/fil/historiske_kjendiser/58deccc2-e8bb-485e-b2f2-8f4195ae4092_0_ID192MP3.mp3",
-"l_3adf4766-e85c-44ca-9f47-66e85cf4ca6d": "https://podkast.nrk.no/fil/historiske_kjendiser/187219b6-beea-462b-8db5-89186aae878e_0_ID192MP3.mp3",
-"l_3d3d27b2-9359-4ca0-bd27-b293593ca0ab": "https://podkast.nrk.no/fil/historiske_kjendiser/f0716b48-64a9-4365-a9d3-7b072fa6eb1e_0_ID192MP3.mp3",
-"l_3d424e79-a9a4-4c69-824e-79a9a45c69db": "https://podkast.nrk.no/fil/historiske_kjendiser/16061955-a552-4eb3-b1fb-27cbdde2aee8_0_ID192MP3.mp3",
-"l_3ec2606e-221d-4887-8260-6e221d4887f2": "https://podkast.nrk.no/fil/historiske_kjendiser/40fee2cb-3ccf-46a6-b59a-7783652aad98_0_ID192MP3.mp3",
-"l_454dfcc6-de70-421d-8dfc-c6de70521d58": "https://podkast.nrk.no/fil/historiske_kjendiser/82fdf039-8ebd-4aeb-9ff7-89f6e917a0fb_0_ID192MP3.mp3",
-"l_485f98fb-a153-435a-9f98-fba153c35a26": "https://podkast.nrk.no/fil/historiske_kjendiser/b611bba5-3cc8-412e-b7e5-7df8268b5611_0_ID192MP3.mp3",
-"l_4899a6c4-55f3-4821-99a6-c455f328219a": "https://podkast.nrk.no/fil/historiske_kjendiser/ea985fc2-3e76-4375-91de-a9b8ea96f3ef_0_ID192MP3.mp3",
-"l_4ad669c9-5456-4cca-9669-c954567cca05": "https://podkast.nrk.no/fil/historiske_kjendiser/923f1cf5-5be8-4788-b520-a3f197f49817_0_ID192MP3.mp3",
-"l_4b5dff0d-c232-4b6f-9dff-0dc232cb6f5d": "https://podkast.nrk.no/fil/historiske_kjendiser/d42d7ae9-f84e-433f-be3a-13a282bde0c2_0_ID192MP3.mp3",
-"l_5035b4f2-e3d9-4511-b5b4-f2e3d9451171": "https://podkast.nrk.no/fil/historiske_kjendiser/5035b4f2-e3d9-4511-b5b4-f2e3d9451171_ID192MP3.mp3",
-"l_50868f8b-73c6-43a5-868f-8b73c683a58e": "https://podkast.nrk.no/fil/historiske_kjendiser/1e911346-b60f-4096-932b-874a3ccdbb1d_0_ID192MP3.mp3",
-"l_51a32d5a-395e-4a04-a32d-5a395efa04c4": "https://podkast.nrk.no/fil/historiske_kjendiser/6c0ce641-4223-4422-8b7c-0df11b9f4777_0_ID192MP3.mp3",
-"l_51ccace3-ad90-4bf1-8cac-e3ad90bbf15e": "https://podkast.nrk.no/fil/historiske_kjendiser/283e8a4e-5478-4bd7-886a-006052daf6d2_0_ID192MP3.mp3",
-"l_53153f85-fa20-42b1-953f-85fa2002b1cc": "https://podkast.nrk.no/fil/historiske_kjendiser/53153f85-fa20-42b1-953f-85fa2002b1cc_ID192MP3.mp3",
-"l_539938fc-ab44-49e3-9938-fcab4449e3ea": "https://podkast.nrk.no/fil/historiske_kjendiser/539938fc-ab44-49e3-9938-fcab4449e3ea_1_ID192MP3.mp3",
-"l_54653424-6890-4d34-a534-246890fd3416": "https://podkast.nrk.no/fil/historiske_kjendiser/d13a8bb9-f52c-4840-9fbb-738f65595b1b_0_ID192MP3.mp3",
-"l_55b038bf-550d-4455-b038-bf550df455db": "https://podkast.nrk.no/fil/historiske_kjendiser/e5cb6058-86d2-4640-b8fd-7f4e1131db44_0_ID192MP3.mp3",
-"l_59f4e36e-c72c-47d2-b4e3-6ec72ca7d2b7": "https://podkast.nrk.no/fil/historiske_kjendiser/86a2f25c-d081-43c0-9d00-d3fca4b06e00_0_ID192MP3.mp3",
-"l_5d0e2f54-c964-4d32-8e2f-54c964ad32dd": "https://podkast.nrk.no/fil/historiske_kjendiser/e8a06f2f-4948-4816-a8b2-679a78036663_0_ID192MP3.mp3",
-"l_5d9a8fde-0ef4-4ab1-9a8f-de0ef4aab16f": "https://podkast.nrk.no/fil/historiske_kjendiser/5048cff0-03fc-4789-9544-bec0738f62b7_0_ID192MP3.mp3",
-"l_6206bff4-f649-4e6e-86bf-f4f649de6e11": "https://podkast.nrk.no/fil/historiske_kjendiser/830f0423-35bc-4473-bf28-e871030d43cf_0_ID192MP3.mp3",
-"l_6241408b-c289-4e25-8140-8bc2891e259c": "https://podkast.nrk.no/fil/historiske_kjendiser/6241408b-c289-4e25-8140-8bc2891e259c_1_ID192MP3.mp3",
-"l_63c892c5-c937-4bf1-8892-c5c9376bf175": "https://podkast.nrk.no/fil/historiske_kjendiser/63c892c5-c937-4bf1-8892-c5c9376bf175_1_ID192MP3.mp3",
-"l_6e067ab4-b9ac-4b46-867a-b4b9ac6b46e1": "https://podkast.nrk.no/fil/historiske_kjendiser/6e067ab4-b9ac-4b46-867a-b4b9ac6b46e1_ID192MP3.mp3",
-"l_6f028a4f-7161-448f-828a-4f7161548f0d": "https://podkast.nrk.no/fil/historiske_kjendiser/6f028a4f-7161-448f-828a-4f7161548f0d_1_ID192MP3.mp3",
-"l_74d75682-ebc4-4476-9756-82ebc4a476b6": "https://podkast.nrk.no/fil/historiske_kjendiser/fa6a6d3a-5feb-44b0-bffc-86c0132c6f02_0_ID192MP3.mp3",
-"l_75d22465-dd87-4a64-9224-65dd877a645d": "https://podkast.nrk.no/fil/historiske_kjendiser/75d22465-dd87-4a64-9224-65dd877a645d_1_ID192MP3.mp3",
-"l_7c2e5aa0-c14b-4a22-ae5a-a0c14bea22cd": "https://podkast.nrk.no/fil/historiske_kjendiser/e096f5c7-8de3-4be8-a696-ceae4f36392c_0_ID192MP3.mp3",
-"l_7d979483-6218-4c75-9794-836218bc7529": "https://podkast.nrk.no/fil/historiske_kjendiser/49b7c0e0-4996-4bb6-8007-f9045a533923_0_ID192MP3.mp3",
-"l_7ec6b135-fbfa-48e0-86b1-35fbfad8e012": "https://podkast.nrk.no/fil/historiske_kjendiser/549da420-bc15-4d0f-83f0-9e4acd5d4f9d_0_ID192MP3.mp3",
-"l_7f3164a6-c154-4550-b164-a6c15445500c": "https://podkast.nrk.no/fil/historiske_kjendiser/e957e17b-b377-469a-ad9a-c3d350bc1019_0_ID192MP3.mp3",
-"l_848bcde8-da97-4d6c-8bcd-e8da97ad6c7e": "https://podkast.nrk.no/fil/historiske_kjendiser/5e98fdb2-93dc-42bd-9c65-bdd573eee444_0_ID192MP3.mp3",
-"l_8524eddc-8bf8-4f34-a4ed-dc8bf81f341e": "https://podkast.nrk.no/fil/historiske_kjendiser/56b8386f-bdba-4d0e-a926-96fc05d1cd2d_0_ID192MP3.mp3",
-"l_8ade67a8-4096-494f-9e67-a84096094fdb": "https://podkast.nrk.no/fil/historiske_kjendiser/59bb09e6-d73c-42db-b151-05e0bb99ce7c_0_ID192MP3.mp3",
-"l_90000a3f-c96b-41da-800a-3fc96b21daab": "https://podkast.nrk.no/fil/historiske_kjendiser/d99f8825-eb87-476e-ba90-a031d5c2a39e_0_ID192MP3.mp3",
-"l_904b31eb-0060-4333-8b31-eb0060633310": "https://podkast.nrk.no/fil/historiske_kjendiser/b6dc4ad2-43a0-4c7b-b1cf-08e943713988_0_ID192MP3.mp3",
-"l_93ac0b77-a62a-4bf3-ac0b-77a62aabf359": "https://podkast.nrk.no/fil/historiske_kjendiser/47b9d353-d344-45dc-a669-a74a60c7ab3a_0_ID192MP3.mp3",
-"l_93ce469d-dd62-40e1-8e46-9ddd6260e126": "https://podkast.nrk.no/fil/historiske_kjendiser/4ff538c7-3000-4ccc-b842-5071d9384437_0_ID192MP3.mp3",
-"l_94dadcc4-c1f0-47f8-9adc-c4c1f0f7f85d": "https://podkast.nrk.no/fil/historiske_kjendiser/b79f445f-4c15-4a94-84fe-33ddfea83c77_0_ID192MP3.mp3",
-"l_97225275-1949-4049-a252-751949504989": "https://podkast.nrk.no/fil/historiske_kjendiser/a13b1422-b8e1-46e8-aaa3-bb69faf8e39d_0_ID192MP3.mp3",
-"l_983bb4fb-a86b-4f56-bbb4-fba86bef56f8": "https://podkast.nrk.no/fil/historiske_kjendiser/983bb4fb-a86b-4f56-bbb4-fba86bef56f8_1_ID192MP3.mp3",
-"l_98be6fc1-3068-46d6-be6f-c1306826d6d9": "https://podkast.nrk.no/fil/historiske_kjendiser/e1850b7e-5401-43e6-923c-aca92032c383_0_ID192MP3.mp3",
-"l_99a87293-985e-40da-a872-93985eb0da0f": "https://podkast.nrk.no/fil/historiske_kjendiser/f82ac21f-efe7-44f6-9230-0c6024740a7d_0_ID192MP3.mp3",
-"l_9ac0d59d-a658-487f-80d5-9da658b87ffa": "https://podkast.nrk.no/fil/historiske_kjendiser/9ac0d59d-a658-487f-80d5-9da658b87ffa_ID192MP3.mp3",
-"l_9def45d5-1247-4073-af45-d51247c0731e": "https://podkast.nrk.no/fil/historiske_kjendiser/9def45d5-1247-4073-af45-d51247c0731e_1_ID192MP3.mp3",
-"l_a243a7b6-52ea-4e2d-83a7-b652ea7e2d38": "https://podkast.nrk.no/fil/historiske_kjendiser/c2c3224b-b938-4c68-b959-9f7c47ef958f_0_ID192MP3.mp3",
-"l_a5acfa69-0c00-448a-acfa-690c00348a81": "https://podkast.nrk.no/fil/historiske_kjendiser/a5acfa69-0c00-448a-acfa-690c00348a81_1_ID192MP3.mp3",
-"l_a6e7d24e-c286-42f3-a7d2-4ec28692f35f": "https://podkast.nrk.no/fil/historiske_kjendiser/875f61b6-b912-487c-9a0a-6d29257cff1e_0_ID192MP3.mp3",
-"l_aa50526e-c423-4b7e-9052-6ec423ab7ed5": "https://podkast.nrk.no/fil/historiske_kjendiser/311625d8-19b4-4051-b08a-ce62220fc248_0_ID192MP3.mp3",
-"l_ab0f84f5-32d9-4af9-8f84-f532d9faf9c0": "https://podkast.nrk.no/fil/historiske_kjendiser/ab0f84f5-32d9-4af9-8f84-f532d9faf9c0_ID192MP3.mp3",
-"l_ab2685d4-62d1-4fcd-a685-d462d1bfcd0f": "https://podkast.nrk.no/fil/historiske_kjendiser/d46e342c-c8b4-42e3-9e57-f360e7bf0efe_0_ID192MP3.mp3",
-"l_ab29313f-1406-4d8d-a931-3f14065d8d95": "https://podkast.nrk.no/fil/historiske_kjendiser/04e8d973-56fb-46a7-9921-1f89c49865bb_0_ID192MP3.mp3",
-"l_b079ebcf-f330-4df5-b9eb-cff3306df592": "https://podkast.nrk.no/fil/historiske_kjendiser/a03674a9-556f-4851-b67c-93c3a5bd02e5_0_ID192MP3.mp3",
-"l_b2b74ab3-8975-4851-b74a-b389758851dd": "https://podkast.nrk.no/fil/historiske_kjendiser/c64e505a-eace-4e6d-8035-d21fed9cdc8d_0_ID192MP3.mp3",
-"l_b3a52568-47d7-4bb0-a525-6847d73bb075": "https://podkast.nrk.no/fil/historiske_kjendiser/e805ca46-1ba3-4723-bee0-bc181ab5c810_0_ID192MP3.mp3",
-"l_b3e400aa-56ec-4bed-a400-aa56ec7bed5f": "https://podkast.nrk.no/fil/historiske_kjendiser/75f9ee7f-e03d-4b5c-8bc9-6f12ba3a7c6a_0_ID192MP3.mp3",
-"l_bb5f75b6-2df6-4623-9f75-b62df6f623a8": "https://podkast.nrk.no/fil/historiske_kjendiser/72d2a804-39cb-44d3-9c55-8056d6f6d371_0_ID192MP3.mp3",
-"l_bc98b277-7b56-4cac-98b2-777b56fcac8e": "https://podkast.nrk.no/fil/historiske_kjendiser/2f7e8717-9381-44e0-836e-6c4e354350fe_0_ID192MP3.mp3",
-"l_bd33d292-6a52-4352-b3d2-926a5243522f": "https://podkast.nrk.no/fil/historiske_kjendiser/3aaceec9-fe23-469a-82b7-4d3091a670c3_0_ID192MP3.mp3",
-"l_beef68ee-e2d3-4643-af68-eee2d3b643af": "https://podkast.nrk.no/fil/historiske_kjendiser/65390bc1-32fc-4e56-8484-57b5ffbd744b_0_ID192MP3.mp3",
-"l_bf66c863-c744-4207-a6c8-63c744b2070b": "https://podkast.nrk.no/fil/historiske_kjendiser/bf66c863-c744-4207-a6c8-63c744b2070b_1_ID192MP3.mp3",
-"l_bfe77ac2-192b-4b7f-a77a-c2192bdb7f7f": "https://podkast.nrk.no/fil/historiske_kjendiser/bfe77ac2-192b-4b7f-a77a-c2192bdb7f7f_1_ID192MP3.mp3",
-"l_c10a1db0-ec5a-4763-8a1d-b0ec5ad7639f": "https://podkast.nrk.no/fil/historiske_kjendiser/ab96dac7-167a-4e56-8bc8-21a06553ad5f_0_ID192MP3.mp3",
-"l_c1b5f405-af4b-4fa5-b5f4-05af4bcfa539": "https://podkast.nrk.no/fil/historiske_kjendiser/c1b5f405-af4b-4fa5-b5f4-05af4bcfa539_ID192MP3.mp3",
-"l_c34e7bd4-f863-4d0f-8e7b-d4f8639d0f59": "https://podkast.nrk.no/fil/historiske_kjendiser/7d2e22a6-f363-40cd-9521-efa0d743a5cc_0_ID192MP3.mp3",
-"l_c46abbc4-a9f3-4f94-aabb-c4a9f35f9428": "https://podkast.nrk.no/fil/historiske_kjendiser/8d8875ec-c463-4cb5-be5f-9a8c6db6d23c_0_ID192MP3.mp3",
-"l_c4b1c8aa-48e6-46b3-b1c8-aa48e6b6b350": "https://podkast.nrk.no/fil/historiske_kjendiser/7c668830-168d-4449-b097-b2afcdb8198a_0_ID192MP3.mp3",
-"l_c6cd8325-9050-45ed-8d83-259050e5ed55": "https://podkast.nrk.no/fil/historiske_kjendiser/c6cd8325-9050-45ed-8d83-259050e5ed55_1_ID192MP3.mp3",
-"l_c79368bf-3baa-4833-9368-bf3baa68332a": "https://podkast.nrk.no/fil/historiske_kjendiser/c79368bf-3baa-4833-9368-bf3baa68332a_1_ID192MP3.mp3",
-"l_cc631ca3-ec96-41ef-a31c-a3ec96f1ef98": "https://podkast.nrk.no/fil/historiske_kjendiser/489202f7-8651-4b89-aa7a-c0bb92c2fb3f_0_ID192MP3.mp3",
-"l_cd2d0860-bd92-404d-ad08-60bd92404db8": "https://podkast.nrk.no/fil/historiske_kjendiser/0b3e88fc-d197-48f9-9083-cd6382651100_0_ID192MP3.mp3",
-"l_d2a25a55-d051-4ec8-a25a-55d051dec8b3": "https://podkast.nrk.no/fil/historiske_kjendiser/161a4246-acff-4f06-ba00-ffd32991696e_0_ID192MP3.mp3",
-"l_d2b762db-be4a-4e0d-b762-dbbe4a0e0d27": "https://podkast.nrk.no/fil/historiske_kjendiser/9d8f8de3-2e6e-4c24-8f10-1254a97d551b_0_ID192MP3.mp3",
-"l_d3bfa93b-7220-4554-bfa9-3b7220f554be": "https://podkast.nrk.no/fil/historiske_kjendiser/3fb7b6bf-86db-449d-97c7-2e416453f457_0_ID192MP3.mp3",
-"l_d56cd833-2c61-47ed-acd8-332c6127edb5": "https://podkast.nrk.no/fil/historiske_kjendiser/d56cd833-2c61-47ed-acd8-332c6127edb5_ID192MP3.mp3",
-"l_d902e69a-b44d-4217-82e6-9ab44d92177a": "https://podkast.nrk.no/fil/historiske_kjendiser/b49ded34-d020-4659-82d8-aeb190766e2a_0_ID192MP3.mp3",
-"l_e42b87a3-7832-44de-ab87-a3783264de56": "https://podkast.nrk.no/fil/historiske_kjendiser/71eca406-6246-4f15-97aa-31949709648b_0_ID192MP3.mp3",
-"l_e5dc07cc-9231-4299-9c07-cc9231329947": "https://podkast.nrk.no/fil/historiske_kjendiser/e5dc07cc-9231-4299-9c07-cc9231329947_1_ID192MP3.mp3",
-"l_e680f2b5-2dea-4698-80f2-b52dea569880": "https://podkast.nrk.no/fil/historiske_kjendiser/483638a3-877a-401b-82bf-bb04d3b3c891_0_ID192MP3.mp3",
-"l_ea089c65-8dcd-4edf-889c-658dcd3edf6e": "https://podkast.nrk.no/fil/historiske_kjendiser/9907c6e2-9d8e-4890-a37d-fb5b93fb7a8a_0_ID192MP3.mp3",
-"l_f1269c18-01f5-4687-a69c-1801f5c68757": "https://podkast.nrk.no/fil/historiske_kjendiser/2510a44b-fd87-4d87-ad33-b62e6b805385_0_ID192MP3.mp3",
-"l_f15fa4c0-b5e4-4e40-9fa4-c0b5e43e4077": "https://podkast.nrk.no/fil/historiske_kjendiser/f15fa4c0-b5e4-4e40-9fa4-c0b5e43e4077_ID192MP3.mp3",
-"l_f162f1c4-1bf3-40c0-a2f1-c41bf350c01a": "https://podkast.nrk.no/fil/historiske_kjendiser/4d966f7b-1820-4c0d-a52d-bf39f6a6836a_0_ID192MP3.mp3",
-"l_fe03dc47-e489-4bd8-83dc-47e4896bd818": "https://podkast.nrk.no/fil/historiske_kjendiser/d795ea9a-2d90-456e-afaf-eb3f5b4fd28d_0_ID192MP3.mp3"
+"episodes": {
+"l_00deeb48-661a-4f4d-9eeb-48661aff4d78": {
+"d": "2021-12-29T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg",
+"n": 51,
+"s": "I Historiske kjendiser vekker Alexandra Gjerpen historiens største personer til live igjen, krydret med dramatiske scener.",
+"t": "Smakebit: Historiske kjendiser",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/cfeb5b7e-6e70-47bc-93e7-4f06ce432333_0_ID192MP3.mp3"
+},
+"l_00ec851e-622b-4fa5-ac85-1e622b5fa55a": {
+"d": "2026-09-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aaMyKkzJvTwSIvLoXyXmUAWCT6NN6jG2IaCIpfD1x6dQ",
+"n": 3396,
+"s": "Filmstjernen forlot Hollywood for å bli fyrstinne av Monaco.",
+"t": "Grace Kelly – fyrstelig filmstjerne",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/00ec851e-622b-4fa5-ac85-1e622b5fa55a_1_ID192MP3.mp3"
+},
+"l_01073c82-2538-4ca0-873c-822538aca08c": {
+"d": "2026-06-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iXtklRQC1DxpkJLLDxeMgAaDiYJA-5GqLWig1DFcoMxg",
+"n": 3405,
+"s": "Den brutale revolusjonslederen ble frigjøringshelt for et helt kontinent, men endte sine dager som en forhatt diktator.",
+"t": "Simón Bolívar - Sør-Amerikas frigjører",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/01073c82-2538-4ca0-873c-822538aca08c_1_ID192MP3.mp3"
+},
+"l_02a9edbe-addb-49e8-a9ed-beaddb49e834": {
+"d": "2022-03-02T06:01:00+01:00",
+"i": "https://gfx.nrk.no/-85WbQFyuUbFka9muqOppAphlprya3-m4x8IhbZSqBuQ",
+"n": 3336,
+"s": "Advokaten kjempet for et samlet, uavhengig India med ikke-voldelige metoder.",
+"t": "Mahatma Gandhi – frihetens kjemper",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/50d05420-2940-4e55-989e-90828ad31119_0_ID192MP3.mp3"
+},
+"l_030de868-0376-4a96-8de8-6803766a96ce": {
+"d": "2024-01-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/cJhaUGc7HhOb8Qeg0E79Gww4vQZGhrb7nBihVRQY2zsw",
+"n": 3517,
+"s": "Talene hans gjorde ham verdenskjent, men fikk ham også drept.",
+"t": "Martin Luther King – mannen med drømmen",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/cd11c8af-58fe-4c68-adce-02144ac98bf3_0_ID192MP3.mp3"
+},
+"l_073536d3-4730-4965-b536-d347309965f2": {
+"d": "2025-11-04T06:00:00+01:00",
+"i": "https://gfx.nrk.no/XRD5rUGAjQw8umui8lGxfgL-phx-m4pjfQ3j-vmziVVQ",
+"n": 3397,
+"s": "Den alminnelige jenta dro til Versailles, ble kongens elskerinne og en av de mektigste kvinnene i Frankrikes historie.",
+"t": "Madame de Pompadour – forhatt elskerinne",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/073536d3-4730-4965-b536-d347309965f2_ID192MP3.mp3"
+},
+"l_0f131cce-ba29-4fc5-931c-ceba29cfc586": {
+"d": "2022-04-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Ela94_1KWz-0on7yWn9m_QjZY95x4CKrCRuLGSbCA3FQ",
+"n": 3405,
+"s": "Polarforskeren som risikerte alt for å være først med å plante det norske flagget på sydpolen.",
+"t": "Roald Amundsen – fryktløs eventyrer",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/2bd2832f-475c-4b0b-a7b6-6cbca2616706_0_ID192MP3.mp3"
+},
+"l_14936d44-822a-4a54-936d-44822aea5437": {
+"d": "2024-03-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/llqbThFM_zFbbCjkAEmu7wk8RVIhCK4klEfb-mc12-SQ",
+"n": 3385,
+"s": "Den makedonske kongen erobret seg til verdensherredømme.",
+"t": "Aleksander den store – verdens erobrer",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/a42d4bdc-178b-476f-9bf8-f557bdd33763_0_ID192MP3.mp3"
+},
+"l_150961b8-98db-4801-8961-b898db080133": {
+"d": "2022-08-17T03:00:00+02:00",
+"i": "https://gfx.nrk.no/3EdLg3Yi8CYiw3eGqSCtDAO_u-n8mpv4ogd1RL5N2Edw",
+"n": 3026,
+"s": "Dragdronninga som banet vei for en verdensomfattende feiring av pride.",
+"t": "Marsha P. Johnson – stolt transaktivist",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/dc47f95a-0af3-46ea-a6f1-a11fa9da30a5_0_ID192MP3.mp3"
+},
+"l_15490ab5-52fe-4ce4-890a-b552fe8ce4df": {
+"d": "2023-06-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/r3GiRb3IqsPZ7_xdHGmRPQGHagEv5vIAHi2X1ILXgBWg",
+"n": 3334,
+"s": "Den tapre folkehelten rettet sverdet mot fiender – og sin egen familie.",
+"t": "Rikard Løvehjerte – sagnomsust krigerkonge",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/55659d82-5727-428e-829f-0693b052c4c5_0_ID192MP3.mp3"
+},
+"l_17a6f840-8a6c-42f9-a6f8-408a6c92f958": {
+"d": "2023-10-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/dlTdOvIidoNb_ypElBcOywW9oNSZufSK480r3ODVTuQA",
+"n": 3378,
+"s": "Skulptøren var en sinnatagg, men sto igjen som en kunstnerisk monolitt.",
+"t": "Gustav Vigeland – monumental skulptør",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/5cf33a67-68a5-426f-9e89-63e11b27574a_0_ID192MP3.mp3"
+},
+"l_1cf09a7b-2ef0-45dc-b09a-7b2ef005dc4f": {
+"d": "2026-06-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/LhhFzK3JoAtyNlQHyZ4h2ws029bCcU_7G923EBEuvFLA",
+"n": 3405,
+"s": "Hun trosset kjønnsnormer og skapte et forretningsimperium bygget på sin kjærlighet til Gud og ost.",
+"t": "Synnøve Finden - religiøs ostedronning",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/1cf09a7b-2ef0-45dc-b09a-7b2ef005dc4f_1_ID192MP3.mp3"
+},
+"l_1d09849a-0fe5-459b-8984-9a0fe5959bf4": {
+"d": "2024-03-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/A6jdLg6shZ2O1pCELduFugKF8tdsXQi_L3-NiTN2dWiQ",
+"n": 3386,
+"s": "Den utsvevende forfatteren var en politisk storhet.",
+"t": "Henrik Wergeland – patriotisk poet",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/fa59e0f3-4964-41e1-af4a-757cda59c589_0_ID192MP3.mp3"
+},
+"l_1ec8c3a2-6ec0-4828-88c3-a26ec0a828ff": {
+"d": "2024-10-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Y_j2Ht5YYOlmwuZQw9DwqQE-pYyFcgLz0pEJYcaC3qlw",
+"n": 3403,
+"s": "Polfareren og eventyreren reddet også tusener av menneskeliv.",
+"t": "Fridtjof Nansen – oppfinnsom oppdager",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/843c0dfb-6291-4c61-a6ce-2e25af313e9b_0_ID192MP3.mp3"
+},
+"l_24325b1d-e2b9-4817-b25b-1de2b9d817a9": {
+"d": "2022-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/BsMRvax7SP7uFRLTthwQzwnJbbv6VC2AjGzw255baVpA",
+"n": 3202,
+"s": "Kunstneren fra Mexico ble spiddet av en jernstang som femtenåring.",
+"t": "Frida Kahlo – uknuselig kunstner",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/007c85f8-ea27-4192-8021-efff43cac730_0_ID192MP3.mp3"
+},
+"l_24541bce-4d23-4085-941b-ce4d23c085b4": {
+"d": "2022-03-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/ZmZe8RJMy69xJLVzrdPJXQRlFSZQ7C6rJmbcx2dX0UYQ",
+"n": 3254,
+"s": "Den siste keiseren over Aztekerriket tapte mot krutt og kopper.",
+"t": "Moctezuma II – dommedagens hersker",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/a39000df-6db3-4d4a-9165-4b993dbef47d_0_ID192MP3.mp3"
+},
+"l_264c28cf-1339-4009-8c28-cf1339d0094d": {
+"d": "2026-09-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/mH19H3-xph-toIdDPlgTswx0gUf8m_lU4B0XP1MUP6gw",
+"n": 3390,
+"s": "Astronauten tok menneskehetens første steg på månen.",
+"t": "Neil Armstrong – fryktløs astronaut",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/264c28cf-1339-4009-8c28-cf1339d0094d_1_ID192MP3.mp3"
+},
+"l_296c3fe9-94dd-4c65-ac3f-e994ddec655d": {
+"d": "2022-04-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/ObvbmD68VcGaDdbV9ZJxLAAypCJI3QHbGzAHs4aBTeWw",
+"n": 3316,
+"s": "Den politiske lederen la grunnlag for, og navn til, det romerske keiserdømmet.",
+"t": "Julius Cæsar – militært geni",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/be48b438-fb74-4f29-a734-0464cc2f4812_0_ID192MP3.mp3"
+},
+"l_2f058301-9441-4436-8583-019441543682": {
+"d": "2022-02-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/sPyQnRV5NHuPpWXcrxDupwP7BVD3HOhvQ_nspglZZ7gw",
+"n": 3342,
+"s": "Den rekordjagende piloten som flyttet kvinners grenser i luften.",
+"t": "Amelia Earhart – forsvunnet folkehelt",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/fd0c12f0-8e86-4e2e-a11b-2645aed2850d_0_ID192MP3.mp3"
+},
+"l_30b10fdd-54d8-46d0-b10f-dd54d886d01e": {
+"d": "2024-10-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VKeoAAcGME9OWnwQCmYtbQT8pJy3FPo2jzvkQgEuW-Rw",
+"n": 3415,
+"s": "Den 16. presidenten ledet USA gjennom borgerkrigen og avskaffet slaveriet.",
+"t": "Abraham Lincoln – nasjonens redningsmann",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/899c79cb-5cb4-4fea-b963-bf789e8192c9_0_ID192MP3.mp3"
+},
+"l_3212e1dd-d8b9-43a4-92e1-ddd8b993a4aa": {
+"d": "2022-01-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Z8YJIkbhYZdAFt7qRnskCwycW21Ss027gLl3vl4ERMPQ",
+"n": 3362,
+"s": "«The Lady with the Lamp» reddet tusenvis av soldatliv og revolusjonerte den moderne sykepleien.",
+"t": "Florence Nightingale – sykepleiens mor",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/b7d57b2e-172d-4e29-ab1c-14d54a1f1e1a_0_ID192MP3.mp3"
+},
+"l_335e3e44-e8e5-4384-9e3e-44e8e52384b3": {
+"d": "2024-01-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/H4IJ3oJU5UkFhRP_oBcWxAw0z2XopXBEGhiv40MyAnRw",
+"n": 3410,
+"s": "Den døve komponisten fylte folks ører med genial musikk.",
+"t": "Ludwig van Beethoven – symfonisk geni",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/50a5e0ba-adf0-4dca-a09f-b5780c60c2c9_0_ID192MP3.mp3"
+},
+"l_34f542af-98ce-489c-b542-af98cee89cb5": {
+"d": "2025-12-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/hflE5Cr1d6cKu9PssRI8KAJ22B-J6k2kcg-pl4YGscCg",
+"n": 3370,
+"s": "Trosset vitenskapen og krysset Stillehavet på en flåte av balsatre – og beviste at mennesker kunne krysse hav allerede i oldtiden.",
+"t": "Thor Heyerdahl – havets opprører",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/34f542af-98ce-489c-b542-af98cee89cb5_1_ID192MP3.mp3"
+},
+"l_3553bf68-9b1b-43b0-93bf-689b1bc3b033": {
+"d": "2023-03-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/5039gfe4BmxY6fyfo4UQRAy0-T-d2ogpn5AkggktMd_w",
+"n": 3280,
+"s": "Regenten av Danmark-Norge levde med psykiske plager og skandaler.",
+"t": "Christian VII – den gale kongen",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/d370105b-d9ab-4e4a-98ba-05e83539a79d_0_ID192MP3.mp3"
+},
+"l_37328c3a-0e27-4160-b28c-3a0e27f160e9": {
+"d": "2023-05-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/qjc8wCHCv_HP8pe27c4WjQ8d0k1XsOsjkegRpIwqIipg",
+"n": 3428,
+"s": "Den enestående pianisten komponerte helt inn i døden.",
+"t": "Wolfgang Amadeus Mozart – brilliant komponist",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/58deccc2-e8bb-485e-b2f2-8f4195ae4092_0_ID192MP3.mp3"
+},
+"l_3adf4766-e85c-44ca-9f47-66e85cf4ca6d": {
+"d": "2022-11-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/JyyVqDQlhcj1mBGMEWMBDwVJoecgDJ4FW2FGpgHzxDKA",
+"n": 3200,
+"s": "Den irske piraten herjet og plyndret på åpent farvann.",
+"t": "Grace O´Malley – havets dronning",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/187219b6-beea-462b-8db5-89186aae878e_0_ID192MP3.mp3"
+},
+"l_3d3d27b2-9359-4ca0-bd27-b293593ca0ab": {
+"d": "2024-08-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/La8QBI9sUQjXSeg6cDeFLAUkZSlIPxrpkiX62uoXA_qQ",
+"n": 3402,
+"s": "Kvinnesakspionéren var en organisatorisk mesterhjerne.",
+"t": "Fredrikke Marie Qvam – kvinnesaksdronningen",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/f0716b48-64a9-4365-a9d3-7b072fa6eb1e_0_ID192MP3.mp3"
+},
+"l_3d424e79-a9a4-4c69-824e-79a9a45c69db": {
+"d": "2023-09-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/M0e1iSAJ4D8vZHDhRYM5Lg6vSuwv14TljqfsrtUCInog",
+"n": 3335,
+"s": "Den sympatiske mestertyven brøt seg ut av fengsel gang etter gang.",
+"t": "Ole Høiland – mestertyv og utbryterkonge",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/16061955-a552-4eb3-b1fb-27cbdde2aee8_0_ID192MP3.mp3"
+},
+"l_3ec2606e-221d-4887-8260-6e221d4887f2": {
+"d": "2022-07-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Vm72lx0zm52ddRpmRmkAWgWtt4CgeM4bsaz1g0DgYxkw",
+"n": 3091,
+"s": "En kaldblodig morder som ble Kinas første og eneste kvinnelige keiser.",
+"t": "Wu Zetian – voldelig keiserinne",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/40fee2cb-3ccf-46a6-b59a-7783652aad98_0_ID192MP3.mp3"
+},
+"l_454dfcc6-de70-421d-8dfc-c6de70521d58": {
+"d": "2024-09-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/6WQXbnLrxRCPWmcEdBCoIgFi1mU-8RZbzu0EpdaNOjfQ",
+"n": 3417,
+"s": "Den platinablonde skuespilleren reiste fra fosterhjem til Hollywood.",
+"t": "Marilyn Monroe - banebrytende blondine",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/82fdf039-8ebd-4aeb-9ff7-89f6e917a0fb_0_ID192MP3.mp3"
+},
+"l_485f98fb-a153-435a-9f98-fba153c35a26": {
+"d": "2023-02-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/JvGiXQaSRvxzyCaHwHu2ug2qCkgMuykC9ZIDubGerXUw",
+"n": 3231,
+"s": "Norges første kvinnelige professor gikk til kamp mot Hitlers raseteori.",
+"t": "Kristine Bonnevie – banebrytende professor",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/b611bba5-3cc8-412e-b7e5-7df8268b5611_0_ID192MP3.mp3"
+},
+"l_4899a6c4-55f3-4821-99a6-c455f328219a": {
+"d": "2023-03-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/RscBmB_-KP4skSNNXpA5OQV_auKSZi6Wn5TN2qnJWIBw",
+"n": 3566,
+"s": "Kvinnen bak et av litteraturens mest berømte monstre.",
+"t": "Mary Shelley – Frankensteins mor",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/ea985fc2-3e76-4375-91de-a9b8ea96f3ef_0_ID192MP3.mp3"
+},
+"l_4ad669c9-5456-4cca-9669-c954567cca05": {
+"d": "2022-03-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/e1yFR6DEKFssirR-GaqP4AZtEJ2T7I_aRZvLhD9ftIlg",
+"n": 3134,
+"s": "Frankrikes siste dronning levde et liv i ekstrem luksus – med forbudt kjærlighet.",
+"t": "Marie Antoinette – hatet og halshugget",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/923f1cf5-5be8-4788-b520-a3f197f49817_0_ID192MP3.mp3"
+},
+"l_4b5dff0d-c232-4b6f-9dff-0dc232cb6f5d": {
+"d": "2024-02-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VtKxmiMqDkgxKe8fll6lugy5NfjA91Pj_4X69uvRDBhg",
+"n": 3395,
+"s": "Skotske Maria Stuart mistet tre kongedømmer på veien til avgrunnen.",
+"t": "Maria Stuart – fanget dronning",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/d42d7ae9-f84e-433f-be3a-13a282bde0c2_0_ID192MP3.mp3"
+},
+"l_5035b4f2-e3d9-4511-b5b4-f2e3d9451171": {
+"d": "2025-10-29T06:00:00+01:00",
+"i": "https://gfx.nrk.no/LSmJZpOC9KDASa4M3ESdTg8ymuuJqrur9UTYZFvRTQ5Q",
+"n": 3398,
+"s": "Han risikerte alt for å bekjempe den tyske okkupasjonen og ble en nasjonalhelt. Selv fant han aldri fred etter krigen",
+"t": "Max Manus – motstandshelten",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/5035b4f2-e3d9-4511-b5b4-f2e3d9451171_ID192MP3.mp3"
+},
+"l_50868f8b-73c6-43a5-868f-8b73c683a58e": {
+"d": "2022-02-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/nR6bh5TP2_GvDm4OX9gGDwuFHGxaStTpgTHC8xZfUmoQ",
+"n": 3325,
+"s": "Jenta fra Powhatan-stammen ble forsøkt temmet som et villdyr av europeerne.",
+"t": "Pocahontas – mennesket bak myten",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/1e911346-b60f-4096-932b-874a3ccdbb1d_0_ID192MP3.mp3"
+},
+"l_51a32d5a-395e-4a04-a32d-5a395efa04c4": {
+"d": "2024-09-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/gfeqYRp9urx8uU6aEQmJmAMCDxPk8mSCFaECF7cXQjmg",
+"n": 3413,
+"s": "Etiopieren gikk fra elsket keiser til hatet diktator",
+"t": "Haile Selassie – guddommelig keiser",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/6c0ce641-4223-4422-8b7c-0df11b9f4777_0_ID192MP3.mp3"
+},
+"l_51ccace3-ad90-4bf1-8cac-e3ad90bbf15e": {
+"d": "2023-05-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aQ7uvuO5LgCfZ_owz9PqeQuSzsD87RXZtFph9zSh0Eog",
+"n": 3342,
+"s": "Den temperamentsfulle mannen skrev hovedutkastet til grunnloven.",
+"t": "Christian Magnus Falsen – grunnlovens far",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/283e8a4e-5478-4bd7-886a-006052daf6d2_0_ID192MP3.mp3"
+},
+"l_53153f85-fa20-42b1-953f-85fa2002b1cc": {
+"d": "2025-11-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/HOIjcX7uO4gLVLHPWhkh3wGnNDbKYrRnreU2j55qLD_A",
+"n": 3411,
+"s": "Hans kunstverk av sykdom, død og angst ble møtt med latter og avsky, men den plagede maleren nektet å gi seg.",
+"t": "Edvard Munch – mørkets maler",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/53153f85-fa20-42b1-953f-85fa2002b1cc_ID192MP3.mp3"
+},
+"l_539938fc-ab44-49e3-9938-fcab4449e3ea": {
+"d": "2026-05-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/hOM0vpdRDANLlnWqEPTx3gHuu-3bdcNyEd676ZvONk_g",
+"n": 3408,
+"s": "Med fargerike design og populære show bygget han et av verdens største motehus, men så ble han offer for en kaldblodig seriemorder.",
+"t": "Gianni Versace – visjonær designer",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/539938fc-ab44-49e3-9938-fcab4449e3ea_1_ID192MP3.mp3"
+},
+"l_54653424-6890-4d34-a534-246890fd3416": {
+"d": "2022-03-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/H7GJAYlMlNMzgCGgffSNBgbm4r4FAMtYeq_8uKZnA_4A",
+"n": 3364,
+"s": "Den norske operasangeren ble hyllet som 1900-tallets største sangstemme.",
+"t": "Kirsten Flagstad – forfulgt operasanger",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/d13a8bb9-f52c-4840-9fbb-738f65595b1b_0_ID192MP3.mp3"
+},
+"l_55b038bf-550d-4455-b038-bf550df455db": {
+"d": "2023-09-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/DlVLObXmdAvgDxYxCutJugrJD5H4FXw2gsf0Zjub4rmg",
+"n": 3461,
+"s": "Gikk fra skuespiller til førstedame, og ble hele Argentinas Evita.",
+"t": "Eva Perón – fryktløs førstedame",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/e5cb6058-86d2-4640-b8fd-7f4e1131db44_0_ID192MP3.mp3"
+},
+"l_59f4e36e-c72c-47d2-b4e3-6ec72ca7d2b7": {
+"d": "2023-08-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RcXhWxufScJfTl9KJWI1TQF2eLkEaUwAnyTVXhVV4z5g",
+"n": 3480,
+"s": "Folkets konge skulle aldri regjere, men tok sjansen da den bød seg.",
+"t": "Haakon VII – valgt av folket",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/86a2f25c-d081-43c0-9d00-d3fca4b06e00_0_ID192MP3.mp3"
+},
+"l_5d0e2f54-c964-4d32-8e2f-54c964ad32dd": {
+"d": "2022-05-11T10:00:00+02:00",
+"i": "https://gfx.nrk.no/-wkWWsN7W2GjvRACmb1oJQpHAWgbs-_x_KiNkSKgKFEw",
+"n": 3329,
+"s": "Dronningen giftet seg aldri, men regjerte England egenrådig i 44 strake år.",
+"t": "Elizabeth I – jomfrudronningen",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/e8a06f2f-4948-4816-a8b2-679a78036663_0_ID192MP3.mp3"
+},
+"l_5d9a8fde-0ef4-4ab1-9a8f-de0ef4aab16f": {
+"d": "2024-02-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/1KLrgKnMzGpwvkXh3dHp1AFmLpo-3aSQsFWa5ylHvmIg",
+"n": 3171,
+"s": "Franske Jean-Baptiste Bernadotte ble konge over Sverige og Norge.",
+"t": "Karl Johan – kongelig kometkarriere",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/5048cff0-03fc-4789-9544-bec0738f62b7_0_ID192MP3.mp3"
+},
+"l_6206bff4-f649-4e6e-86bf-f4f649de6e11": {
+"d": "2024-09-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/pH_bwm7ZsD6RahN4CWapPQFTnjcF7KUBbo3SiQ_ikVqQ",
+"n": 3415,
+"s": "Korsikaneren klatret i gradene og kronet seg selv til keiser.",
+"t": "Napoleon Bonaparte Del 1",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/830f0423-35bc-4473-bf28-e871030d43cf_0_ID192MP3.mp3"
+},
+"l_6241408b-c289-4e25-8140-8bc2891e259c": {
+"d": "2026-08-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/jhJuSyG7XzA1X_tInoLNSgvkN67AE248YyueXYpqFnvA",
+"n": 3413,
+"s": "Den grådige admiralen oppdaget en ny verdensdel og ble en brutal kolonihersker.",
+"t": "Kristoffer Columbus – havets admiral",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/6241408b-c289-4e25-8140-8bc2891e259c_1_ID192MP3.mp3"
+},
+"l_63c892c5-c937-4bf1-8892-c5c9376bf175": {
+"d": "2026-07-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/P-ahMsilr-j5wrSlNKt46wKaYWl1E-Dwo3vkrZudjM6g",
+"n": 3405,
+"s": "Skuespilleren trosset griske filmstudioer og dårlig presse, og vant flere Oscar-priser enn noen andre skuespillere.",
+"t": "Katharine Hepburn – selvstendig stjerne",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/63c892c5-c937-4bf1-8892-c5c9376bf175_1_ID192MP3.mp3"
+},
+"l_6e067ab4-b9ac-4b46-867a-b4b9ac6b46e1": {
+"d": "2025-11-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/4tocdHDO_YXvMEmdpiuzeAkKFbEIFSwBsX9udaSKdH2w",
+"n": 3399,
+"s": "Hun trosset loven for kvinners frihet. Emmeline Pankhurst ledet suffragettene med ukuelig kraft og ofret alt for kvinners stemmerett.",
+"t": "Emmeline Pankhurst – fryktløs stemme",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/6e067ab4-b9ac-4b46-867a-b4b9ac6b46e1_ID192MP3.mp3"
+},
+"l_6f028a4f-7161-448f-828a-4f7161548f0d": {
+"d": "2026-05-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/wl95w_JOdf9fdv37UanszgwpN0LTXxielqSsRro5b5WA",
+"n": 3394,
+"s": "Den danske dronningen styrte hele Norden med jernhånd.",
+"t": "Margrete I – unionsdronningen",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/6f028a4f-7161-448f-828a-4f7161548f0d_1_ID192MP3.mp3"
+},
+"l_74d75682-ebc4-4476-9756-82ebc4a476b6": {
+"d": "2022-12-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3x5M6vpik3VoXzThQOEPwguz_V4BU1TZ9FX43DUrtmpw",
+"n": 3408,
+"s": "Renessansemannen regnes som en av historiens mest begavede mennesker.",
+"t": "Leonardo da Vinci – genialt multitalent",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/fa6a6d3a-5feb-44b0-bffc-86c0132c6f02_0_ID192MP3.mp3"
+},
+"l_75d22465-dd87-4a64-9224-65dd877a645d": {
+"d": "2026-07-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/zx1vB-1Sbq-TKsvuyI6MzAsp5noHRUT4tf6kuipj6z5w",
+"n": 3414,
+"s": "Den svenske oppfinneren sprengte seg inn i verdenshistorien og etterlot seg verdens mest kjente pris.",
+"t": "Alfred Nobel – eksplosiv oppfinner",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/75d22465-dd87-4a64-9224-65dd877a645d_1_ID192MP3.mp3"
+},
+"l_7c2e5aa0-c14b-4a22-ae5a-a0c14bea22cd": {
+"d": "2022-07-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/ftZn6oqNFEEM8uy94A20Nga9EmsaDduVuscFnyW4MOqg",
+"n": 3426,
+"s": "Sioux-høvdingen ledet kampen for urfolks frihet i USA da en blodig trussel kom fra Europa.",
+"t": "Sitting Bull – standhaftig høvding",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/e096f5c7-8de3-4be8-a696-ceae4f36392c_0_ID192MP3.mp3"
+},
+"l_7d979483-6218-4c75-9794-836218bc7529": {
+"d": "2025-05-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/aAoKYTgcZ46hPp6Yyx206w7skE3UB7s4tJ8Wq8mrmlUQ",
+"n": 3412,
+"s": "Den ikoniske prinsessen trollbandt verden og snudde monarkiet på hodet.",
+"t": "Diana – folkets prinsesse",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/49b7c0e0-4996-4bb6-8007-f9045a533923_0_ID192MP3.mp3"
+},
+"l_7ec6b135-fbfa-48e0-86b1-35fbfad8e012": {
+"d": "2022-10-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/skZl6Hgaoe7poSeTvQVF-g_uahL4X9SG1pGd5wwYKRmg",
+"n": 3275,
+"s": "Krigerdronningen seiret mot den portugisiske kolonimakten.",
+"t": "Nzinga – dronning og erobrer",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/549da420-bc15-4d0f-83f0-9e4acd5d4f9d_0_ID192MP3.mp3"
+},
+"l_7f3164a6-c154-4550-b164-a6c15445500c": {
+"d": "2024-02-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/OrJCjmaLPiCoJEXw5EulSwMMW_Ua4GrRuDESF6xwDksQ",
+"n": 3071,
+"s": "Den modernistiske dikteren satte ord på smerten etter 2. verdenskrig.\n",
+"t": " Gunvor Hofmo – lengselens lyriker",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/e957e17b-b377-469a-ad9a-c3d350bc1019_0_ID192MP3.mp3"
+},
+"l_848bcde8-da97-4d6c-8bcd-e8da97ad6c7e": {
+"d": "2023-02-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/xPlvUqLBs2k5Ddnwstb_LQdmZxJvQIBItEKgecSDpLJA",
+"n": 3185,
+"s": "Aktivisten banet vei for reformer og samiske rettigheter.",
+"t": "Elsa Laula Renberg – samisk rebell",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/5e98fdb2-93dc-42bd-9c65-bdd573eee444_0_ID192MP3.mp3"
+},
+"l_8524eddc-8bf8-4f34-a4ed-dc8bf81f341e": {
+"d": "2025-03-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/npowfcmxDXU4IzloWMeOFwlAWzDwALH5KB6tKTO5CRmQ",
+"n": 3395,
+"s": "Den geniale oppfinneren forandret verden med sine elektriske nyvinninger.",
+"t": "Nikola Tesla – elektrisk eksentriker",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/56b8386f-bdba-4d0e-a926-96fc05d1cd2d_0_ID192MP3.mp3"
+},
+"l_8ade67a8-4096-494f-9e67-a84096094fdb": {
+"d": "2024-01-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/uft559i1dW4DXsBMFAbhxg4tkyqK98XJO1PCB9hGgAFA",
+"n": 3546,
+"s": "Den russiske keiserinnen kuppet makten fra ektemannen sin.",
+"t": "Katarina den store – tsar og kuppmaker",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/59bb09e6-d73c-42db-b151-05e0bb99ce7c_0_ID192MP3.mp3"
+},
+"l_90000a3f-c96b-41da-800a-3fc96b21daab": {
+"d": "2024-10-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/QRnusIhcAFI6T8dassFbxQim03ZSak6_72yqWQkERcjQ",
+"n": 3387,
+"s": "Den sorte dronningen bestilte drap på sine verste fiender",
+"t": "Katarina av Medici – blodtørstig enkedronning",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/d99f8825-eb87-476e-ba90-a031d5c2a39e_0_ID192MP3.mp3"
+},
+"l_904b31eb-0060-4333-8b31-eb0060633310": {
+"d": "2023-05-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/l2mD-eDoorOabxHl_c7yrQOfnTn_LQOpIuLu6DmGoyIw",
+"n": 3491,
+"s": "Showartisten danset seg til hemmelig agent under andre verdenskrig.",
+"t": "Josephine Baker – dansende agent",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/b6dc4ad2-43a0-4c7b-b1cf-08e943713988_0_ID192MP3.mp3"
+},
+"l_93ac0b77-a62a-4bf3-ac0b-77a62aabf359": {
+"d": "2025-03-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/TQBwlhDjKGu06ysGcAXkjA9Td3aB2HUQRWYIVPi0gOLw",
+"n": 3398,
+"s": "Dronningen som ble fratatt kronen og hodet av den engelske kongen.",
+"t": "Anne Boleyn – halshugget dronning",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/47b9d353-d344-45dc-a669-a74a60c7ab3a_0_ID192MP3.mp3"
+},
+"l_93ce469d-dd62-40e1-8e46-9ddd6260e126": {
+"d": "2025-04-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/hufpWPak01cKxyBevtEU-gHPVBRl6bCkhqnWt_o_MLHA",
+"n": 3404,
+"s": "Den muslimske verdens mektigste leder sto imot korsfarerne.",
+"t": "Saladin - seirende sultan",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/4ff538c7-3000-4ccc-b842-5071d9384437_0_ID192MP3.mp3"
+},
+"l_94dadcc4-c1f0-47f8-9adc-c4c1f0f7f85d": {
+"d": "2025-04-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RuyHhP6VlVIBP_Vf6yG9BATydEe6S2oO1VvIjK-_qU1g",
+"n": 3391,
+"s": "Anne Frank ble forfulgt av nazistene fordi hun var jøde. Hun skrev dagbok mens hun levde i skjul under andre verdenskrig.",
+"t": "Anne Frank – krigens vitne",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/b79f445f-4c15-4a94-84fe-33ddfea83c77_0_ID192MP3.mp3"
+},
+"l_97225275-1949-4049-a252-751949504989": {
+"d": "2024-02-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/1VXrDWu_73yrYMHpLz7BkQf3N9vHS2fW5Tiz-GFKVkKQ",
+"n": 3156,
+"s": "Gangsterkongen Scarface gjorde Chicago til USAs farligste by.",
+"t": "Al Capone – gangsternes konge",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/a13b1422-b8e1-46e8-aaa3-bb69faf8e39d_0_ID192MP3.mp3"
+},
+"l_983bb4fb-a86b-4f56-bbb4-fba86bef56f8": {
+"d": "2026-06-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/v6nPd0Ray3ISR-WEHiN_EQuLeBbnpOU4ZevljOGfLkPg",
+"n": 3398,
+"s": "Med sigaren i én hånd og whiskyglasset i den andre kjempet den karismatiske statsministeren en krig på vegne av hele verden.",
+"t": "Winston Churchill – nazistenes verste fiende",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/983bb4fb-a86b-4f56-bbb4-fba86bef56f8_1_ID192MP3.mp3"
+},
+"l_98be6fc1-3068-46d6-be6f-c1306826d6d9": {
+"d": "2022-08-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Ptzmq6pUmsC943zTo1TwUwfsGcVbvk8aKBxYFtH1hYLQ",
+"n": 3273,
+"s": "Forfatteren sto imot patriarkatet og mesket seg i kraftfulle kjærlighetshistorier.",
+"t": "Mary Wollstonecraft – feministisk filosof",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/e1850b7e-5401-43e6-923c-aca92032c383_0_ID192MP3.mp3"
+},
+"l_99a87293-985e-40da-a872-93985eb0da0f": {
+"d": "2023-06-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nR9DHW4PZU1Atu4AcMWAxw5mAkRkVPVyg716ooguR5tA",
+"n": 3520,
+"s": "Den krigerske mongolen skapte et av tidenes største imperier.",
+"t": "Djengis Khan – brutal verdenshersker",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/f82ac21f-efe7-44f6-9230-0c6024740a7d_0_ID192MP3.mp3"
+},
+"l_9ac0d59d-a658-487f-80d5-9da658b87ffa": {
+"d": "2025-10-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/zRCsYg-_rKB2zu4zc78vFwsptLk5QB8gjz6gwNAQWj3Q",
+"n": 3392,
+"s": "Folkekongen ledet Norge med stø hånd, men bar i det stille på savn og ensomhet.",
+"t": "Olav V – ensom majestet",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/9ac0d59d-a658-487f-80d5-9da658b87ffa_ID192MP3.mp3"
+},
+"l_9def45d5-1247-4073-af45-d51247c0731e": {
+"d": "2026-08-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/qILNM4XGyyY-PtiAelLxvgcJwpKBd3t-Y4FmNJJYjYTg",
+"n": 3404,
+"s": "Hele Norges mormor ga stemme til de små og oversette.",
+"t": "Anne-Cath. Vestly – Norges mormor",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/9def45d5-1247-4073-af45-d51247c0731e_1_ID192MP3.mp3"
+},
+"l_a243a7b6-52ea-4e2d-83a7-b652ea7e2d38": {
+"d": "2024-09-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/MM6Xh5naZN5cEpBSwomeMwfe-vG5vocGWZNuQo4rqEWw",
+"n": 3409,
+"s": "Keiseren ble maktsyk, tapte og endte sine dager på en øde øy",
+"t": "Napoleon Bonaparte Del 2",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/c2c3224b-b938-4c68-b959-9f7c47ef958f_0_ID192MP3.mp3"
+},
+"l_a5acfa69-0c00-448a-acfa-690c00348a81": {
+"d": "2026-07-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/j13eFZAwqpQvlfenNfx-iAf5FdHjHWk9e87ZbBqgoWsw",
+"n": 3407,
+"s": "Han skrev seg fra sult til berømmelse, men i landstrykeren bodde det et evig mørke.",
+"t": "Knut Hamsun – sulten forfatter",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/a5acfa69-0c00-448a-acfa-690c00348a81_1_ID192MP3.mp3"
+},
+"l_a6e7d24e-c286-42f3-a7d2-4ec28692f35f": {
+"d": "2024-08-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/vvTq_h26uFQi9_Exfln5EgIrSnJlYXb0BJ_FdV26VXxg",
+"n": 3412,
+"s": "Brøt ned tabuer med det moderne dramaet.",
+"t": "Henrik Ibsen – dramakongen",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/875f61b6-b912-487c-9a0a-6d29257cff1e_0_ID192MP3.mp3"
+},
+"l_aa50526e-c423-4b7e-9052-6ec423ab7ed5": {
+"d": "2023-02-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/-FBbORetLFuSpKZHpp8WsgOe-mE_OoRKq7HjLJw_L6Ug",
+"n": 3484,
+"s": "Filosofen var Platons stjerneelev og læreren til Alexander den Store.",
+"t": "Aristoteles – elementær filosof",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/311625d8-19b4-4051-b08a-ce62220fc248_0_ID192MP3.mp3"
+},
+"l_ab0f84f5-32d9-4af9-8f84-f532d9faf9c0": {
+"d": "2025-12-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/pu0GjR9ZszMARx0EvGWPbQBWDZej8RLoEckcw83qzSYA",
+"n": 3399,
+"s": "Den britiske dronningen ble forsøkt drept åtte ganger i løpet av livet, men gjorde Storbritannia til verdens største imperium.",
+"t": "Dronning Victoria – imperialistisk hersker",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/ab0f84f5-32d9-4af9-8f84-f532d9faf9c0_ID192MP3.mp3"
+},
+"l_ab2685d4-62d1-4fcd-a685-d462d1bfcd0f": {
+"d": "2022-11-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/yYCRK68IyolA4lbA7lk7QgWgRpeuR24vOlqt-vWi13MA",
+"n": 3270,
+"s": "Mellom fjord og fjell fant bestevennene den norske nasjonalfølelsen.",
+"t": "Asbjørnsen og Moe – eventyrlige kamerater",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/d46e342c-c8b4-42e3-9e57-f360e7bf0efe_0_ID192MP3.mp3"
+},
+"l_ab29313f-1406-4d8d-a931-3f14065d8d95": {
+"d": "2023-09-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D_Km6wvF5wfuTCel-3nykQYszI8TPU0vUU_ijh9oA_fg",
+"n": 3450,
+"s": "Hele verden kjenner historiene hans, men hans egen er et mysterium.",
+"t": "William Shakespeare – verdens største dramatiker",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/04e8d973-56fb-46a7-9921-1f89c49865bb_0_ID192MP3.mp3"
+},
+"l_b079ebcf-f330-4df5-b9eb-cff3306df592": {
+"d": "2022-06-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/yqD2hcbBESEkCnULS97IeQFRt-xEhpXvvIMUikuUKQmw",
+"n": 3202,
+"s": "Oppdageren reiste gjennom det gigantiske mongolske riket styrt av Kublai Khan.",
+"t": "Marco Polo – nysgjerrig oppdager",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/a03674a9-556f-4851-b67c-93c3a5bd02e5_0_ID192MP3.mp3"
+},
+"l_b2b74ab3-8975-4851-b74a-b389758851dd": {
+"d": "2025-03-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/ElYC29eV4I12xC9f6dKbwQCH34qjolItahZsRsIrGKaQ",
+"n": 3417,
+"s": "Den greske filosofen ble dømt til døden for å tenke fritt.",
+"t": "Sokrates - filosofiens far",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/c64e505a-eace-4e6d-8035-d21fed9cdc8d_0_ID192MP3.mp3"
+},
+"l_b3a52568-47d7-4bb0-a525-6847d73bb075": {
+"d": "2025-03-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/uIeGJHl8opUx7-QeeZW-fgBkIu08yjNDgX5EBBjnftHA",
+"n": 3394,
+"s": "Norges første kvinnelige maler og grunnlegger av den første feministgruppen, røkte og drakk offentlig, og ble banket opp for meningene sine.",
+"t": "Aasta Hansteen – kvinnekampens rebell",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/e805ca46-1ba3-4723-bee0-bc181ab5c810_0_ID192MP3.mp3"
+},
+"l_b3e400aa-56ec-4bed-a400-aa56ec7bed5f": {
+"d": "2025-04-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/qix1ZuxdWrn-3W4FmwNxqAJ9hv0Yl-KPWvhy1K3wOD4w",
+"n": 3411,
+"s": "Storbritannias første kvinnelige statsminister fikk både lojale tilhengere og blodtørstige fiender.",
+"t": "Margaret Thatcher – jernkvinnen",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/75f9ee7f-e03d-4b5c-8bc9-6f12ba3a7c6a_0_ID192MP3.mp3"
+},
+"l_bb5f75b6-2df6-4623-9f75-b62df6f623a8": {
+"d": "2022-02-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/D9Q0ZarCdKI3A2Kkc0XglQre6flhn2yEA8AJyCiGOXBQ",
+"n": 3270,
+"s": "Den gåtefulle munken bidro til det russiske monarkiets undergang.",
+"t": "Grigorij Rasputin – Spåmannen fra Sibir",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/72d2a804-39cb-44d3-9c55-8056d6f6d371_0_ID192MP3.mp3"
+},
+"l_bc98b277-7b56-4cac-98b2-777b56fcac8e": {
+"d": "2025-04-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/lFoSl0VAQEw3-vwZ4a7ERQ4Wt5UIMCHZDzpl53qu6eDQ",
+"n": 3416,
+"s": "Forfatteren brøt ned tabuer med sine ærlige og brutale romaner.",
+"t": "Amalie Skram – naturalismens mor",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/2f7e8717-9381-44e0-836e-6c4e354350fe_0_ID192MP3.mp3"
+},
+"l_bd33d292-6a52-4352-b3d2-926a5243522f": {
+"d": "2022-01-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/3ysWI64bBudoQ587MyzF6Aqnea8NPIvRtngdIv-gmnjA",
+"n": 3425,
+"s": "Den engelske kongens tid på tronen var preget av paranoia, svik og døde koner.",
+"t": "Henrik VIII – maktgal tyrann",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/3aaceec9-fe23-469a-82b7-4d3091a670c3_0_ID192MP3.mp3"
+},
+"l_beef68ee-e2d3-4643-af68-eee2d3b643af": {
+"d": "2025-04-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/eHvWfd6oglHSl5wagnQdBwcuUxCa6PjdUsFGstXZ9FLg",
+"n": 3407,
+"s": "Den russiske tsaren mistet både riket og livet i revolusjonen, og endte dermed det 300 år gamle Romanov-dynastiet.",
+"t": "Nikolaj II - Russlands siste tsar",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/65390bc1-32fc-4e56-8484-57b5ffbd744b_0_ID192MP3.mp3"
+},
+"l_bf66c863-c744-4207-a6c8-63c744b2070b": {
+"d": "2026-07-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/dILIhYVhhtC3OcCvLyLjOQrtma4uYEmRXT110ufNJocw",
+"n": 3406,
+"s": "Vikingen som satte livet på spill for å finne et ukjent land.",
+"t": "Leiv Eiriksson – norrøn eventyrer",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/bf66c863-c744-4207-a6c8-63c744b2070b_1_ID192MP3.mp3"
+},
+"l_bfe77ac2-192b-4b7f-a77a-c2192bdb7f7f": {
+"d": "2026-08-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/BNaUxFGWMD-X410OdvN4ZwDAOxLdgQEGQM1wN2JazcBA",
+"n": 3416,
+"s": "Simone de Beauvoir utfordret patriarkatet med pennen.",
+"t": "Simone de Beauvoir – radikal frihetstenker",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/bfe77ac2-192b-4b7f-a77a-c2192bdb7f7f_1_ID192MP3.mp3"
+},
+"l_c10a1db0-ec5a-4763-8a1d-b0ec5ad7639f": {
+"d": "2022-02-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/o7r6sOUdPd47qJOcdBHVEgSfuOqZAGrmV81J4L5QECng",
+"n": 2995,
+"s": "En litterær pioner som sto i kryssilden mellom de to mennene hun elsket aller høyest.",
+"t": "Camilla Collett – Norges første feminist",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/ab96dac7-167a-4e56-8bc8-21a06553ad5f_0_ID192MP3.mp3"
+},
+"l_c1b5f405-af4b-4fa5-b5f4-05af4bcfa539": {
+"d": "2025-10-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/X_siRwmgdaM804jedjhxTwqN6nvOup4UzFN_KoTzh_zg",
+"n": 3417,
+"s": "Den colombianske narkobaronen var rik, mektig og fryktet – både i hjemlandet og resten av verden.",
+"t": "Pablo Escobar – kartellkongen",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/c1b5f405-af4b-4fa5-b5f4-05af4bcfa539_ID192MP3.mp3"
+},
+"l_c34e7bd4-f863-4d0f-8e7b-d4f8639d0f59": {
+"d": "2024-01-31T06:00:00+01:00",
+"i": "https://gfx.nrk.no/sYZW34R1LHzbks7OQclyGQGvNUO_kTXRvXQM9IAzgX2g",
+"n": 3421,
+"s": "Han var en av fedrene til den moderne vitenskapen, men ble forsøkt kneblet av den katolske kirken.",
+"t": "Galileo Galilei – rebelsk vitenskapsmann",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/7d2e22a6-f363-40cd-9521-efa0d743a5cc_0_ID192MP3.mp3"
+},
+"l_c46abbc4-a9f3-4f94-aabb-c4a9f35f9428": {
+"d": "2022-12-07T06:00:00+01:00",
+"i": "https://gfx.nrk.no/ASCM1QQk-PfGTItbUy7jmQKOQnWRAb7owU2WRApsszkQ",
+"n": 3479,
+"s": "Den guddommelige keiseren regjerte da atombombene falt over Japan.",
+"t": "Hirohito – keiser i krig",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/8d8875ec-c463-4cb5-be5f-9a8c6db6d23c_0_ID192MP3.mp3"
+},
+"l_c4b1c8aa-48e6-46b3-b1c8-aa48e6b6b350": {
+"d": "2022-05-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/KTenW366IpSAJ63mGn4UIw0Zfwmyh_wDo_lE_VGvLSUQ",
+"n": 3037,
+"s": "Kjeltringparet drømte om å bli Hollywood-stjerner.",
+"t": "Bonnie og Clyde – kriminelle kjærester",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/7c668830-168d-4449-b097-b2afcdb8198a_0_ID192MP3.mp3"
+},
+"l_c6cd8325-9050-45ed-8d83-259050e5ed55": {
+"d": "2026-06-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Tlo74gM_iH6q5kK2cLH9nw2z9XRhf7wuB5uHMYCJAe-w",
+"n": 3392,
+"s": "Sangerinnen ble kalt den lille spurven, men med sin store stemme vant hun publikums hjerter.",
+"t": "Édith Piaf – Frankrikes sangfugl",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/c6cd8325-9050-45ed-8d83-259050e5ed55_1_ID192MP3.mp3"
+},
+"l_c79368bf-3baa-4833-9368-bf3baa68332a": {
+"d": "2026-07-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/AtPrqUyVUJe9wGT5nwbP-Ap7JMfdxz_SPf-fTJ9P0yxg",
+"n": 3385,
+"s": "Den albanske nonnen ofret alt da hun gikk ut i den indiske slummen for å hjelpe de fattige og syke.",
+"t": "Mor Teresa – selvoppofrende helgen",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/c79368bf-3baa-4833-9368-bf3baa68332a_1_ID192MP3.mp3"
+},
+"l_cc631ca3-ec96-41ef-a31c-a3ec96f1ef98": {
+"d": "2022-08-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/q2M9CPM7cNqKOw4DZ3GK7Q_SjzSBizGQPtKzIeKCSh0Q",
+"n": 3325,
+"s": "Den ikoniske kunstløperen ble den best betalte kvinnelige skuespilleren i Hollywood.",
+"t": "Sonja Henie – isens stjerne",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/489202f7-8651-4b89-aa7a-c0bb92c2fb3f_0_ID192MP3.mp3"
+},
+"l_cd2d0860-bd92-404d-ad08-60bd92404db8": {
+"d": "2023-05-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/FDQp21Db1123Mdr2plQb6AsnvOJMOSYF6ky7zbbociZA",
+"n": 3267,
+"s": "Nobelprisvinneren brukte makten sin til å kjempe mot nazismen.",
+"t": "Sigrid Undset – fredskjempende forfatter",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/0b3e88fc-d197-48f9-9083-cd6382651100_0_ID192MP3.mp3"
+},
+"l_d2a25a55-d051-4ec8-a25a-55d051dec8b3": {
+"d": "2023-03-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/pA81_KUl3ABP9EFZDQSkgQdN6n0-wlXF8JYBUYkBugyw",
+"n": 3424,
+"s": "Fysikeren snudde opp ned på hele vår forståelse av verden.",
+"t": "Albert Einstein – eksplosivt geni",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/161a4246-acff-4f06-ba00-ffd32991696e_0_ID192MP3.mp3"
+},
+"l_d2b762db-be4a-4e0d-b762-dbbe4a0e0d27": {
+"d": "2022-01-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/2SnI4cAI1t6hjOMb_iayoQsL26ZlJB2d_JFhUt9OLJ7g",
+"n": 3232,
+"s": "Den franske bondejenta så på seg selv som Guds hellige kriger.",
+"t": "Jeanne d’Arc – hellig hærfører",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/9d8f8de3-2e6e-4c24-8f10-1254a97d551b_0_ID192MP3.mp3"
+},
+"l_d3bfa93b-7220-4554-bfa9-3b7220f554be": {
+"d": "2024-08-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/zJZ4jXVJnMd0LE3qOXK1gQAnYyFVKvxYrgkIK0sWuyLw",
+"n": 3415,
+"s": "Showet seg til livsfarlig agentrolle under første verdenskrig.",
+"t": "Mata Hari – dansende spion",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/3fb7b6bf-86db-449d-97c7-2e416453f457_0_ID192MP3.mp3"
+},
+"l_d56cd833-2c61-47ed-acd8-332c6127edb5": {
+"d": "2025-11-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/tv1A23Bm74Phe6upf0X3owL4T-x8a7cw1DB1sLr9E17g",
+"n": 3381,
+"s": "Vasco da Gama åpnet sjøveien til India - med krutt, kors og kompromissløs makt.",
+"t": "Vasco da Gama – brutal sjøfarer",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/d56cd833-2c61-47ed-acd8-332c6127edb5_ID192MP3.mp3"
+},
+"l_d902e69a-b44d-4217-82e6-9ab44d92177a": {
+"d": "2022-10-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/88Rzo_uaWrrHLy_WNqeangQvc1tnvhSe9FpnIF55qfYg",
+"n": 3404,
+"s": "Den ikoniske stumfilmstjernen ble forvist fra Hollywood.",
+"t": "Charlie Chaplin – stumfilmens stjerne",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/b49ded34-d020-4659-82d8-aeb190766e2a_0_ID192MP3.mp3"
+},
+"l_e42b87a3-7832-44de-ab87-a3783264de56": {
+"d": "2022-09-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/b1gn0uLfikx9gC3uEZycsQWAIURm4FjBCl-XY5wjzjOQ",
+"n": 3198,
+"s": "Den skarpe revolusjonæren kjempet for en arbeiderklasse han ikke tilhørte selv.",
+"t": "Karl Marx – våpenløs revolusjonær",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/71eca406-6246-4f15-97aa-31949709648b_0_ID192MP3.mp3"
+},
+"l_e5dc07cc-9231-4299-9c07-cc9231329947": {
+"d": "2026-08-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/BH-EV78BA8NkOavgzZpeUw8OpqGrKMRgPvCs7QI0dKKQ",
+"n": 3410,
+"s": "Samuraihelten ble både forsvarer av og opprører mot det nye Japan.",
+"t": "Saigō Takamori – siste samurai",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/e5dc07cc-9231-4299-9c07-cc9231329947_1_ID192MP3.mp3"
+},
+"l_e680f2b5-2dea-4698-80f2-b52dea569880": {
+"d": "2022-03-16T06:00:00+01:00",
+"i": "https://gfx.nrk.no/BuNKxnZCZXi7iu7w-gMgUwucPz80mjcMUs__q8Snr2MA",
+"n": 3373,
+"s": "Den fattige barnehjemsjenta ble en av verdens mektigste moteikoner.",
+"t": "Coco Chanel – den lille designeren",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/483638a3-877a-401b-82bf-bb04d3b3c891_0_ID192MP3.mp3"
+},
+"l_ea089c65-8dcd-4edf-889c-658dcd3edf6e": {
+"d": "2023-09-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/P7pLR0sE2Wyi3fg2tOLBlQBDTEb-QUyyHo5MlUfsfMsA",
+"n": 3397,
+"s": "Den sagnomsuste dronningen ble en av tidenes mektigste herskere.",
+"t": "Kleopatra – den siste faraoen",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/9907c6e2-9d8e-4890-a37d-fb5b93fb7a8a_0_ID192MP3.mp3"
+},
+"l_f1269c18-01f5-4687-a69c-1801f5c68757": {
+"d": "2022-01-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/QTxVrpBLyHDuaIudXYRIZQ20jNbKCjMyXhOL7WIbkCFQ",
+"n": 3324,
+"s": "Landsforræderen kuppet makten og sendte sine egne landsmenn i døden.",
+"t": "Vidkun Quisling – landssvikeren",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/2510a44b-fd87-4d87-ad33-b62e6b805385_0_ID192MP3.mp3"
+},
+"l_f15fa4c0-b5e4-4e40-9fa4-c0b5e43e4077": {
+"d": "2025-10-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/NPZr6y5q22A-ktdf9o3YiAbJxtwv_YDT6yEhluF64BFQ",
+"n": 3410,
+"s": "Trosset rasisme, vold og svik for å finne sin egen stemme. Endte som musikalsk legende utenfor alle sjangre.",
+"t": "Nina Simone – sjel og kampånd",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/f15fa4c0-b5e4-4e40-9fa4-c0b5e43e4077_ID192MP3.mp3"
+},
+"l_f162f1c4-1bf3-40c0-a2f1-c41bf350c01a": {
+"d": "2022-01-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/cEwWBOTxskcv8wgm1AKCTQ2Ab7OZfmFioqR-__a6jqmA",
+"n": 3317,
+"s": "Fysikeren ble den første kvinnelige nobelprisvinneren i naturvitenskap.",
+"t": "Marie Curie – radioaktivt geni",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/4d966f7b-1820-4c0d-a52d-bf39f6a6836a_0_ID192MP3.mp3"
+},
+"l_fe03dc47-e489-4bd8-83dc-47e4896bd818": {
+"d": "2022-09-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/9yKpauYOvuYZCGLIt_Yt1gKo_l-tSGcD8kfXoAGaptcw",
+"n": 3363,
+"s": "Dragesønnen fra Transilvania spiddet ofrene sine på spisse påler.",
+"t": "Vlad Tepes – virkelighetens Dracula",
+"u": "https://podkast.nrk.no/fil/historiske_kjendiser/d795ea9a-2d90-456e-afaf-eb3f5b4fd28d_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "historiske_kjendiser",
+"image": "https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg",
+"subtitle": "Idealister, genier og maktgale gærninger; Alexandra Gjerpen vekker historiens største personer til live igjen.",
+"title": "Historiske kjendiser"
+},
+"v": 2
 }

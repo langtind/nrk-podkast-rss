@@ -1,22 +1,172 @@
 {
-"l_03a15f26-5430-4670-a15f-265430c67034": "https://podkast.nrk.no/fil/sos_noedtelefonen/7e47d92f-bb1b-49a9-944c-08fb5b97815e_0_ID192MP3.mp3",
-"l_18d64dde-0f63-4f08-964d-de0f634f083a": "https://podkast.nrk.no/fil/sos_noedtelefonen/9d942925-a162-4ab1-8a1c-c262903826cf_0_ID192MP3.mp3",
-"l_1d4afd39-4a0b-426e-8afd-394a0b326e72": "https://podkast.nrk.no/fil/sos_noedtelefonen/cfd37b87-d704-498f-b7b4-bd9b9b96d7df_0_ID192MP3.mp3",
-"l_1f22dd59-df41-4e2b-a2dd-59df41ce2b8a": "https://podkast.nrk.no/fil/sos_noedtelefonen/05b7c5c3-a45a-47c8-8785-de3e6e3da35b_0_ID192MP3.mp3",
-"l_2f32a58e-7a76-47f9-b2a5-8e7a76d7f909": "https://podkast.nrk.no/fil/sos_noedtelefonen/53256f24-6f1c-460d-8ead-4caea738a2d4_0_ID192MP3.mp3",
-"l_462a7dd6-c0f8-45b6-aa7d-d6c0f8c5b675": "https://podkast.nrk.no/fil/sos_noedtelefonen/8ce66ee3-e19a-477a-b564-e7774e5cb29b_0_ID192MP3.mp3",
-"l_4940df43-ad78-4b5d-80df-43ad784b5d89": "https://podkast.nrk.no/fil/sos_noedtelefonen/715c3325-de12-402f-8f5e-8582cfcc1fc8_0_ID192MP3.mp3",
-"l_56368f03-8a5b-4b63-b68f-038a5bfb6317": "https://podkast.nrk.no/fil/sos_noedtelefonen/ffdd8ac3-01f9-447b-9794-578d946f2da1_0_ID192MP3.mp3",
-"l_5affc4f9-6088-4bd2-bfc4-f960880bd236": "https://podkast.nrk.no/fil/sos_noedtelefonen/a3a73e47-86db-43fa-a958-4164415bcc98_0_ID192MP3.mp3",
-"l_689a9170-a99b-4b9e-9a91-70a99bab9e51": "https://podkast.nrk.no/fil/sos_noedtelefonen/a94a223c-d69a-426d-b6cd-af5d07938405_0_ID192MP3.mp3",
-"l_768f23b8-eb7f-42e6-8f23-b8eb7fb2e6a6": "https://podkast.nrk.no/fil/sos_noedtelefonen/42463875-92db-4b3d-8841-43a6a06a2068_0_ID192MP3.mp3",
-"l_78a4a723-7aff-4f97-a4a7-237aff9f975c": "https://podkast.nrk.no/fil/sos_noedtelefonen/5f7d272b-bf5d-4af0-943b-08766bcf943f_0_ID192MP3.mp3",
-"l_a6bd68b8-f359-4003-bd68-b8f3599003ea": "https://podkast.nrk.no/fil/sos_noedtelefonen/d43a0d24-941d-4cc3-88ca-2976fe3cd6ba_0_ID192MP3.mp3",
-"l_b1daeb87-c806-4707-9aeb-87c8065707ab": "https://podkast.nrk.no/fil/sos_noedtelefonen/8a182367-f998-4630-9293-be98f6ca32c0_0_ID192MP3.mp3",
-"l_c7686772-d78f-41fd-a867-72d78fe1fd2a": "https://podkast.nrk.no/fil/sos_noedtelefonen/95d14768-2697-4fc9-895e-0a069996b4c4_0_ID192MP3.mp3",
-"l_d56eb1fd-74fa-4cd3-aeb1-fd74fa9cd3f7": "https://podkast.nrk.no/fil/sos_noedtelefonen/8a65787f-608f-4449-bf8f-5f83ec75f321_0_ID192MP3.mp3",
-"l_e42ae85b-5618-4d18-aae8-5b56183d1857": "https://podkast.nrk.no/fil/sos_noedtelefonen/6bc20a46-2bb2-4ba8-b945-51a388e518f0_0_ID192MP3.mp3",
-"l_fb3b9dc4-d0f8-4f3f-bb9d-c4d0f88f3fc6": "https://podkast.nrk.no/fil/sos_noedtelefonen/3999735e-6f8e-437e-b1dd-e502a35293d9_0_ID192MP3.mp3",
-"l_fe95267d-60f4-46fd-9526-7d60f426fd6d": "https://podkast.nrk.no/fil/sos_noedtelefonen/42abc829-24e0-4612-ad69-ff478b527d12_0_ID192MP3.mp3",
-"l_fee78470-4f5c-4265-a784-704f5ca2654a": "https://podkast.nrk.no/fil/sos_noedtelefonen/afb2d847-51d2-4e84-a8cf-8be27bd96296_0_ID192MP3.mp3"
+"episodes": {
+"l_03a15f26-5430-4670-a15f-265430c67034": {
+"d": "2022-04-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg",
+"n": 2006,
+"s": "Snowboarderen Kim Christiansen velger å kjøre Hemsedals urørte fjellsider alene, langt fra skianlegget. Det skal få store konsekvenser.",
+"t": "Kim mot naturkreftene",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/7e47d92f-bb1b-49a9-944c-08fb5b97815e_0_ID192MP3.mp3"
+},
+"l_18d64dde-0f63-4f08-964d-de0f634f083a": {
+"d": "2021-04-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/obBRX7y4PfzmH0YOdAehVAj5pzXHVqmOraveNrtg5OQg",
+"n": 1455,
+"s": "Kristian blir strandet på en liten øy uten mulighet til å komme seg på land. Redningaksjonen ekskalerer og flere nødetater involveres. ",
+"t": "Skitt fiske",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/9d942925-a162-4ab1-8a1c-c262903826cf_0_ID192MP3.mp3"
+},
+"l_1d4afd39-4a0b-426e-8afd-394a0b326e72": {
+"d": "2022-03-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg",
+"n": 1650,
+"s": "13 år gamle Anna Linnea er på tur med faren sin. De skal bare ta en kort hvilepause når han plutselig faller om og blir liggende livløs på en benk.",
+"t": "Pappa faller om",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/cfd37b87-d704-498f-b7b4-bd9b9b96d7df_0_ID192MP3.mp3"
+},
+"l_1f22dd59-df41-4e2b-a2dd-59df41ce2b8a": {
+"d": "2021-03-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/7WDhW3ya_sIxVw2-d40nxgkO2Zr3VEw09vhTnyi_NxTg",
+"n": 1623,
+"s": "På en topptur i Røldal skiller kompisene Dan og Åsbjørn lag. Avgjørelsen skal bli skjebnesvanger, da et voldsomt uvær er på vei. ",
+"t": "Mannen som ble tatt av uværet",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/05b7c5c3-a45a-47c8-8785-de3e6e3da35b_0_ID192MP3.mp3"
+},
+"l_2f32a58e-7a76-47f9-b2a5-8e7a76d7f909": {
+"d": "2021-05-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/raDWuXjCCJlpj2K1eJUilgFcuSXLqnN0hmu4522SwrhA",
+"n": 1019,
+"s": "Da Renates ektemann får hjertestans i sengen ved siden av henne, er eget forsøk på hjerte- og lungeredning hennes eneste sjanse til å redde ham.",
+"t": "Hjertestans",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/53256f24-6f1c-460d-8ead-4caea738a2d4_0_ID192MP3.mp3"
+},
+"l_462a7dd6-c0f8-45b6-aa7d-d6c0f8c5b675": {
+"d": "2021-04-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/U5dlGQW4pESh2BT-4QN9VQKw3GoIekn_fAYZa0qwItOQ",
+"n": 1847,
+"s": "Simen og Jan Kåre legger ut på en ekspedisjon, Norge på tvers, med 20 hunder. Men da Jan Kåre velter hundespannet, står turen i fare.",
+"t": "Norge på tvers",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/8ce66ee3-e19a-477a-b564-e7774e5cb29b_0_ID192MP3.mp3"
+},
+"l_4940df43-ad78-4b5d-80df-43ad784b5d89": {
+"d": "2022-02-28T06:00:00+01:00",
+"i": "https://gfx.nrk.no/QaL4giPJkiWf2lUwvk0y9QwlNYuSx5CvxEb8ca7Dfu2g",
+"n": 1670,
+"s": "En stormfull høstkveld drar en redningsbåt ut på søk etter to turister som har blåst på sjøen. Det voldsomme været skaper en livsfarlig redningsaksjon, og det er flere enn turistene som må reddes.",
+"t": "Redningsskøyta Ægirs siste oppdrag",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/715c3325-de12-402f-8f5e-8582cfcc1fc8_0_ID192MP3.mp3"
+},
+"l_56368f03-8a5b-4b63-b68f-038a5bfb6317": {
+"d": "2022-04-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg",
+"n": 1714,
+"s": "Per Thomas våkner på Ullevål med stort hukommelsestap. Har han barn, og hvem er hun som stadig kommer på besøk? Det viser seg at Per Thomas har drevet med motorsport, og at han var på vei mot VM i sidecross.",
+"t": "Sidecross-ulykken",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/ffdd8ac3-01f9-447b-9794-578d946f2da1_0_ID192MP3.mp3"
+},
+"l_5affc4f9-6088-4bd2-bfc4-f960880bd236": {
+"d": "2022-02-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg",
+"n": 1882,
+"s": "Et plutselig værskifte får svært dramatiske konsekvenser for Ronny som flyr paraglider fra Spillumsfjellet i 2015.",
+"t": "Ronnys styrt",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/a3a73e47-86db-43fa-a958-4164415bcc98_0_ID192MP3.mp3"
+},
+"l_689a9170-a99b-4b9e-9a91-70a99bab9e51": {
+"d": "2022-03-21T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg",
+"n": 1940,
+"s": "Høygravide Mari har rier og er seks dager over termin, men på fødemottaket tror de det kan ta tid før fødselen er i gang. Det skal få dramatiske følger.",
+"t": "Fødsel på Ring 3",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/a94a223c-d69a-426d-b6cd-af5d07938405_0_ID192MP3.mp3"
+},
+"l_768f23b8-eb7f-42e6-8f23-b8eb7fb2e6a6": {
+"d": "2022-03-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/QaL4giPJkiWf2lUwvk0y9QwlNYuSx5CvxEb8ca7Dfu2g",
+"n": 1596,
+"s": "På en avsidesliggende hytte opplever familien sitt verste mareritt når noe alvorlig skjer med sønnen på halvannet år.  ",
+"t": "Lille Jonas",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/42463875-92db-4b3d-8841-43a6a06a2068_0_ID192MP3.mp3"
+},
+"l_78a4a723-7aff-4f97-a4a7-237aff9f975c": {
+"d": "2022-02-21T06:01:00+01:00",
+"i": "https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg",
+"n": 2200,
+"s": "Et studentkollektiv i Oslo blir åstedet for et ubegripelig angrep. Hva skjedde egentlig den skjebnesvangre halloween-natten i 2011? ",
+"t": "Halloweendrapet",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/5f7d272b-bf5d-4af0-943b-08766bcf943f_0_ID192MP3.mp3"
+},
+"l_a6bd68b8-f359-4003-bd68-b8f3599003ea": {
+"d": "2022-02-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg",
+"n": 69,
+"s": "Når en ulykke inntreffer, ringer vi nødtelefon. I denne podkasten får du historiene om hva som skjedde før, under og etter de skjebnesvangre minuttene.",
+"t": "Ny sesong kommer",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/d43a0d24-941d-4cc3-88ca-2976fe3cd6ba_0_ID192MP3.mp3"
+},
+"l_b1daeb87-c806-4707-9aeb-87c8065707ab": {
+"d": "2021-04-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/kdAHJSw4CSLNiUa8MxsC7AFuFFkbZ54G60D5twMqtsXg",
+"n": 1438,
+"s": "Pia og Kenneth sitt motorsykkel-eventyr fra Nordkapp til Cape Town tar en brå vending da veien de kjører på plutselig opphører.",
+"t": "Motorsykkelulykken på Finnmarksvidda",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/8a182367-f998-4630-9293-be98f6ca32c0_0_ID192MP3.mp3"
+},
+"l_c7686772-d78f-41fd-a867-72d78fe1fd2a": {
+"d": "2021-03-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/4SgyYSzhu1lKeMAJDC_b9AirKvN8l-3sea-xPCgQrUeg",
+"n": 1078,
+"s": "I en silo på Toten oppstår det ulmebrann, som utvikler seg til en eksplosjonsbrann. Midt i flammene fra eksplosjonen står Sander (21).",
+"t": "Eksplosjonen på Lena",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/95d14768-2697-4fc9-895e-0a069996b4c4_0_ID192MP3.mp3"
+},
+"l_d56eb1fd-74fa-4cd3-aeb1-fd74fa9cd3f7": {
+"d": "2021-03-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/JTbat5rlEhtIRGCPu0v2jw31lOd8asxIq9rr9oXDirOA",
+"n": 1217,
+"s": "På teltturen våkner René av at han må på do. Han går et stykke inn i skogen for å gjøre sitt fornødne, men husker plutselig ikke veien tilbake. ",
+"t": "René på villspor",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/8a65787f-608f-4449-bf8f-5f83ec75f321_0_ID192MP3.mp3"
+},
+"l_e42ae85b-5618-4d18-aae8-5b56183d1857": {
+"d": "2021-05-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg",
+"n": 1610,
+"s": "Nils Per jobber som reindriftsutøver. I oktober 2020 tar arbeidsdagen en brå vending da han får ansiktet knust mellom en stein og sin egen ATV.",
+"t": "Reindriftsulykken",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/6bc20a46-2bb2-4ba8-b945-51a388e518f0_0_ID192MP3.mp3"
+},
+"l_fb3b9dc4-d0f8-4f3f-bb9d-c4d0f88f3fc6": {
+"d": "2022-03-07T06:01:00+01:00",
+"i": "https://gfx.nrk.no/QaL4giPJkiWf2lUwvk0y9QwlNYuSx5CvxEb8ca7Dfu2g",
+"n": 1656,
+"s": "Ved familiehytta på en avsidesliggende øy i Trøndelag drar familien Stordahl for å bade. Når pappa Einar skal stupe fra berget slik han alltid har gjort, går det fryktelig galt.",
+"t": "Einars siste stup",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/3999735e-6f8e-437e-b1dd-e502a35293d9_0_ID192MP3.mp3"
+},
+"l_fe95267d-60f4-46fd-9526-7d60f426fd6d": {
+"d": "2021-04-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Fal6QLxfDpaLoaGfLjWb0QBdGYVR26694vR0LkwSJfuw",
+"n": 1964,
+"s": "Jørgen og Espen er to erfarne fjellfolk. Likevel går det fryktelig galt da Jørgen faller 15 meter ned i steinura.",
+"t": "Fallet fra Hurrungane",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/42abc829-24e0-4612-ad69-ff478b527d12_0_ID192MP3.mp3"
+},
+"l_fee78470-4f5c-4265-a784-704f5ca2654a": {
+"d": "2021-05-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg",
+"n": 1533,
+"s": "Ronny sykler ned en bratt bakke, sykkelen treffer en stein og han flyr som en prosjektil gjennom luften før han med hodet treffer en enda en stein.",
+"t": "Sykkelulykken",
+"u": "https://podkast.nrk.no/fil/sos_noedtelefonen/afb2d847-51d2-4e84-a8cf-8be27bd96296_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "sos_noedtelefonen",
+"image": "https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg",
+"subtitle": "Når en ulykke inntreffer, ringer vi nødtelefon. I denne podkasten får du historiene om hva som skjedde før, under og etter de skjebnesvangre minuttene.",
+"title": "SOS Nødtelefonen"
+},
+"v": 2
 }

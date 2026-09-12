@@ -1,8 +1,60 @@
 {
-"l_0898847b-df6e-42c5-9884-7bdf6ec2c5b3": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/e7a58c8c-03df-4c26-9050-4020b636456e_0_ID192MP3.mp3",
-"l_1a79cf3c-f4e0-445d-b9cf-3cf4e0245d38": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/4c57336d-a455-4a80-9be0-97e577a8dd3c_0_ID192MP3.mp3",
-"l_283cc63a-59c9-40f2-bcc6-3a59c940f231": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/6f3f77e2-31fb-4395-8566-d487d07fc7b3_0_ID192MP3.mp3",
-"l_2bc0cb7d-aeba-4a39-80cb-7daebaca3955": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/a72c2113-e5de-4a67-a565-241d8299e8ca_0_ID192MP3.mp3",
-"l_615b1585-7eb1-4f0c-9b15-857eb18f0c2a": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/d6f71d29-0913-4e98-a22e-d39c10e6a824_0_ID192MP3.mp3",
-"l_72f740e4-48a4-4b8f-b740-e448a42b8fb9": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/aa1fd17b-c8bd-4a10-81cd-2f3d08e63571_0_ID192MP3.mp3"
+"episodes": {
+"l_0898847b-df6e-42c5-9884-7bdf6ec2c5b3": {
+"d": "2023-05-03T06:04:00+02:00",
+"i": "https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA",
+"n": 2110,
+"s": "Russiske forskningsskip er stadig i nærheten av de nordiske havvindparkene.",
+"t": "Cold Front-Skyggekrigen (6:6)",
+"u": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/e7a58c8c-03df-4c26-9050-4020b636456e_0_ID192MP3.mp3"
+},
+"l_1a79cf3c-f4e0-445d-b9cf-3cf4e0245d38": {
+"d": "2023-05-03T06:01:00+02:00",
+"i": "https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA",
+"n": 2284,
+"s": "Falske nyheter skaper uro, tvil og mistillit. Et nettverk med over150 personer deler desinformasjon i Norden.",
+"t": "Cold Front-Skyggekrigen (4:6)",
+"u": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/4c57336d-a455-4a80-9be0-97e577a8dd3c_0_ID192MP3.mp3"
+},
+"l_283cc63a-59c9-40f2-bcc6-3a59c940f231": {
+"d": "2023-04-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA",
+"n": 1834,
+"s": "Russland mistenkes å stå bak brudd på undersjøiske kabler i Nord-Norge. Reportere får tak i en hemmelig liste over russiske agenter i Sverige.",
+"t": "Cold Front - Skyggekrigen (1:6)",
+"u": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/6f3f77e2-31fb-4395-8566-d487d07fc7b3_0_ID192MP3.mp3"
+},
+"l_2bc0cb7d-aeba-4a39-80cb-7daebaca3955": {
+"d": "2023-05-03T06:03:00+02:00",
+"i": "https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA",
+"n": 2032,
+"s": "En systemkritisk blogger fra Tsjetsjenia blir angrepet i Sverige. Han frykter for livet og går under jorda.  ",
+"t": "Cold Front-Skyggekrigen (5:6)",
+"u": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/a72c2113-e5de-4a67-a565-241d8299e8ca_0_ID192MP3.mp3"
+},
+"l_615b1585-7eb1-4f0c-9b15-857eb18f0c2a": {
+"d": "2023-05-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA",
+"n": 2741,
+"s": "Russiske skip var i forkant flere ganger i nærheten av eksplosjonsstedet på gassrørledningene Nord Stream, viser ny informasjon.  ",
+"t": "Cold Front-Skyggekrigen (3:6)",
+"u": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/d6f71d29-0913-4e98-a22e-d39c10e6a824_0_ID192MP3.mp3"
+},
+"l_72f740e4-48a4-4b8f-b740-e448a42b8fb9": {
+"d": "2023-04-26T06:03:00+02:00",
+"i": "https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA",
+"n": 2158,
+"s": "I Tromsø og København blir forskere arrestert – mistenkt for spionasje. I Sverige blir et ektepar pågrepet i en dramatisk helikopteraksjon.",
+"t": "Cold Front - Skyggekrigen (2:6)",
+"u": "https://podkast.nrk.no/fil/cold_front_skyggekrigen/aa1fd17b-c8bd-4a10-81cd-2f3d08e63571_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "cold_front_skyggekrigen",
+"image": "https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA",
+"subtitle": "Russland har blitt landet Europa frykter – en aggressiv nabo som spionerer, saboterer og sprer feilinformasjon. Hva det betyr det for oss i Norden?",
+"title": "Cold Front – Skyggekrigen"
+},
+"v": 2
 }

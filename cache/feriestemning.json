@@ -1,115 +1,916 @@
 {
-"l_02abb0ac-488e-4a25-abb0-ac488e3a2560": "https://podkast.nrk.no/fil/feriestemning/4381dfae-4589-4c31-b177-7d9cf6ef4012_0_ID192MP3.mp3",
-"l_05ca7e95-9aca-46eb-8a7e-959aca16eb2e": "https://podkast.nrk.no/fil/feriestemning/59ca2295-13d2-4e14-b3c0-8b528c7e806c_0_ID192MP3.mp3",
-"l_0685cd6e-0c1e-4d88-85cd-6e0c1e8d8882": "https://podkast.nrk.no/fil/feriestemning/0b0d483d-058d-47c1-93d2-c4c3cd16a002_0_ID192MP3.mp3",
-"l_09a9db05-9ba1-444e-a9db-059ba1544e91": "https://podkast.nrk.no/fil/feriestemning/ff52f54d-83a6-47c1-8be9-8e8709d69aad_0_ID192MP3.mp3",
-"l_0d5a4efa-ddfc-4ba3-9a4e-faddfc6ba351": "https://podkast.nrk.no/fil/feriestemning/0e2c44b9-e488-49a5-8141-b014fdfe52e7_0_ID192MP3.mp3",
-"l_114f51e6-cbc2-4473-8f51-e6cbc22473d9": "https://podkast.nrk.no/fil/feriestemning/0382aaa0-898b-4190-a3fa-faf1a8a83147_0_ID192MP3.mp3",
-"l_122927ed-a079-491c-a927-eda079191c04": "https://podkast.nrk.no/fil/feriestemning/8472b05d-9a12-4d0b-97fd-b3d91b87a7b8_0_ID192MP3.mp3",
-"l_12fc0290-ec1c-4a1f-bc02-90ec1c3a1f45": "https://podkast.nrk.no/fil/feriestemning/d731432c-2eb9-44bd-aefc-3d19cad083f3_0_ID192MP3.mp3",
-"l_15fd893b-b938-42b6-bd89-3bb93882b6ca": "https://podkast.nrk.no/fil/feriestemning/df88758e-f99f-4807-9a2e-81253924ab0b_0_ID192MP3.mp3",
-"l_17b0fa8b-de59-4a4f-b0fa-8bde590a4f98": "https://podkast.nrk.no/fil/feriestemning/e88ed037-e95f-4006-bfa3-496a73482f78_0_ID192MP3.mp3",
-"l_17cc8196-0723-47ec-8c81-96072397ec39": "https://podkast.nrk.no/fil/feriestemning/d762d202-e719-4871-b411-4c11f35d8102_0_ID192MP3.mp3",
-"l_18ad2763-c6ce-4795-ad27-63c6cef7954b": "https://podkast.nrk.no/fil/feriestemning/a5b3708a-aee9-4486-ad70-271f290ffaa4_0_ID192MP3.mp3",
-"l_1c4db190-1ac0-4c0a-8db1-901ac0dc0af7": "https://podkast.nrk.no/fil/feriestemning/355f1d10-6610-43d5-9eca-b49c722b4cb5_0_ID192MP3.mp3",
-"l_20591e37-409c-49e7-991e-37409cb9e7d6": "https://podkast.nrk.no/fil/feriestemning/defd02e7-4b65-4fd2-b847-9b61d5d8cc71_0_ID192MP3.mp3",
-"l_24f60767-3e2d-416b-b607-673e2d316b38": "https://podkast.nrk.no/fil/feriestemning/f2a4a69d-8b73-4d26-b3c8-7d085c822e1d_0_ID192MP3.mp3",
-"l_307f04a1-7d19-404f-bf04-a17d19704f64": "https://podkast.nrk.no/fil/feriestemning/69487a92-aa64-4692-b31c-4e093d4e7f40_0_ID192MP3.mp3",
-"l_3149fad8-c90c-4186-89fa-d8c90cd1863a": "https://podkast.nrk.no/fil/feriestemning/33d3bfad-d5ba-47dc-a2ff-e4e28b25e8e4_0_ID192MP3.mp3",
-"l_317487bc-256d-443f-b487-bc256d143f45": "https://podkast.nrk.no/fil/feriestemning/9614f7ab-7e5a-4401-8f85-5d9be5efd62f_0_ID192MP3.mp3",
-"l_3428162d-c64c-467c-a816-2dc64cc67c6f": "https://podkast.nrk.no/fil/feriestemning/70c087e1-b02c-44b2-a955-f5644e6e3264_0_ID192MP3.mp3",
-"l_36983858-c8b6-4725-9838-58c8b607258b": "https://podkast.nrk.no/fil/feriestemning/65a3e64a-1ea0-4206-a429-80d549eddad2_0_ID192MP3.mp3",
-"l_3a76030e-5aec-4612-b603-0e5aecf61242": "https://podkast.nrk.no/fil/feriestemning/38784579-0e2e-438c-bf45-f85d76a3f3f7_0_ID192MP3.mp3",
-"l_3c267373-0c40-4294-a673-730c40d294a8": "https://podkast.nrk.no/fil/feriestemning/09f4c4b6-9017-431c-9ee4-a4ed7f7ab2a1_0_ID192MP3.mp3",
-"l_3c7168d6-5b7a-490e-b168-d65b7ac90e63": "https://podkast.nrk.no/fil/feriestemning/6367b72f-557b-4613-91e5-70b31b7f28fe_0_ID192MP3.mp3",
-"l_3fe33006-b06e-4087-a330-06b06e30875e": "https://podkast.nrk.no/fil/feriestemning/81090138-dd84-46dc-9333-bfd0978f762d_0_ID192MP3.mp3",
-"l_409eba01-7481-4638-9eba-017481c63838": "https://podkast.nrk.no/fil/feriestemning/45d15ffb-8bcf-489a-8bca-82d22cc3a009_0_ID192MP3.mp3",
-"l_4140ebfe-b3e4-4a6b-80eb-feb3e4fa6be3": "https://podkast.nrk.no/fil/feriestemning/9394b00a-bb38-4fce-ba10-f2062c79c01d_0_ID192MP3.mp3",
-"l_42207001-6bf3-44d5-a070-016bf384d5b4": "https://podkast.nrk.no/fil/feriestemning/aa038e1f-f2dc-4cf8-a8bd-38e1e1e422df_0_ID192MP3.mp3",
-"l_444e7744-77cf-45b2-8e77-4477cf45b2f2": "https://podkast.nrk.no/fil/feriestemning/15b748e0-768f-41a9-a9a9-9ed3fdaa981e_0_ID192MP3.mp3",
-"l_4b4202df-5ab3-4ca5-8202-df5ab32ca58e": "https://podkast.nrk.no/fil/feriestemning/83464a22-6234-41f5-aaac-7c9d2ea9b228_0_ID192MP3.mp3",
-"l_4b56f05c-3608-46f6-96f0-5c3608f6f6fa": "https://podkast.nrk.no/fil/feriestemning/92d3a8b6-461a-4944-9748-b62cd8f0c71d_0_ID192MP3.mp3",
-"l_51772e06-7589-4718-b72e-067589b718e4": "https://podkast.nrk.no/fil/feriestemning/33910210-b874-4023-8dbb-adb54c46fdb1_0_ID192MP3.mp3",
-"l_5532d52f-6c95-4e8d-b2d5-2f6c950e8d82": "https://podkast.nrk.no/fil/feriestemning/44b9870e-8507-40cc-9137-9ba169d25816_0_ID192MP3.mp3",
-"l_55bfc57d-da0a-464a-bfc5-7dda0a764af5": "https://podkast.nrk.no/fil/feriestemning/2341c11e-6930-489f-88d2-969954ae87aa_0_ID192MP3.mp3",
-"l_56bd8924-00a3-45c5-bd89-2400a3c5c59c": "https://podkast.nrk.no/fil/feriestemning/e1427489-45a3-44db-a3fa-25edcbec8ac4_0_ID192MP3.mp3",
-"l_575daf01-460c-4101-9daf-01460c7101cd": "https://podkast.nrk.no/fil/feriestemning/40b68d91-5d3f-4b7a-be2b-929aa50488bd_0_ID192MP3.mp3",
-"l_59021b52-a686-4ec9-821b-52a6865ec938": "https://podkast.nrk.no/fil/feriestemning/0493de30-0fb5-4db3-a641-f99553a28dec_0_ID192MP3.mp3",
-"l_5926080f-bbec-4445-a608-0fbbecb44583": "https://podkast.nrk.no/fil/feriestemning/c250422c-1669-4747-91c2-d1453cc119de_0_ID192MP3.mp3",
-"l_5a91bff6-a2d5-4eed-91bf-f6a2d5eeed7f": "https://podkast.nrk.no/fil/feriestemning/37cbd829-bc3a-422b-8f6f-a40bfb26b590_0_ID192MP3.mp3",
-"l_60ab72d0-8bb9-4296-ab72-d08bb9429694": "https://podkast.nrk.no/fil/feriestemning/aa3fae52-596c-4a47-8aed-680fed6c5acc_0_ID192MP3.mp3",
-"l_60c6229f-c141-46a6-8622-9fc141b6a6db": "https://podkast.nrk.no/fil/feriestemning/8edddab6-c576-48c7-b2c8-7dedcfef6d8a_0_ID192MP3.mp3",
-"l_621fcbc8-5414-4f76-9fcb-c854148f7651": "https://podkast.nrk.no/fil/feriestemning/ba194606-fc63-4783-a5e7-94ca9f4a30bb_0_ID192MP3.mp3",
-"l_6bc1653a-1d42-43f5-8165-3a1d4243f593": "https://podkast.nrk.no/fil/feriestemning/c7cf052c-b028-4538-92eb-fa539d87ac7f_0_ID192MP3.mp3",
-"l_6d8dc785-9a2f-4086-8dc7-859a2fc086b3": "https://podkast.nrk.no/fil/feriestemning/e3e290ae-54fa-4aa6-be04-d3e6bacad12b_0_ID192MP3.mp3",
-"l_6f742f0c-6594-4bbc-b42f-0c6594cbbce5": "https://podkast.nrk.no/fil/feriestemning/59bf8f57-5720-422c-ba7d-8de49c6bd7ca_0_ID192MP3.mp3",
-"l_70196c16-8b0b-419b-996c-168b0b319b26": "https://podkast.nrk.no/fil/feriestemning/63fe0e89-c61d-4f61-bb90-78cae92e2829_0_ID192MP3.mp3",
-"l_72be15b1-0a92-4fa0-be15-b10a92cfa0ac": "https://podkast.nrk.no/fil/feriestemning/c45e89f3-098e-494a-aa8b-c56fe1921538_0_ID192MP3.mp3",
-"l_743f1a28-06f1-4b12-bf1a-2806f19b1241": "https://podkast.nrk.no/fil/feriestemning/9b034c15-f641-49da-8eb9-3d61a0a5bd0e_0_ID192MP3.mp3",
-"l_7583f7cc-b5d9-4eeb-83f7-ccb5d9feeb66": "https://podkast.nrk.no/fil/feriestemning/b0284039-963d-44fe-ba20-95773ded142b_0_ID192MP3.mp3",
-"l_77d74928-632a-4318-9749-28632ab31839": "https://podkast.nrk.no/fil/feriestemning/7437352d-cc02-4136-af96-f02f40860803_0_ID192MP3.mp3",
-"l_7b633a51-f464-41aa-a33a-51f464e1aa96": "https://podkast.nrk.no/fil/feriestemning/836f755c-fc1f-4d89-9422-d7aea3e1e789_0_ID192MP3.mp3",
-"l_7f7cffee-822f-4813-bcff-ee822fa813a5": "https://podkast.nrk.no/fil/feriestemning/3a079dfc-a242-4d39-b177-88b6798816ec_0_ID192MP3.mp3",
-"l_80d454a5-6b94-4e5a-9454-a56b940e5aba": "https://podkast.nrk.no/fil/feriestemning/5d2cfe54-5b03-4632-821f-f45e1634916a_0_ID192MP3.mp3",
-"l_82e122b9-0746-4fed-a122-b907463fedde": "https://podkast.nrk.no/fil/feriestemning/3a37e207-c4d4-467c-a00e-cc0c85e46e5d_0_ID192MP3.mp3",
-"l_842c8c3a-5a43-412d-ac8c-3a5a43312d09": "https://podkast.nrk.no/fil/feriestemning/cc2457ed-7739-4f70-91d6-5056631b739c_0_ID192MP3.mp3",
-"l_851fbb4e-62d9-4532-9fbb-4e62d975323c": "https://podkast.nrk.no/fil/feriestemning/a0919976-f9ad-4356-878d-68d336c5a4eb_0_ID192MP3.mp3",
-"l_863385bf-495b-4fe9-b385-bf495bffe99c": "https://podkast.nrk.no/fil/feriestemning/d104e81c-b709-4a93-ac50-6981076bd03e_0_ID192MP3.mp3",
-"l_89457a93-c74c-4380-857a-93c74cd3804e": "https://podkast.nrk.no/fil/feriestemning/894cd5c9-2d9d-49de-ba14-822ccd8bc35d_0_ID192MP3.mp3",
-"l_8a2aee2c-1275-486f-aaee-2c1275786fb7": "https://podkast.nrk.no/fil/feriestemning/3093a2f5-2f57-4527-a8a6-aeb371499ef2_0_ID192MP3.mp3",
-"l_8a944a81-3d45-455b-944a-813d45455b18": "https://podkast.nrk.no/fil/feriestemning/9d340a7a-14f8-463a-9d95-26a2e39306ca_0_ID192MP3.mp3",
-"l_8bbab0a4-7d8e-43ed-bab0-a47d8e93edf3": "https://podkast.nrk.no/fil/feriestemning/fc6104a3-e25a-4500-ae14-8126cacab7e4_0_ID192MP3.mp3",
-"l_8f6c29af-7312-4ffc-ac29-af73122ffc7f": "https://podkast.nrk.no/fil/feriestemning/d7463ed4-7a23-4144-b3c8-f00ddc969122_0_ID192MP3.mp3",
-"l_92529e09-5c0e-4c39-929e-095c0e3c391b": "https://podkast.nrk.no/fil/feriestemning/53809693-0410-47a9-a2d3-8c53fd3b5a8e_0_ID192MP3.mp3",
-"l_939c34c7-eeef-4411-9c34-c7eeef241164": "https://podkast.nrk.no/fil/feriestemning/9cc91fa9-bd17-4ea6-86a7-062f7643c0a0_0_ID192MP3.mp3",
-"l_963ad53a-696d-41e7-bad5-3a696d31e730": "https://podkast.nrk.no/fil/feriestemning/a656866c-4abb-4458-90e6-3fb995263de6_0_ID192MP3.mp3",
-"l_98335edd-9d0f-4824-b35e-dd9d0f0824c2": "https://podkast.nrk.no/fil/feriestemning/5b7af0ee-1a88-4f09-be9b-20ae7389686a_0_ID192MP3.mp3",
-"l_9a105ef4-d87c-49c4-905e-f4d87c59c4ad": "https://podkast.nrk.no/fil/feriestemning/1544ae77-39f7-4475-aab6-13997f815118_0_ID192MP3.mp3",
-"l_a137cdb6-1dce-4c93-b7cd-b61dcecc9387": "https://podkast.nrk.no/fil/feriestemning/bf2abeb8-9012-4227-b45c-d02500c4349f_0_ID192MP3.mp3",
-"l_a1edba8a-89c8-4e26-adba-8a89c80e26da": "https://podkast.nrk.no/fil/feriestemning/08aeb87b-1809-4ce5-acb0-28e79d964d49_0_ID192MP3.mp3",
-"l_a22b954c-7b26-466b-ab95-4c7b26766b59": "https://podkast.nrk.no/fil/feriestemning/3d1b88fd-4461-48f2-9b12-411a0b224492_0_ID192MP3.mp3",
-"l_a91afdd9-21d9-4642-9afd-d921d936427d": "https://podkast.nrk.no/fil/feriestemning/1107a77a-1e52-4bf8-aa63-f66e9784c394_0_ID192MP3.mp3",
-"l_ac30ce88-c20a-4df3-b0ce-88c20a7df3e7": "https://podkast.nrk.no/fil/feriestemning/4d7fe8ce-041d-4f06-b398-a4fc36a716f4_0_ID192MP3.mp3",
-"l_af198b82-5f27-4d4e-998b-825f27cd4e17": "https://podkast.nrk.no/fil/feriestemning/c28abbff-134b-4959-be5a-0abb2db1a6c0_0_ID192MP3.mp3",
-"l_af6c9ade-4b37-47e9-ac9a-de4b3707e940": "https://podkast.nrk.no/fil/feriestemning/4478f922-9b96-41cd-b255-85fc98845665_0_ID192MP3.mp3",
-"l_b3869b9a-2773-4563-869b-9a27732563a8": "https://podkast.nrk.no/fil/feriestemning/86dd30c7-c908-4a1d-84cf-7fe8b06a72b5_0_ID192MP3.mp3",
-"l_b92de33b-41bd-49f1-ade3-3b41bdd9f13f": "https://podkast.nrk.no/fil/feriestemning/043ef1a6-cd3f-4414-a3e1-a7d6b660e036_0_ID192MP3.mp3",
-"l_bbe1dcf9-7f26-497f-a1dc-f97f26c97f67": "https://podkast.nrk.no/fil/feriestemning/d4d9e5d2-f504-4dd9-a40b-117a755b41b2_0_ID192MP3.mp3",
-"l_bc7d465f-7fd7-4e63-bd46-5f7fd79e6341": "https://podkast.nrk.no/fil/feriestemning/7c5fe429-80ed-46be-aad3-ec8cd9036f75_0_ID192MP3.mp3",
-"l_be7d6e08-5838-4b55-bd6e-085838db5599": "https://podkast.nrk.no/fil/feriestemning/81bcd404-55fc-4d4c-8fe2-e6af6483fbe4_0_ID192MP3.mp3",
-"l_c11012a8-c4de-45a4-9012-a8c4de85a416": "https://podkast.nrk.no/fil/feriestemning/f00020a1-6fbb-43ef-aa17-82c44a90c230_0_ID192MP3.mp3",
-"l_c2abbee9-0cb1-4dd6-abbe-e90cb1cdd687": "https://podkast.nrk.no/fil/feriestemning/30010c27-34f8-4af9-9152-2bd57b49c162_0_ID192MP3.mp3",
-"l_c60170eb-ed5d-435a-8170-ebed5d035aae": "https://podkast.nrk.no/fil/feriestemning/42c934b1-4713-4bed-bb59-bba15552775e_0_ID192MP3.mp3",
-"l_c63b464e-e17a-4c92-bb46-4ee17a6c9291": "https://podkast.nrk.no/fil/feriestemning/a823308c-895a-4708-985c-5bcd7fc4608c_0_ID192MP3.mp3",
-"l_cbf22f10-8ef9-4a8e-b22f-108ef91a8e67": "https://podkast.nrk.no/fil/feriestemning/7ed98a8b-d93d-4e9b-9176-ca2dc3cc4264_0_ID192MP3.mp3",
-"l_d2ba2440-0c4f-4182-ba24-400c4f7182c6": "https://podkast.nrk.no/fil/feriestemning/17396796-1433-41f3-81c9-3273889652dd_0_ID192MP3.mp3",
-"l_d56c60c7-bf76-4fcf-ac60-c7bf764fcfd5": "https://podkast.nrk.no/fil/feriestemning/57a3505f-4fc5-4b76-b03a-e1d4a6fb5dd9_0_ID192MP3.mp3",
-"l_d64f5e42-fe34-4fee-8f5e-42fe349feeed": "https://podkast.nrk.no/fil/feriestemning/a5b93f0a-0806-45c9-8d2d-67f3efe646eb_0_ID192MP3.mp3",
-"l_d6a2de67-cde5-48a1-a2de-67cde528a1de": "https://podkast.nrk.no/fil/feriestemning/6e37085d-1715-4de6-bd9e-b637b801739c_0_ID192MP3.mp3",
-"l_d6bdcb93-47bb-4d7c-bdcb-9347bb5d7c5d": "https://podkast.nrk.no/fil/feriestemning/8add5f3a-82ca-4c6d-85e2-bbd7951e623c_0_ID192MP3.mp3",
-"l_d7ec20e4-c3c2-4558-ac20-e4c3c2655846": "https://podkast.nrk.no/fil/feriestemning/562a8bf8-3d8e-402a-865a-8c21f7dc2f6d_0_ID192MP3.mp3",
-"l_d8037119-f101-43b4-8371-19f10163b46a": "https://podkast.nrk.no/fil/feriestemning/44750c0c-c595-412a-89a8-2b862d8b3999_0_ID192MP3.mp3",
-"l_db974ad5-c2e8-4499-974a-d5c2e8049966": "https://podkast.nrk.no/fil/feriestemning/9a5c5495-e79c-4b70-9c57-9e6b8e0628a2_0_ID192MP3.mp3",
-"l_e1fe7ca3-1057-4538-be7c-a31057753890": "https://podkast.nrk.no/fil/feriestemning/71d91ea9-413c-4d65-af3f-129ddfe49544_0_ID192MP3.mp3",
-"l_e58562f2-36f3-456c-8562-f236f3756cd6": "https://podkast.nrk.no/fil/feriestemning/08592b21-348e-4ac2-a687-249a67b5ef6b_0_ID192MP3.mp3",
-"l_e92e9b01-c8bf-439b-ae9b-01c8bf739b6f": "https://podkast.nrk.no/fil/feriestemning/56675df1-59b5-49ed-9089-3a0b0ad85a56_0_ID192MP3.mp3",
-"l_eaf785b9-aa22-4069-b785-b9aa22e069f0": "https://podkast.nrk.no/fil/feriestemning/708c50cd-6cb9-4c65-87fb-74fcc12b8817_0_ID192MP3.mp3",
-"l_eb2c44e1-7f7f-48cf-ac44-e17f7f28cf93": "https://podkast.nrk.no/fil/feriestemning/0848a591-8f99-404f-a205-9c8db9d74b20_0_ID192MP3.mp3",
-"l_ec2a6a96-fb89-4b10-aa6a-96fb898b1029": "https://podkast.nrk.no/fil/feriestemning/3055e133-c064-4630-a723-253fec493232_0_ID192MP3.mp3",
-"l_ec33b88d-fa63-4444-b3b8-8dfa63f444d6": "https://podkast.nrk.no/fil/feriestemning/5446a373-0a38-42fe-be87-50a5f3c3258d_0_ID192MP3.mp3",
-"l_ec342fae-24ae-4fa4-b42f-ae24aeafa44d": "https://podkast.nrk.no/fil/feriestemning/3eec3564-8280-4279-8a7e-b5a315487820_0_ID192MP3.mp3",
-"l_ec3ee042-e3f4-4618-bee0-42e3f4e61856": "https://podkast.nrk.no/fil/feriestemning/19c81d93-1321-4a48-bf22-66aa8e834fa6_0_ID192MP3.mp3",
-"l_ee38ff24-a93d-499f-b8ff-24a93dc99f58": "https://podkast.nrk.no/fil/feriestemning/beb8b793-03a7-49fd-90b9-33d4e09175d6_0_ID192MP3.mp3",
-"l_f1597cb6-3949-4071-997c-b63949f07129": "https://podkast.nrk.no/fil/feriestemning/7d11ce75-aa55-4289-91b7-57c00233bfdf_0_ID192MP3.mp3",
-"l_f1b341d9-9c2d-468d-b341-d99c2d968dae": "https://podkast.nrk.no/fil/feriestemning/67b691b0-08f8-4852-aec4-e66cc4440aa3_0_ID192MP3.mp3",
-"l_f1f1851e-bf1a-4045-b185-1ebf1a7045a1": "https://podkast.nrk.no/fil/feriestemning/c278ed5d-6f86-45a6-954c-baac1ab29260_0_ID192MP3.mp3",
-"l_f372a361-4a09-43f5-b2a3-614a0933f527": "https://podkast.nrk.no/fil/feriestemning/5c95988d-83c7-4ee0-a698-ddffe7893f82_0_ID192MP3.mp3",
-"l_f3a92ece-3f67-48d5-a92e-ce3f67f8d5b3": "https://podkast.nrk.no/fil/feriestemning/50a02a54-85c1-4431-9fac-e357fe49cfe5_0_ID192MP3.mp3",
-"l_f61d17a9-af22-4fbb-9d17-a9af22dfbb1c": "https://podkast.nrk.no/fil/feriestemning/2ec8730d-f2c0-4f83-be2b-5c4fd67663b3_0_ID192MP3.mp3",
-"l_f7b1214e-7314-4319-b121-4e73149319c1": "https://podkast.nrk.no/fil/feriestemning/c0305eab-1a22-4bdc-af21-4b0b55020723_0_ID192MP3.mp3",
-"l_f8228151-8a79-41be-a281-518a7921be8d": "https://podkast.nrk.no/fil/feriestemning/d854b208-468d-4a09-98b5-e4a27dbeeea2_0_ID192MP3.mp3",
-"l_f9703c2e-9e87-441c-b03c-2e9e87c41cf6": "https://podkast.nrk.no/fil/feriestemning/aaf8e210-c994-4dd1-9405-756a1681a36c_0_ID192MP3.mp3",
-"l_faca13c0-217b-4d3c-8a13-c0217b2d3cf9": "https://podkast.nrk.no/fil/feriestemning/1517cb58-2eb3-40b0-a275-7d0606be42dc_0_ID192MP3.mp3",
-"l_fc4583be-38f9-4825-8583-be38f9b82540": "https://podkast.nrk.no/fil/feriestemning/57269b94-49fd-41e9-b8a5-31a8fbdb4e09_0_ID192MP3.mp3",
-"l_fd1e31bc-f7c8-41b3-9e31-bcf7c8c1b362": "https://podkast.nrk.no/fil/feriestemning/bff6be78-650f-40d2-81a7-fd2cf46e325f_0_ID192MP3.mp3"
+"episodes": {
+"l_02abb0ac-488e-4a25-abb0-ac488e3a2560": {
+"d": "2022-08-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 3942,
+"s": "Bendik elsker sparkesykkel, KAMARA elsker å prokrastinere og begge to crusher. Hele tiden.\n",
+"t": "Bendik og KAMARA ",
+"u": "https://podkast.nrk.no/fil/feriestemning/4381dfae-4589-4c31-b177-7d9cf6ef4012_0_ID192MP3.mp3"
+},
+"l_05ca7e95-9aca-46eb-8a7e-959aca16eb2e": {
+"d": "2023-06-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4354,
+"s": "Slik får du en Hot Girl Summer, tips til helårspinnekjøtt og hushekseri.",
+"t": "Fetisha Williams og Arin Soltanpanah",
+"u": "https://podkast.nrk.no/fil/feriestemning/59ca2295-13d2-4e14-b3c0-8b528c7e806c_0_ID192MP3.mp3"
+},
+"l_0685cd6e-0c1e-4d88-85cd-6e0c1e8d8882": {
+"d": "2022-07-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5646,
+"s": "Kari har jobbet på slakteri, Sandeep trodde han skulle dø i India og begge elsker å danse.",
+"t": "Kari Slaatsveen og Sandeep Singh",
+"u": "https://podkast.nrk.no/fil/feriestemning/0b0d483d-058d-47c1-93d2-c4c3cd16a002_0_ID192MP3.mp3"
+},
+"l_09a9db05-9ba1-444e-a9db-059ba1544e91": {
+"d": "2022-06-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 3290,
+"s": "Martin deler raust av sine mislykka sommerflørter og Solveig tar et oppgjør med en gammel flamme",
+"t": "Solveig Kloppen og Martin Lepperød",
+"u": "https://podkast.nrk.no/fil/feriestemning/ff52f54d-83a6-47c1-8be9-8e8709d69aad_0_ID192MP3.mp3"
+},
+"l_0d5a4efa-ddfc-4ba3-9a4e-faddfc6ba351": {
+"d": "2023-07-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 3926,
+"s": "Ungdomsopprør på Blitz, 1000 toalettmapper og motbakker.",
+"t": "Vår Staude og Ida Nysæter Rasch",
+"u": "https://podkast.nrk.no/fil/feriestemning/0e2c44b9-e488-49a5-8141-b014fdfe52e7_0_ID192MP3.mp3"
+},
+"l_114f51e6-cbc2-4473-8f51-e6cbc22473d9": {
+"d": "2023-07-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4776,
+"s": "Sommeren om hundre år, ferie uten dekning og kampsport.",
+"t": "Inga Strümke og Mari Garås Monsson",
+"u": "https://podkast.nrk.no/fil/feriestemning/0382aaa0-898b-4190-a3fa-faf1a8a83147_0_ID192MP3.mp3"
+},
+"l_122927ed-a079-491c-a927-eda079191c04": {
+"d": "2022-07-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5358,
+"s": "Kristine har hatt sommerjobb i flere tiår, Torjus har rekord i Badeland i Bø og begge har mistet og blitt mistet.",
+"t": "Kristine Grændsen og Torjus Tveiten",
+"u": "https://podkast.nrk.no/fil/feriestemning/8472b05d-9a12-4d0b-97fd-b3d91b87a7b8_0_ID192MP3.mp3"
+},
+"l_12fc0290-ec1c-4a1f-bc02-90ec1c3a1f45": {
+"d": "2023-07-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 3900,
+"s": "Badegutten, drømmen om verdensherredømme og kjærligheten til den lille havfruen.",
+"t": "Ramón og Kåre Magnus Bergh",
+"u": "https://podkast.nrk.no/fil/feriestemning/d731432c-2eb9-44bd-aefc-3d19cad083f3_0_ID192MP3.mp3"
+},
+"l_15fd893b-b938-42b6-bd89-3bb93882b6ca": {
+"d": "2023-07-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 3821,
+"s": "Sint og sårbar rap, manifestering av karrieren og gledesoppkast.",
+"t": "Musti og Arin Soltanpanah",
+"u": "https://podkast.nrk.no/fil/feriestemning/df88758e-f99f-4807-9a2e-81253924ab0b_0_ID192MP3.mp3"
+},
+"l_17b0fa8b-de59-4a4f-b0fa-8bde590a4f98": {
+"d": "2022-08-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 6256,
+"s": "Pliktoppfyllende Linn-Jeanethe trosset mamma, Abu tar Imodium for å ikke måtte bæsje på festival og begge to liker å henge med besteforeldre. ",
+"t": "Abubakar Hussain og Linn-Jeanethe Kyed",
+"u": "https://podkast.nrk.no/fil/feriestemning/e88ed037-e95f-4006-bfa3-496a73482f78_0_ID192MP3.mp3"
+},
+"l_17cc8196-0723-47ec-8c81-96072397ec39": {
+"d": "2023-06-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4773,
+"s": "Følsom fisker og åndelig ferieturist - Felix leter etter historier og bortgjemte treningsgymmer på loffen i Asia.",
+"t": "Felix Baldauf og Mari Garås Monsson",
+"u": "https://podkast.nrk.no/fil/feriestemning/d762d202-e719-4871-b411-4c11f35d8102_0_ID192MP3.mp3"
+},
+"l_18ad2763-c6ce-4795-ad27-63c6cef7954b": {
+"d": "2022-06-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 3211,
+"s": "Er det ok å sitte inne når det er sol ute? Hvilken sesong er best for kjærlighetssorg og hvordan blir du kvitt flyskrekk?",
+"t": "Martha Leivestad og Galvan Mehidi",
+"u": "https://podkast.nrk.no/fil/feriestemning/a5b3708a-aee9-4486-ad70-271f290ffaa4_0_ID192MP3.mp3"
+},
+"l_1c4db190-1ac0-4c0a-8db1-901ac0dc0af7": {
+"d": "2023-06-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 5099,
+"s": "Norges best kledde om kjønnsløse klær, hva det vil si å være en \"loverboi\" og om at gutter må snakke mer om følelsene sine.",
+"t": "Nate Kahungu og Arin Soltanpanah ",
+"u": "https://podkast.nrk.no/fil/feriestemning/355f1d10-6610-43d5-9eca-b49c722b4cb5_0_ID192MP3.mp3"
+},
+"l_20591e37-409c-49e7-991e-37409cb9e7d6": {
+"d": "2023-08-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 3916,
+"s": "Fiskelykke, streng oppvekst og tykk hud.",
+"t": "Hadia Tajik og Sigrid Sollund",
+"u": "https://podkast.nrk.no/fil/feriestemning/defd02e7-4b65-4fd2-b847-9b61d5d8cc71_0_ID192MP3.mp3"
+},
+"l_24f60767-3e2d-416b-b607-673e2d316b38": {
+"d": "2023-06-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4638,
+"s": "Han kaller hytta på Nesodden \"enkel\", kompisene sier \"lav standard\". Der bader Lars den hårete kroppen sin lenge, selv om han egentlig hater kaldt vann.",
+"t": "Lars Berrum og Mari Garås Monsson ",
+"u": "https://podkast.nrk.no/fil/feriestemning/f2a4a69d-8b73-4d26-b3c8-7d085c822e1d_0_ID192MP3.mp3"
+},
+"l_307f04a1-7d19-404f-bf04-a17d19704f64": {
+"d": "2022-07-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5842,
+"s": "Sissel kikker på fugler, Jonas liker å tøffe seg når han bader og begge to har vært skikkelig forelska på sommeren.",
+"t": "Sissel Gran og Jonas Bergland",
+"u": "https://podkast.nrk.no/fil/feriestemning/69487a92-aa64-4692-b31c-4e093d4e7f40_0_ID192MP3.mp3"
+},
+"l_3149fad8-c90c-4186-89fa-d8c90cd1863a": {
+"d": "2023-07-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 3793,
+"s": "En feig rocker, å bombe som lærer og sommerens store Hamsun-prosjekt.",
+"t": "Isalill Kolpus og Kari Slaatsveen ",
+"u": "https://podkast.nrk.no/fil/feriestemning/33d3bfad-d5ba-47dc-a2ff-e4e28b25e8e4_0_ID192MP3.mp3"
+},
+"l_317487bc-256d-443f-b487-bc256d143f45": {
+"d": "2023-07-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4756,
+"s": "Debut som sint, nesehorn i Nepal og livet utenfor komfortsonen.",
+"t": "Jonis Josef og Ronny Brede Aase",
+"u": "https://podkast.nrk.no/fil/feriestemning/9614f7ab-7e5a-4401-8f85-5d9be5efd62f_0_ID192MP3.mp3"
+},
+"l_3428162d-c64c-467c-a816-2dc64cc67c6f": {
+"d": "2022-07-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4169,
+"s": "Linda var verdens dårligste sykkelreparatør, Ida Maria fikk livsvisdom av Iggy Pop og begge har hoppet fra betydelige høyder.",
+"t": "Linda Eide og Ida Maria",
+"u": "https://podkast.nrk.no/fil/feriestemning/70c087e1-b02c-44b2-a955-f5644e6e3264_0_ID192MP3.mp3"
+},
+"l_36983858-c8b6-4725-9838-58c8b607258b": {
+"d": "2022-08-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4307,
+"s": "Maria har fått betalt for å synge julesanger i juli, Noman intervjuet Fuck for forest på Dagsrevyen og begge elsker George Michael",
+"t": "Maria Haukås Mittet og Noman Mubashir",
+"u": "https://podkast.nrk.no/fil/feriestemning/65a3e64a-1ea0-4206-a429-80d549eddad2_0_ID192MP3.mp3"
+},
+"l_3a76030e-5aec-4612-b603-0e5aecf61242": {
+"d": "2023-07-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4811,
+"s": "Eksistensiell sveis, om å miste noen og den første sommeren uten frykt.",
+"t": "Hanne Ørstavik og Kåre Magnus Bergh ",
+"u": "https://podkast.nrk.no/fil/feriestemning/38784579-0e2e-438c-bf45-f85d76a3f3f7_0_ID192MP3.mp3"
+},
+"l_3c267373-0c40-4294-a673-730c40d294a8": {
+"d": "2023-07-07T10:20:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 3569,
+"s": "Anti-\"sommerimage\" med sprekker, feige helter og drama på fest.",
+"t": "Maria Kjos Fonn og Kari Slaatsveen",
+"u": "https://podkast.nrk.no/fil/feriestemning/09f4c4b6-9017-431c-9ee4-a4ed7f7ab2a1_0_ID192MP3.mp3"
+},
+"l_3c7168d6-5b7a-490e-b168-d65b7ac90e63": {
+"d": "2022-07-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5354,
+"s": "Marie har tjent penger på å stå musestille, Peder er ikke noe stor fan av å drepe ting og begge kjenner på dybdeskrekken.",
+"t": "Marie Blokhus og Peder Kjøs ",
+"u": "https://podkast.nrk.no/fil/feriestemning/6367b72f-557b-4613-91e5-70b31b7f28fe_0_ID192MP3.mp3"
+},
+"l_3fe33006-b06e-4087-a330-06b06e30875e": {
+"d": "2022-06-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4399,
+"s": "Dag avslører en fetisj, Hani deler hvilken vits som funker best i utlandet og begge to har opplevd profilering.",
+"t": "Hani Hussein og Dag Sørås",
+"u": "https://podkast.nrk.no/fil/feriestemning/81090138-dd84-46dc-9333-bfd0978f762d_0_ID192MP3.mp3"
+},
+"l_409eba01-7481-4638-9eba-017481c63838": {
+"d": "2023-07-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4095,
+"s": "Tvilende skamløshet, bilkjøring rundt midnatt og en litt tilfeldig stil.",
+"t": "Jarle Bernhoft og Kari Slaatsveen",
+"u": "https://podkast.nrk.no/fil/feriestemning/45d15ffb-8bcf-489a-8bca-82d22cc3a009_0_ID192MP3.mp3"
+},
+"l_4140ebfe-b3e4-4a6b-80eb-feb3e4fa6be3": {
+"d": "2022-07-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4722,
+"s": "Trine Lise stjal masse is som barn, Andreas solgte masse is som barn og begge kjenner på skadefryd rundt skuffa turister",
+"t": "Andreas Wahl og Trine Lise Olsen",
+"u": "https://podkast.nrk.no/fil/feriestemning/9394b00a-bb38-4fce-ba10-f2062c79c01d_0_ID192MP3.mp3"
+},
+"l_42207001-6bf3-44d5-a070-016bf384d5b4": {
+"d": "2022-07-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5441,
+"s": "Klaus var tidenes dårligste jorbærplukker,  Hilde har egen konto til badedyr og begge er glade i kortreiste gleder. ",
+"t": "Hilde Skovdahl og Klaus Sonstad",
+"u": "https://podkast.nrk.no/fil/feriestemning/aa038e1f-f2dc-4cf8-a8bd-38e1e1e422df_0_ID192MP3.mp3"
+},
+"l_444e7744-77cf-45b2-8e77-4477cf45b2f2": {
+"d": "2023-07-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4774,
+"s": "Nasjonal runking, kropp etter fødsel og brystkreft og den vanskelige, fantastiske kjærligheten.",
+"t": "Tuva Fellman og Ida Nysæter Rasch",
+"u": "https://podkast.nrk.no/fil/feriestemning/15b748e0-768f-41a9-a9a9-9ed3fdaa981e_0_ID192MP3.mp3"
+},
+"l_4b4202df-5ab3-4ca5-8202-df5ab32ca58e": {
+"d": "2022-07-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5074,
+"s": "Sarah ofrer gladelig vennene sine til hai, Michael har et uironisk forhold til K-pop og begge er veldig ivrige på iskrem",
+"t": "Sarah Natasha Melbye og Michael Andreassen",
+"u": "https://podkast.nrk.no/fil/feriestemning/83464a22-6234-41f5-aaac-7c9d2ea9b228_0_ID192MP3.mp3"
+},
+"l_4b56f05c-3608-46f6-96f0-5c3608f6f6fa": {
+"d": "2022-07-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4605,
+"s": "Ingeborg elsker berg og dalbane, Trond-Viggo er ferdig med både berg og dalbane og porno og begge er opptatt av hvordan kroppen fungerer.",
+"t": "Ingeborg Senneset og Trond-Viggo Torgersen",
+"u": "https://podkast.nrk.no/fil/feriestemning/92d3a8b6-461a-4944-9748-b62cd8f0c71d_0_ID192MP3.mp3"
+},
+"l_51772e06-7589-4718-b72e-067589b718e4": {
+"d": "2023-07-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4118,
+"s": "Fiskekortvakt med utradisjonelle metoder, plystring på damer og hiphop-drømmen.",
+"t": "Erik Solbakken og Ida Nysæter Rasch",
+"u": "https://podkast.nrk.no/fil/feriestemning/33910210-b874-4023-8dbb-adb54c46fdb1_0_ID192MP3.mp3"
+},
+"l_5532d52f-6c95-4e8d-b2d5-2f6c950e8d82": {
+"d": "2023-07-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4605,
+"s": "Gutten fra skauen, kongen av small-talk og voksen lekeslåssing. ",
+"t": "Mikkel Niva og Ida Nysæter Rasch",
+"u": "https://podkast.nrk.no/fil/feriestemning/44b9870e-8507-40cc-9137-9ba169d25816_0_ID192MP3.mp3"
+},
+"l_55bfc57d-da0a-464a-bfc5-7dda0a764af5": {
+"d": "2022-08-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5290,
+"s": "Hina er skuespiller og boksetrener og egentlig ikke redd for noe, Christer er egentlig ganske feig, har lav smerteterskel og liker ikke å bade i kaldt vann og begge elsker jobbene sine. ",
+"t": "Hina Zaidi og Christer Falck",
+"u": "https://podkast.nrk.no/fil/feriestemning/2341c11e-6930-489f-88d2-969954ae87aa_0_ID192MP3.mp3"
+},
+"l_56bd8924-00a3-45c5-bd89-2400a3c5c59c": {
+"d": "2022-08-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4830,
+"s": "Magnus har alltid med egen pute på tur, Marlene går seg bort i Oslo og begge trenger alenetid på hotellrommet. ",
+"t": "Magnus Devold og Marlene Stavrum",
+"u": "https://podkast.nrk.no/fil/feriestemning/e1427489-45a3-44db-a3fa-25edcbec8ac4_0_ID192MP3.mp3"
+},
+"l_575daf01-460c-4101-9daf-01460c7101cd": {
+"d": "2022-07-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4413,
+"s": "Sigrid lommefacetimet Kari Bremnes, Egil padlet kano utfor en foss og begges favoritt-is ble bombet i Drammen",
+"t": "Sigrid Sollund og Egil Hegerberg",
+"u": "https://podkast.nrk.no/fil/feriestemning/40b68d91-5d3f-4b7a-be2b-929aa50488bd_0_ID192MP3.mp3"
+},
+"l_59021b52-a686-4ec9-821b-52a6865ec938": {
+"d": "2022-07-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4732,
+"s": "Christian var en sjenert dørselger, Øystein drømmer om jobb på bensinstasjon og begge deler sine sommertraumer.",
+"t": "Christian Mikkelsen og Øystein Bache ",
+"u": "https://podkast.nrk.no/fil/feriestemning/0493de30-0fb5-4db3-a641-f99553a28dec_0_ID192MP3.mp3"
+},
+"l_5926080f-bbec-4445-a608-0fbbecb44583": {
+"d": "2023-06-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4725,
+"s": "Sommer med dyp utringning, gigantisk skilpadde og nakenbading.",
+"t": "Martha Leivestad og Ronny Brede Aase ",
+"u": "https://podkast.nrk.no/fil/feriestemning/c250422c-1669-4747-91c2-d1453cc119de_0_ID192MP3.mp3"
+},
+"l_5a91bff6-a2d5-4eed-91bf-f6a2d5eeed7f": {
+"d": "2023-07-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4617,
+"s": "Den innbitte viljen til å ikke gi seg, svømmetips fra en elitesoldat og en litt for \"casual\" klesstil.",
+"t": "Eirik Kristoffersen og Ronny Brede Aase ",
+"u": "https://podkast.nrk.no/fil/feriestemning/37cbd829-bc3a-422b-8f6f-a40bfb26b590_0_ID192MP3.mp3"
+},
+"l_60ab72d0-8bb9-4296-ab72-d08bb9429694": {
+"d": "2022-07-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4826,
+"s": "Martin elsker dyrekafe, Ingeborg blir yr av tjern og begge har sterke følelser for gjedde.",
+"t": "Martin Beyer Olsen og Ingeborg Heldal",
+"u": "https://podkast.nrk.no/fil/feriestemning/aa3fae52-596c-4a47-8aed-680fed6c5acc_0_ID192MP3.mp3"
+},
+"l_60c6229f-c141-46a6-8622-9fc141b6a6db": {
+"d": "2023-06-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 5309,
+"s": "Kjærlighet er en livsoppgave. Sverre kom ut av skapet i et telt, nå har han sitt livs første kjæreste. ",
+"t": "Metteson og Mari Garås Monsson",
+"u": "https://podkast.nrk.no/fil/feriestemning/8edddab6-c576-48c7-b2c8-7dedcfef6d8a_0_ID192MP3.mp3"
+},
+"l_621fcbc8-5414-4f76-9fcb-c854148f7651": {
+"d": "2022-08-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5296,
+"s": "Nikolay har leid mye seilbåt uten å kunne seile, Olli var strandet på en øy med en gjeng kinesere og begge to har vært nakne offentlig",
+"t": "Olli Wermskog og Nicolay Ramm",
+"u": "https://podkast.nrk.no/fil/feriestemning/ba194606-fc63-4783-a5e7-94ca9f4a30bb_0_ID192MP3.mp3"
+},
+"l_6bc1653a-1d42-43f5-8165-3a1d4243f593": {
+"d": "2023-07-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 3657,
+"s": "Genetisk disponert for teater, øreormer og dramatikk i Italia.",
+"t": " Ine Jansen og Kari Slaatsveen",
+"u": "https://podkast.nrk.no/fil/feriestemning/c7cf052c-b028-4538-92eb-fa539d87ac7f_0_ID192MP3.mp3"
+},
+"l_6d8dc785-9a2f-4086-8dc7-859a2fc086b3": {
+"d": "2023-08-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4671,
+"s": "Råkjøring i Øystese, prinser i kortbukser og skuespill som et humanistisk prosjekt.",
+"t": "Frank Kjosås og Kari Slaatsveen",
+"u": "https://podkast.nrk.no/fil/feriestemning/e3e290ae-54fa-4aa6-be04-d3e6bacad12b_0_ID192MP3.mp3"
+},
+"l_6f742f0c-6594-4bbc-b42f-0c6594cbbce5": {
+"d": "2022-06-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4640,
+"s": "Marinbiolog Pia er livredd for brennmanet, Line blir provosert av flate rekesmørbrød og begge elsker havet",
+"t": "Line Elvsåshagen og Pia Ve Dahlen",
+"u": "https://podkast.nrk.no/fil/feriestemning/59bf8f57-5720-422c-ba7d-8de49c6bd7ca_0_ID192MP3.mp3"
+},
+"l_70196c16-8b0b-419b-996c-168b0b319b26": {
+"d": "2023-07-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 5218,
+"s": "Livets første Speedo, eventyret om Honningbarna og om å omfavne lidelse.",
+"t": "Edvard Valberg og Mari Garås Monsson",
+"u": "https://podkast.nrk.no/fil/feriestemning/63fe0e89-c61d-4f61-bb90-78cae92e2829_0_ID192MP3.mp3"
+},
+"l_72be15b1-0a92-4fa0-be15-b10a92cfa0ac": {
+"d": "2023-06-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4675,
+"s": "Det har vært noen tøffe år for Lise, men etter mange kvelder med ostesmørbrød som trøst, ser det ut til at livet smiler igjen.",
+"t": "Lise Finckenhagen og Ronny Brede Aase",
+"u": "https://podkast.nrk.no/fil/feriestemning/c45e89f3-098e-494a-aa8b-c56fe1921538_0_ID192MP3.mp3"
+},
+"l_743f1a28-06f1-4b12-bf1a-2806f19b1241": {
+"d": "2023-07-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4404,
+"s": "Hakuna Matoma, store følelser og rask moped.",
+"t": "Matoma og Ida Nysæter Rasch ",
+"u": "https://podkast.nrk.no/fil/feriestemning/9b034c15-f641-49da-8eb9-3d61a0a5bd0e_0_ID192MP3.mp3"
+},
+"l_7583f7cc-b5d9-4eeb-83f7-ccb5d9feeb66": {
+"d": "2023-06-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4508,
+"s": "Han har verdensrekord i stand up, er hele Norges Gullestad - Hans Morten Hansen lager humor av alt han opplever.",
+"t": "Hans Morten Hansen og Kari Slaatsveen",
+"u": "https://podkast.nrk.no/fil/feriestemning/b0284039-963d-44fe-ba20-95773ded142b_0_ID192MP3.mp3"
+},
+"l_77d74928-632a-4318-9749-28632ab31839": {
+"d": "2022-08-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 6577,
+"s": "Håvard synes det er ekstremt krevende med strandliv, Silya har jobbet som dating-coach og begge har hatt traumatiske opplevelser i vann.",
+"t": "Silya Nymoen og Håvard Lilleheie",
+"u": "https://podkast.nrk.no/fil/feriestemning/7437352d-cc02-4136-af96-f02f40860803_0_ID192MP3.mp3"
+},
+"l_7b633a51-f464-41aa-a33a-51f464e1aa96": {
+"d": "2022-07-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4908,
+"s": "Catrin har vært livredd for å ikke bli brun, Janne var sjørøver med vannskrekk og begge to har et litt anstrengt forhold til små kjæledyr. ",
+"t": "Catrin Sagen og Janne Formoe",
+"u": "https://podkast.nrk.no/fil/feriestemning/836f755c-fc1f-4d89-9422-d7aea3e1e789_0_ID192MP3.mp3"
+},
+"l_7f7cffee-822f-4813-bcff-ee822fa813a5": {
+"d": "2023-06-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4553,
+"s": "Med ny rolle i sporten og baby i magen, mimrer Therese tilbake til barndommens solfylte somre og livet som budeie hos besteforeldrene.",
+"t": "Therese Johaug og Ida Nysæter Rasch",
+"u": "https://podkast.nrk.no/fil/feriestemning/3a079dfc-a242-4d39-b177-88b6798816ec_0_ID192MP3.mp3"
+},
+"l_80d454a5-6b94-4e5a-9454-a56b940e5aba": {
+"d": "2022-07-02T10:10:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 3330,
+"s": "Hva er det ultimate sommertemperaturen? Er det en øvre aldersgrense på badeland? Og finnes det badesko i størrelse 50? ",
+"t": "Kristopher Schau og Alexander Harald Sandtorv",
+"u": "https://podkast.nrk.no/fil/feriestemning/5d2cfe54-5b03-4632-821f-f45e1634916a_0_ID192MP3.mp3"
+},
+"l_82e122b9-0746-4fed-a122-b907463fedde": {
+"d": "2022-06-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4207,
+"s": "Hvilken fotballspiller hadde flottest hår på fotball-leir? Hvordan overlever du i baksetet med tre søsken? Og hva fremkaller gråteglede?",
+"t": "Anne Rimmen og Daniel Kvammen",
+"u": "https://podkast.nrk.no/fil/feriestemning/3a37e207-c4d4-467c-a00e-cc0c85e46e5d_0_ID192MP3.mp3"
+},
+"l_842c8c3a-5a43-412d-ac8c-3a5a43312d09": {
+"d": "2023-08-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 3936,
+"s": "Håndplukket av Alicia Keys, Iran som ferieland og kunsten å gjøre Taarof.",
+"t": " Amanda Delara og Arin Soltanpanah ",
+"u": "https://podkast.nrk.no/fil/feriestemning/cc2457ed-7739-4f70-91d6-5056631b739c_0_ID192MP3.mp3"
+},
+"l_851fbb4e-62d9-4532-9fbb-4e62d975323c": {
+"d": "2022-08-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5055,
+"s": "Sunniva er en jævel på stuping, ARY er for selvbevisst for badedyr og begge to vil ha pasta på en perfekt sommerdag.",
+"t": "Ary og Sunniva Lindgaard",
+"u": "https://podkast.nrk.no/fil/feriestemning/a0919976-f9ad-4356-878d-68d336c5a4eb_0_ID192MP3.mp3"
+},
+"l_863385bf-495b-4fe9-b385-bf495bffe99c": {
+"d": "2023-07-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4858,
+"s": "Et rullende gymnas, en offentlig families forventninger og god livskvalitet.",
+"t": "Camilla Stoltenberg og Sigrid Sollund ",
+"u": "https://podkast.nrk.no/fil/feriestemning/d104e81c-b709-4a93-ac50-6981076bd03e_0_ID192MP3.mp3"
+},
+"l_89457a93-c74c-4380-857a-93c74cd3804e": {
+"d": "2022-08-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4402,
+"s": "Ronny har et ekstremt godt forhold til danskebåten, Emilie var rå på olje og burgerflipping og begge elsker å lese i ferien.",
+"t": "Ronny Brede Aase og Emilie Enger Mehl",
+"u": "https://podkast.nrk.no/fil/feriestemning/894cd5c9-2d9d-49de-ba14-822ccd8bc35d_0_ID192MP3.mp3"
+},
+"l_8a2aee2c-1275-486f-aaee-2c1275786fb7": {
+"d": "2022-06-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5559,
+"s": "Hva er farligst? Dødsing eller forelskelse? Hva er en smeigeda? Og hva vil det si å kjøre BANG BANG på ferie?",
+"t": "Sofie Frøysaa og Tete Lidbom",
+"u": "https://podkast.nrk.no/fil/feriestemning/3093a2f5-2f57-4527-a8a6-aeb371499ef2_0_ID192MP3.mp3"
+},
+"l_8a944a81-3d45-455b-944a-813d45455b18": {
+"d": "2023-06-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4040,
+"s": "Emma Stone går også på dass, anti-sommerkroppen og slik drikker du på jobben.",
+"t": "Espen PA Lervaag og Ida Nysæter Rasch",
+"u": "https://podkast.nrk.no/fil/feriestemning/9d340a7a-14f8-463a-9d95-26a2e39306ca_0_ID192MP3.mp3"
+},
+"l_8bbab0a4-7d8e-43ed-bab0-a47d8e93edf3": {
+"d": "2023-07-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4807,
+"s": "Jentastemning, selvtillit i korte kjoler og veien til Paralympics.",
+"t": "Nora Svenningsen og Ronny Brede Aase",
+"u": "https://podkast.nrk.no/fil/feriestemning/fc6104a3-e25a-4500-ae14-8126cacab7e4_0_ID192MP3.mp3"
+},
+"l_8f6c29af-7312-4ffc-ac29-af73122ffc7f": {
+"d": "2022-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4723,
+"s": "Hvilket språk lærer du egentlig på språkreise i Frankrike? Hvor mange ganger er det mulig å miste bagasje? Og hvilken låt passer best til legging av barn?",
+"t": "Sally Kamara og Sigrid Bonde Tusvik",
+"u": "https://podkast.nrk.no/fil/feriestemning/d7463ed4-7a23-4144-b3c8-f00ddc969122_0_ID192MP3.mp3"
+},
+"l_92529e09-5c0e-4c39-929e-095c0e3c391b": {
+"d": "2022-06-13T18:50:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 42,
+"s": "Martin Lepperød, Solveig Kloppen, Mikkel Niva, Else Kåss Furuseth, Leo Ajcik, Martha Leivestad, Galvan Mehidi, Erna Solberg og Lars Berrum m.fl. Hør kjendisene du elsker, dele sine sommerhistorier og lage god feriestemning gjennom hele sommeren!",
+"t": "Feriestemning kommer 18. juni! ",
+"u": "https://podkast.nrk.no/fil/feriestemning/53809693-0410-47a9-a2d3-8c53fd3b5a8e_0_ID192MP3.mp3"
+},
+"l_939c34c7-eeef-4411-9c34-c7eeef241164": {
+"d": "2022-07-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 3831,
+"s": "Alex deler sine beste dødsetips, Iben har helt øl i nakken på folk og begge elsker å bade.",
+"t": "Alex Rosén og Iben Akerlie",
+"u": "https://podkast.nrk.no/fil/feriestemning/9cc91fa9-bd17-4ea6-86a7-062f7643c0a0_0_ID192MP3.mp3"
+},
+"l_963ad53a-696d-41e7-bad5-3a696d31e730": {
+"d": "2023-07-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4637,
+"s": "Flukt fra borgerkrig i Sierra Leone og en turbulent oppvekst, selvtillit og Nicki Minaj og det å vende det negative til noe positivt. ",
+"t": "Myra og Mari Garås Monsson",
+"u": "https://podkast.nrk.no/fil/feriestemning/a656866c-4abb-4458-90e6-3fb995263de6_0_ID192MP3.mp3"
+},
+"l_98335edd-9d0f-4824-b35e-dd9d0f0824c2": {
+"d": "2023-08-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4257,
+"s": "Usher-fanboy, hettegensere i Oslobukta og ydmyk arbeidsmoral.",
+"t": "Mike Angeles og Arin Soltanpanah",
+"u": "https://podkast.nrk.no/fil/feriestemning/5b7af0ee-1a88-4f09-be9b-20ae7389686a_0_ID192MP3.mp3"
+},
+"l_9a105ef4-d87c-49c4-905e-f4d87c59c4ad": {
+"d": "2022-07-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4652,
+"s": "Emil kom inn på flyskolen på slump, Simon dekket kanindrap på scooter og begge ble eid av Blodprinsen",
+"t": "Emil Gukild og Simon Nitsche",
+"u": "https://podkast.nrk.no/fil/feriestemning/1544ae77-39f7-4475-aab6-13997f815118_0_ID192MP3.mp3"
+},
+"l_a137cdb6-1dce-4c93-b7cd-b61dcecc9387": {
+"d": "2022-07-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4856,
+"s": "Hasse har utfordret sin introverthet hos bønder i Japan, Mari sitter alltid på barnebordet og begge to snakker fortere enn gjennomsnittet.",
+"t": "Mari Maurstad og Hasse Hope",
+"u": "https://podkast.nrk.no/fil/feriestemning/bf2abeb8-9012-4227-b45c-d02500c4349f_0_ID192MP3.mp3"
+},
+"l_a1edba8a-89c8-4e26-adba-8a89c80e26da": {
+"d": "2023-08-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4438,
+"s": "Resting bitch face, tydelig barneoppdragelse og privat dyrehage.",
+"t": "Vidar Magnussen og Sigrid Sollund",
+"u": "https://podkast.nrk.no/fil/feriestemning/08aeb87b-1809-4ce5-acb0-28e79d964d49_0_ID192MP3.mp3"
+},
+"l_a22b954c-7b26-466b-ab95-4c7b26766b59": {
+"d": "2022-06-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4458,
+"s": "Tinashe hadde et uhell i syden, Henrik liker å sløye fisk og begge to elsker å baksnakke Odda.",
+"t": "Tinashe Williamson og Henrik Thodesen",
+"u": "https://podkast.nrk.no/fil/feriestemning/3d1b88fd-4461-48f2-9b12-411a0b224492_0_ID192MP3.mp3"
+},
+"l_a91afdd9-21d9-4642-9afd-d921d936427d": {
+"d": "2023-07-04T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 5101,
+"s": "Opprørsk ungdomstid, bestefarhjertet og husk å leve i nuet!",
+"t": "Trond-Viggo Torgersen og Mari Garås Monsson",
+"u": "https://podkast.nrk.no/fil/feriestemning/1107a77a-1e52-4bf8-aa63-f66e9784c394_0_ID192MP3.mp3"
+},
+"l_ac30ce88-c20a-4df3-b0ce-88c20a7df3e7": {
+"d": "2022-07-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4219,
+"s": "Anette holdt på å forlise i Tyrkia, Espen ble jaget av 12 åringer i syden og begge var avstandsforelska i Märtha Louise ",
+"t": "Anette Trettebergstuen og Espen Thoresen",
+"u": "https://podkast.nrk.no/fil/feriestemning/4d7fe8ce-041d-4f06-b398-a4fc36a716f4_0_ID192MP3.mp3"
+},
+"l_af198b82-5f27-4d4e-998b-825f27cd4e17": {
+"d": "2023-07-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4735,
+"s": "Kritikkverdige musikkvalg, massasje på hundehotell og luksusyacht.",
+"t": "Niklas Baarli og Kåre Magnus Bergh",
+"u": "https://podkast.nrk.no/fil/feriestemning/c28abbff-134b-4959-be5a-0abb2db1a6c0_0_ID192MP3.mp3"
+},
+"l_af6c9ade-4b37-47e9-ac9a-de4b3707e940": {
+"d": "2022-07-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 3735,
+"s": "Ingrid er god på å plukke blomster, Henrik vil at alle skal få fisk og begge setter pris på et deilig bad",
+"t": "Ingrid Lorentzen og Henrik Mestad",
+"u": "https://podkast.nrk.no/fil/feriestemning/4478f922-9b96-41cd-b255-85fc98845665_0_ID192MP3.mp3"
+},
+"l_b3869b9a-2773-4563-869b-9a27732563a8": {
+"d": "2022-07-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5222,
+"s": "Robert elsker tang og tare, Haddy er for sjenert for å bade og begge to husker sommeren de fylte 17 år.",
+"t": "Haddy N'jie og Robert Stoltenberg",
+"u": "https://podkast.nrk.no/fil/feriestemning/86dd30c7-c908-4a1d-84cf-7fe8b06a72b5_0_ID192MP3.mp3"
+},
+"l_b92de33b-41bd-49f1-ade3-3b41bdd9f13f": {
+"d": "2022-06-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5337,
+"s": "Erna savner livvaktene sine når hun er på ferie, Lars er veldig dårlig på pakking og begge to elsker å bade.",
+"t": "Erna Solberg og Lars Berrum",
+"u": "https://podkast.nrk.no/fil/feriestemning/043ef1a6-cd3f-4414-a3e1-a7d6b660e036_0_ID192MP3.mp3"
+},
+"l_bbe1dcf9-7f26-497f-a1dc-f97f26c97f67": {
+"d": "2022-07-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5316,
+"s": "Trygve har forsøkt å imponere jenter med sang, Birgit har vært på odelsgutt-jakt og begge har et sterkt forhold til båt.",
+"t": "Birgit Skarstein og Trygve Slagsvold Vedum",
+"u": "https://podkast.nrk.no/fil/feriestemning/d4d9e5d2-f504-4dd9-a40b-117a755b41b2_0_ID192MP3.mp3"
+},
+"l_bc7d465f-7fd7-4e63-bd46-5f7fd79e6341": {
+"d": "2022-08-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5366,
+"s": "Hanne kjenner på lykkepress om sommeren, Silje vil gjerne bli helårsbader og begge to elsker Nord-Norge.",
+"t": "Hanne Krogh og Silje Nordnes",
+"u": "https://podkast.nrk.no/fil/feriestemning/7c5fe429-80ed-46be-aad3-ec8cd9036f75_0_ID192MP3.mp3"
+},
+"l_be7d6e08-5838-4b55-bd6e-085838db5599": {
+"d": "2023-06-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4764,
+"s": "Den ene brukte humor og selvironi som forsvarsmekanisme, mens den andre senket stemmen og gikk bredere for å passe inn.",
+"t": "Gisle Agledahl og Galvan Mehidi",
+"u": "https://podkast.nrk.no/fil/feriestemning/81bcd404-55fc-4d4c-8fe2-e6af6483fbe4_0_ID192MP3.mp3"
+},
+"l_c11012a8-c4de-45a4-9012-a8c4de85a416": {
+"d": "2022-07-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4747,
+"s": "Adelina gruer seg allerede til at sommeren er over, Petter savner sommeren med budeia og begge har et spesielt forhold til whisky",
+"t": "Adelina Ibishi og Petter Schjerven",
+"u": "https://podkast.nrk.no/fil/feriestemning/f00020a1-6fbb-43ef-aa17-82c44a90c230_0_ID192MP3.mp3"
+},
+"l_c2abbee9-0cb1-4dd6-abbe-e90cb1cdd687": {
+"d": "2023-08-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4212,
+"s": "Mobbing i barndommen, livet som tvilling og samboer og verdens beste gudmødre. ",
+"t": "Vita og Wanda Mashadi og Galvan Mehidi",
+"u": "https://podkast.nrk.no/fil/feriestemning/30010c27-34f8-4af9-9152-2bd57b49c162_0_ID192MP3.mp3"
+},
+"l_c60170eb-ed5d-435a-8170-ebed5d035aae": {
+"d": "2023-06-18T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4017,
+"s": "Selvvalgt alenetid, tanker om temperament og om hvor viktig det er å ha noen å ligge i skje med.",
+"t": "Per Sandberg og Sigrid Sollund ",
+"u": "https://podkast.nrk.no/fil/feriestemning/42c934b1-4713-4bed-bb59-bba15552775e_0_ID192MP3.mp3"
+},
+"l_c63b464e-e17a-4c92-bb46-4ee17a6c9291": {
+"d": "2023-08-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 5276,
+"s": "Prostatasjekk, tissing i kaffekopp og pranking av Anne Lindmo.",
+"t": "Ingrid Gjessing Linhave og Kåre Magnus Bergh",
+"u": "https://podkast.nrk.no/fil/feriestemning/a823308c-895a-4708-985c-5bcd7fc4608c_0_ID192MP3.mp3"
+},
+"l_cbf22f10-8ef9-4a8e-b22f-108ef91a8e67": {
+"d": "2023-07-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4272,
+"s": "Rosévin saboterte håndballkarrieren, hva du IKKE skal gjøre med barna i sommer og intimkonsert med Coldplay.",
+"t": "Thomas Numme og Ronny Brede Aase",
+"u": "https://podkast.nrk.no/fil/feriestemning/7ed98a8b-d93d-4e9b-9176-ca2dc3cc4264_0_ID192MP3.mp3"
+},
+"l_d2ba2440-0c4f-4182-ba24-400c4f7182c6": {
+"d": "2023-06-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4735,
+"s": "Shortsvegring, hønedrap og en kjærlighetssang til \"straighte\" jenter.",
+"t": "Fay Wildhagen og Ronny Brede Aase",
+"u": "https://podkast.nrk.no/fil/feriestemning/17396796-1433-41f3-81c9-3273889652dd_0_ID192MP3.mp3"
+},
+"l_d56c60c7-bf76-4fcf-ac60-c7bf764fcfd5": {
+"d": "2022-07-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5801,
+"s": "Tuva elsker å tøffe seg når hun skal bade, Rune får alltid ansvar for grillingen selv om han ikke kan grille og begge to har rota med bagasjen",
+"t": "Tuva Fellman og Rune Gokstad",
+"u": "https://podkast.nrk.no/fil/feriestemning/57a3505f-4fc5-4b76-b03a-e1d4a6fb5dd9_0_ID192MP3.mp3"
+},
+"l_d64f5e42-fe34-4fee-8f5e-42fe349feeed": {
+"d": "2023-07-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4876,
+"s": "Et ufrivillig Synnøve Solbakken-image, en halvspist pølsesnabb i posten og divanykker i Irland.",
+"t": "Ingebjørg Bratland og Sigrid Sollund",
+"u": "https://podkast.nrk.no/fil/feriestemning/a5b93f0a-0806-45c9-8d2d-67f3efe646eb_0_ID192MP3.mp3"
+},
+"l_d6a2de67-cde5-48a1-a2de-67cde528a1de": {
+"d": "2022-08-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5825,
+"s": "Bjørn sov seg gjennom sommerjobben, Odd fikk en lekse av Bruce Springsteen og begge er lidenskapelig kajakkpadlere.\n",
+"t": "Odd Nordstoga og Bjørn Tomren",
+"u": "https://podkast.nrk.no/fil/feriestemning/6e37085d-1715-4de6-bd9e-b637b801739c_0_ID192MP3.mp3"
+},
+"l_d6bdcb93-47bb-4d7c-bdcb-9347bb5d7c5d": {
+"d": "2022-07-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4647,
+"s": "Jorun elsker å bade (etter en del traumebehandling), Nils-Ingar må lære seg å bremse på rulleski og begge gleder seg til vinteren. ",
+"t": "Jorun Stiansen og Nils-Ingar Aadne",
+"u": "https://podkast.nrk.no/fil/feriestemning/8add5f3a-82ca-4c6d-85e2-bbd7951e623c_0_ID192MP3.mp3"
+},
+"l_d7ec20e4-c3c2-4558-ac20-e4c3c2655846": {
+"d": "2022-07-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 6097,
+"s": "Mona er en typisk overvekt, Nils deler helst én håndbagasje og begge er over gjennomsnittet lettrørte.",
+"t": "Mona B. Riise og Nils Bech",
+"u": "https://podkast.nrk.no/fil/feriestemning/562a8bf8-3d8e-402a-865a-8c21f7dc2f6d_0_ID192MP3.mp3"
+},
+"l_d8037119-f101-43b4-8371-19f10163b46a": {
+"d": "2022-08-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 6535,
+"s": "Rasmus sjekket damer på sms, Jonis har aldri fått fisk - eller?  og begge har havnet i bråk i utlandet",
+"t": "Rasmus Wold og Jonis Josef",
+"u": "https://podkast.nrk.no/fil/feriestemning/44750c0c-c595-412a-89a8-2b862d8b3999_0_ID192MP3.mp3"
+},
+"l_db974ad5-c2e8-4499-974a-d5c2e8049966": {
+"d": "2023-08-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4267,
+"s": "Ungdomsskolenørd, sommerflørting og dronedrama i Frankrike. ",
+"t": "Sigrid Bonde Tusvik og Galvan Mehidi",
+"u": "https://podkast.nrk.no/fil/feriestemning/9a5c5495-e79c-4b70-9c57-9e6b8e0628a2_0_ID192MP3.mp3"
+},
+"l_e1fe7ca3-1057-4538-be7c-a31057753890": {
+"d": "2023-07-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 5357,
+"s": "Traumatisk sommerjobb, kreativt feriebudsjett og small-talk på fotballcup.",
+"t": "Marte Stokstad og Kåre Magnus Bergh",
+"u": "https://podkast.nrk.no/fil/feriestemning/71d91ea9-413c-4d65-af3f-129ddfe49544_0_ID192MP3.mp3"
+},
+"l_e58562f2-36f3-456c-8562-f236f3756cd6": {
+"d": "2023-07-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4310,
+"s": "Det beste badestedet i Bø, anatomipugging og TikTok-konflikter.",
+"t": "Annika Momrak og Galvan Mehidi",
+"u": "https://podkast.nrk.no/fil/feriestemning/08592b21-348e-4ac2-a687-249a67b5ef6b_0_ID192MP3.mp3"
+},
+"l_e92e9b01-c8bf-439b-ae9b-01c8bf739b6f": {
+"d": "2022-06-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 2882,
+"s": "Adam ble tatt for å være stripper i syden, Siri har trent delfiner og begge har et litt traumatisk forhold til Italia.",
+"t": "Siri Kristiansen og Adam Schjølberg",
+"u": "https://podkast.nrk.no/fil/feriestemning/56675df1-59b5-49ed-9089-3a0b0ad85a56_0_ID192MP3.mp3"
+},
+"l_eaf785b9-aa22-4069-b785-b9aa22e069f0": {
+"d": "2023-07-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 3435,
+"s": "Ulovlig skating, bygdedyret og Frankensteins monster.",
+"t": "Matias Faldbakken og Kåre Magnus Bergh",
+"u": "https://podkast.nrk.no/fil/feriestemning/708c50cd-6cb9-4c65-87fb-74fcc12b8817_0_ID192MP3.mp3"
+},
+"l_eb2c44e1-7f7f-48cf-ac44-e17f7f28cf93": {
+"d": "2022-07-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4051,
+"s": "Atle eier fire griller, Jan Fredrik deler sine beste makrell-tips og begge har sterke minner til samme puddelrock-låt",
+"t": "Atle Pettersen og Jan Fredrik Karlsen",
+"u": "https://podkast.nrk.no/fil/feriestemning/0848a591-8f99-404f-a205-9c8db9d74b20_0_ID192MP3.mp3"
+},
+"l_ec2a6a96-fb89-4b10-aa6a-96fb898b1029": {
+"d": "2022-07-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 3423,
+"s": "Johan har et elsk/hat forhold til båt, Frida har mistet passet på reise og begge er veldig glade i frukt i utlandet.",
+"t": "Frida Homlung og Johan Golden",
+"u": "https://podkast.nrk.no/fil/feriestemning/3055e133-c064-4630-a723-253fec493232_0_ID192MP3.mp3"
+},
+"l_ec33b88d-fa63-4444-b3b8-8dfa63f444d6": {
+"d": "2023-08-11T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4667,
+"s": "Takknemlighetsliste, isbading på grensen til hypotermi og skogsrave.",
+"t": "Karsten Blomvik og Galvan Mehidi",
+"u": "https://podkast.nrk.no/fil/feriestemning/5446a373-0a38-42fe-be87-50a5f3c3258d_0_ID192MP3.mp3"
+},
+"l_ec342fae-24ae-4fa4-b42f-ae24aeafa44d": {
+"d": "2022-07-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/2RNLyxQp_IfoE_SmYh3ATQQEV9pBs76eRAOW2-mSIZog",
+"n": 4558,
+"s": "Dennis avslører et hemmelig triks, Stian tjente ekstra penger da han kjørte isbil og  begge skremmer barn på vitenshow.",
+"t": "Stian Sandø og Dennis Siva Lie",
+"u": "https://podkast.nrk.no/fil/feriestemning/3eec3564-8280-4279-8a7e-b5a315487820_0_ID192MP3.mp3"
+},
+"l_ec3ee042-e3f4-4618-bee0-42e3f4e61856": {
+"d": "2023-08-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 3773,
+"s": "Voldelig ungdomstid, overvåkning på do og livsvisdom bak murene.",
+"t": "Mayoo Indiran og Arin Soltanpanah",
+"u": "https://podkast.nrk.no/fil/feriestemning/19c81d93-1321-4a48-bf22-66aa8e834fa6_0_ID192MP3.mp3"
+},
+"l_ee38ff24-a93d-499f-b8ff-24a93dc99f58": {
+"d": "2023-07-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4963,
+"s": "Oppvekst med blitzere og nynazister, grandiose kjærlighetserklæring og om å våge å feile.",
+"t": "Odd Magnus Williamson og Galvan Mehidi",
+"u": "https://podkast.nrk.no/fil/feriestemning/beb8b793-03a7-49fd-90b9-33d4e09175d6_0_ID192MP3.mp3"
+},
+"l_f1597cb6-3949-4071-997c-b63949f07129": {
+"d": "2022-07-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4566,
+"s": "Reneé har laget en helt spesiell is, Are slår et slag for ansjosen og begge to brenner for en perfekt stekt entrecote",
+"t": "Reneé Fagerhøi og Are Sende Osen",
+"u": "https://podkast.nrk.no/fil/feriestemning/7d11ce75-aa55-4289-91b7-57c00233bfdf_0_ID192MP3.mp3"
+},
+"l_f1b341d9-9c2d-468d-b341-d99c2d968dae": {
+"d": "2023-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 5291,
+"s": "Nyforelska i ferskvann og strøm, Martin fordømmer ungdomstidas gale nakenstunt, drømmer om å bli rapper og de sjøllaga dreadsene.",
+"t": "Martin Lepperød og Galvan Mehidi",
+"u": "https://podkast.nrk.no/fil/feriestemning/67b691b0-08f8-4852-aec4-e66cc4440aa3_0_ID192MP3.mp3"
+},
+"l_f1f1851e-bf1a-4045-b185-1ebf1a7045a1": {
+"d": "2022-07-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/2RNLyxQp_IfoE_SmYh3ATQQEV9pBs76eRAOW2-mSIZog",
+"n": 4431,
+"s": "Else ble irettesatt av prinsesse Astrid, Åse var den første på Mjøsa i bikini og begge to elsker bilferie.",
+"t": "Else Kåss Furuseth og Åse Kleveland ",
+"u": "https://podkast.nrk.no/fil/feriestemning/c278ed5d-6f86-45a6-954c-baac1ab29260_0_ID192MP3.mp3"
+},
+"l_f372a361-4a09-43f5-b2a3-614a0933f527": {
+"d": "2022-06-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 3818,
+"s": "Ahmed har vært døråpner  - bokstavelig talt, Bahare er sjørøver-fangirl og begge er over gjennomsnittet glad i karaoke.",
+"t": "Bahare Viken og Ahmed Mamow",
+"u": "https://podkast.nrk.no/fil/feriestemning/5c95988d-83c7-4ee0-a698-ddffe7893f82_0_ID192MP3.mp3"
+},
+"l_f3a92ece-3f67-48d5-a92e-ce3f67f8d5b3": {
+"d": "2023-07-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4461,
+"s": "Ungdomstid i pappas dress, offentlig nakenhet og om å snakke om vanskelige ting på skjermen, men ikke privat.",
+"t": "Else Kåss Furuseth og Arin Soltanpanah",
+"u": "https://podkast.nrk.no/fil/feriestemning/50a02a54-85c1-4431-9fac-e357fe49cfe5_0_ID192MP3.mp3"
+},
+"l_f61d17a9-af22-4fbb-9d17-a9af22dfbb1c": {
+"d": "2023-08-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4300,
+"s": "En \"hypermelodisk marsboer\", drømmesamarbeidet med Karpe og styrtlandingen etterpå.",
+"t": "Isah og Kari Slaatsveen",
+"u": "https://podkast.nrk.no/fil/feriestemning/2ec8730d-f2c0-4f83-be2b-5c4fd67663b3_0_ID192MP3.mp3"
+},
+"l_f7b1214e-7314-4319-b121-4e73149319c1": {
+"d": "2023-07-03T08:30:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4374,
+"s": "Om kjærligheten til kuer, dårlig samvittighet og forholdet til Steinar og Tore.",
+"t": "Bjarte Tjøstheim og Sigrid Sollund",
+"u": "https://podkast.nrk.no/fil/feriestemning/c0305eab-1a22-4bdc-af21-4b0b55020723_0_ID192MP3.mp3"
+},
+"l_f8228151-8a79-41be-a281-518a7921be8d": {
+"d": "2023-07-01T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4331,
+"s": "Homokamp og fest, blanke Mjøsa og nødvendige ubehageligheter.",
+"t": "Frida Ånnevik og Kåre Magnus Bergh",
+"u": "https://podkast.nrk.no/fil/feriestemning/d854b208-468d-4a09-98b5-e4a27dbeeea2_0_ID192MP3.mp3"
+},
+"l_f9703c2e-9e87-441c-b03c-2e9e87c41cf6": {
+"d": "2022-07-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5315,
+"s": "Karsten har funnet opp den ultimate sommerdrinken, Alexandra sverger til melontyggis når hun skal kline  og ingen av de er særlige glade i å bade.",
+"t": "Alexandra Joner og  Karsten Blomvik",
+"u": "https://podkast.nrk.no/fil/feriestemning/aaf8e210-c994-4dd1-9405-756a1681a36c_0_ID192MP3.mp3"
+},
+"l_faca13c0-217b-4d3c-8a13-c0217b2d3cf9": {
+"d": "2022-06-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 5310,
+"s": "Kjartan tok en tatovering på rødvinsfylla, Tarjei er livredd for hai og begge to er faktisk ganske sjenerte.",
+"t": "Tarjei Strøm og Kjartan Lauritzen",
+"u": "https://podkast.nrk.no/fil/feriestemning/1517cb58-2eb3-40b0-a275-7d0606be42dc_0_ID192MP3.mp3"
+},
+"l_fc4583be-38f9-4825-8583-be38f9b82540": {
+"d": "2023-07-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"n": 4020,
+"s": "Nattasanger som sjekketriks, sakte reising og politikken som sparket beina under musikken.",
+"t": "Moddi og Sigrid Sollund",
+"u": "https://podkast.nrk.no/fil/feriestemning/57269b94-49fd-41e9-b8a5-31a8fbdb4e09_0_ID192MP3.mp3"
+},
+"l_fd1e31bc-f7c8-41b3-9e31-bcf7c8c1b362": {
+"d": "2022-06-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw",
+"n": 4993,
+"s": "Hva er den mest lukrative sommerjobben? Hvilken solkrem er den beste? Og hvor mange is er FOR mange is?",
+"t": "Mikkel Niva og Leo Ajkic",
+"u": "https://podkast.nrk.no/fil/feriestemning/bff6be78-650f-40d2-81a7-fd2cf46e325f_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Humor og prateprogram",
+"id": "feriestemning",
+"image": "https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw",
+"subtitle": "Kjendisene du elsker deler sine sommerhistorier hver eneste dag gjennom hele sommeren. Skikkelig god feriestemning!",
+"title": "Feriestemning"
+},
+"v": 2
 }

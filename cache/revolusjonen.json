@@ -1,8 +1,60 @@
 {
-"l_168cc676-5d63-43c5-8cc6-765d63d3c573": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_1893.MP3",
-"l_3e805b52-bdab-4725-805b-52bdabb7257f": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_1371.MP3",
-"l_3e8779d8-411e-477f-8779-d8411ec77f95": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_3592.MP3",
-"l_4e09e040-c7d2-4e69-89e0-40c7d27e69ac": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_2767.MP3",
-"l_7190af56-8052-44ba-90af-56805274ba24": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_1821.MP3",
-"l_c313f448-db81-4a5b-93f4-48db815a5b33": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_135.MP3"
+"episodes": {
+"l_168cc676-5d63-43c5-8cc6-765d63d3c573": {
+"d": "2018-06-06T06:03:00+02:00",
+"i": "https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw",
+"n": 1454,
+"s": "Frankrike i år 1789 er Europas supermakt, men det ulmer under overflaten: Adelen lever i luksus, men folket sulter.",
+"t": "Stormen på Bastillen (1:6)",
+"u": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_1893.MP3"
+},
+"l_3e805b52-bdab-4725-805b-52bdabb7257f": {
+"d": "2018-06-06T06:12:00+02:00",
+"i": "https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw",
+"n": 1311,
+"s": "Våren 1793 bryter det ut nye opptøyer i Paris, moderate politikere blir forfulgt og mange henrettes. ",
+"t": "Mordet på Marat (4:6)",
+"u": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_1371.MP3"
+},
+"l_3e8779d8-411e-477f-8779-d8411ec77f95": {
+"d": "2018-06-06T06:07:00+02:00",
+"i": "https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw",
+"n": 1137,
+"s": "I hemmelighet planlegger kong Ludvig den 16. og dronning Marie Antoinette å flykte ut av landet. ",
+"t": "Dronning Marie Antoinette flykter (3:6)",
+"u": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_3592.MP3"
+},
+"l_4e09e040-c7d2-4e69-89e0-40c7d27e69ac": {
+"d": "2018-06-06T06:18:00+02:00",
+"i": "https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw",
+"n": 1045,
+"s": "Krigslykken snur, og general Napoleon Bonaparte utmerker seg med flere seire. Snart skal han erklære revolusjonen for over.",
+"t": "Revolusjonens keiser (6:6)",
+"u": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_2767.MP3"
+},
+"l_7190af56-8052-44ba-90af-56805274ba24": {
+"d": "2018-06-06T06:15:00+02:00",
+"i": "https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw",
+"n": 1012,
+"s": "I 1793 herjes Frankrike fremdeles av borgerkrig og opprør. Terror blir et uttalt politisk virkemiddel.",
+"t": "Robespierre, helt eller monster? (5:6)",
+"u": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_1821.MP3"
+},
+"l_c313f448-db81-4a5b-93f4-48db815a5b33": {
+"d": "2018-06-06T06:06:00+02:00",
+"i": "https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw",
+"n": 1309,
+"s": "Den franske menneskerettighetserklæringen skrives, men kongen nekter å signere. I Paris er folk fremdeles sultne og sinte.",
+"t": "Kvinnemarsjen til Versailles (2:6)",
+"u": "https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_135.MP3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "revolusjonen",
+"image": "https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw",
+"subtitle": "Rullende hoder, vaiende flagg og en intens lengsel etter frihet. Hvordan så den franske revolusjonen ut fra innsiden?",
+"title": "Revolusjonen"
+},
+"v": 2
 }

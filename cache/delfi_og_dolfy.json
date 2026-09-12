@@ -1,10 +1,76 @@
 {
-"l_42b8f526-537a-4a76-b8f5-26537a4a7626": "https://podkast.nrk.no/fil/delfi_og_dolfy/20b678fc-a836-4537-8100-9e520170bef4_0_ID192MP3.mp3",
-"l_4b0b623a-21fd-44a1-8b62-3a21fd14a153": "https://podkast.nrk.no/fil/delfi_og_dolfy/9eeaa00c-cf0e-4261-b6d5-df821db69438_0_ID192MP3.mp3",
-"l_556bc0d0-e406-4817-abc0-d0e406f8178c": "https://podkast.nrk.no/fil/delfi_og_dolfy/703c5637-e020-47e7-addb-50204f3d4818_0_ID192MP3.mp3",
-"l_5c729bae-b2c3-4d1e-b29b-aeb2c36d1e14": "https://podkast.nrk.no/fil/delfi_og_dolfy/79c1fb95-68f9-4b86-8a7f-ab021c7da813_0_ID192MP3.mp3",
-"l_7e0bd7dd-0bb8-4512-8bd7-dd0bb8c5127d": "https://podkast.nrk.no/fil/delfi_og_dolfy/1843e560-7064-43c5-a823-6463c60b574a_0_ID192MP3.mp3",
-"l_8a65aeb1-c182-4997-a5ae-b1c1823997db": "https://podkast.nrk.no/fil/delfi_og_dolfy/dcd88e78-28b8-44ee-8da3-1f500dd24670_0_ID192MP3.mp3",
-"l_a361d3b7-a2b8-418b-a1d3-b7a2b8318bec": "https://podkast.nrk.no/fil/delfi_og_dolfy/5c2e288a-2eaa-4e2b-8bae-8f9e6e87eac9_0_ID192MP3.mp3",
-"l_b83e0235-0a46-4520-be02-350a46e52065": "https://podkast.nrk.no/fil/delfi_og_dolfy/35b39b96-b94e-49c0-83a3-b0ee4661c5e4_0_ID192MP3.mp3"
+"episodes": {
+"l_42b8f526-537a-4a76-b8f5-26537a4a7626": {
+"d": "2021-06-15T06:03:00+02:00",
+"i": "https://gfx.nrk.no/iCVaVG22Zj3LXBIgKw5vvgq9QwbOUXM3RsGPrThPZrGg",
+"n": 686,
+"s": "En måke samler sjokoladepapir som den skal gi til fugleungene sine. Pernille ber Delfi og Dolfy om hjelp og de kommer til Sotra utenfor Bergen for å stoppe måken før den mater ungene sine med søppel.\n",
+"t": "Plastmåken ",
+"u": "https://podkast.nrk.no/fil/delfi_og_dolfy/20b678fc-a836-4537-8100-9e520170bef4_0_ID192MP3.mp3"
+},
+"l_4b0b623a-21fd-44a1-8b62-3a21fd14a153": {
+"d": "2021-06-15T06:06:00+02:00",
+"i": "https://gfx.nrk.no/iCVaVG22Zj3LXBIgKw5vvgq9QwbOUXM3RsGPrThPZrGg",
+"n": 764,
+"s": "Preben finner en stor krabbe som har satt seg fast i en plastpose, men han får den ikke ut. Delfi og Dolfy drar til Jomfruland utenfor Kragerø for å hjelpe. \nsign/redigering: Viljar Losnegård",
+"t": " Krabbekrøll ",
+"u": "https://podkast.nrk.no/fil/delfi_og_dolfy/9eeaa00c-cf0e-4261-b6d5-df821db69438_0_ID192MP3.mp3"
+},
+"l_556bc0d0-e406-4817-abc0-d0e406f8178c": {
+"d": "2021-06-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/iCVaVG22Zj3LXBIgKw5vvgq9QwbOUXM3RsGPrThPZrGg",
+"n": 820,
+"s": "Jakob oppdager en forlatt krabbeteine på havbunnen der en fisk og en krabbe er fanget. Delfi og Dolfy må dra til Kvaløya utenfor Tromsø for å befri sjødyrene sammen med Jakob.",
+"t": "Spøkelsesteinen ",
+"u": "https://podkast.nrk.no/fil/delfi_og_dolfy/703c5637-e020-47e7-addb-50204f3d4818_0_ID192MP3.mp3"
+},
+"l_5c729bae-b2c3-4d1e-b29b-aeb2c36d1e14": {
+"d": "2021-06-15T06:05:00+02:00",
+"i": "https://gfx.nrk.no/iCVaVG22Zj3LXBIgKw5vvgq9QwbOUXM3RsGPrThPZrGg",
+"n": 704,
+"s": "En iskald og forvirret oter svømmer rundt i ring i Blindleia mellom Kristiansand og Lillesand. Sandra varsler Havpatruljen, men når Delfi og Dolfy kommer frem oppdager de at oteren er full i olje og de trenger Sandras hjelp for å redde den.\n",
+"t": "Oljeoteren ",
+"u": "https://podkast.nrk.no/fil/delfi_og_dolfy/79c1fb95-68f9-4b86-8a7f-ab021c7da813_0_ID192MP3.mp3"
+},
+"l_7e0bd7dd-0bb8-4512-8bd7-dd0bb8c5127d": {
+"d": "2021-06-15T06:04:00+02:00",
+"i": "https://gfx.nrk.no/iCVaVG22Zj3LXBIgKw5vvgq9QwbOUXM3RsGPrThPZrGg",
+"n": 612,
+"s": "Patrik ser en reke som er fanget i en plastflaske ute på sjøen og Delfi og Dolfy setter kursen mot Huglo ved Stord for å få reken i trygghet før den forsvinner ut på havet. \nddesign/redigering: Viljar Losnegård",
+"t": "Reke på flaske ",
+"u": "https://podkast.nrk.no/fil/delfi_og_dolfy/1843e560-7064-43c5-a823-6463c60b574a_0_ID192MP3.mp3"
+},
+"l_8a65aeb1-c182-4997-a5ae-b1c1823997db": {
+"d": "2021-06-15T06:02:00+02:00",
+"i": "https://gfx.nrk.no/iCVaVG22Zj3LXBIgKw5vvgq9QwbOUXM3RsGPrThPZrGg",
+"n": 689,
+"s": "Kristian finner en diger knølhval på stranden, som ikke klarer å komme seg ut igjen i sjøen. Delfi og Dolfy drar til Godøya utenfor Ålesund for å redde hvalen. ",
+"t": "Hval på land",
+"u": "https://podkast.nrk.no/fil/delfi_og_dolfy/dcd88e78-28b8-44ee-8da3-1f500dd24670_0_ID192MP3.mp3"
+},
+"l_a361d3b7-a2b8-418b-a1d3-b7a2b8318bec": {
+"d": "2021-06-15T06:01:00+02:00",
+"i": "https://gfx.nrk.no/iCVaVG22Zj3LXBIgKw5vvgq9QwbOUXM3RsGPrThPZrGg",
+"n": 695,
+"s": "Ingrid ser en sel som sitter fast i et tjukt tau og får hjelp fra Delfi og Dolfy fra Havpatruljen. Delfinene møter Ingrid på Munkholmen utenfor Trondheim, men selen stikker av.",
+"t": "Selredning ",
+"u": "https://podkast.nrk.no/fil/delfi_og_dolfy/5c2e288a-2eaa-4e2b-8bae-8f9e6e87eac9_0_ID192MP3.mp3"
+},
+"l_b83e0235-0a46-4520-be02-350a46e52065": {
+"d": "2021-06-15T06:07:00+02:00",
+"i": "https://gfx.nrk.no/iCVaVG22Zj3LXBIgKw5vvgq9QwbOUXM3RsGPrThPZrGg",
+"n": 732,
+"s": "Maja er ute og snorkler når hun oppdager en torsk med en q-tips i nesen. Delfi og Dolfy kommer til badehuset hennes på Nesodden utenfor Oslo, men torsken har gjemt seg i en steinrøys og vil ikke ha hjelp. \n",
+"t": "Torsketrøbbel ",
+"u": "https://podkast.nrk.no/fil/delfi_og_dolfy/35b39b96-b94e-49c0-83a3-b0ee4661c5e4_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Barn",
+"id": "delfi_og_dolfy",
+"image": "https://gfx.nrk.no/iCVaVG22Zj3LXBIgKw5vvgq9QwbOUXM3RsGPrThPZrGg",
+"subtitle": "Delfinene Delfi og Dolfy fra Havpatruljen er på tur langs norskekysten, fra nord til sør, for å gjøre havet renere og tryggere. Alt søppelet i havet skaper problemer for livet i sjøen, så delfinene trenger hjelp fra barna langs kysten for å redde alt fra en strandet hval til en oter full av olje. Bli med Delfi og Dolfy å redde havet du også. Passer for barn mellom 5 - 8 år.\n\nAv og med Rolf Magne Golten Andersen \nLyddesign: Viljar Losnegård \nIllustrasjon: Elise Risnes Eikevik",
+"title": "Delfi og Dolfy"
+},
+"v": 2
 }

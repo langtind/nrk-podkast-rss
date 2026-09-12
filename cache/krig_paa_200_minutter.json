@@ -1,5 +1,36 @@
 {
-"l_3d29c313-6260-4323-a9c3-136260832305": "https://podkast.nrk.no/fil/krig_paa_200_minutter/NRKDT61104_5729E53143BA4570B807838F2C29260D.MP3",
-"l_6925c0f1-9077-456a-a5c0-f19077256a1d": "https://podkast.nrk.no/fil/krig_paa_200_minutter/NRKDT61104_32DC286A61304A6DA442A3DB02A9B92F.MP3",
-"l_ad5eb418-0443-4b2c-9eb4-1804438b2cc6": "https://podkast.nrk.no/fil/krig_paa_200_minutter/NRKDT61104_457E0EAF45664251B1BA49CEAC9E25DA.MP3"
+"episodes": {
+"l_3d29c313-6260-4323-a9c3-136260832305": {
+"d": "2015-04-17T17:30:00+02:00",
+"i": "https://gfx.nrk.no/jNt2gpEHxW2tmQgAcE-rdQIthu6cj9ULgVHWmhn33URQ",
+"n": 5434,
+"s": "Han er et yndet intervjuobjekt for journalister, en høyt elsket foreleser på Universitetet i Bergen, og den eneste statsviteren i Norge med yrkesskade. Akademisk marathon, eller sprint? Sist mente Frank det ville bli et problem å holde tiden, men han klokket inn 200 års norgeshistorie på sekundet. Nå gyver han løs igjen. Aarebrot vil bl.a. snakke om: Hvem tar våpen i hånd når den offentlige voldsmakt ikke finnes? Hvem bestemmer hvem som er forræder? Hva er grensen mellom politikk og krig? Er demokratisering en garanti mot krig? Var det en tabbe av Tyskland å forby radioen? Og ikke minst: Hvilke ord falt da Adolf Hitler ble analysert av Frank Aarebrots bestemor?",
+"t": "Krig på 200 minutter (1:3)",
+"u": "https://podkast.nrk.no/fil/krig_paa_200_minutter/NRKDT61104_5729E53143BA4570B807838F2C29260D.MP3"
+},
+"l_6925c0f1-9077-456a-a5c0-f19077256a1d": {
+"d": "2015-04-17T17:32:00+02:00",
+"i": "https://gfx.nrk.no/jNt2gpEHxW2tmQgAcE-rdQIthu6cj9ULgVHWmhn33URQ",
+"n": 4718,
+"s": "Han er et yndet intervjuobjekt for journalister, en høyt elsket foreleser på Universitetet i Bergen, og den eneste statsviteren i Norge med yrkesskade. Akademisk marathon, eller sprint? Sist mente Frank det ville bli et problem å holde tiden, men han klokket inn 200 års norgeshistorie på sekundet. Nå gyver han løs igjen. Aarebrot vil bl.a. snakke om: Hvem tar våpen i hånd når den offentlige voldsmakt ikke finnes? Hvem bestemmer hvem som er forræder? Hva er grensen mellom politikk og krig? Er demokratisering en garanti mot krig? Var det en tabbe av Tyskland å forby radioen? Og ikke minst: Hvilke ord falt da Adolf Hitler ble analysert av Frank Aarebrots bestemor?",
+"t": "Krig på 200 minutter (2:3)",
+"u": "https://podkast.nrk.no/fil/krig_paa_200_minutter/NRKDT61104_32DC286A61304A6DA442A3DB02A9B92F.MP3"
+},
+"l_ad5eb418-0443-4b2c-9eb4-1804438b2cc6": {
+"d": "2015-04-17T17:34:00+02:00",
+"i": "https://gfx.nrk.no/jNt2gpEHxW2tmQgAcE-rdQIthu6cj9ULgVHWmhn33URQ",
+"n": 2748,
+"s": "Han er et yndet intervjuobjekt for journalister, en høyt elsket foreleser på Universitetet i Bergen, og den eneste statsviteren i Norge med yrkesskade. Akademisk marathon, eller sprint? Sist mente Frank det ville bli et problem å holde tiden, men han klokket inn 200 års norgeshistorie på sekundet. Nå gyver han løs igjen. Aarebrot vil bl.a. snakke om: Hvem tar våpen i hånd når den offentlige voldsmakt ikke finnes? Hvem bestemmer hvem som er forræder? Hva er grensen mellom politikk og krig? Er demokratisering en garanti mot krig? Var det en tabbe av Tyskland å forby radioen? Og ikke minst: Hvilke ord falt da Adolf Hitler ble analysert av Frank Aarebrots bestemor?",
+"t": "Krig på 200 minutter (3:3)",
+"u": "https://podkast.nrk.no/fil/krig_paa_200_minutter/NRKDT61104_457E0EAF45664251B1BA49CEAC9E25DA.MP3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "krig_paa_200_minutter",
+"image": "https://gfx.nrk.no/jNt2gpEHxW2tmQgAcE-rdQIthu6cj9ULgVHWmhn33URQ",
+"subtitle": "Studentersamfunnet i Bergen og NRK inviterer til forrykende forelesning fra Kvarteret i Bergen. Den aldri hvilende og alltid frittalende professor, kommentator, demokratiforsker og statsviter Frank Aarebrot byr på en ny historiekveld. Denne gangen er temaet krig. Dette skjer på 75-årsdagen for krigsutbruddet i Norge.",
+"title": "Krig på 200 minutter"
+},
+"v": 2
 }

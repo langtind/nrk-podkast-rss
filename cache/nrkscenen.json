@@ -1,86 +1,684 @@
 {
-"l_026ea31d-58d9-49bc-aea3-1d58d989bcf1": "https://podkast.nrk.no/fil/nrkscenen/302eca65-f9fc-4349-8399-139cc99c2c4b_0_ID192MP3.mp3",
-"l_04d6b294-7f16-4b53-96b2-947f162b537b": "https://podkast.nrk.no/fil/nrkscenen/23fd540b-34e8-4bf3-8b96-ef652933d444_0_ID192MP3.mp3",
-"l_056093d2-bf33-400b-a093-d2bf33d00b9e": "https://podkast.nrk.no/fil/nrkscenen/1aa7516f-0a91-4ed2-9077-ebc9478b7612_0_ID192MP3.mp3",
-"l_08118487-2b89-4842-9184-872b89f8421e": "https://podkast.nrk.no/fil/nrkscenen/248548f6-b4fd-4243-a676-77c229cd1032_0_ID192MP3.mp3",
-"l_0ab18810-afdf-4b1a-b188-10afdffb1a3c": "https://podkast.nrk.no/fil/nrkscenen/2f162e8f-0958-4c56-baf2-1105ae9a61ba_0_ID192MP3.mp3",
-"l_10c6533e-4c59-4fa9-8653-3e4c597fa9bd": "https://podkast.nrk.no/fil/nrkscenen/e30e177c-95f3-4a52-9d3a-3c6366a17e55_0_ID192MP3.mp3",
-"l_122925c0-5cfe-41a1-a925-c05cfe11a1ec": "https://podkast.nrk.no/fil/nrkscenen/baad258d-9b3b-4c7f-9977-afb4e4107af3_0_ID192MP3.mp3",
-"l_1a69ba02-e9bd-422c-a9ba-02e9bdf22c9c": "https://podkast.nrk.no/fil/nrkscenen/a66296b8-bfbc-4525-bc4f-90496d3c77de_0_ID192MP3.mp3",
-"l_1f89fc0e-bd50-46c2-89fc-0ebd50b6c283": "https://podkast.nrk.no/fil/nrkscenen/64ab6a4f-e5d4-4c84-a6bf-95140a485d19_0_ID192MP3.mp3",
-"l_1fa46cff-3b54-4377-a46c-ff3b5453772b": "https://podkast.nrk.no/fil/nrkscenen/fc41aa81-0709-4baf-993e-3dcd87e0d7c7_0_ID192MP3.mp3",
-"l_224323d8-d651-4a80-8323-d8d651aa807f": "https://podkast.nrk.no/fil/nrkscenen/82354c65-0183-4eb3-be0e-d529ecd6822a_0_ID192MP3.mp3",
-"l_2334a058-d189-4576-b4a0-58d189a57684": "https://podkast.nrk.no/fil/nrkscenen/1f4caf92-da97-4611-935a-233d49cc1c37_0_ID192MP3.mp3",
-"l_28cbcaca-e425-46af-8bca-cae425c6afcc": "https://podkast.nrk.no/fil/nrkscenen/08202408-67b0-44bf-a7e9-d7ff25750a2d_0_ID192MP3.mp3",
-"l_2cfcff23-292a-4536-bcff-23292a35369d": "https://podkast.nrk.no/fil/nrkscenen/47983b45-a9e0-46d0-b260-6cfa9b531870_0_ID192MP3.mp3",
-"l_2d2aa9a9-17b1-4792-aaa9-a917b127922a": "https://podkast.nrk.no/fil/nrkscenen/8c6a99b8-f528-4ba4-9318-b71beff25fad_0_ID192MP3.mp3",
-"l_2eac4093-de2c-403c-ac40-93de2c903c6d": "https://podkast.nrk.no/fil/nrkscenen/bd5daee4-3435-4a97-995e-919b1640e2e7_0_ID192MP3.mp3",
-"l_2ffa5108-dc58-4c13-ba51-08dc582c13bd": "https://podkast.nrk.no/fil/nrkscenen/1fbfde2d-e18c-44ac-aa18-3ffbbbbb2511_0_ID192MP3.mp3",
-"l_313f555d-b015-4a79-bf55-5db015ca79e7": "https://podkast.nrk.no/fil/nrkscenen/e8f8af7e-4afe-4e1f-9b25-770fac69b169_0_ID192MP3.mp3",
-"l_3493ac62-927b-469c-93ac-62927b969c42": "https://podkast.nrk.no/fil/nrkscenen/f3fac468-d11e-4152-913a-58e8a0106fd4_0_ID192MP3.mp3",
-"l_36c01639-7b5a-43ab-8016-397b5ac3abf7": "https://podkast.nrk.no/fil/nrkscenen/1e54a6b3-2470-4a24-82e7-3e9c3257ea36_0_ID192MP3.mp3",
-"l_3b2b84bd-2f7e-495f-ab84-bd2f7ea95f1f": "https://podkast.nrk.no/fil/nrkscenen/49e37c5f-2143-4f09-8385-2e689add929a_0_ID192MP3.mp3",
-"l_477b532a-5676-487e-bb53-2a5676187e1a": "https://podkast.nrk.no/fil/nrkscenen/c7954a72-1bb7-4ef5-bc03-d92a4a78e88a_0_ID192MP3.mp3",
-"l_48a59c21-84a8-44f9-a59c-2184a8d4f91f": "https://podkast.nrk.no/fil/nrkscenen/fdc3ace4-b86e-4453-8897-c354ac053c8f_0_ID192MP3.mp3",
-"l_49bf37d1-a56c-4ad2-bf37-d1a56cdad276": "https://podkast.nrk.no/fil/nrkscenen/a3f6aace-0274-4951-aa8d-dc7aa1ad49aa_0_ID192MP3.mp3",
-"l_4d914f60-ff57-4a45-914f-60ff57fa456a": "https://podkast.nrk.no/fil/nrkscenen/a085ad00-5fca-4a6d-bf33-b8b3b5855bb4_0_ID192MP3.mp3",
-"l_549a2f93-ed44-4070-9a2f-93ed44b070be": "https://podkast.nrk.no/fil/nrkscenen/097d6d90-c4b8-4290-b079-22c277d505f7_0_ID192MP3.mp3",
-"l_586d1897-2cde-4717-ad18-972cde97170c": "https://podkast.nrk.no/fil/nrkscenen/7194fcfc-1156-40ac-b3e9-2481ef1fe2c8_0_ID192MP3.mp3",
-"l_5bdf6b33-6b5a-4749-9f6b-336b5ab74931": "https://podkast.nrk.no/fil/nrkscenen/6cf1d9d6-a45c-4f5a-8f12-b109831659c9_0_ID192MP3.mp3",
-"l_5e594a73-9655-4c7e-994a-7396551c7e60": "https://podkast.nrk.no/fil/nrkscenen/6c247dd0-676b-438c-9aae-7f890aa7dbe6_0_ID192MP3.mp3",
-"l_5eda3f7c-ce36-4866-9a3f-7cce36d86609": "https://podkast.nrk.no/fil/nrkscenen/e2bcddc6-c706-4e9f-b493-089ed0e00562_0_ID192MP3.mp3",
-"l_622d170f-8a3b-4916-ad17-0f8a3bc916f5": "https://podkast.nrk.no/fil/nrkscenen/3a8cff81-7250-46ac-9277-5a536c1e7572_0_ID192MP3.mp3",
-"l_6b8dd1b9-358f-4208-8dd1-b9358fa20876": "https://podkast.nrk.no/fil/nrkscenen/0f43dfa7-e841-407c-977e-e3c25e008758_0_ID192MP3.mp3",
-"l_6d4e4744-25c0-4e90-8e47-4425c05e90dd": "https://podkast.nrk.no/fil/nrkscenen/2657958c-36eb-4a08-9707-93998676fcfc_0_ID192MP3.mp3",
-"l_6d826fed-5d6e-40bb-826f-ed5d6e90bbfb": "https://podkast.nrk.no/fil/nrkscenen/b0c0b6e7-7fb0-4434-8d0c-b7ee314d8bab_0_ID192MP3.mp3",
-"l_70996fc1-b037-4919-996f-c1b037091952": "https://podkast.nrk.no/fil/nrkscenen/9b0cb73c-b32b-4e63-8faf-a5321a07a12f_0_ID192MP3.mp3",
-"l_79e50a00-8627-4eef-a50a-008627beefc3": "https://podkast.nrk.no/fil/nrkscenen/cff92699-dd2d-4b8e-843f-578e1a506ca1_0_ID192MP3.mp3",
-"l_7c40b2a8-7958-4f5d-80b2-a879587f5d97": "https://podkast.nrk.no/fil/nrkscenen/adf33b56-00f3-443c-985b-52fdcf883ad4_0_ID192MP3.mp3",
-"l_83698152-cabf-409a-a981-52cabf809a5a": "https://podkast.nrk.no/fil/nrkscenen/6f62059a-dde2-47b5-801c-4143072c202b_0_ID192MP3.mp3",
-"l_89d0db19-6639-4b3e-90db-196639ab3ef5": "https://podkast.nrk.no/fil/nrkscenen/c5976a15-7cde-43d8-a99c-7c479cd365ab_0_ID192MP3.mp3",
-"l_8c5895a2-2bd3-43a4-9895-a22bd3f3a433": "https://podkast.nrk.no/fil/nrkscenen/1f868cdc-40d6-465a-9bd0-f810ac49e3fd_0_ID192MP3.mp3",
-"l_8dda21e8-4c39-4362-9a21-e84c39f36240": "https://podkast.nrk.no/fil/nrkscenen/535d2406-7f05-4093-ba82-c38739f7cea2_0_ID192MP3.mp3",
-"l_9d0a62a7-26a6-4bec-8a62-a726a65bec2e": "https://podkast.nrk.no/fil/nrkscenen/17ccbf64-2eee-42ce-a2c0-9c1717a09c43_0_ID192MP3.mp3",
-"l_9defce64-2853-48f5-afce-642853c8f5c7": "https://podkast.nrk.no/fil/nrkscenen/ab808770-d818-4e5f-b029-6862cadb3327_0_ID192MP3.mp3",
-"l_9fa9daf2-2d6e-437e-a9da-f22d6e037eb0": "https://podkast.nrk.no/fil/nrkscenen/f352f275-ab31-45ed-a91d-e66a81d0d747_0_ID192MP3.mp3",
-"l_a00bea41-6b35-4a64-8bea-416b35ca645b": "https://podkast.nrk.no/fil/nrkscenen/9c797a6f-f575-48af-adc5-d8759cb62f9a_0_ID192MP3.mp3",
-"l_a5aa5ad9-ec30-4b47-aa5a-d9ec304b4788": "https://podkast.nrk.no/fil/nrkscenen/5ff8a9a0-103c-497f-84e1-99ca87852e4e_0_ID192MP3.mp3",
-"l_abb39a1d-dcae-43b8-b39a-1ddcae13b845": "https://podkast.nrk.no/fil/nrkscenen/47c69f3b-6d00-47b6-a130-3663963de675_0_ID192MP3.mp3",
-"l_ac00c30d-b000-42e8-80c3-0db000b2e82e": "https://podkast.nrk.no/fil/nrkscenen/5c64e933-04dd-44d6-b1bf-b6e69ce994fa_0_ID192MP3.mp3",
-"l_ae1b83e8-08df-4fb4-9b83-e808df3fb4ed": "https://podkast.nrk.no/fil/nrkscenen/91c5c166-96e5-49ec-8da9-75c1fd9ede5c_0_ID192MP3.mp3",
-"l_b13899dd-f23d-4198-b899-ddf23da198a5": "https://podkast.nrk.no/fil/nrkscenen/a2b1c71b-c51d-497c-b256-37ceca675789_0_ID192MP3.mp3",
-"l_b156f7db-639a-4796-96f7-db639a07968b": "https://podkast.nrk.no/fil/nrkscenen/9511f657-25b1-485a-8e61-5c4055719f43_0_ID192MP3.mp3",
-"l_b2794c35-47d0-4acf-b94c-3547d09acf54": "https://podkast.nrk.no/fil/nrkscenen/30ac085c-466e-426c-bd6e-587f1bdd6333_0_ID192MP3.mp3",
-"l_b30c4164-b57c-4065-8c41-64b57ce06543": "https://podkast.nrk.no/fil/nrkscenen/55183691-7299-4b92-96e8-a9834bf8b982_0_ID192MP3.mp3",
-"l_b51dd637-7262-478e-9dd6-377262278ea5": "https://podkast.nrk.no/fil/nrkscenen/9cba910d-71e2-4373-8073-380830962b9c_0_ID192MP3.mp3",
-"l_b7b069b8-8c9f-43a9-b069-b88c9fd3a96f": "https://podkast.nrk.no/fil/nrkscenen/73627e35-a09a-4c83-94ec-e76729fc66bb_0_ID192MP3.mp3",
-"l_badc50b3-517d-466e-9c50-b3517df66e1e": "https://podkast.nrk.no/fil/nrkscenen/01a38586-8b1d-4e78-ab77-e83a41f68c27_0_ID192MP3.mp3",
-"l_baf86233-b241-4e3c-b862-33b2413e3ccc": "https://podkast.nrk.no/fil/nrkscenen/e5b8c158-4dc0-4801-b36c-38a9c3af15af_0_ID192MP3.mp3",
-"l_c0b66e96-7c02-4103-b66e-967c02410301": "https://podkast.nrk.no/fil/nrkscenen/12b28dd2-8c6b-4b29-ad46-7ac18283c79b_0_ID192MP3.mp3",
-"l_c2af13df-3ef7-4a93-af13-df3ef75a933b": "https://podkast.nrk.no/fil/nrkscenen/971e11ad-8073-456e-a7e4-a41950b7733c_0_ID192MP3.mp3",
-"l_c4b4fe44-cc0b-44e5-b4fe-44cc0bd4e50d": "https://podkast.nrk.no/fil/nrkscenen/c60fd19e-959b-43a2-aaa9-e569863ec2cc_0_ID192MP3.mp3",
-"l_c6a787cc-01c2-4412-a787-cc01c2f41268": "https://podkast.nrk.no/fil/nrkscenen/c77c33a4-3ccf-4cbc-ad43-fd82fb5500c0_0_ID192MP3.mp3",
-"l_c7086cf1-1163-4c88-886c-f111635c8810": "https://podkast.nrk.no/fil/nrkscenen/57f94e43-746b-41e2-86e4-2dc35f70d4c6_0_ID192MP3.mp3",
-"l_c9dc5d3f-6a95-4a09-9c5d-3f6a955a093a": "https://podkast.nrk.no/fil/nrkscenen/3506184a-7074-4b15-bbd0-2658e66e2ec8_0_ID192MP3.mp3",
-"l_cbb9ba76-2fed-472f-b9ba-762fed772f52": "https://podkast.nrk.no/fil/nrkscenen/a82b4cce-0d74-40bb-908c-e04d2ad5455f_0_ID192MP3.mp3",
-"l_ce181e6a-c845-4a62-981e-6ac845ca6245": "https://podkast.nrk.no/fil/nrkscenen/d9ec52a1-4034-407a-a046-a36a3e68468e_0_ID192MP3.mp3",
-"l_cfe940b2-1ce5-4a13-a940-b21ce5aa13d0": "https://podkast.nrk.no/fil/nrkscenen/23f58ddf-bb21-4f0a-b838-62faf29c12b2_0_ID192MP3.mp3",
-"l_d2c56dd0-f477-460b-856d-d0f477260b7d": "https://podkast.nrk.no/fil/nrkscenen/56d88d1a-0903-47ab-ad48-1900a3435957_0_ID192MP3.mp3",
-"l_d2d0f127-cf0d-422c-90f1-27cf0d922c6b": "https://podkast.nrk.no/fil/nrkscenen/31b89fda-8cdf-4a5e-bdd7-3bdab1227a87_0_ID192MP3.mp3",
-"l_d4733a68-b062-4d5f-b33a-68b062ed5f5d": "https://podkast.nrk.no/fil/nrkscenen/56daf398-cbc4-43cd-8112-6a04638b4d1d_0_ID192MP3.mp3",
-"l_d77476e6-1513-479b-b476-e61513f79b17": "https://podkast.nrk.no/fil/nrkscenen/10c3486e-0148-4d69-b98e-a15bf9c05f13_0_ID192MP3.mp3",
-"l_ddbb9ffc-fc23-4802-bb9f-fcfc232802aa": "https://podkast.nrk.no/fil/nrkscenen/6c694b4a-3a0a-4274-baca-4d78519e5e04_0_ID192MP3.mp3",
-"l_e1b1a8a6-0e8e-43c3-b1a8-a60e8ed3c35d": "https://podkast.nrk.no/fil/nrkscenen/505fc319-52be-4dae-b95d-51ac260cb285_0_ID192MP3.mp3",
-"l_e20ec5c1-66c7-4c82-8ec5-c166c73c8263": "https://podkast.nrk.no/fil/nrkscenen/456803c5-3e1a-44c0-aa1a-70740606cb4e_0_ID192MP3.mp3",
-"l_e24d907a-f83c-40c4-8d90-7af83c20c42c": "https://podkast.nrk.no/fil/nrkscenen/08b1cce6-f03f-40c1-b549-33b411ae1058_0_ID192MP3.mp3",
-"l_e4dc0faf-d1bc-4525-9c0f-afd1bc1525a9": "https://podkast.nrk.no/fil/nrkscenen/a961320d-bc2e-4d00-960b-ba01596d5200_0_ID192MP3.mp3",
-"l_e550e5cf-7cb0-43e5-90e5-cf7cb0a3e5d0": "https://podkast.nrk.no/fil/nrkscenen/2b196d40-fce9-4ad4-8e4d-28e5915262a9_0_ID192MP3.mp3",
-"l_efc22645-5745-4c9b-8226-455745dc9bab": "https://podkast.nrk.no/fil/nrkscenen/a3fda193-7559-435b-bbdf-f080ab21a938_0_ID192MP3.mp3",
-"l_f3d4bbae-8829-4a85-94bb-ae8829fa856c": "https://podkast.nrk.no/fil/nrkscenen/62c2cd34-4149-4f6a-91bb-f4c7cf558ab0_0_ID192MP3.mp3",
-"l_f5f82414-3572-4999-b824-1435723999a0": "https://podkast.nrk.no/fil/nrkscenen/51138482-0338-4afb-8409-dc6fcc086798_0_ID192MP3.mp3",
-"l_f83ed460-37c5-4409-bed4-6037c56409e8": "https://podkast.nrk.no/fil/nrkscenen/fbbbadeb-768d-436d-8681-be4bc241845b_0_ID192MP3.mp3",
-"l_f889469a-f5c0-46c3-8946-9af5c026c340": "https://podkast.nrk.no/fil/nrkscenen/ea07edb9-49e6-45f1-939f-77545f4cab8c_0_ID192MP3.mp3",
-"l_fd5223ba-3393-4a01-9223-ba33936a0135": "https://podkast.nrk.no/fil/nrkscenen/fedfc0de-02a7-41af-b6f0-b7e2382e3094_0_ID192MP3.mp3",
-"l_ff5308bd-49d3-4551-9308-bd49d33551fa": "https://podkast.nrk.no/fil/nrkscenen/f62046fb-2245-460f-8d96-7ac8f7e2ea11_0_ID192MP3.mp3",
-"l_ff8f6b42-6b08-4caa-8f6b-426b08dcaa10": "https://podkast.nrk.no/fil/nrkscenen/25c3d683-bd26-4119-bd7c-e6139ae98c31_0_ID192MP3.mp3"
+"episodes": {
+"l_026ea31d-58d9-49bc-aea3-1d58d989bcf1": {
+"d": "2024-05-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/FrflmAumguMNe7Zf8NK2Tw_btolDE4_oKVkaJ8aJVaVA",
+"n": 817,
+"s": "Mjøsfunk-bandet Fieh fra Oppland, med tre albumutgivelser, internasjonal turnévirksomhet og flere nominasjoner til Spellemann, feirer 10 år sammen.",
+"t": "Fieh",
+"u": "https://podkast.nrk.no/fil/nrkscenen/302eca65-f9fc-4349-8399-139cc99c2c4b_0_ID192MP3.mp3"
+},
+"l_04d6b294-7f16-4b53-96b2-947f162b537b": {
+"d": "2023-03-03T06:17:00+01:00",
+"i": "https://gfx.nrk.no/hWqWdpXmw9t-UBaIUK7KRQhqZrxntH5qG68s_DoVDLfQ",
+"n": 896,
+"s": "Han er tømmerbilsjåfør og hardingfelespellemann, og tar oss med til Granvin i Hardanger der hviletid blir brukt som spilletid.",
+"t": "Alexander Aga Røynstrand",
+"u": "https://podkast.nrk.no/fil/nrkscenen/23fd540b-34e8-4bf3-8b96-ef652933d444_0_ID192MP3.mp3"
+},
+"l_056093d2-bf33-400b-a093-d2bf33d00b9e": {
+"d": "2023-04-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/bffN6YrjoFQmY1kChg3bCAQRSBAUPqfvNoL-KKcTQNUA",
+"n": 1034,
+"s": "Duoen Ratkje/Westerhus mener Det Gamle Steinhuset på Gran er perfekt for radikale Shakespeare-tekster og støvete instrumenter.",
+"t": "Maja S.K. Ratkje og Stian Westerhus",
+"u": "https://podkast.nrk.no/fil/nrkscenen/1aa7516f-0a91-4ed2-9077-ebc9478b7612_0_ID192MP3.mp3"
+},
+"l_08118487-2b89-4842-9184-872b89f8421e": {
+"d": "2023-03-03T06:01:00+01:00",
+"i": "https://gfx.nrk.no/IeSGkvJo2uMMuISiv_63oALyZIn3BerZljDkjyIIXlZg",
+"n": 1051,
+"s": "Odd gjør en minikonsert på Kampen Bistro for å hylle Erik som booka ham første gang i Oslo, som nettopp Odd Nordstoga. Et viktig skritt i karrieren.",
+"t": "Odd Nordstoga ",
+"u": "https://podkast.nrk.no/fil/nrkscenen/248548f6-b4fd-4243-a676-77c229cd1032_0_ID192MP3.mp3"
+},
+"l_0ab18810-afdf-4b1a-b188-10afdffb1a3c": {
+"d": "2023-03-03T06:05:00+01:00",
+"i": "https://gfx.nrk.no/4gHiDqdZGWI4dXYznQX_uA430JZG0mJtuQpn7Yl9DY1A",
+"n": 882,
+"s": "Isah vokste opp i Stavanger, men nå både bor og jobber han på St. Hanshaugen i Oslo. Bli med til den særegne vakre parken over Oslo sentrum.",
+"t": "Isah",
+"u": "https://podkast.nrk.no/fil/nrkscenen/2f162e8f-0958-4c56-baf2-1105ae9a61ba_0_ID192MP3.mp3"
+},
+"l_10c6533e-4c59-4fa9-8653-3e4c597fa9bd": {
+"d": "2023-05-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/d2tWtFYTbU-47itNgkUHxQibdrS6-_rNcEKTLQahDAmg",
+"n": 930,
+"s": "Det blir hard improvisert rock i vakre omgivelser når Spellemannvinneren, Kanaan, fra 2021 inntar det nedlagte Museet for samtidskunst i Oslo.",
+"t": "Kanaan",
+"u": "https://podkast.nrk.no/fil/nrkscenen/e30e177c-95f3-4a52-9d3a-3c6366a17e55_0_ID192MP3.mp3"
+},
+"l_122925c0-5cfe-41a1-a925-c05cfe11a1ec": {
+"d": "2023-03-03T06:02:00+01:00",
+"i": "https://gfx.nrk.no/7EMNuHKf8IU0rosiprDsOAIGeNmwPxoBZC9poKIiXGIg",
+"n": 790,
+"s": "Etter skilsmissen hadde ikke faren råd til ny leilighet, så fra Jonathan var 11, bodde han på farens snekkerverksted. Det var der han fant musikken.",
+"t": "Jonathan Floyd",
+"u": "https://podkast.nrk.no/fil/nrkscenen/baad258d-9b3b-4c7f-9977-afb4e4107af3_0_ID192MP3.mp3"
+},
+"l_1a69ba02-e9bd-422c-a9ba-02e9bdf22c9c": {
+"d": "2025-01-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/fSLtfEdoJ1tmiWikeeoHKwdgeDa3cU45u3jnlmlNe5eA",
+"n": 725,
+"s": "Bergensduoen Goofy Geese blander indie-pop og bossa nova i musikken sin, og spiller en ny, norsk cover av en 60-tallshit.",
+"t": "Goofy Geese",
+"u": "https://podkast.nrk.no/fil/nrkscenen/a66296b8-bfbc-4525-bc4f-90496d3c77de_0_ID192MP3.mp3"
+},
+"l_1f89fc0e-bd50-46c2-89fc-0ebd50b6c283": {
+"d": "2023-03-03T06:08:00+01:00",
+"i": "https://gfx.nrk.no/fixN3oGBkCilIFL2Hm7yXA2G20l_9yNpG8ZwHrql6dNw",
+"n": 1073,
+"s": "Tim Scott McConnell skulle spille inn album på gården til Ronni Le Tekrø på Raufoss. Han ble boende i fire år. Nå er han tilbake.",
+"t": "Ledfoot",
+"u": "https://podkast.nrk.no/fil/nrkscenen/64ab6a4f-e5d4-4c84-a6bf-95140a485d19_0_ID192MP3.mp3"
+},
+"l_1fa46cff-3b54-4377-a46c-ff3b5453772b": {
+"d": "2024-05-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/H9X4tXTQnv_8GyrFxVGOqgMrJTcGCWZtSQS5j6w-o-Jg",
+"n": 791,
+"s": "Michelle Ullestad skriver fengende og brutalt ærlige poplåter om livet. Her får du historien om det stormfulle forholdet mellom henne og kjæresten.",
+"t": "Michelle Ullestad",
+"u": "https://podkast.nrk.no/fil/nrkscenen/fc41aa81-0709-4baf-993e-3dcd87e0d7c7_0_ID192MP3.mp3"
+},
+"l_224323d8-d651-4a80-8323-d8d651aa807f": {
+"d": "2023-03-03T06:16:00+01:00",
+"i": "https://gfx.nrk.no/dGnVYJMwMFs7zxwcWOrWnQsfpDtF5Np8sWMd1yzlLeAw",
+"n": 1041,
+"s": "Gundelach er nominert til Spellemann tre ganger. Bli med til gutterommet på Slependen i Bærum der han laget sin første musikk.",
+"t": "Gundelach",
+"u": "https://podkast.nrk.no/fil/nrkscenen/82354c65-0183-4eb3-be0e-d529ecd6822a_0_ID192MP3.mp3"
+},
+"l_2334a058-d189-4576-b4a0-58d189a57684": {
+"d": "2024-11-11T06:06:00+01:00",
+"i": "https://gfx.nrk.no/9rjsFTNIn1yfAL6DbihDegG5qsxcnpTDN5-0DFze6Cwg",
+"n": 1100,
+"s": "Veslemøy Narvesen er trommisen «alle» norske artister vil jobbe med. Her er hun med sitt eget superband, som elegant kombinerer jazz og pop.",
+"t": "Veslemøy Narvesen",
+"u": "https://podkast.nrk.no/fil/nrkscenen/1f4caf92-da97-4611-935a-233d49cc1c37_0_ID192MP3.mp3"
+},
+"l_28cbcaca-e425-46af-8bca-cae425c6afcc": {
+"d": "2023-11-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/P7JFuQqcg_yJnTo8QgPjWQ3GzKuVwOrfK8pnBxehkreQ",
+"n": 790,
+"s": "Det unge trekløveret i han gaiden, tilhørende Oslos elektronikaundergrunn, byr på vokalharmonier, dansbare beats, improvisasjon og drømmende saksofon.",
+"t": " han gaiden",
+"u": "https://podkast.nrk.no/fil/nrkscenen/08202408-67b0-44bf-a7e9-d7ff25750a2d_0_ID192MP3.mp3"
+},
+"l_2cfcff23-292a-4536-bcff-23292a35369d": {
+"d": "2023-03-03T06:06:00+01:00",
+"i": "https://gfx.nrk.no/aeMO87W6-_GiSgVRnkz9hQucGET8sylMZP8XjL6nw4CQ",
+"n": 911,
+"s": "Hun er en stjerne i norsk jazz. Bli med Ellen Andrea Wang og bandet til hennes gamle øvingslokale; konfirmantsalen på Vålerenga.",
+"t": "Ellen Andrea Wang ",
+"u": "https://podkast.nrk.no/fil/nrkscenen/47983b45-a9e0-46d0-b260-6cfa9b531870_0_ID192MP3.mp3"
+},
+"l_2d2aa9a9-17b1-4792-aaa9-a917b127922a": {
+"d": "2023-03-03T06:11:00+01:00",
+"i": "https://gfx.nrk.no/zWdfmU8KIlBi8CDbWV8y1wuTWJRvw3A4zt7PZQal6qXw",
+"n": 903,
+"s": "Som barn lærte Ella Marie at man ikke skulle joike i kirken. Nå får hun endelig muligheten i Haslum Kirke.",
+"t": "ISÁK",
+"u": "https://podkast.nrk.no/fil/nrkscenen/8c6a99b8-f528-4ba4-9318-b71beff25fad_0_ID192MP3.mp3"
+},
+"l_2eac4093-de2c-403c-ac40-93de2c903c6d": {
+"d": "2024-05-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/JgXpzn2wGqy4-HLk8fT5OAMs9AaHINDFiE2cxI8NimBQ",
+"n": 757,
+"s": "Slottet åpner dørene og inviterer popstjernene Arif og Gabrielle, og cellisten Amalie Stalheim.",
+"t": "17. mai på Slottet",
+"u": "https://podkast.nrk.no/fil/nrkscenen/bd5daee4-3435-4a97-995e-919b1640e2e7_0_ID192MP3.mp3"
+},
+"l_2ffa5108-dc58-4c13-ba51-08dc582c13bd": {
+"d": "2025-02-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/0dVUvDiFhqlU9RW_LecWogWBAl7ocTwMuJGHAH-MCiwg",
+"n": 954,
+"s": "Lávre, Hildá Länsman og Tuomas Norvio på Juhls Sølvsmie i Kautokeino. De blander joik med elektronisk musikk og gir deg lyst til å danse, le og gråte.",
+"t": "Lávre, Hildá Länsman og Tuomas Norvio",
+"u": "https://podkast.nrk.no/fil/nrkscenen/1fbfde2d-e18c-44ac-aa18-3ffbbbbb2511_0_ID192MP3.mp3"
+},
+"l_313f555d-b015-4a79-bf55-5db015ca79e7": {
+"d": "2024-11-11T06:00:00+01:00",
+"i": "https://gfx.nrk.no/TkNKlzldnF1I64LuSs8fWgXyr1j2qQCifgRp5cpLGgLg",
+"n": 660,
+"s": "I NRK-serien Her lukter det fesk tar Bilal Saab med seg artister på fisketur og en duett. Her er smakebiter med Ida Maria, Kurt Nilsen og Agnete Saba.",
+"t": "Musikk fra «Her lukter det fesk»",
+"u": "https://podkast.nrk.no/fil/nrkscenen/e8f8af7e-4afe-4e1f-9b25-770fac69b169_0_ID192MP3.mp3"
+},
+"l_3493ac62-927b-469c-93ac-62927b969c42": {
+"d": "2023-03-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/SbxtWEVA_3UVYmxFbH-e3QaUzUinSQcIcxWVrHb7727A",
+"n": 1061,
+"s": "Musikk og kunst er to sider av samme sak for Spellemann-nominerte Charlotte Dos Santos. Derfor inviterer hun til konsert på Henie Onstad Kunstsenter.",
+"t": "Charlotte Dos Santos",
+"u": "https://podkast.nrk.no/fil/nrkscenen/f3fac468-d11e-4152-913a-58e8a0106fd4_0_ID192MP3.mp3"
+},
+"l_36c01639-7b5a-43ab-8016-397b5ac3abf7": {
+"d": "2024-02-09T06:00:00+01:00",
+"i": "https://gfx.nrk.no/fYLbyXLzyrGiWxeYMNCeTgu2PawesJLIffXXM_1tlWWg",
+"n": 907,
+"s": "RnB/soul-artisten Beharie tar oss med inn i leiligheten sin på Bislett, der han også er vaktmester i bygården. \nHer skriver han mange av låtene sine. ",
+"t": "Beharie",
+"u": "https://podkast.nrk.no/fil/nrkscenen/1e54a6b3-2470-4a24-82e7-3e9c3257ea36_0_ID192MP3.mp3"
+},
+"l_3b2b84bd-2f7e-495f-ab84-bd2f7ea95f1f": {
+"d": "2024-04-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/EaImcrPooYkaq4L7s4rBugrrAeQCkLy6sK9gBN3oz2-A",
+"n": 1270,
+"s": "Bli med på fest i kollektivet til Gabba! Her blandes joik, americana og afrikanske rytmer til en helt egen viddeblues.",
+"t": "Gabba",
+"u": "https://podkast.nrk.no/fil/nrkscenen/49e37c5f-2143-4f09-8385-2e689add929a_0_ID192MP3.mp3"
+},
+"l_477b532a-5676-487e-bb53-2a5676187e1a": {
+"d": "2023-03-03T06:15:00+01:00",
+"i": "https://gfx.nrk.no/W-u2twDOHFUdqtCNa_kBNg2z41jUrg9PA9DXM5pvTDXg",
+"n": 997,
+"s": "The Northern Belle fikk i 2017 bruke Konserthusets Lille Sal til å spille inn plate. Her er en intimkonsert fra samme rom.",
+"t": "The Northern Belle",
+"u": "https://podkast.nrk.no/fil/nrkscenen/c7954a72-1bb7-4ef5-bc03-d92a4a78e88a_0_ID192MP3.mp3"
+},
+"l_48a59c21-84a8-44f9-a59c-2184a8d4f91f": {
+"d": "2024-03-05T10:15:00+01:00",
+"i": "https://gfx.nrk.no/EQGSrN6masN-u5XFnLgYQgk07hljeyODZsmvrdQyFUSQ",
+"n": 1118,
+"s": "Som frustrert elev på musikklinja på Foss VGS, drømte Bertine Zetlitz om å spille med Bugge Wesseltoft. 30 år senere har drømmen blitt virkelighet.",
+"t": "Bertine Zetlitz & Bugge Wesseltoft",
+"u": "https://podkast.nrk.no/fil/nrkscenen/fdc3ace4-b86e-4453-8897-c354ac053c8f_0_ID192MP3.mp3"
+},
+"l_49bf37d1-a56c-4ad2-bf37-d1a56cdad276": {
+"d": "2024-11-11T06:07:00+01:00",
+"i": "https://gfx.nrk.no/ga_IhPkimXh4IdIKi0Iu6ARIwP1rGBN4rfcitgOgD42Q",
+"n": 794,
+"s": "Bli med tilbake til fremtiden og ut i verdensrommet med disko-kometen Nora Schjelderup, alias Ora The Molecule.",
+"t": "Ora The Molecule",
+"u": "https://podkast.nrk.no/fil/nrkscenen/a3f6aace-0274-4951-aa8d-dc7aa1ad49aa_0_ID192MP3.mp3"
+},
+"l_4d914f60-ff57-4a45-914f-60ff57fa456a": {
+"d": "2024-01-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/iJc6-pQMRr-8m7e4EIk3Iw3FhXC26wlGkJZXZXNsNm4A",
+"n": 907,
+"s": "Endelig får Mall Girl spille på et kjøpesenter! Det blir en fargesprakende popeksplosjon, og en feiring av 90-tallets kjøpesenterestetikk.",
+"t": "Mall Girl",
+"u": "https://podkast.nrk.no/fil/nrkscenen/a085ad00-5fca-4a6d-bf33-b8b3b5855bb4_0_ID192MP3.mp3"
+},
+"l_549a2f93-ed44-4070-9a2f-93ed44b070be": {
+"d": "2024-11-11T06:03:00+01:00",
+"i": "https://gfx.nrk.no/TH_UgYhOrnZtl1a2VHzZ8wjeuhlx9EP20PNHQIOVQ_6Q",
+"n": 831,
+"s": "For Chris Abolade har kunstnerkollektivet på Fornebu vært et hjem. - Første jeg tenker på når jeg står opp er at jeg vil hit. Også vil jeg ikke hjem.",
+"t": "Chris Abolade",
+"u": "https://podkast.nrk.no/fil/nrkscenen/097d6d90-c4b8-4290-b079-22c277d505f7_0_ID192MP3.mp3"
+},
+"l_586d1897-2cde-4717-ad18-972cde97170c": {
+"d": "2023-03-03T06:18:00+01:00",
+"i": "https://gfx.nrk.no/YDgglmDhZ-EutORwNRKKGAY_1GdjsX77tQ-RTZCfU0dQ",
+"n": 916,
+"s": "Lars fikk øvingsrom på Bergen Kjøtt da det ble omgjort til et kunst- og musikkhus i 2010. Han tar med seg gode venner hit til en intim hiphopkonsert.",
+"t": "Lars Vaular",
+"u": "https://podkast.nrk.no/fil/nrkscenen/7194fcfc-1156-40ac-b3e9-2481ef1fe2c8_0_ID192MP3.mp3"
+},
+"l_5bdf6b33-6b5a-4749-9f6b-336b5ab74931": {
+"d": "2024-11-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/NjkQDg3G3ID2saYracpTdArHDk8BzmCGqQWUcQqBww1g",
+"n": 410,
+"s": "Rapperen Tyr har hatt et stort år som kan krones med prisen \"Årets artist\" under P3 Gull. Her er han live sammen med Stig Brenner på Ellingsrudåsen.",
+"t": "P3 Gull 2024 – Tyr med Stig Brenner",
+"u": "https://podkast.nrk.no/fil/nrkscenen/6cf1d9d6-a45c-4f5a-8f12-b109831659c9_0_ID192MP3.mp3"
+},
+"l_5e594a73-9655-4c7e-994a-7396551c7e60": {
+"d": "2023-10-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/7zIcw4S1xntJevKLvn-LcADEhqsF6J-a6eMiZHsOXkHQ",
+"n": 836,
+"s": "Spinnvill humor og hjerteskjærende ærlighet er stikkord for Beist. I hjembygda Fannrem byr de på hits både i snekkerbua og i garasjen.",
+"t": "Beist ",
+"u": "https://podkast.nrk.no/fil/nrkscenen/6c247dd0-676b-438c-9aae-7f890aa7dbe6_0_ID192MP3.mp3"
+},
+"l_5eda3f7c-ce36-4866-9a3f-7cce36d86609": {
+"d": "2024-01-12T06:00:00+01:00",
+"i": "https://gfx.nrk.no/ddFXMQftYxHLaFx_dhPZhA2WCKWADeNoEgQw_1JKMd7g",
+"n": 915,
+"s": "Et trekantdrama mellom ei jente, en baron og en zombie er ingrediensene i en av slåttene Sudan Dudan spiller på Oslo Maskinistforening i Vika i Oslo.",
+"t": "Sudan Dudan",
+"u": "https://podkast.nrk.no/fil/nrkscenen/e2bcddc6-c706-4e9f-b493-089ed0e00562_0_ID192MP3.mp3"
+},
+"l_622d170f-8a3b-4916-ad17-0f8a3bc916f5": {
+"d": "2023-09-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/fj_lPNNGERMUgZRslbqNig2eRPBYU2jeEiNocrMReS7w",
+"n": 751,
+"s": "Opplev årets tre Urørtfinalister samlet for aller første gang. Han Herman, Hillari og the Milky Way.",
+"t": "Urørtfinalister 2023",
+"u": "https://podkast.nrk.no/fil/nrkscenen/3a8cff81-7250-46ac-9277-5a536c1e7572_0_ID192MP3.mp3"
+},
+"l_6b8dd1b9-358f-4208-8dd1-b9358fa20876": {
+"d": "2024-11-29T06:00:00+01:00",
+"i": "https://gfx.nrk.no/1cWGqN98uuXwrQeaF05phgjqFjpfEPLKW5TMVedZ3eWg",
+"n": 242,
+"s": "En feiring av musikken. En låt, ett band, fem artister. Gåsehud!",
+"t": "P3 Gull 2024 – Fay Wildhagen, Chris Holsten, HILLARI, Ruben, Anna Lille",
+"u": "https://podkast.nrk.no/fil/nrkscenen/0f43dfa7-e841-407c-977e-e3c25e008758_0_ID192MP3.mp3"
+},
+"l_6d4e4744-25c0-4e90-8e47-4425c05e90dd": {
+"d": "2023-06-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VeLq6sIL_V96cs-kxqSegwS-bxSc7uRXf3hj00XmADnQ",
+"n": 1036,
+"s": "Metteson slipper sin helt nye låt, \"Naturally\", her i NRK-scenen. Stjerneskuddet byr også på unike versjoner av gamle hit'er, som \"Never Let Me Go\".",
+"t": "Metteson",
+"u": "https://podkast.nrk.no/fil/nrkscenen/2657958c-36eb-4a08-9707-93998676fcfc_0_ID192MP3.mp3"
+},
+"l_6d826fed-5d6e-40bb-826f-ed5d6e90bbfb": {
+"d": "2023-12-23T06:00:00+01:00",
+"i": "https://gfx.nrk.no/J-yYD4RLwlXSWIngIgnNvgVoyeDtRrYh5A2Rv-m7PPpA",
+"n": 636,
+"s": "Sivert Høyem, SKAAR og Fay Wildhagen serverer juleklassikere, og Inge Bremnes m/band spiller Snøfall-hiten \"Mot lys\" i ny drakt.",
+"t": "Jul 2023",
+"u": "https://podkast.nrk.no/fil/nrkscenen/b0c0b6e7-7fb0-4434-8d0c-b7ee314d8bab_0_ID192MP3.mp3"
+},
+"l_70996fc1-b037-4919-996f-c1b037091952": {
+"d": "2023-06-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/MO8CGxhV9YS7UiXCSSZCvg1t2Fjr_c516FlJNObaEzpw",
+"n": 1034,
+"s": "Full fart, dans og humor er oppskriften for Matata, som består av kenyanere som tilfeldigvis møttes i Oslo. Bli kjent med kenyansk gengeton.",
+"t": "Matata",
+"u": "https://podkast.nrk.no/fil/nrkscenen/9b0cb73c-b32b-4e63-8faf-a5321a07a12f_0_ID192MP3.mp3"
+},
+"l_79e50a00-8627-4eef-a50a-008627beefc3": {
+"d": "2024-11-11T06:02:00+01:00",
+"i": "https://gfx.nrk.no/2a-qI3vIONmES4rDXyTu5gYE26NNz8kblGNc4_sSdLAg",
+"n": 776,
+"s": "Jazz-stjerneskuddet Liv Andrea Hauge har Keith Jarrett som sitt store forbilde. Hun besøker stedet hvor Jarrett spilte sin første Norges-konsert.",
+"t": "Liv Andrea Hauge Trio",
+"u": "https://podkast.nrk.no/fil/nrkscenen/cff92699-dd2d-4b8e-843f-578e1a506ca1_0_ID192MP3.mp3"
+},
+"l_7c40b2a8-7958-4f5d-80b2-a879587f5d97": {
+"d": "2024-03-05T10:10:00+01:00",
+"i": "https://gfx.nrk.no/fmI_BKx2c02qLqki6YrlpwXn7savMDu0g082OzVXP_kA",
+"n": 927,
+"s": "Fra Valdres til stavkirka på Bygdøy. Staut er inspirert av folkemusikk, rock og country - men også Monty Python og Halldis Moren Vesaas.",
+"t": "Staut",
+"u": "https://podkast.nrk.no/fil/nrkscenen/adf33b56-00f3-443c-985b-52fdcf883ad4_0_ID192MP3.mp3"
+},
+"l_83698152-cabf-409a-a981-52cabf809a5a": {
+"d": "2024-12-20T06:00:00+01:00",
+"i": "https://gfx.nrk.no/WTnBZCMKR0v2sLApmU5dXA6MCBhgEvJ-jPNu6IO3IL7g",
+"n": 441,
+"s": "Det blir god, gammeldags julestemning når Emma Steinbakken drar til hjemstedet Jessheim og synger en moderne, norsk juleklassiker.",
+"t": "Emma Steinbakken",
+"u": "https://podkast.nrk.no/fil/nrkscenen/6f62059a-dde2-47b5-801c-4143072c202b_0_ID192MP3.mp3"
+},
+"l_89d0db19-6639-4b3e-90db-196639ab3ef5": {
+"d": "2024-01-26T06:00:00+01:00",
+"i": "https://gfx.nrk.no/A1JH3bQm9pZlxO8QdlvzkAeITZDfDBZsRp6JPgBXIXig",
+"n": 799,
+"s": "På museet KODE synger Nils Bech om begjær og kjærlighet mellom menn, blant installasjonene til kunstneren Børre Sæthre.",
+"t": "Nils Bech",
+"u": "https://podkast.nrk.no/fil/nrkscenen/c5976a15-7cde-43d8-a99c-7c479cd365ab_0_ID192MP3.mp3"
+},
+"l_8c5895a2-2bd3-43a4-9895-a22bd3f3a433": {
+"d": "2023-04-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/twAUCERAEyz4cCGEZyJg4gTTIvOTtOfSFIMbHhUTSadg",
+"n": 954,
+"s": "Saksofonisten fra Os har stor suksess på den internasjonale jazzscenen. Men rakk en spesial for NRK-scenen på Cosmopolite i Oslo.",
+"t": "Marius Neset",
+"u": "https://podkast.nrk.no/fil/nrkscenen/1f868cdc-40d6-465a-9bd0-f810ac49e3fd_0_ID192MP3.mp3"
+},
+"l_8dda21e8-4c39-4362-9a21-e84c39f36240": {
+"d": "2023-03-03T06:04:00+01:00",
+"i": "https://gfx.nrk.no/OrDxdD9Oy5t-oPfomJRpnQ9nuSgkf6ZaIN3vNccDV-bg",
+"n": 774,
+"s": "Hytta på Brønnøya har vært et viktig skrivested for Daniela, og hun har spilt inn mange av låtene sine der. Hun og bandet inviterer til utekonsert.",
+"t": "Daniela Reyes ",
+"u": "https://podkast.nrk.no/fil/nrkscenen/535d2406-7f05-4093-ba82-c38739f7cea2_0_ID192MP3.mp3"
+},
+"l_9d0a62a7-26a6-4bec-8a62-a726a65bec2e": {
+"d": "2024-03-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/2wclzLhZlTEDCrw5REHYNgcvN2Ygm67dQjl-6G6NB8eA",
+"n": 1211,
+"s": "I jazz er improvisasjon et bærende element. \nEt norsk stjernelag av musikere spiller sammen for første gang i forbindelse med NRK-serien Jazzeventyret.",
+"t": "Jazzeventyret: Sessions",
+"u": "https://podkast.nrk.no/fil/nrkscenen/17ccbf64-2eee-42ce-a2c0-9c1717a09c43_0_ID192MP3.mp3"
+},
+"l_9defce64-2853-48f5-afce-642853c8f5c7": {
+"d": "2023-03-03T06:14:00+01:00",
+"i": "https://gfx.nrk.no/x0ug_GlI_W79paiiauj9FwpDfvKauMGCCmkmwZzcXiAg",
+"n": 700,
+"s": "I denne spesialsendingen fra NRK-scenen får du oppleve noen av Norges mest lovende artister fra by:Larm 2022: Katarina Barruk, Sei Selina og Slomosa.",
+"t": "By:Larm sessions 2022 - del 2",
+"u": "https://podkast.nrk.no/fil/nrkscenen/ab808770-d818-4e5f-b029-6862cadb3327_0_ID192MP3.mp3"
+},
+"l_9fa9daf2-2d6e-437e-a9da-f22d6e037eb0": {
+"d": "2023-05-26T06:00:00+02:00",
+"i": "https://gfx.nrk.no/dO0yE3wZi2rTvOKCfH_GmQ-j14eHX8sEMpMXDZC1JbIw",
+"n": 1150,
+"s": "Øystein Greni og Bigbang inviterer til minikonsert i det de mener er et av verdens beste lydstudioer – Frelsesarmeen Templet i Oslo.",
+"t": "Bigbang",
+"u": "https://podkast.nrk.no/fil/nrkscenen/f352f275-ab31-45ed-a91d-e66a81d0d747_0_ID192MP3.mp3"
+},
+"l_a00bea41-6b35-4a64-8bea-416b35ca645b": {
+"d": "2023-06-02T06:00:00+02:00",
+"i": "https://gfx.nrk.no/ZUdCUwpqG9zDlggeSvw5IAj2AqTd2cP72zH2l2VX2Kng",
+"n": 969,
+"s": "Med røtter i Norge og Costa Rica har Ingrid Jasmin skapt en musikkstil med elementer fra mange deler av verden. Det ga henne nylig en Spellemannpris.",
+"t": "Ingrid Jasmin",
+"u": "https://podkast.nrk.no/fil/nrkscenen/9c797a6f-f575-48af-adc5-d8759cb62f9a_0_ID192MP3.mp3"
+},
+"l_a5aa5ad9-ec30-4b47-aa5a-d9ec304b4788": {
+"d": "2023-03-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/AAgLiKHuVid9Y9rs5nP90gy30azTqqWoL-eAdJo4QBuw",
+"n": 990,
+"s": "Hennes gode barndomsminner fra feriene ved Oslofjorden er grunnen til at Stords store popstjerne SKAAR ville ta med bandet sitt til Alværnbukta.",
+"t": "SKAAR",
+"u": "https://podkast.nrk.no/fil/nrkscenen/5ff8a9a0-103c-497f-84e1-99ca87852e4e_0_ID192MP3.mp3"
+},
+"l_abb39a1d-dcae-43b8-b39a-1ddcae13b845": {
+"d": "2023-10-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/LYo_Z5DZyh5VG6HctDucJwS1fCF4z0szyxD1_0tl7Z3g",
+"n": 991,
+"s": "Avisene trillet seksere for Signe Marie Rustads siste album. Bli med til familiegården på Elverum der hun henter inspirasjon til sin tidløse folkrock",
+"t": "NRK-scenen: Signe Marie Rustad",
+"u": "https://podkast.nrk.no/fil/nrkscenen/47c69f3b-6d00-47b6-a130-3663963de675_0_ID192MP3.mp3"
+},
+"l_ac00c30d-b000-42e8-80c3-0db000b2e82e": {
+"d": "2024-09-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/SUhI7qiY47uu66-aybp3JQPoEO7SUnPahctTTWorPPtQ",
+"n": 728,
+"s": "Vi inviterte 100 fans med mobilkamera til å filme rapgruppa Gjenfødt Kultur på Øyafestivalen. Og selveste Ravi gjør en uforglemmelig gjesteopptreden!",
+"t": "Gjenfødt Kultur",
+"u": "https://podkast.nrk.no/fil/nrkscenen/5c64e933-04dd-44d6-b1bf-b6e69ce994fa_0_ID192MP3.mp3"
+},
+"l_ae1b83e8-08df-4fb4-9b83-e808df3fb4ed": {
+"d": "2024-11-11T06:05:00+01:00",
+"i": "https://gfx.nrk.no/1Nz1Vtu4XF4y_8Gmd-_z9wMSkp_qlFD_EQreNGlzwl9w",
+"n": 897,
+"s": "Thea & The Wild har latt seg inspirere av historien til gamle Dikemark psykiatriske sykehus der kunstnerisk utfoldelse var en del av behandlingen.",
+"t": "Thea & The Wild",
+"u": "https://podkast.nrk.no/fil/nrkscenen/91c5c166-96e5-49ec-8da9-75c1fd9ede5c_0_ID192MP3.mp3"
+},
+"l_b13899dd-f23d-4198-b899-ddf23da198a5": {
+"d": "2024-11-11T06:08:00+01:00",
+"i": "https://gfx.nrk.no/nwVfhqtel820IJ-hjHYISQR7uCwHRSbZc8Rog-xwsyJA",
+"n": 400,
+"s": "Det har blitt sagt om Årets Urørt 2024, rapperen Anakin Justin, at han får trøndersk til å høres sexy ut. Se han live med B-Boy Myhre og bli forført.",
+"t": "Urørt 2024 – Anakin Justin",
+"u": "https://podkast.nrk.no/fil/nrkscenen/a2b1c71b-c51d-497c-b256-37ceca675789_0_ID192MP3.mp3"
+},
+"l_b156f7db-639a-4796-96f7-db639a07968b": {
+"d": "2024-03-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/CMjmWTltmu9fFS5WIv2wzgAMwpBDbE0TqNqBTrM8jT3w",
+"n": 1083,
+"s": "Fay Wildhagens nye album er et resultat av selvransakelse av egen oppvekst. \nBesøk på Norsk folkemuseum med farmor er gode barndomsminner.",
+"t": "Fay Wildhagen",
+"u": "https://podkast.nrk.no/fil/nrkscenen/9511f657-25b1-485a-8e61-5c4055719f43_0_ID192MP3.mp3"
+},
+"l_b2794c35-47d0-4acf-b94c-3547d09acf54": {
+"d": "2023-03-03T06:03:00+01:00",
+"i": "https://gfx.nrk.no/fLsS8ReFhdLJhnCdsV89dQ91pP-F0SyfZ8EHJbqAjK8g",
+"n": 877,
+"s": "Ålesunds råeste gitarist tar med seg sin hardtslående trio til de nye hjemtraktene på Nesodden. \nDe spiller selvsagt ved hennes favorittelement, sjøen! ",
+"t": "Hedvig Mollestad Trio",
+"u": "https://podkast.nrk.no/fil/nrkscenen/30ac085c-466e-426c-bd6e-587f1bdd6333_0_ID192MP3.mp3"
+},
+"l_b30c4164-b57c-4065-8c41-64b57ce06543": {
+"d": "2024-06-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/GPU05W_udipVfcEN5hSoSA6ELR_GJ9vbolitO-jryFyA",
+"n": 824,
+"s": "Les Imprimés skaper unik musikk med inspirasjon fra 60-70-tallets soul, doo wop og hip-hop. De har vunnet hjerter verden over med albumet “Rêverie”.",
+"t": "Les Imprimés",
+"u": "https://podkast.nrk.no/fil/nrkscenen/55183691-7299-4b92-96e8-a9834bf8b982_0_ID192MP3.mp3"
+},
+"l_b51dd637-7262-478e-9dd6-377262278ea5": {
+"d": "2024-02-02T06:00:00+01:00",
+"i": "https://gfx.nrk.no/5pr3JTn7DhSHaibvZWg19ASzgTXns8TukjKNO96DPwKg",
+"n": 1064,
+"s": "Fra Solobservatoriet på Harestua drømmer musikerne i Goylem Space Klezmer, sammen med dansere og kjemikere, om utvandring til verdensrommet.",
+"t": "Goylem Space Klezmer ",
+"u": "https://podkast.nrk.no/fil/nrkscenen/9cba910d-71e2-4373-8073-380830962b9c_0_ID192MP3.mp3"
+},
+"l_b7b069b8-8c9f-43a9-b069-b88c9fd3a96f": {
+"d": "2023-03-03T06:09:00+01:00",
+"i": "https://gfx.nrk.no/UHjWP0VwbaoqcJ6OzCPQKATqflZ_gJCNuso_WERK7vMQ",
+"n": 852,
+"s": "De snakker, danser og synger – om hverandre. Små Grå inviterer til en konsertopplevelse langt utenom det vanlige.",
+"t": "Små Grå",
+"u": "https://podkast.nrk.no/fil/nrkscenen/73627e35-a09a-4c83-94ec-e76729fc66bb_0_ID192MP3.mp3"
+},
+"l_badc50b3-517d-466e-9c50-b3517df66e1e": {
+"d": "2023-03-03T06:13:00+01:00",
+"i": "https://gfx.nrk.no/R1AlQrbffx-ABoNR7IhjOgjsZisK8qDlFhkGbm8sUKUw",
+"n": 799,
+"s": "I denne spesialsendingen fra NRK-scenen får du oppleve noen av Norges mest lovende artister fra by:Larm 2022: Ævestaden, Makosir og Utflod.",
+"t": "By:Larm sessions 2022 - del 1",
+"u": "https://podkast.nrk.no/fil/nrkscenen/01a38586-8b1d-4e78-ab77-e83a41f68c27_0_ID192MP3.mp3"
+},
+"l_baf86233-b241-4e3c-b862-33b2413e3ccc": {
+"d": "2024-03-05T10:00:00+01:00",
+"i": "https://gfx.nrk.no/xRTkZYRvEZkcUbrPcXguPgPEeyqDG84iZKt-_xnAM8dA",
+"n": 1092,
+"s": "Vi kommer nært på Norges nye bluesstjerne, Marius Lien, 24 år. Han tar med bandet sitt og holder konsert i sin og besteforeldrenes stue på Vormsund.",
+"t": "Marius Lien",
+"u": "https://podkast.nrk.no/fil/nrkscenen/e5b8c158-4dc0-4801-b36c-38a9c3af15af_0_ID192MP3.mp3"
+},
+"l_c0b66e96-7c02-4103-b66e-967c02410301": {
+"d": "2023-03-03T06:07:00+01:00",
+"i": "https://gfx.nrk.no/h_5mzboEq5gonoEVjh2zCQPY9fpNex0rFrI-gKmA8afg",
+"n": 733,
+"s": "Som barn var Bendik ofte med pappa, skuespiller Trond Brænne, på Nationaltheatret.\nHan har mange gode minner, spesielt fra skuespillerfoajeen.  ",
+"t": "Bendik Brænne",
+"u": "https://podkast.nrk.no/fil/nrkscenen/12b28dd2-8c6b-4b29-ad46-7ac18283c79b_0_ID192MP3.mp3"
+},
+"l_c2af13df-3ef7-4a93-af13-df3ef75a933b": {
+"d": "2023-10-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/SriDkrtfwWRxNxyKc_wyEQLd7W8B-vj_LX7i8aZY0Hfg",
+"n": 868,
+"s": "Tora Dahle Aagård droppet ut av studiene for å satse alt på musikken. Hun tar oss med dit vendepunktet fant sted; Studentersamfundet i Trondheim.",
+"t": "Tora Dahle Aagård",
+"u": "https://podkast.nrk.no/fil/nrkscenen/971e11ad-8073-456e-a7e4-a41950b7733c_0_ID192MP3.mp3"
+},
+"l_c4b4fe44-cc0b-44e5-b4fe-44cc0bd4e50d": {
+"d": "2024-11-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/w6SdzDJ-3PYyBNG_pnvFFQL6X8Xrw_RtPSZz6NwCEs7g",
+"n": 276,
+"s": "Gabrielle og Lars Vaular faller inn i rommet for еn dans.",
+"t": "Gabrielle og Lars Vaular",
+"u": "https://podkast.nrk.no/fil/nrkscenen/c60fd19e-959b-43a2-aaa9-e569863ec2cc_0_ID192MP3.mp3"
+},
+"l_c6a787cc-01c2-4412-a787-cc01c2f41268": {
+"d": "2023-04-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/q8XVLd-msSlOnx1I1TFY4wDI0cjeibG01KE64ErPr9VQ",
+"n": 835,
+"s": "Ingrid Olava tar oss med til skrivestua si i hagen, der hun har skrevet sitt første album på norsk. Hennes mest personlige til nå.",
+"t": "Ingrid Olava",
+"u": "https://podkast.nrk.no/fil/nrkscenen/c77c33a4-3ccf-4cbc-ad43-fd82fb5500c0_0_ID192MP3.mp3"
+},
+"l_c7086cf1-1163-4c88-886c-f111635c8810": {
+"d": "2024-11-11T06:01:00+01:00",
+"i": "https://gfx.nrk.no/4v3gInAbbQ-_EiuSJQvAjwYrcaL1rYjCy_f7QtGmcBqw",
+"n": 895,
+"s": "I en lite glamorøs bygning i Nydalen lager to av Norges fremste låtskrivere vakker musikk sammen.",
+"t": "Aslag Haugen & Martin Hagfors",
+"u": "https://podkast.nrk.no/fil/nrkscenen/57f94e43-746b-41e2-86e4-2dc35f70d4c6_0_ID192MP3.mp3"
+},
+"l_c9dc5d3f-6a95-4a09-9c5d-3f6a955a093a": {
+"d": "2023-06-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/nrcnmCSbDiA0TNRSOtGWCgHtm9BNOhY0sB_MJ2UA1-6A",
+"n": 847,
+"s": "Åsbjørg Ryeng er virtuos på det argentinske trekkspillet bandoneon, og inviterer til forrykende tango i hjembyen Trondheim.",
+"t": "Åsbjørg Ryeng/Tango Concertino",
+"u": "https://podkast.nrk.no/fil/nrkscenen/3506184a-7074-4b15-bbd0-2658e66e2ec8_0_ID192MP3.mp3"
+},
+"l_cbb9ba76-2fed-472f-b9ba-762fed772f52": {
+"d": "2024-09-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/7vXT6Ayxc9pDZebpadPv6Achlf2Rx-nx-BWxGAfsmsFw",
+"n": 832,
+"s": "Kritikerroste Anne Lise Frøkedal spiller en unik miks av folkemusikk og indiepop sammen med bandet sitt, Familien.",
+"t": "Frøkedal & Familien",
+"u": "https://podkast.nrk.no/fil/nrkscenen/a82b4cce-0d74-40bb-908c-e04d2ad5455f_0_ID192MP3.mp3"
+},
+"l_ce181e6a-c845-4a62-981e-6ac845ca6245": {
+"d": "2023-03-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/tereoheFb9uadVur0Xrz0QZ6hfrLCvfZo-RqQM0U7RvQ",
+"n": 1023,
+"s": "Den hardtslående duoen har tatt med bandet for å gjøre en konsert der det hele startet, nemlig på Lillestrøm videregående skole.",
+"t": "brenn.",
+"u": "https://podkast.nrk.no/fil/nrkscenen/d9ec52a1-4034-407a-a046-a36a3e68468e_0_ID192MP3.mp3"
+},
+"l_cfe940b2-1ce5-4a13-a940-b21ce5aa13d0": {
+"d": "2023-03-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/NTR97eHr6TzKlVyAdcg7JgUmNs0zagu1s0xAhLWNhbvQ",
+"n": 977,
+"s": "Det var her hun gjorde sin første plateinnspilling i 2004, og siden har Hilde Louise Asbjørnsen stadig vendt tilbake til Musikkloftet i Asker.",
+"t": "Hilde Louise Asbjørnsen",
+"u": "https://podkast.nrk.no/fil/nrkscenen/23f58ddf-bb21-4f0a-b838-62faf29c12b2_0_ID192MP3.mp3"
+},
+"l_d2c56dd0-f477-460b-856d-d0f477260b7d": {
+"d": "2023-11-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/VMOYfN0pZTe0pfVm1e6oKwmMVS5KGybS_5pFXIw0g6ng",
+"n": 1144,
+"s": "Kaizers Orchestra solgte ut 56 konserter i fire byer på 14 minutter. Halvveis i turnéen gir de 100 fans en overraskelse på Sentrum Scene i Oslo.",
+"t": "Kaizers Orchestra ",
+"u": "https://podkast.nrk.no/fil/nrkscenen/56d88d1a-0903-47ab-ad48-1900a3435957_0_ID192MP3.mp3"
+},
+"l_d2d0f127-cf0d-422c-90f1-27cf0d922c6b": {
+"d": "2023-03-03T06:19:00+01:00",
+"i": "https://gfx.nrk.no/EsZITJ8FT0Q7mWkVRixilg9PsFV3p2IJ9gJRzoT3CcRQ",
+"n": 948,
+"s": "11. november 1996 kom Tatiana til Norge for første gang. Sammen med moren og søsteren tok de Englandsbåten til Skoltegrunnskaien. Nå er hun tilbake.",
+"t": "Miss Tati",
+"u": "https://podkast.nrk.no/fil/nrkscenen/31b89fda-8cdf-4a5e-bdd7-3bdab1227a87_0_ID192MP3.mp3"
+},
+"l_d4733a68-b062-4d5f-b33a-68b062ed5f5d": {
+"d": "2023-06-09T06:00:00+02:00",
+"i": "https://gfx.nrk.no/kiFsrmcmf1W-rWv6p6HlSQCT3orjDp3Vp3hlRNpZ1A2A",
+"n": 935,
+"s": "Sangene på Solveig Slettahjells nye plate er inspirert av havet. Derfor ble vakre Hvalstrand bad et naturlig sted å holde konsert.",
+"t": "Solveig Slettahjell",
+"u": "https://podkast.nrk.no/fil/nrkscenen/56daf398-cbc4-43cd-8112-6a04638b4d1d_0_ID192MP3.mp3"
+},
+"l_d77476e6-1513-479b-b476-e61513f79b17": {
+"d": "2023-11-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Pj_bPNYbIw84EOB640ZRtAPiOmqyQ9i64aMz3csa-PZA",
+"n": 1041,
+"s": "Kjærlighet til musikken er drivkraften når Ricochets igjen spiller sammen, i de nedlagte verkstedhallene på Kråkerøy, ikke det å være rockestjerner.",
+"t": "Ricochets",
+"u": "https://podkast.nrk.no/fil/nrkscenen/10c3486e-0148-4d69-b98e-a15bf9c05f13_0_ID192MP3.mp3"
+},
+"l_ddbb9ffc-fc23-4802-bb9f-fcfc232802aa": {
+"d": "2024-01-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/fjWEUXfawfzCNm_MhsdH6Qeg4bGa-TYoTJGUAR94x-QQ",
+"n": 899,
+"s": "Selma French har blitt kalt «musikk-Norges best bevarte hemmelighet». Sammen med bandet sitt spiller hun låter fra det kritikerroste debutalbumet.",
+"t": "Selma French",
+"u": "https://podkast.nrk.no/fil/nrkscenen/6c694b4a-3a0a-4274-baca-4d78519e5e04_0_ID192MP3.mp3"
+},
+"l_e1b1a8a6-0e8e-43c3-b1a8-a60e8ed3c35d": {
+"d": "2023-05-19T06:00:00+02:00",
+"i": "https://gfx.nrk.no/p-p45Y-03roUfu_swrorFgcL0vYCSlxU5_Np9GbCHlRg",
+"n": 1092,
+"s": "Disco og retro-pop er stikkord for kollektivet Tigerstate. I sommer spiller de på Øya, men først skaper de jungelstemning i NRKs radioteater.",
+"t": "Tigerstate",
+"u": "https://podkast.nrk.no/fil/nrkscenen/505fc319-52be-4dae-b95d-51ac260cb285_0_ID192MP3.mp3"
+},
+"l_e20ec5c1-66c7-4c82-8ec5-c166c73c8263": {
+"d": "2025-02-14T06:00:00+01:00",
+"i": "https://gfx.nrk.no/U86Z3TYs6H3bOiF2to7jCwEsWEuNLytw9OAkEqh9PHyQ",
+"n": 797,
+"s": "9 grader nord er et tamilsk folkrockband. Sammen med Musti spiller de en helt ny versjon av en låt fra albumet de vant Spellemannpris for i fjor.",
+"t": "9 grader nord og Musti",
+"u": "https://podkast.nrk.no/fil/nrkscenen/456803c5-3e1a-44c0-aa1a-70740606cb4e_0_ID192MP3.mp3"
+},
+"l_e24d907a-f83c-40c4-8d90-7af83c20c42c": {
+"d": "2024-11-11T06:04:00+01:00",
+"i": "https://gfx.nrk.no/mmGCz4hzG7Hux1b-vES5FwM8VJn41plC5sn2ljuPxxrw",
+"n": 679,
+"s": "Hudkreft, et ungt, hardtslående punkband spiller live på kultur- og aktivisthuset Blitz i Oslo sentrum. Edvard fra Honningbarna er gjestevokalist.",
+"t": "Hudkreft",
+"u": "https://podkast.nrk.no/fil/nrkscenen/08b1cce6-f03f-40c1-b549-33b411ae1058_0_ID192MP3.mp3"
+},
+"l_e4dc0faf-d1bc-4525-9c0f-afd1bc1525a9": {
+"d": "2023-10-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/2ShsIRgA8KCeLNyFqSYpfAT1FBA4FIrwuWXWNnyTIJzg",
+"n": 1064,
+"s": "Fotballkamper på Åråsen var det som fikk hjertet til å slå hos Chris Holsten som ungdom. Chris og bandet inviterer til intim stadionkonsert.",
+"t": "Chris Holsten",
+"u": "https://podkast.nrk.no/fil/nrkscenen/a961320d-bc2e-4d00-960b-ba01596d5200_0_ID192MP3.mp3"
+},
+"l_e550e5cf-7cb0-43e5-90e5-cf7cb0a3e5d0": {
+"d": "2023-03-03T06:10:00+01:00",
+"i": "https://gfx.nrk.no/1Ic2HjsSXaVuGOnrJ5rVgAUgviUtB652c-6TvloCvQ1g",
+"n": 1082,
+"s": "Sonoko Miriam Welde har norsk far og japansk mor. Når hun turnerer verden rundt med sin fiolin, er det sushi-restaurantene som føles som «hjemme».",
+"t": " Sonoko Miriam Welde",
+"u": "https://podkast.nrk.no/fil/nrkscenen/2b196d40-fce9-4ad4-8e4d-28e5915262a9_0_ID192MP3.mp3"
+},
+"l_efc22645-5745-4c9b-8226-455745dc9bab": {
+"d": "2023-12-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/OjMVjT_Qgei5lO6I2d4EAQ3UhESf2KOUnZbZtm1O8Zvg",
+"n": 745,
+"s": "Makosir tar oss med på en musikalsk reise fra ungdomstiden sin. Bli med på toget fra hjemstedet Holmlia, inn til Oslo S og til St. Sunniva skole.",
+"t": "Makosir",
+"u": "https://podkast.nrk.no/fil/nrkscenen/a3fda193-7559-435b-bbdf-f080ab21a938_0_ID192MP3.mp3"
+},
+"l_f3d4bbae-8829-4a85-94bb-ae8829fa856c": {
+"d": "2024-12-13T06:00:00+01:00",
+"i": "https://gfx.nrk.no/8hNSTHYOAyFzAwYoNAjn6gBaNd30X7KGXNVyloINNmkg",
+"n": 893,
+"s": "Tord Gustavsen Trio, verdenskjent for sin dype og melodiske jazzmusikk, skaper julestemning i unike Tanum kirke. Kim Rysstad er gjestevokalist.",
+"t": "Tord Gustavsen Trio",
+"u": "https://podkast.nrk.no/fil/nrkscenen/62c2cd34-4149-4f6a-91bb-f4c7cf558ab0_0_ID192MP3.mp3"
+},
+"l_f5f82414-3572-4999-b824-1435723999a0": {
+"d": "2023-03-03T06:12:00+01:00",
+"i": "https://gfx.nrk.no/qQOQl1gW5OmD55T3J4Tw6wtoC-KYe5Z1i2cdBVloDNgQ",
+"n": 988,
+"s": "Selv med mange store turneer bak seg, var det skummelt å entre scenen i Operaen for første gang, i 2014. Dybdahl gir oss en konsert i kulissene.",
+"t": "Thomas Dybdahl",
+"u": "https://podkast.nrk.no/fil/nrkscenen/51138482-0338-4afb-8409-dc6fcc086798_0_ID192MP3.mp3"
+},
+"l_f83ed460-37c5-4409-bed4-6037c56409e8": {
+"d": "2023-12-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/W6Pe0CxDHaXQGwb79AOa2whKxGf_PanSAZDC6f5dIexg",
+"n": 889,
+"s": "Internasjonalt anerkjente Oslo strykekvartett spiller norske klassikere, Beethoven og et av de vanskeligste stykkene de noensinne har fremført.",
+"t": "Oslo strykekvartett",
+"u": "https://podkast.nrk.no/fil/nrkscenen/fbbbadeb-768d-436d-8681-be4bc241845b_0_ID192MP3.mp3"
+},
+"l_f889469a-f5c0-46c3-8946-9af5c026c340": {
+"d": "2025-01-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/ncIayC1oetnNL4bbDSa93QwacAVvZqQGjhO_ni5HCUbw",
+"n": 766,
+"s": "Omgitt av sin egen billedkunst holder kunstner og musiker Magne Furuholmen en eksklusiv minikonsert i atelieret sitt.",
+"t": "Magne Furuholmen",
+"u": "https://podkast.nrk.no/fil/nrkscenen/ea07edb9-49e6-45f1-939f-77545f4cab8c_0_ID192MP3.mp3"
+},
+"l_fd5223ba-3393-4a01-9223-ba33936a0135": {
+"d": "2023-09-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/VrlHnxB1_t2AhHxt7drNWgbpvB9qEdOM5RybMMgn8-rw",
+"n": 1139,
+"s": "Elektronikaartisten Niilas henter inspirasjon fra sin samiske bakgrunn. Han tar oss med til Kistefos museum der natur møter moderne kunst.",
+"t": "NRK-scenen: Niilas",
+"u": "https://podkast.nrk.no/fil/nrkscenen/fedfc0de-02a7-41af-b6f0-b7e2382e3094_0_ID192MP3.mp3"
+},
+"l_ff5308bd-49d3-4551-9308-bd49d33551fa": {
+"d": "2024-05-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/67JyNyEGdtYSrfINuLrheAmXCkm9z1466on4MkGqOjHA",
+"n": 1071,
+"s": "I 2024 markerer Norges mest beryktede band 40 år. Svartmetallpionerene i Mayhem regjerer fremdeles i skyggenes rike.",
+"t": "Mayhem",
+"u": "https://podkast.nrk.no/fil/nrkscenen/f62046fb-2245-460f-8d96-7ac8f7e2ea11_0_ID192MP3.mp3"
+},
+"l_ff8f6b42-6b08-4caa-8f6b-426b08dcaa10": {
+"d": "2023-12-15T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Q-F9ADeGMF9zHROmbYfRiQ3u53jfsJpDKndbgYDdq35Q",
+"n": 718,
+"s": "Moddi går fra hektisk juleshopping på Karl Johans gate og inn på puben Scotsman i Oslo. Der blir det nordnorsk jul.",
+"t": "Moddi",
+"u": "https://podkast.nrk.no/fil/nrkscenen/25c3d683-bd26-4119-bd7c-e6139ae98c31_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Musikk",
+"id": "nrkscenen",
+"image": "https://gfx.nrk.no/U86Z3TYs6H3bOiF2to7jCwEsWEuNLytw9OAkEqh9PHyQ",
+"subtitle": "Norske musikere gir deg minikonserter på steder som betyr noe for dem. Også tilgjengelig i NRK TV: tv.nrk.no/serie/nrk-scenen",
+"title": "NRK-scenen"
+},
+"v": 2
 }

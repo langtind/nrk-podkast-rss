@@ -1,8 +1,60 @@
 {
-"l_6d5e2993-e6ff-49e9-9e29-93e6fff9e919": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-10-23_0919_3127.MP3",
-"l_74fd8391-2084-4b18-bd83-9120845b187b": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-11-08_0500_1636.MP3",
-"l_7ddce273-6e7f-4b8c-9ce2-736e7fcb8cf1": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-11-01_0500_1704.MP3",
-"l_d69c6171-1a88-43c9-9c61-711a8823c934": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-10-30_0500_666.MP3",
-"l_dbded785-fe8f-4ec8-9ed7-85fe8f6ec809": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-10-23_0911_1305.MP3",
-"l_e04773e0-0fb9-4d54-8773-e00fb90d54b0": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-11-05_0500_3167.MP3"
+"episodes": {
+"l_6d5e2993-e6ff-49e9-9e29-93e6fff9e919": {
+"d": "2018-10-23T11:19:00+02:00",
+"i": "https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA",
+"n": 2534,
+"s": "Simen Agdestein, sjakktrener på NTG og Norges første stormester, forteller om ensomheten ved brettet, de sympatiske sidene ved VM-motstander Fabiano Caruana og om tidligere verdensmester Vishy Anands arrangerte ekteskap.",
+"t": "Simen Agdestein om ensomheten på toppen (2:6)",
+"u": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-10-23_0919_3127.MP3"
+},
+"l_74fd8391-2084-4b18-bd83-9120845b187b": {
+"d": "2018-11-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA",
+"n": 3476,
+"s": "Sjakkekspertene Torstein Bae og Atle Grønn forteller om hvordan de utpsyker sine motstandere med intellektuell thrashtalk, om hvordan VM-kampen blir en kamp mellom den russiske- og norske sjakkskolen og hvorfor du bør sette penger på at Fabiano Caruana vinner.\n",
+"t": "Torstein Bae og Atle Grønn tror VM blir Carlsens hardeste kamp (6:6)",
+"u": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-11-08_0500_1636.MP3"
+},
+"l_7ddce273-6e7f-4b8c-9ce2-736e7fcb8cf1": {
+"d": "2018-11-01T06:00:00+01:00",
+"i": "https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA",
+"n": 3104,
+"s": "Ellen Carlsen, Magnus' storesøster, og sjakkspiller/frilansjournalist Heidi Røneid diskuterer muligheten for å få sjakkbrett inn på fødestuene, Carlsens fremtid hvis han taper og hvorfor det er Magnus og ikke Ellen som er verdensmester.",
+"t": "Ellen Carlsen og Heidi Røneid frykter at Magnus legger opp (4:6)",
+"u": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-11-01_0500_1704.MP3"
+},
+"l_d69c6171-1a88-43c9-9c61-711a8823c934": {
+"d": "2018-10-30T06:00:00+01:00",
+"i": "https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA",
+"n": 2444,
+"s": "Jon Ludvig Hammer, for tiden Nordens nest-beste sjakkspiller, forteller om oppveksten som Magnus Carlsens rival, sekundantjobben i Carlsens første VM-kamp og hvordan man kan leve av sjakk uten å være helt i verdenstoppen.",
+"t": "Jon Ludvig Hammer om livet i Carlsens skygge (3:6)",
+"u": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-10-30_0500_666.MP3"
+},
+"l_dbded785-fe8f-4ec8-9ed7-85fe8f6ec809": {
+"d": "2018-10-23T11:11:00+02:00",
+"i": "https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA",
+"n": 3797,
+"s": "Regjerende verdensmester Magnus Carlsen forteller om veien til sjakktronen, om hvordan han tidvis har lyst til å slå ned konkurrentene og om frykten for å tape tittelen mot Fabiano Caruana i november.",
+"t": "Magnus Carlsen frykter å tape (1:6)",
+"u": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-10-23_0911_1305.MP3"
+},
+"l_e04773e0-0fb9-4d54-8773-e00fb90d54b0": {
+"d": "2018-11-05T06:00:00+01:00",
+"i": "https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA",
+"n": 2803,
+"s": "Hans Olav Lahlum er forfatter, historiker og sjakkdommer, og har gått glipp av turneringsremiser fordi han spilte med øreklokker. Han forteller om VM-motstander Fabiano Caruanas hypermoderne sjakk, om dopingregler mot kaffe og at sjakken bør være åpen for alle – slik han selv opplevde det i en krevende fase av oppveksten.\n\n",
+"t": "Hans Olav Lahlum mener Carlsen søker sjakkens sannhet (5:6)",
+"u": "https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-11-05_0500_3167.MP3"
+}
+},
+"meta": {
+"category": "Sport",
+"id": "sjakksnakk",
+"image": "https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA",
+"subtitle": "Sjakkekspertene Askild Bryn og Odin Blikra Vea tar deg med på innsiden av det norske sjakkmiljøet, som sitrer av spenning frem mot Magnus Carlsens VM-kamp.",
+"title": "Sjakksnakk"
+},
+"v": 2
 }

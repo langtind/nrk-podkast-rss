@@ -1,8 +1,60 @@
 {
-"l_3bbc4853-0c2d-4f6c-bc48-530c2d1f6c4f": "https://podkast.nrk.no/fil/roed_loeype/862d617e-011c-4ae0-8af4-194a5761c2b5_0_ID192MP3.mp3",
-"l_6100f28c-a2e3-4eb7-80f2-8ca2e3feb7a1": "https://podkast.nrk.no/fil/roed_loeype/8d11905b-4c30-48d4-b2b5-67df358252a6_0_ID192MP3.mp3",
-"l_87355bf2-9011-4599-b55b-f290114599dd": "https://podkast.nrk.no/fil/roed_loeype/6ee9d3e1-212c-48e1-8a19-ac11db8bee2c_0_ID192MP3.mp3",
-"l_9049491b-a24e-497f-8949-1ba24e997fc6": "https://podkast.nrk.no/fil/roed_loeype/4c9b0c30-0ab0-4d03-8c8b-ff957a723acc_0_ID192MP3.mp3",
-"l_9b030718-e289-4a8c-8307-18e2894a8c80": "https://podkast.nrk.no/fil/roed_loeype/a69a47e6-505b-4e6f-abe3-991a91ba6fee_0_ID192MP3.mp3",
-"l_c655573c-f732-4a6a-9557-3cf732fa6acf": "https://podkast.nrk.no/fil/roed_loeype/6c2c2871-55f5-4f1b-bbb7-4822c249a30b_0_ID192MP3.mp3"
+"episodes": {
+"l_3bbc4853-0c2d-4f6c-bc48-530c2d1f6c4f": {
+"d": "2024-03-22T06:05:00+01:00",
+"i": "https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q",
+"n": 1313,
+"s": "Stormen letter.",
+"t": "På tynn is! (6:6)",
+"u": "https://podkast.nrk.no/fil/roed_loeype/862d617e-011c-4ae0-8af4-194a5761c2b5_0_ID192MP3.mp3"
+},
+"l_6100f28c-a2e3-4eb7-80f2-8ca2e3feb7a1": {
+"d": "2024-03-22T06:00:00+01:00",
+"i": "https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q",
+"n": 1091,
+"s": "Ludvig har første kveldsvakt i preppemaskinen når han mister kontakten med bakkesjefen. Så dukker ei jente opp på sambandet.\n\nSkuespillere: Nils Bendik Kvissel, Giulia Hellesdatter Roi m.fl.\nManus: Gustav Lie Gundersen og Erik Goplen \nRegi: Gustav Lie Gundersen og Erik Goplen \nTeknikk: Kirsten Uhnger \nLyddesign: Glenn Solheim\nProdusent: Ingrid Torjesen\nEksekutiv produsent: Gunhild Nymoen\nRedaktør: Marianne Furevold ",
+"t": "Det blåser opp til storm (1:6)",
+"u": "https://podkast.nrk.no/fil/roed_loeype/8d11905b-4c30-48d4-b2b5-67df358252a6_0_ID192MP3.mp3"
+},
+"l_87355bf2-9011-4599-b55b-f290114599dd": {
+"d": "2024-03-22T06:04:00+01:00",
+"i": "https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q",
+"n": 1176,
+"s": "Ludvig utgir seg for å være en annen. Det gjør Astrid også. De finner en talemelding.",
+"t": "Jeg visste ikke at noen skulle dø (5:6)",
+"u": "https://podkast.nrk.no/fil/roed_loeype/6ee9d3e1-212c-48e1-8a19-ac11db8bee2c_0_ID192MP3.mp3"
+},
+"l_9049491b-a24e-497f-8949-1ba24e997fc6": {
+"d": "2024-03-22T06:01:00+01:00",
+"i": "https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q",
+"n": 1218,
+"s": "Ludvig prøver å finne ut av hvem som ansatte ham. Astrid graver i den rotete bygdemailen.",
+"t": "Jeg stoler fortsatt ikke på deg (2:6)",
+"u": "https://podkast.nrk.no/fil/roed_loeype/4c9b0c30-0ab0-4d03-8c8b-ff957a723acc_0_ID192MP3.mp3"
+},
+"l_9b030718-e289-4a8c-8307-18e2894a8c80": {
+"d": "2024-03-22T06:02:00+01:00",
+"i": "https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q",
+"n": 1232,
+"s": "Ludvig får Astrid til å ringe en gammel venninne på hotellet. Astrid kjøper dem mer tid.",
+"t": "Han skal drepe meg, ha det! (3:6)",
+"u": "https://podkast.nrk.no/fil/roed_loeype/a69a47e6-505b-4e6f-abe3-991a91ba6fee_0_ID192MP3.mp3"
+},
+"l_c655573c-f732-4a6a-9557-3cf732fa6acf": {
+"d": "2024-03-22T06:03:00+01:00",
+"i": "https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q",
+"n": 1180,
+"s": "Astrid kontakter en rik svenske. Ludvig kjenner igjen en stemme fra tidligere.",
+"t": "En fattig mann med penger (4:6)",
+"u": "https://podkast.nrk.no/fil/roed_loeype/6c2c2871-55f5-4f1b-bbb7-4822c249a30b_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Lyddrama",
+"id": "roed_loeype",
+"image": "https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q",
+"subtitle": "En preppemaskinfører kjører over en person i slalåmbakken. Innestengt i maskinen må han bevise sin uskyld før stormen letter.",
+"title": "Rød løype"
+},
+"v": 2
 }

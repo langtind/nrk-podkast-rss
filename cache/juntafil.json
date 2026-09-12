@@ -1,228 +1,1820 @@
 {
-"l_0109ba1e-cf23-4d89-89ba-1ecf23cd89c0": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-08-28_1405_2090.MP3",
-"l_018f1503-a76e-4bfe-8f15-03a76e0bfec3": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0914-0804_6348320705.mp3",
-"l_024a9834-ae15-4851-8a98-34ae15085191": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-5-6_1023_421.MP3",
-"l_09f01c16-a86b-4091-b01c-16a86b209119": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-3-11_815_3321.MP3",
-"l_0b3ed5b7-f6cd-4678-bed5-b7f6cdb67809": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1205-0830_6352187246.mp3",
-"l_0c9a364d-6c82-44c0-9a36-4d6c82c4c0e9": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1122-0816_6348921219.mp3",
-"l_0cdc7e68-47f8-4c94-9c7e-6847f81c94fb": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-15_1100_1211.MP3",
-"l_0d10c719-dd62-4f11-90c7-19dd628f1126": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0621-0850_6347590879.mp3",
-"l_0db80272-aebf-4afe-b802-72aebfaafe90": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1215-1221_6355424306.mp3",
-"l_0dbd20f8-44e9-4223-bd20-f844e98223c4": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0418-1127_6347034564.mp3",
-"l_0fea4d49-9625-4d8a-aa4d-4996250d8a7b": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1220-1009_6352313195.mp3",
-"l_10b39d35-0df4-40fe-b39d-350df420febe": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0124-0750_6349465389.mp3",
-"l_10d159c0-93df-4729-9159-c093df67297b": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-09-18_1522_3995.MP3",
-"l_12d79723-ffc4-448d-9797-23ffc4348ddf": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0418-0759_6350191206.mp3",
-"l_1476da23-1ead-41c2-b6da-231ead11c2fb": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0906-0844_6348256113.mp3",
-"l_158a8645-fe3f-4f4e-8a86-45fe3fdf4e69": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0425-0800_6350250123.mp3",
-"l_1763f4e5-19de-4150-a3f4-e519de715038": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0927-0823_6348437421.mp3",
-"l_176ba4de-7d13-4ac1-aba4-de7d136ac10a": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1208-0216_6355364521.mp3",
-"l_184bc4bb-d922-41d8-8bc4-bbd92251d8ee": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-27_1159_1235.MP3",
-"l_18d93055-4cec-48ee-9930-554cec88ee42": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0608-0924_6347474455.mp3",
-"l_1921000f-18fb-474f-a100-0f18fb174fc4": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-01_1103_822.MP3",
-"l_1a1354de-8ed0-4647-9354-de8ed056477e": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1003-1231_6354793647.mp3",
-"l_1b3793a0-7fcf-41d9-b793-a07fcf11d919": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-07-17_0600_0.MP3",
-"l_1cba450c-e6ed-4011-ba45-0ce6ed2011c2": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0131-1005_6352676031.mp3",
-"l_1cc60294-062d-4548-8602-94062db54841": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_5A87522F646E4BEA9DC52571F4BACA98.MP3",
-"l_1d833538-31df-4b25-8335-3831df0b256d": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-4-29_71_2741.MP3",
-"l_1d9e6c45-c0dc-441e-9e6c-45c0dc841ed5": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-10-30_1509_855.MP3",
-"l_1df71f8f-99aa-4583-b71f-8f99aaa583ec": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-9-9_845_1193.MP3",
-"l_2025124e-5e3a-4d8a-a512-4e5e3a2d8a89": "https://podkast.nrk.no/fil/juntafil/f0377b7c-d9be-4f83-822b-2129aa718b20_0_ID192MP3.mp3",
-"l_20af5dcf-4b0e-4619-af5d-cf4b0ef619ee": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0425-1012_6353401767.mp3",
-"l_214dc2d5-7514-4f79-8dc2-d57514df799f": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-23_0902_78.MP3",
-"l_217e7321-79d0-46cd-be73-2179d0f6cdd6": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-03-23_1803_4173.MP3",
-"l_219faf7b-227b-4379-9faf-7b227b53799f": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0117-0958_6352554979.mp3",
-"l_2431d651-da75-46e7-b1d6-51da7596e775": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_AAA8B346B2CA46A9B8FC7FA1DF3B86B7.MP3",
-"l_2583bc7b-d27d-4450-83bc-7bd27d1450e7": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_276DFCA0573E419193F127F1B612FAD6.MP3",
-"l_29ae7453-1623-43a5-ae74-53162383a551": "https://podkast.nrk.no/fil/juntafil/NRKDT63166_6BDE791F94934AFDA61E1E239C840C44.MP3",
-"l_29b984d7-0d74-49fd-b984-d70d7479fdc5": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-09-11_1456_3207.MP3",
-"l_2a48a2a3-5c0b-4905-88a2-a35c0b890537": "https://podkast.nrk.no/fil/juntafil/e74e31f6-a872-4f98-9cf4-50fab34e631d_0_ID192MP3.mp3",
-"l_2aa9b197-e864-401c-a9b1-97e864e01c61": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0926-0832_6351582442.mp3",
-"l_2cdd0e5b-c647-47c9-9d0e-5bc64707c95b": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-11-20_1200_2622.MP3",
-"l_2d6c5bf7-c654-470d-ac5b-f7c654470dfe": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-29_1458_4205.MP3",
-"l_2e02a4ef-4fc4-47cc-82a4-ef4fc467cced": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0214-0800_6349465414.mp3",
-"l_2f2139cf-6a21-4724-a139-cf6a21572437": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-18_1200_3136.MP3",
-"l_30545f87-b03f-438e-945f-87b03f238ee6": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-20_1142_4118.MP3",
-"l_30c95f74-7e2f-4ab5-895f-747e2f2ab5c7": "https://podkast.nrk.no/fil/juntafil/NRKDT60006_D254EF10A75A48C5AD0A590D356860A3.MP3",
-"l_315866a0-f4fb-42bc-9866-a0f4fb52bcbc": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-25_1200_3402.MP3",
-"l_31955e51-a4d0-4786-955e-51a4d08786df": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-03-03_1231_1998.MP3",
-"l_347cefe0-4f25-467e-bcef-e04f25b67e2b": "https://podkast.nrk.no/fil/juntafil/bfe46aa9-12f1-46c9-8462-cc17295c04df_0_ID192MP3.mp3",
-"l_3497eb60-63b2-478e-97eb-6063b2278e4a": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0509-0206_6353524132.mp3",
-"l_35539439-c70b-47ad-9394-39c70b77adc7": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_3906D9C2728C4896B1F20A84AAED1A35.MP3",
-"l_358bb927-a797-41b1-8bb9-27a79721b118": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-12_1120_3829.MP3",
-"l_35fc4c36-4890-4cf7-bc4c-3648901cf788": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-12-4_88_1780.MP3",
-"l_3891a920-97fd-4d9d-91a9-2097fd3d9d0e": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-1-29_1026_3188.MP3",
-"l_3ab045a2-0f3d-4283-b045-a20f3d52838c": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0925-0756_6354727198.mp3",
-"l_3b08ea88-8518-402d-88ea-888518c02d30": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0830-1020_6351345504.mp3",
-"l_3b3704aa-0273-440d-b704-aa0273e40d2f": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0109-0823_6352489592.mp3",
-"l_3b39ef38-54c6-46be-b9ef-3854c6f6be80": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_6344E3310D5A4462BF0B8676D93ACF98.MP3",
-"l_3cd31bbc-5d37-4952-931b-bc5d37e9526d": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-11-7_116_2188.MP3",
-"l_3d9d90d5-cd83-4830-9d90-d5cd832830ec": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1010-1148_6354853861.mp3",
-"l_3ef8c3f0-9d1e-4cda-b8c3-f09d1ebcda7c": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-01-13_0931_511.MP3",
-"l_3f604d2c-63e9-4788-a04d-2c63e9d788bf": "https://podkast.nrk.no/fil/juntafil/1b9c43c8-88a5-4e01-8900-8dbc9f2768e0_0_ID192MP3.mp3",
-"l_3fe5fe0b-75ac-4386-a5fe-0b75ac0386a5": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0920-0808_6348373984.mp3",
-"l_40331a10-2b9d-4d6a-b31a-102b9d6d6ab5": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1114-1054_6355155968.mp3",
-"l_411cb07b-d92a-4f04-9cb0-7bd92a9f04e3": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-4-15_927_2064.MP3",
-"l_426a1537-69ea-45ba-aa15-3769eab5ba1c": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1026-1029_6348684431.mp3",
-"l_4370fa6e-e774-4e97-b0fa-6ee7744e97e0": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-5-20_857_1909.MP3",
-"l_43d9d17b-18a0-4f00-99d1-7b18a0bf00b3": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0530-0820_6350554207.mp3",
-"l_4428eed7-a2dd-49ae-a8ee-d7a2dd39ae60": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0117-0946_6349405624.mp3",
-"l_446469d7-e84b-4db6-a469-d7e84b7db64c": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0831-1259_6348201500.mp3",
-"l_4494ed82-32db-4649-94ed-8232db664930": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-10_1220_3040.MP3",
-"l_45a44b9a-220b-4155-a44b-9a220ba1555c": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1004-0140_6351649086.mp3",
-"l_45b74acf-69e1-4aa1-b74a-cf69e18aa120": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_6AD66AB3945A4EADA5A304B68B387DBE.MP3",
-"l_460e088b-4914-40a4-8e08-8b4914a0a4e4": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0419-0817_6347046346.mp3",
-"l_487a9972-279d-4228-ba99-72279da22856": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-10-02_1143_3327.MP3",
-"l_489e23b5-b131-483c-9e23-b5b131983c6a": "https://podkast.nrk.no/fil/juntafil/NRKDT63212_EC13A43106CA486D9E0B7A6E96DF8923.MP3",
-"l_4974b4ec-4d70-4f2f-b4b4-ec4d701f2f00": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1025-1134_6351829783.mp3",
-"l_49d6adf9-ffd5-4b02-96ad-f9ffd58b026e": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0623-1227_6353912345.mp3",
-"l_4b643ba9-ec75-4a07-a43b-a9ec754a070a": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0822-0838_6351280078.mp3",
-"l_4b7204fb-b47c-4431-b204-fbb47ce4310c": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0410-0734_6353275540.mp3",
-"l_4f649d61-c89d-4158-a49d-61c89df1581d": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_AA37D7D7D753491E8645C33CF835B173.MP3",
-"l_506b875d-b5af-476c-ab87-5db5af276c5b": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0207-1009_6352736477.mp3",
-"l_51e01745-dace-4375-a017-45daceb37521": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1221-0356_6349170254.mp3",
-"l_521580ea-3f45-43b5-9580-ea3f45d3b50d": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1109-1250_6348806236.mp3",
-"l_528c493e-bb2f-401d-8c49-3ebb2f801d7c": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_653E4DCDD7D54D3696836C3AFB4ECE24.MP3",
-"l_53705321-ef42-4eab-b053-21ef426eabd0": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-02-26_1830_1887.MP3",
-"l_54b61c21-6994-4c77-b61c-2169943c7723": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1213-0122_6352253790.mp3",
-"l_558de31f-6100-4ebb-8de3-1f61002ebb20": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-17_1100_1907.MP3",
-"l_59c1351f-fe9a-46d7-8135-1ffe9a46d7ba": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1121-0839_6352066325.mp3",
-"l_5a517f08-7115-4a70-917f-087115ca7070": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-03_1210_350.MP3",
-"l_5b4544e0-4646-4788-8544-e04646e78823": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-4-22_824_2819.MP3",
-"l_5e6ce0d9-5a93-4fdf-ace0-d95a93cfdf30": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-09-04_1449_2607.MP3",
-"l_5ffa5bea-20ef-4118-ba5b-ea20ef71188a": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-10-7_844_2209.MP3",
-"l_625d3b19-8cd2-4b78-9d3b-198cd2eb78c0": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1027-0415_6355002339.mp3",
-"l_62cdb3e8-e112-402a-8db3-e8e112a02a62": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1111-0317_6351977999.mp3",
-"l_6427d843-a2c1-4629-a7d8-43a2c18629ea": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0228-0818_6349767962.mp3",
-"l_659fedee-47c4-4352-9fed-ee47c4b352f5": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0620-0823_6350735666.mp3",
-"l_660fdd29-6531-4ea3-8fdd-296531eea3c1": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0315-1118_6349894317.mp3",
-"l_67387237-044f-4e57-b872-37044f5e57ef": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-08_1128_1737.MP3",
-"l_6851beb3-ed5d-4d27-91be-b3ed5d2d2719": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_568D89A4B626432CA615CFBB2B743941.MP3",
-"l_6ad39c51-0e8a-4504-939c-510e8ae504d2": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-4-8_735_3200.MP3",
-"l_6c7f60e3-f295-407f-bf60-e3f295007f5a": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_A0A932E665B64A0C8446732E045907F8.MP3",
-"l_6c836f1b-fe2c-48ae-836f-1bfe2cd8ae93": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1101-1017_6351889800.mp3",
-"l_7081ad9d-b6f7-400e-81ad-9db6f7700ed0": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1129-1043_6352131876.mp3",
-"l_723c78f2-da5e-4182-bc78-f2da5e718242": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_06611BFFE0CE4BCDABD767E3CCBBD9A9.MP3",
-"l_7286a9d6-cd06-4cab-86a9-d6cd06ccab73": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0307-0849_6349828636.mp3",
-"l_74f1c13d-ac29-4877-b1c1-3dac29f877a3": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1011-0945_6351708169.mp3",
-"l_7615c16c-3ef0-451f-95c1-6c3ef0751f4b": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1128-0207_6355278053.mp3",
-"l_77bf2b77-5afe-472e-bf2b-775afe972e90": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-02-10_1316_2590.MP3",
-"l_77d28893-10d0-45ac-9288-9310d055acb4": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0523-0815_6350493709.mp3",
-"l_79bfe897-13bc-4265-bfe8-9713bc12650e": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_EC70359C95094FC587BF8DB65911EBD4.MP3",
-"l_7bd7a6be-d402-4b60-97a6-bed402ab6020": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0606-1053_6353764930.mp3",
-"l_7e0865a1-ac0a-4f2e-8865-a1ac0a8f2ec0": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0111-1141_6349350129.mp3",
-"l_7e180bc0-be37-477d-980b-c0be37077d77": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0522-1214_6350482171.mp3",
-"l_7e2f4e4d-d55e-43c0-af4e-4dd55e33c052": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-01-31_1346_3023.MP3",
-"l_7f1adc93-3158-43e5-9adc-93315813e512": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1031-0148_6355036054.mp3",
-"l_8045f473-86e5-41aa-85f4-7386e531aa21": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-19_1318_2471.MP3",
-"l_8064f7e4-4a27-485c-a4f7-e44a27c85cb5": "https://podkast.nrk.no/fil/juntafil/a7426bd3-11b4-4701-ab76-b148fe6163f9_0_ID192MP3.mp3",
-"l_80c6debc-994f-4e1c-86de-bc994f5e1c6c": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-10-09_1153_1224.MP3",
-"l_80f8a844-9563-4ff3-b8a8-449563aff364": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0322-0748_6346804292.mp3",
-"l_810abbab-d544-4afd-8abb-abd544cafd89": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0814-0727_6354364133.mp3",
-"l_81990b74-f3c5-4d2e-990b-74f3c59d2e3a": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-8-19_1139_2632.MP3",
-"l_8226eee9-0603-4b38-a6ee-e906037b38d9": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0606-0755_6350614537.mp3",
-"l_857f9df8-ebdd-49d7-bf9d-f8ebdd69d727": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0614-0815_6347530187.mp3",
-"l_87446691-9866-4f4a-8466-9198667f4a68": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0228-0728_6352916971.mp3",
-"l_876a50a5-53bb-41c5-aa50-a553bb91c524": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1219-0101_6355459100.mp3",
-"l_883d44ce-06e7-4ac3-bd44-ce06e76ac311": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0502-0807_6350312220.mp3",
-"l_8a5e89e7-ea58-4d2c-9e89-e7ea581d2c41": "https://podkast.nrk.no/fil/juntafil/7c0446cf-0857-4bed-9a5c-4e1237ddb424_0_ID192MP3.mp3",
-"l_8caacddc-a65b-46f5-aacd-dca65bb6f564": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-02-17_1005_251.MP3",
-"l_8eafb88d-d677-4876-afb8-8dd677187689": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-11-27_1239_2870.MP3",
-"l_8f57b77f-bde3-43cb-97b7-7fbde333cbfe": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0817-0132_6348080740.mp3",
-"l_8ffab45e-cb6a-4a07-bab4-5ecb6a7a074e": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0411-0800_6350129805.mp3",
-"l_902f63f7-2e64-4f3e-af63-f72e64ff3ec4": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-12-11_941_1942.MP3",
-"l_92422441-4f47-4c7f-8224-414f475c7f1b": "https://podkast.nrk.no/fil/juntafil/NRKDT63838_6A02D386309748AAB641668D22FD8D9A.MP3",
-"l_92c5e4cb-0c6f-4562-85e4-cb0c6fc5622c": "https://podkast.nrk.no/fil/juntafil/762d11ae-71fc-4b1f-b65d-5f8eed0481a8_0_ID192MP3.mp3",
-"l_944e7405-aba5-45c0-8e74-05aba5f5c013": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-11-11_933_2625.MP3",
-"l_947fbc8b-1402-4bcf-bfbc-8b1402cbcf84": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1115-1038_6352010898.mp3",
-"l_94fcb26f-309a-4aac-bcb2-6f309a2aac9a": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0201-0221_6349532541.mp3",
-"l_950e090c-0b65-47fe-8e09-0c0b6557fef1": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-08-21_1317_2200.MP3",
-"l_9599b567-804e-47b4-99b5-67804e37b4ed": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-10-23_1024_1738.MP3",
-"l_96110e43-87cf-4520-910e-4387cf95209f": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0329-0813_6346864883.mp3",
-"l_9748479e-7d5d-4c31-8847-9e7d5d8c316a": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0321-0802_6349949296.mp3",
-"l_9769064c-52ff-455a-a906-4c52ff655ae2": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1101-0800_6348731691.mp3",
-"l_977cdf8c-05b3-40f6-bcdf-8c05b350f60e": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-24_1100_3578.MP3",
-"l_97d379d3-3c2e-4f6c-9379-d33c2e0f6c41": "https://podkast.nrk.no/fil/juntafil/ff5a97fc-0c86-4b05-a8de-849ae0fa6a81_0_ID192MP3.mp3",
-"l_9849d3b2-e6db-4a4b-89d3-b2e6db2a4b16": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1207-1121_6349047642.mp3",
-"l_98cc55f3-9f6d-4251-8c55-f39f6d02513d": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0220-0719_6352852080.mp3",
-"l_9ac86b37-13cc-492c-886b-3713cc392c8b": "https://podkast.nrk.no/fil/juntafil/eee71e0b-9658-43af-9f0a-8af96bb541ef_0_ID192MP3.mp3",
-"l_9b5ce4e9-176d-4084-9ce4-e9176d408459": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-08_1103_4072.MP3",
-"l_9db92bd6-ab0c-4157-b92b-d6ab0cd15761": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-9-2_749_762.MP3",
-"l_9f0bef04-b9fd-4580-8bef-04b9fd6580b3": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-09-25_1125_1712.MP3",
-"l_9f1ef269-2bf4-41be-9ef2-692bf471be5e": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1129-0827_6348981768.mp3",
-"l_a0b8b8d2-bb8b-4c12-b8b8-d2bb8b5c121e": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-10_1000_2912.MP3",
-"l_a18b2317-1445-4eb9-8b23-1714454eb96d": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0613-0834_6350675255.mp3",
-"l_a1a14caa-5d6a-4f13-a14c-aa5d6a8f137d": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0213-0700_6352789092.mp3",
-"l_a2fd2c26-396c-4264-bd2c-26396c526404": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0913-1007_6351466378.mp3",
-"l_a31e908c-2431-4cd1-9e90-8c2431acd1af": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-05_0914_2854.MP3",
-"l_a41954a1-cce4-45f4-9954-a1cce415f458": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-22_1435_1777.MP3",
-"l_a56a6e43-f4cc-480e-aa6e-43f4ccf80ea0": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0307-0709_6352977307.mp3",
-"l_a7a37d3e-6e03-4e64-a37d-3e6e030e64e6": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0905-1049_6354551120.mp3",
-"l_abf950d0-1106-437f-b950-d01106937f83": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-17_1241_2109.MP3",
-"l_ad766721-edf3-4311-b667-21edf3331158": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0511-1200_6347233455.mp3",
-"l_afa0bf13-eef2-4af1-a0bf-13eef23af11f": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0829-0116_6354491537.mp3",
-"l_afe72022-2cdf-4344-a720-222cdf7344df": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_B7D840FB96C9417AB39AF87A0D980532.MP3",
-"l_b1bf3cbe-3cc9-4f73-bf3c-be3cc9bf738c": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-11_1216_2278.MP3",
-"l_b38ac5a1-b60a-4283-8ac5-a1b60a128357": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0616-1159_6353851696.mp3",
-"l_b3bc0b50-17a3-40a1-bc0b-5017a3e0a17c": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-29_1131_3468.MP3",
-"l_b8d6eed5-a85e-4ea6-96ee-d5a85ecea6b2": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-20_1135_1981.MP3",
-"l_ba0ae275-dcbe-4d8e-8ae2-75dcbe9d8e86": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0503-0827_6347167377.mp3",
-"l_bf73df52-74a2-4b70-b3df-5274a20b70c8": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-06_1104_3787.MP3",
-"l_c0077acf-fd26-47c7-877a-cffd2637c7a6": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-11-24_180_1409.MP3",
-"l_c1b382d9-34e4-4e58-b382-d934e48e5824": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-6-10_956_3672.MP3",
-"l_c5ed2ba9-3d1e-4ddd-ad2b-a93d1e8dddd7": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0207-0800_6349436726.mp3",
-"l_c699260b-cd11-45d8-9926-0bcd1145d8e4": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-03-01_1038_3209.MP3",
-"l_c9b67fb5-e5af-4376-b67f-b5e5af83767c": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-22_1100_1372.MP3",
-"l_cc48dbe8-4372-4154-88db-e843728154dd": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-07-10_0600_1487.MP3",
-"l_ce1c3563-6b8e-41f8-9c35-636b8ec1f8db": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-12-04_1519_3225.MP3",
-"l_ce6bacc2-3f3d-4a02-abac-c23f3d3a02b1": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-13_1046_3764.MP3",
-"l_cf7a6126-2d15-4dc8-ba61-262d15ddc80b": "https://podkast.nrk.no/fil/juntafil/NRKDT65905_85BD812599774333939AF2E3E95961B3.MP3",
-"l_d01f43d0-c75e-4446-9f43-d0c75e6446f8": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0123-0700_6352602666.mp3",
-"l_d059b082-8c64-49be-99b0-828c64d9be92": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0221-0815_6349707472.mp3",
-"l_d09252b9-daaf-483c-9252-b9daafd83c03": "https://podkast.nrk.no/fil/juntafil/4d2135bd-ade8-4468-b4e6-8af3cf080daf_0_ID192MP3.mp3",
-"l_d1bd9234-8630-4eeb-bd92-3486304eeb77": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-04_1204_1139.MP3",
-"l_d20ac1d7-4985-4f1b-8ac1-d749854f1b59": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1213-0831_6349102748.mp3",
-"l_d2561a78-24ae-4295-961a-7824ae2295d3": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-27_1411_350.MP3",
-"l_d47bd784-f887-4335-bbd7-84f8870335c1": "https://podkast.nrk.no/fil/juntafil/NRKDT63212_ACBC00BB261547FA87743311B21DD08B.MP3",
-"l_d5ca22a8-0335-4c57-8a22-a80335fc576d": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1004-0830_6348497945.mp3",
-"l_d740c65f-9d73-4c9a-80c6-5f9d73ac9ab6": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0502-0301_6347156840.mp3",
-"l_d79b6081-cf08-437e-9b60-81cf08737eae": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-11-19_180_4235.MP3",
-"l_d7f52fdd-05f6-4511-b52f-dd05f6851164": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-06_1218_1842.MP3",
-"l_dad2f334-bac2-4b1a-92f3-34bac21b1a1b": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0815-0810_6351219428.mp3",
-"l_db9b17f7-2728-4112-9b17-f7272851125d": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1121-1257_6355217155.mp3",
-"l_df4cbcb8-0c5e-413c-8cbc-b80c5ed13c7a": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1011-0825_6348558394.mp3",
-"l_e0006794-c719-46f6-8067-94c71996f6b1": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-11-06_1306_1890.MP3",
-"l_e1ae73a9-c51e-4c1f-ae73-a9c51e9c1f92": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-07-24_0600_3366.MP3",
-"l_e1b5b709-23af-48d0-b5b7-0923af98d042": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-11-13_1405_4172.MP3",
-"l_e1d01a50-1913-426d-901a-501913c26d37": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0918-0700_6354663573.mp3",
-"l_e2ccb3d2-aa94-47ce-8cb3-d2aa9467cec9": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-12-9_1155_1484.MP3",
-"l_e4717115-de08-42a6-b171-15de0872a64e": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0516-1032_6353583324.mp3",
-"l_e6453545-e116-4cd6-8535-45e1160cd694": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-26_1441_758.MP3",
-"l_e6f4a97a-d236-421c-b4a9-7ad236621c61": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1018-1018_6351768860.mp3",
-"l_e792703b-3240-49b5-9270-3b324039b57d": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0912-1131_6354611845.mp3",
-"l_e7d1eed0-97c5-474d-91ee-d097c5774d1e": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0822-1145_6354430484.mp3",
-"l_e7f0474a-2f9b-48cd-b047-4a2f9b38cda5": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0824-1008_6348139985.mp3",
-"l_e8c62e4a-43c4-49a5-862e-4a43c459a5a8": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-1-7_1825_1766.MP3",
-"l_e90f86a7-7b48-4383-8f86-a77b489383b0": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1107-1051_6355095437.mp3",
-"l_e9f815b5-509c-4394-b815-b5509cc394a6": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-12-18_751_3654.MP3",
-"l_ea64f5a2-3ab1-4552-a4f5-a23ab18552d0": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0404-0836_6350070472.mp3",
-"l_eb0e8575-e6e8-491d-8e85-75e6e8391d89": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_1A020E705BA043868CCC3115A7093EB4.MP3",
-"l_ee190977-1a36-48aa-9909-771a36f8aa65": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-6-20_1650_741.MP3",
-"l_ee7992f3-7eda-4eab-b992-f37eda6eabb3": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-13_1209_2314.MP3",
-"l_f08705e7-cda6-4172-8705-e7cda6117218": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0810-0233_6348020629.mp3",
-"l_f23163f8-1db1-4350-b163-f81db1435090": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-10-30_955_3519.MP3",
-"l_f2721442-c8ec-4eff-b214-42c8ec9eff17": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0523-1057_6353643968.mp3",
-"l_f411f49b-708d-4a2d-91f4-9b708d7a2deb": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_F0F2FBB3F3574B5485498043395A8EF9.MP3",
-"l_f52d8143-4467-4f42-ad81-434467df42d0": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-16_1317_982.MP3",
-"l_f565344b-4e71-455b-a534-4b4e71055bc9": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-9-28_1242_4105.MP3",
-"l_f5ea0950-98ac-4d4b-aa09-5098ac6d4bb0": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-24_1131_1361.MP3",
-"l_f6cf314f-8203-4d31-8f31-4f82032d3167": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_BA9BA0FC2B7E46E5904D94B3C3F427F9.MP3",
-"l_f81e351f-1b39-4590-9e35-1f1b39c59094": "https://podkast.nrk.no/fil/juntafil/20879546-6989-460e-a1bb-32fecb4e7d2c_0_ID192MP3.mp3",
-"l_f868e109-130f-4126-a8e1-09130f912677": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0601-0215_6347415733.mp3",
-"l_f8b0fd20-180d-4811-b0fd-20180d481144": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-11-18_955_4225.MP3",
-"l_f8df6183-bd63-4d81-9f61-83bd63bd81c7": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-1-25_1645_50.MP3",
-"l_fa79e277-72d6-4b02-b9e2-7772d6eb02cb": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-11-27_836_92.MP3",
-"l_fc94c135-202a-4b81-94c1-35202a8b8156": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-03_1135_768.MP3",
-"l_fc959ed1-0df4-4fda-959e-d10df41fda4c": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_01FD90CCAEFC455992D771C31CE0C04A.MP3",
-"l_ff6301ce-d390-4b56-a301-ced3901b56c2": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0316-0304_6346750715.mp3"
+"episodes": {
+"l_0109ba1e-cf23-4d89-89ba-1ecf23cd89c0": {
+"d": "2019-08-28T16:05:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 422,
+"s": "En våt flekk skaper en mystisk stemning underveis i en jomfrutur.",
+"t": "Kjappis: Mysteriet om den våte flekken",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-08-28_1405_2090.MP3"
+},
+"l_018f1503-a76e-4bfe-8f15-03a76e0bfec3": {
+"d": "2012-09-14T10:04:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3809,
+"s": "Det er ingen tvil om at det er viktig å varme opp til sex, spesielt for jenta. Men hvordan gjør man det egentlig? En måte er oralsex, men det er ikke bare bare. Vår reporter Christian finner konkrete tips til hva du bør gjøre når du skal gå ned på en jente. Du får vite ting som hvor du skal ha hendene og hva du bør gjøre med tunga. Dagens panel kommer innom og forteller hva de liker og hva de ikke liker, når det kommer til oralsex. Som alltid svarer vi på dine spørsmål om sex, kropp og følelser. I tillegg får vi høre hvordan man skal få pult i Frankrike og ikke minst hvordan det har gått med 21 år gamle Nikoline og hennes singelliv.  ",
+"t": "Oralsex",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0914-0804_6348320705.mp3"
+},
+"l_024a9834-ae15-4851-8a98-34ae15085191": {
+"d": "2016-05-06T12:23:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2751,
+"s": "Sølibatperioden er endelig over for Thea og Christian. Vi får høre hvordan den først runken og sexen var etter fire uker med sølibat. Vi blir også kjent med et kjærestepar som har vært kjærester siden jul, men som ikke har utvekslet telefonnummer. Vi får høre både hvordan de gjøre det og hvorfor. ",
+"t": "Endelig sex!",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-5-6_1023_421.MP3"
+},
+"l_09f01c16-a86b-4091-b01c-16a86b209119": {
+"d": "2016-03-11T09:15:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2461,
+"s": "Vi snakker hevnsex og grunner til å ha sex, og Nils Petter fra Sex og samfunn svarer på alt som kommer av spørsmål, alt fra å tenne på føtter til å svare på hvor dyp en vagina egentlig er.",
+"t": "Hvor dyp er vagina?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-3-11_815_3321.MP3"
+},
+"l_0b3ed5b7-f6cd-4678-bed5-b7f6cdb67809": {
+"d": "2013-12-05T21:30:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 4095,
+"s": "Vi får studio proppfullt av gutter og jenter som svarer på alle rare, fine og pinlige spørsmål. SUSS-lege Ida tar ansvar for de medisinske spørsmålene. Masse rart og moro. Reporter Line sjekker om folk har hatt sex i snøen. ",
+"t": "Kroppen til det motsatte kjønn",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1205-0830_6352187246.mp3"
+},
+"l_0c9a364d-6c82-44c0-9a36-4d6c82c4c0e9": {
+"d": "2012-11-22T21:16:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3655,
+"s": "\nDagens panel forteller hvor mye de egentlig ser på porno, og ikke minst hvordan det var første gang de så det. I tillegg får vi vite om de hadde tatt sjansen på å spille inn en amatørpornofilm. Reporter Marie kartlegger hva som finnes av porno der ute, og ikke minst hvordan man kan skille mellom god og dårlig porno. Charlotte Myrbråten fra Fett er innom og forteller om de negative sidene ved porno. \n",
+"t": "Porno ",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1122-0816_6348921219.mp3"
+},
+"l_0cdc7e68-47f8-4c94-9c7e-6847f81c94fb": {
+"d": "2019-04-15T13:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1185,
+"s": "Kan prevensjonsmidler ødelegge for hverandre? Kan vi rett og slett ta i for hardt, og dermed bli mindre sikre? Sex og Samfunn svarer på spørsmål om sex, kropp og følelser. ",
+"t": "Q&A: For mye prevensjon og for våt",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-15_1100_1211.MP3"
+},
+"l_0d10c719-dd62-4f11-90c7-19dd628f1126": {
+"d": "2012-06-21T22:50:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3071,
+"s": "Dagens panel har testa guttevibrator og dildo laget av stål. De kommer i studio og forteller om det funka eller ikke, i tillegg snakker vi også om sexleketøy i forhold til partner. Repporter Jonas har vært på kondomeriet og fått høre om alle nyheter som finnes i den rare butikken. Caroline Andersen, stripper og pornestjerne, forteller hva det vil si å være \"fluffer\" på en filminnspilling og SUSS svarer på alle spørsmål om sex, kropp og følelser. ",
+"t": "Sexleketøy",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0621-0850_6347590879.mp3"
+},
+"l_0db80272-aebf-4afe-b802-72aebfaafe90": {
+"d": "2014-12-15T13:21:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2920,
+"s": "Vi sjekker om det er tid til en runde i høyet i disse eksamensperioder. Først får vi besøk av Nora som forteller om dumpehistorier som har kommet inn til P3 og vi får høres strippernes pinligste historier. Per Olav er innom og svarer på spørsmål om sex, kropp og følelser. ",
+"t": "Eksamensex",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1215-1221_6355424306.mp3"
+},
+"l_0dbd20f8-44e9-4223-bd20-f844e98223c4": {
+"d": "2012-04-18T13:27:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1717,
+"s": "Reporter Christian har prøvd seg som aktmodell... Nikoline og Ole Martin i panelet forteller om første gangen de måtte være nakne sammen med noen andre. Det blir sexnyheter og SUSS svarer på spørsmål om… mat!!! NEIDA: sex/kropp og følelser så klart! (Jonas er vikar)",
+"t": "Kroppsbilde",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0418-1127_6347034564.mp3"
+},
+"l_0fea4d49-9625-4d8a-aa4d-4996250d8a7b": {
+"d": "2013-12-20T11:09:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3917,
+"s": "Vi får høre Ola Martin fortelle om dagen han ble knust av sjalusi, Oda om hvordan det er å ikke bli sjalu og reporter Line finner ut av hvordan man kan bli kvitt sjalusien. I tillegg får du vite ALT om det å ha tre brystvorter og masse andre ting når SUSS-legen svarer på spørsmål!",
+"t": "Sjalusi",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1220-1009_6352313195.mp3"
+},
+"l_10b39d35-0df4-40fe-b39d-350df420febe": {
+"d": "2013-01-24T20:50:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2569,
+"s": "Hva skal man gjøre med hendene når man har sex? Vi snakker runking og fingring med panelet. Er en blind person bedre med hendene under sex? Hvordan er det å være kristen og forelska? Og SUSS svarer på spørsmål om sex, kropp og følelser.",
+"t": "Hendene",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0124-0750_6349465389.mp3"
+},
+"l_10d159c0-93df-4729-9159-c093df67297b": {
+"d": "2019-09-18T17:22:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 426,
+"s": "Nora har aldri fått det til før, men nå har et par invitert henne til å squirte sammen med dem. ",
+"t": "Kjappis: Enhjørningen som skulle squirte",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-09-18_1522_3995.MP3"
+},
+"l_12d79723-ffc4-448d-9797-23ffc4348ddf": {
+"d": "2013-04-18T21:59:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2891,
+"s": "Blir vi egentlig kåtere om våren? Grete finner ut hvorfor jenter merker at de blir våryre, mens gutter føler seg ganske like. Panelet forteller om hvordan det føles inni kroppen når man blir yr. Konkurransen ”Kroppen min” – og SUSS svarer på meldingene deres om sex, kropp og følelser!",
+"t": "Våryr",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0418-0759_6350191206.mp3"
+},
+"l_1476da23-1ead-41c2-b6da-231ead11c2fb": {
+"d": "2012-09-06T22:44:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3918,
+"s": "Det som ikke er vanlig for alle er dagens tema, nemlig fetisjer. Vi treffer Anne som driver med BDSM og liker å bli hengt opp i lenker og slått over flere timer. Reporter Jonas gir deg en liste på fetisjer som han mener ikke er vanlig å drive med og dagens panel forteller hva for fetisjer de har. Det kan fristes (?) med at den ene deltageren ble hardt skadd under en god runde med røff sex. SUSS svarer også som alltid på dine spørsmål. Last ned og ta deg en runk! ",
+"t": "Fetisjer",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0906-0844_6348256113.mp3"
+},
+"l_158a8645-fe3f-4f4e-8a86-45fe3fdf4e69": {
+"d": "2013-04-25T22:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2970,
+"s": "Grete har laget en Topp3-beste-sex-stillinger-for-lesbiske. Panelet forteller om hvilke stillinger de liker, hvilke de ikke liker, og hvilke de har prøvd som ikke funka! Konkurransen Kroppen min! OG SUSS svarer på meldinger om sex, kropp og følelser",
+"t": "De beste sexstillingene",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0425-0800_6350250123.mp3"
+},
+"l_1763f4e5-19de-4150-a3f4-e519de715038": {
+"d": "2012-09-27T22:23:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3645,
+"s": "Vår reporter Jonas tar en tur til en videregående skole for å finne ut om man faktisk blir kalt hore om man er jente og har ligget med ”for mange”. Og hvordan er det med gutta? Dagens panel kommer innom og forteller hvor mange de selv har ligget med, og når de synes det blir for mye. Kunne Mathilde blitt sammen med en som har ligget med 100 stykker? Og kan Espen bli sammen en som ikke har ligget med noen andre før? Det er også massevis av SMS’er som blir besvart av våre flotte SUSS-leger. Og masse masse mer gøy! ",
+"t": "Hvor mange kan man ligge med?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0927-0823_6348437421.mp3"
+},
+"l_176ba4de-7d13-4ac1-aba4-de7d136ac10a": {
+"d": "2014-12-08T15:16:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2733,
+"s": "Karen prøver ut alternativet til bind og tamponger, nemlig menskoppen. SUSS-legen Kristina svarer på spørsmål som har kommet inn til Juntafil tidligere. Vi fokuserer også på gutta hvor vi får et tilbakeblikk til reporter Marie som besøkte operasjonsalen hvor gutter blir omskåret. ",
+"t": "Vi tester menskopp",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1208-0216_6355364521.mp3"
+},
+"l_184bc4bb-d922-41d8-8bc4-bbd92251d8ee": {
+"d": "2019-05-27T13:59:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 914,
+"s": "Kan menn squirte? Og er det vanlig å ha sex i søvne? Stine fra Sex og Samfunn er innom for denne ukas Q&A.",
+"t": "Q&A: Kan menn squirte?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-27_1159_1235.MP3"
+},
+"l_18d93055-4cec-48ee-9930-554cec88ee42": {
+"d": "2012-06-08T11:24:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2802,
+"s": "Hva skal man egentlig si når man går bort til den peneste personen man kjenner? Og skal man i det hele tatt gå bort? Kanskje vente til hun eller han ser deg? Juntafil gir deg de viktigste sjekketipsene gjennom gutta fra nettsiden 0330.no. Dagens panel diskuterer om jenter kan sjekke opp gutter og forteller sine pinlige sjekkehistorier. I tillegg forteller Pornostjerne Caroline Andersen om det å spille inn sexscener på 6 timer OG vi svarer på SMS sammen SUSS-legene.  ",
+"t": "Sjekking",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0608-0924_6347474455.mp3"
+},
+"l_1921000f-18fb-474f-a100-0f18fb174fc4": {
+"d": "2019-04-01T13:03:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1244,
+"s": "Stine fra Sex og Samfunn svarer på alt fra orgasme på egenhånd til analfissurer. Og hvordan skal man egentlig takle at legen ikke tar deg på alvor? ",
+"t": "Q&A: Flass på tissen, analfissurer og klining",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-01_1103_822.MP3"
+},
+"l_1a1354de-8ed0-4647-9354-de8ed056477e": {
+"d": "2014-10-03T14:31:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2936,
+"s": "SUSS-lege Erik er på plass og svarer på spørsmål om dogging, smittefare og kåthet. Jonas får folk på gata til å sammenligne sin første sex med den de hadde sist. Vi finner ut hvorfor vi er så opptatt av å lukte godt og hvordan det påvirker jakten på en å ligge med. ",
+"t": "Din første sex vs den du hadde sist",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1003-1231_6354793647.mp3"
+},
+"l_1b3793a0-7fcf-41d9-b793-a07fcf11d919": {
+"d": "2019-07-17T08:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 324,
+"s": "Thea visste at han skulle ha en stor penis, men var ikke forberedt på at hun ville bli nødt til å tisse. ",
+"t": "Kjappis: Megapikken",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-07-17_0600_0.MP3"
+},
+"l_1cba450c-e6ed-4011-ba45-0ce6ed2011c2": {
+"d": "2014-01-31T11:05:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2774,
+"s": "Vi får besøk av Rune fra Filmpolitiet som skal anmelde pornofilmen \"Pirates\", er det bedre sex der enn i filmen \"Nymphomaniac\" som er kjent for sine ville sexscener? Vi treffer også Isbaell som squirter. Hun gjør det faktisk så mye at det er litt komfortabelt. Vi svarer også på en drøss av spørsmål. Alt fra klamydia til nattsvette.",
+"t": "Pornoanmeldelser og squirt",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0131-1005_6352676031.mp3"
+},
+"l_1cc60294-062d-4548-8602-94062db54841": {
+"d": "2015-06-26T14:24:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2477,
+"s": "Hvordan er det å leve med bare én pupp? Mia fikk brystkreft for ett år siden og forteller om hvordan det er å miste pupp, hår og sexlyst. I tillegg til dette blir det erotisk eventyr, Sex og Samfunn svarer på spørsmål om sex, kropp og følelser, og vi får høre hvordan det går med Linn som er gravid.",
+"t": "Pupp, hår og sexlyst",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_5A87522F646E4BEA9DC52571F4BACA98.MP3"
+},
+"l_1d833538-31df-4b25-8335-3831df0b256d": {
+"d": "2016-04-29T09:01:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2640,
+"s": "Vi møter bronies og snakker om seksuelle fantasier. Det blir prat om sølibat med Thea og Christian som nå har gått tre uker uten sex og onani. Og selvfølgelig er Sex og samfunn her for å svare på spørsmål.",
+"t": "Kåthet og My Little Pony",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-4-29_71_2741.MP3"
+},
+"l_1d9e6c45-c0dc-441e-9e6c-45c0dc841ed5": {
+"d": "2019-10-30T16:09:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1666,
+"s": "Vi hører det støtt og stadig, og det med god grunn; snakk om det! Fortell hva du føler! Si hva du liker! \nKanskje er det det beste rådet, for når man får det til så funker det. Men, det er også det verste rådet. For hvordan gjør man det? Hvordan snakke om sex på en ikke-klein og ok måte?",
+"t": "Det beste og det verste rådet: Snakk om det!",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-10-30_1509_855.MP3"
+},
+"l_1df71f8f-99aa-4583-b71f-8f99aaa583ec": {
+"d": "2016-09-09T10:45:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2880,
+"s": "Vi får besøk av en gjeng med gutter og en gjeng med jenter som skal fortelle om sine preferanser når det kommer til antall minutter og sex. I tillegg for vi alle til å love at de skal fortelle sannheten når spørsmålet om hvor lenge de selv har sex, dukker opp. Trine fra Sex og samfunn er også på plass og svarer på dine spørsmål. ",
+"t": "Hvor lenge skal et samleie egentlig vare?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-9-9_845_1193.MP3"
+},
+"l_2025124e-5e3a-4d8a-a512-4e5e3a2d8a89": {
+"d": "2020-02-13T12:08:00+01:00",
+"i": "https://gfx.nrk.no/FbXJKvU_9nZpBqodztVf6AgUJamEU1doZ_Rb5jwgOxjQ",
+"n": 1997,
+"s": "Mange fantaserer om trekanter, men opplever at det bare blir krøll i virkeligheten. Hvordan ha en god trekant?",
+"t": "En brukerguide til trekant ",
+"u": "https://podkast.nrk.no/fil/juntafil/f0377b7c-d9be-4f83-822b-2129aa718b20_0_ID192MP3.mp3"
+},
+"l_20af5dcf-4b0e-4619-af5d-cf4b0ef619ee": {
+"d": "2014-04-25T12:12:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2423,
+"s": "Vi har premiere på ny serie hvor du treffer Emilie som nå er 17 år. Da hun var 16 ble hun gravid og bestemte seg for å beholde barnet. I denne sendingen får du høre første og andre episode. Vi tar også for oss det å være våryr og treffer derfor tre søte russejenter og hører hvordan det står til med de. Spørsmålene om sex, kropp og følelser renner inn og vi svarer på alle. ",
+"t": "Ung og gravid",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0425-1012_6353401767.mp3"
+},
+"l_214dc2d5-7514-4f79-8dc2-d57514df799f": {
+"d": "2019-06-23T11:02:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3120,
+"s": "Årets viktigste begivenhet er kommet og Juntafil er på plass! Vi sender direkte fra Pride-paraden i Oslo og stemningen er på topp! Vi får besøk av drag queen Salty, Niklas Baarli, skeivpanelet og Sex og Samfunn. Happy Pride!",
+"t": "Juntafil i Pride-paraden!",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-23_0902_78.MP3"
+},
+"l_217e7321-79d0-46cd-be73-2179d0f6cdd6": {
+"d": "2017-03-23T19:03:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2221,
+"s": "Hvor mye utflod er det vanlig å ha? Og hva kan de gule flekkene på forhuden være? Sex og Samfunn svarer på dette og mye annet. Og i tillegg sjekker reporter Remi ut hvor stor klitoris egentlig er. ",
+"t": "Hvor stor er klitoris?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-03-23_1803_4173.MP3"
+},
+"l_219faf7b-227b-4379-9faf-7b227b53799f": {
+"d": "2014-01-17T10:58:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3872,
+"s": "Hvordan er det for jenter om man kommer for tidlig? Og hva er for tidlig? Vi får besøk av Maren og Andreas som forteller om sine erfaringer og sine teknikker. Reporter Lars Erik finner ut hvorfor det kun er de siste tiårene vi har snakket om tidlig utløsning. Hvorfor var ikke dette en snakkis før på 70-tallet? SUSS-legen forteller at det finnes noen som er allergiske mot orgasme og masse annet moro!",
+"t": "Tidlig utløsning",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0117-0958_6352554979.mp3"
+},
+"l_2431d651-da75-46e7-b1d6-51da7596e775": {
+"d": "2015-08-28T12:37:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2633,
+"s": "I dag skal du få høre gode og dårlige grunner til å ha sex! For ikke tro at det bare finnes et par. Det er hele 237 grunner til å ha sex! Vi treffer også Yngvil som forteller om sitt verste breakup og som alltid blir det snakk om sex, kropp og følelser med Sex og samfunn.",
+"t": "237 grunner til å ha sex",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_AAA8B346B2CA46A9B8FC7FA1DF3B86B7.MP3"
+},
+"l_2583bc7b-d27d-4450-83bc-7bd27d1450e7": {
+"d": "2015-04-23T20:59:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2920,
+"s": "Vi snakker om kjønnssykdommer i starten av dagens sending. Det er panelet som forteller hva de har hatt og hvordan de fortalte det til de som måtte vite. Vi svarer også på spørsmål om sex, kropp og følelser med Nils Petter fra Sex og samfunn. Og reporter Remi finner ut at man kan få faktiske skader av å ha kjærlighetssorg. Men kan man dø av det? ",
+"t": "Kan man dø av kjærlighetssorg?",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_276DFCA0573E419193F127F1B612FAD6.MP3"
+},
+"l_29ae7453-1623-43a5-ae74-53162383a551": {
+"d": "2015-06-04T21:39:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2913,
+"s": "Sommeren nærmer seg og vi dykker ned i sommerforelskelsen. Tuva forteller om sin og vi får besøk av Heidi og Per Morten som forteller om sine. I tillegg hører vi Linn som forteller om å miste sexlysten under graviditet, og Kaisa som forteller om hvordan det var å komme ut av skapet som lesbisk. Og selvfølgelig er Sex og samfunn med for å svare på alt om sex, kropp og følelser!",
+"t": "Sommerforelskelse",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT63166_6BDE791F94934AFDA61E1E239C840C44.MP3"
+},
+"l_29b984d7-0d74-49fd-b984-d70d7479fdc5": {
+"d": "2019-09-11T16:56:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3032,
+"s": "Vi i Juntafil har pakket snippveska og reist til NMBU, Universitetet i Ås. Med oss har vi lege og forfatter Kaveh Rashidi og Sex og Samfunns egne Trine Aarvold. Det blir spørsmål om alt fra hvor langt inn man kan fiste, til hvordan man skal fortelle kjæresten at man er bi.",
+"t": "Q&A Live: Rumpebonanza og taulek",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-09-11_1456_3207.MP3"
+},
+"l_2a48a2a3-5c0b-4905-88a2-a35c0b890537": {
+"d": "2020-01-22T15:21:00+01:00",
+"i": "https://gfx.nrk.no/tWo9kAKtVKcu_LpTfLtvuQDD4nENIThPDtv2UsDhX0XQ",
+"n": 430,
+"s": "Iris liker å ha sex i offentlighet, og gjerne med en mulighet for å bli oppdaget. Aller helst vil hun ha sex i en kirke.",
+"t": "Kjappis i kirka",
+"u": "https://podkast.nrk.no/fil/juntafil/e74e31f6-a872-4f98-9cf4-50fab34e631d_0_ID192MP3.mp3"
+},
+"l_2aa9b197-e864-401c-a9b1-97e864e01c61": {
+"d": "2013-09-26T22:32:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3379,
+"s": "Vi får tips om forspill, SUSS svarer på meldinger og vi snakker om fyllemeldinger.",
+"t": "Oppvarming",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0926-0832_6351582442.mp3"
+},
+"l_2cdd0e5b-c647-47c9-9d0e-5bc64707c95b": {
+"d": "2019-11-20T13:00:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1503,
+"s": "Emma og Mats har god sex, men har ikke alltid lyst samtidig. Hva gjør du når sexlysten krasjer? ",
+"t": "Han har oftere lyst enn henne",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-11-20_1200_2622.MP3"
+},
+"l_2d6c5bf7-c654-470d-ac5b-f7c654470dfe": {
+"d": "2019-05-29T16:58:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 4877,
+"s": "I anledning den internasjonale onanidagen: En hel kveld dedikert nytelse og folkehelse, som ble direktesendt på radio. Du får ekte runking på lufta og test av grønnsaker som sexleketøy. Selvsagt også spørsmål og svar om runk, kropp og følelser. Alle får komme!",
+"t": "Nasjonal runkekveld",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-29_1458_4205.MP3"
+},
+"l_2e02a4ef-4fc4-47cc-82a4-ef4fc467cced": {
+"d": "2013-02-14T21:00:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3172,
+"s": "Panelet finner ut hva man egentlig kan si når det skal være noe ekstra i senga. I tillegg har de gått på noen smeller selv og har fått hviska noe inn i øret som ikke helt passa. Reporter Jonas sjekker om politikk og dritytalk kan kombineres. Vi får også et nytt gjenhøre med den kristne ungdomsgjengen som i dag uttaler seg om samboerskap. ",
+"t": "Hva skal man si i senga?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0214-0800_6349465414.mp3"
+},
+"l_2f2139cf-6a21-4724-a139-cf6a21572437": {
+"d": "2019-03-18T13:00:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1076,
+"s": "Kan man smitte seg selv med klamydia? Er hemoroider farlig og hvorfor kan man bli kåt av lukter? Vi åpner Juntafils innboks som er stappfull av spørsmål om sex, kropp og følelser. ",
+"t": "Q&A: Klamydiasmitte, hemoroider og dårlig ånde",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-18_1200_3136.MP3"
+},
+"l_30545f87-b03f-438e-945f-87b03f238ee6": {
+"d": "2019-05-20T13:42:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1616,
+"s": "Vi tar et dykk ned i Juntafil-innboksen og svare på spørsmål om sopp, sexlyst og det å bli dumpa før man i det hele tatt blir kjent. ",
+"t": "Q&A: Sopp i underlivet og ghosting",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-20_1142_4118.MP3"
+},
+"l_30c95f74-7e2f-4ab5-895f-747e2f2ab5c7": {
+"d": "2015-03-27T15:46:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2727,
+"s": "Vi får høre to ulike historier om utroskap når vi får besøk av Espen og Selma. Anders fra Sex og samfunn svarer på en drøss med spørsmål og reporter Remi tar for seg seksualitet i dataspill!",
+"t": "Utroskap og seksualitet i dataspill",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT60006_D254EF10A75A48C5AD0A590D356860A3.MP3"
+},
+"l_315866a0-f4fb-42bc-9866-a0f4fb52bcbc": {
+"d": "2019-03-25T13:00:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1147,
+"s": "Kan man være allergisk mot sperm? Og når må man egentlig teste seg for kjønnssykdommer? Og hva gjør man hvis det kiler for mye i tissen? Marius fra Sex og Samfunn svarer på alle spørmål om sex, kropp og følelser. ",
+"t": "Q&A: Allergisk mot sperm og ufrivillig kiling nedentil",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-25_1200_3402.MP3"
+},
+"l_31955e51-a4d0-4786-955e-51a4d08786df": {
+"d": "2017-03-03T13:31:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2769,
+"s": "Karoline har vondt i underlivet. Hun har fått diagnosen vulvodyni (vestibulitt) og forteller om hvordan det påvirker hverdagen hennes. Sex og samfunn svarer på spørsmål og Grete forteller om å være sammen med en mann som er like gammel som foreldrene hennes!",
+"t": "Når det brenner i underlivet",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-03-03_1231_1998.MP3"
+},
+"l_347cefe0-4f25-467e-bcef-e04f25b67e2b": {
+"d": "2019-12-11T13:20:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1359,
+"s": "Vi setter julestemninga med en liten historie om hva du kan gjøre hvis du har glemt å kjøpe julekalender til kjæresten! Og Sex og samfunn er innom for å svare på spørsmål i innboksen: Hvorfor får jeg større pupper i desember? Hva kan jeg gjøre når legen sier det ikke er noe å gjøre med min trange forhud? Hvor viktig er det for gutter å bli sugd? Og hvorfor får jeg latterkrampe når jeg får orgasme?",
+"t": "Q&A: Julekalender og større pupper i desember",
+"u": "https://podkast.nrk.no/fil/juntafil/bfe46aa9-12f1-46c9-8462-cc17295c04df_0_ID192MP3.mp3"
+},
+"l_3497eb60-63b2-478e-97eb-6063b2278e4a": {
+"d": "2014-05-09T16:06:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2601,
+"s": "Vi treffer Ann-Christin som ble seksuelt misbrukt av faren sin fra hun var tre år til hun fikk sin første menstruasjon. I dagens sending kan du høre hennes tunge historie og tanker om å se et lys i tunnelen etter en slike opplevelser. Det er også \"vanlig\" Juntafilprat med spørsmål om p-piller og sjekking. ",
+"t": "Incest",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0509-0206_6353524132.mp3"
+},
+"l_35539439-c70b-47ad-9394-39c70b77adc7": {
+"d": "2015-08-13T19:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2381,
+"s": "Vi får besøk av Cecilie på 26 år som forteller om sin første gang etter at hun ble utsatt for en ulykke og ble lam fra midjen og ned. Hun deler såre, fine og intime detaljer. Vi får også besøk av Sex og samfunn som svarer på spørsmål om sex, kropp og følelser. Gravide Linn har fått bekkenløsning og tar oss med inn i den verdenen mot slutten av sendinga. ",
+"t": "Får man orgasmer når man er lam?",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_3906D9C2728C4896B1F20A84AAED1A35.MP3"
+},
+"l_358bb927-a797-41b1-8bb9-27a79721b118": {
+"d": "2019-06-12T13:20:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1194,
+"s": "Kan man få det ene uten det andre? Torstein og David prøver å få orgasme uten utløsning. Katrine får aldri orgasme, men har begynt å få til noe annet.",
+"t": "Orgasme vs utløsning",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-12_1120_3829.MP3"
+},
+"l_35fc4c36-4890-4cf7-bc4c-3648901cf788": {
+"d": "2015-12-04T09:08:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3033,
+"s": "Vi får besøk av Veronika som driver med BDSM. Hun forteller om hvordan hun fant ut at det var dette hun likte, hvordan man gjør det og interne regler. Vi får også kjæreste-øyeblikk fra panelt og svar på spørsmål om sex, kropp og følelser. ",
+"t": "Alt om BDSM",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-12-4_88_1780.MP3"
+},
+"l_3891a920-97fd-4d9d-91a9-2097fd3d9d0e": {
+"d": "2016-01-29T11:26:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2332,
+"s": "Sex og samfunn svarer på alle spørsmål om alt fra klamydia på vibrator til hår på pupper og ikke minst hører vi på utdrag fra de to siste novellene i Juntafils store erotisk novelle-konkurranse! I tillegg kommer panelet for å snakke om hvilke sexstillinger de elsker og hva som ikke funker. ",
+"t": "Erotikk og sexstillinger",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-1-29_1026_3188.MP3"
+},
+"l_3ab045a2-0f3d-4283-b045-a20f3d52838c": {
+"d": "2014-09-25T21:56:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3085,
+"s": "Panelet kommer innom og leverer både historier og tanker om hva som bør/ikke bør gjøres etter sex. SUSS-lege Kristine svarer på alle spørsmål vi måtte ha. Det er både gøy og lærerikt. Vi treffer også Ingrid som er transseksuell og forteller om sin vei mot et kjønnsskifte. ",
+"t": "Minuttene etter sex",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0925-0756_6354727198.mp3"
+},
+"l_3b08ea88-8518-402d-88ea-888518c02d30": {
+"d": "2013-08-30T12:20:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2152,
+"s": "På grunn av tekniske problemer mangler store deler av sendingen, MEN det du får i denne podkasten er et møte med Marie som ble sammen en mann med barn på hennes alder. Du får høre om programleder Tuvas første forelskelse. Og reporter Jonas finner ut hvem som er kåtest av gutter og jenter, på gata. ",
+"t": "Forelska på godt og vondt",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0830-1020_6351345504.mp3"
+},
+"l_3b3704aa-0273-440d-b704-aa0273e40d2f": {
+"d": "2014-01-09T21:23:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 4004,
+"s": "Vi bader i deilig snakk om jentepupper og er forsiktig borti guttepupper. For opp mot 40% av alle gutter har ekstra kjertler i brystene og vår reporter Lars Erik ville sjekke om han har det. Vi svarer på spørsmål om svelging, p-piller og rare masse annet rart.  ",
+"t": "Kan gutter ha pupper?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0109-0823_6352489592.mp3"
+},
+"l_3b39ef38-54c6-46be-b9ef-3854c6f6be80": {
+"d": "2015-05-04T13:41:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2743,
+"s": "Dagens panel finner ut hvilke stillinger som er best og hvilke som ikke er fullt så bra. Vi får også besøk av damene bak det nye magasinet FUKT. Vi svarer også på en drøss med spørsmål om sex, kropp og følelser! ",
+"t": "Gode og dårlige sexstillinger",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_6344E3310D5A4462BF0B8676D93ACF98.MP3"
+},
+"l_3cd31bbc-5d37-4952-931b-bc5d37e9526d": {
+"d": "2016-11-07T12:06:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2719,
+"s": "Vi hører jo hele tiden om at gutta har våte drømmer, men kan jenter også ha det? Reporter Remi er på saken. Vi starter med sex og samfunn som er innom og svarer på spørsmål om sex, kropp og følelser. Vi skal også få utdrag fra P3dokumentaren \"Bingoraneren\". En dokumentar som viser at seksuelle overgrep kan føre mennesker inn i en kriminell og rustung hverdag.",
+"t": "Våte drømmer",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-11-7_116_2188.MP3"
+},
+"l_3d9d90d5-cd83-4830-9d90-d5cd832830ec": {
+"d": "2014-10-10T13:48:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2594,
+"s": "Det er guttepanel og jentene kan spørre om hva de vil. Det blir snakk om gråting, hår og svelging. Jonas har funnet verdens beste Juntafil sak og hiver seg på datamaskinen. Det går kanskje ikke helt som han vil. Kristine er på plass fra SUSS og svarer på alle mulige spørsmål. ",
+"t": "Alt du lurer på om gutter",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1010-1148_6354853861.mp3"
+},
+"l_3ef8c3f0-9d1e-4cda-b8c3-f09d1ebcda7c": {
+"d": "2017-01-13T10:31:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2305,
+"s": "Den HIV-forebyggende medisinen PrEP har kommet til Norge. Vi snakker med de som deler den ut og tar en prat om HIV-angst. Sex og samfunn svarer også på alt du lurer på om sex, kropp og følelser!",
+"t": "HIV-angst",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-01-13_0931_511.MP3"
+},
+"l_3f604d2c-63e9-4788-a04d-2c63e9d788bf": {
+"d": "2020-01-15T13:47:00+01:00",
+"i": "https://gfx.nrk.no/td2ub8JudQViDGbEjzqw-gGRW-Rnh4GWny7LkVOzGDGg",
+"n": 1259,
+"s": "Ludvig ble redd da testikkelen forsvant opp i kroppen. Tor-Arne ser seg ofte i speilet og tenker at pungen er fin. Men det er kanskje ikke så rart – han har testikkel-protese.",
+"t": "Pungen ser bra ut i dag",
+"u": "https://podkast.nrk.no/fil/juntafil/1b9c43c8-88a5-4e01-8900-8dbc9f2768e0_0_ID192MP3.mp3"
+},
+"l_3fe5fe0b-75ac-4386-a5fe-0b75ac0386a5": {
+"d": "2012-09-20T22:08:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3083,
+"s": "Jonas forteller historien om kyssing, og vi får vite hvorfor det er viktig å kysse mye. Panelet deler sine pineligste klinehistorier. Og som alltid, SUSS hjelper oss med de evige problemene vedrørende sex / kropp / følelser",
+"t": "Kyssings og Klinings",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0920-0808_6348373984.mp3"
+},
+"l_40331a10-2b9d-4d6a-b31a-102b9d6d6ab5": {
+"d": "2014-11-14T11:54:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2878,
+"s": "Jonas snakker også om sjalusi - hvordan kan man bli kvitt det? Først: panelet sier hva de liker best ved kroppen sin. Det er også spørsmål om sex, kropp og følelser med SUSS-lege Per Olav. ",
+"t": "Hvordan bli kvitt sjalusi",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1114-1054_6355155968.mp3"
+},
+"l_411cb07b-d92a-4f04-9cb0-7bd92a9f04e3": {
+"d": "2016-04-15T11:27:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3058,
+"s": "Vi får besøk av Eirik på 23 år som nylig har funnet ut at han ikke produserer noen sædceller. Han forteller at han føler at han mister sin egen manndom. I tillegg fortsetter vi med vårt sølibatprosjekt med Thea og Christian. Sex og samfunn svarer som alltid på spørsmål om sex, kropp og følelser. ",
+"t": "Mangel på sædproduksjon",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-4-15_927_2064.MP3"
+},
+"l_426a1537-69ea-45ba-aa15-3769eab5ba1c": {
+"d": "2012-10-26T12:29:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3117,
+"s": "Reporter Marie finner ut hvordan du kan øke sexlysten uten å måtte gjøre noen store endringer eller grep. Hennes forsøkskanin Oda proppes full av både østers og mørk sjokolade. Om det funker finner du ut her. Panelet forteller når de har mest sexlyst og om de periodene hvor det ikke har vært noe særlig. Alle spørsmål om klamydia, p-piller og analsex blir også selvfølgelig besvart!",
+"t": "Sexlyst",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1026-1029_6348684431.mp3"
+},
+"l_4370fa6e-e774-4e97-b0fa-6ee7744e97e0": {
+"d": "2016-05-20T10:57:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2634,
+"s": "Det å være forelska er en helt fantastisk følelse. Men hva er det egentlig som skjer i kroppen? Reporter Remi tar for seg hormoner og andre medisinske greier og vi treffer et megaforelsket par. Vi ringer også til verdenskjente pornostjerne Vicky Vette for å høre hvordan det står til i den amerikanske pornoindustrien. ",
+"t": "Hva er forelskelse?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-5-20_857_1909.MP3"
+},
+"l_43d9d17b-18a0-4f00-99d1-7b18a0bf00b3": {
+"d": "2013-05-30T22:20:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3034,
+"s": "Dagens sending handler om rumper! Finn ut alle de artige tingene du kan gjøre med rumpa. Konkurransen \"Kroppe min\" Grete har snakket med ei dame som driver modelbyrå - hvilken rumpe er \"in\" i 2013. SUSS svarer på meldinger!",
+"t": "Rumpe!",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0530-0820_6350554207.mp3"
+},
+"l_4428eed7-a2dd-49ae-a8ee-d7a2dd39ae60": {
+"d": "2013-01-17T22:46:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3697,
+"s": "Hvorfor er det så ekkelt? Reporter Jonas finner ut hva mensen egentlig er og hvordan syklusen bestemmes. I tillegg treffer han en fyr som mener mensen er så frastøtende at jenter burde sitte på plastposer. Panelet er så klart innom, de forteller hvorfor det er greit eller kanskje ikke greit å \"kjøre brannbil\". ",
+"t": "Mensen",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0117-0946_6349405624.mp3"
+},
+"l_446469d7-e84b-4db6-a469-d7e84b7db64c": {
+"d": "2012-08-31T14:59:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3394,
+"s": "Panelet forteller om sine break-ups. Vi får høre historier fra folk på gata om brudd som endte både bra og dårlig. Jonas prøver å slå opp med noen han ikke kjenner. Den første episoden i den nye serien vår om single Nikoline. Vi lærer hvordan man skal sjekke opp folk i Italia. Og den verdensberømte konkurransen HVEM LESBER!!!",
+"t": "Slå opp!",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0831-1259_6348201500.mp3"
+},
+"l_4494ed82-32db-4649-94ed-8232db664930": {
+"d": "2019-04-10T14:20:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1719,
+"s": "Vi treffer en som mener vibrator er oppskrytt, vi treffer en som selger de nyeste typene og en som får en klump magen når han skjønner at hans sexleketøyvaner kanskje er lagret. ",
+"t": "De kompliserte sexleketøyene",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-10_1220_3040.MP3"
+},
+"l_45a44b9a-220b-4155-a44b-9a220ba1555c": {
+"d": "2013-10-04T15:40:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3831,
+"s": "Hvordan skal man behandle testiklene?",
+"t": "Baller",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1004-0140_6351649086.mp3"
+},
+"l_45b74acf-69e1-4aa1-b74a-cf69e18aa120": {
+"d": "2015-03-05T20:32:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2530,
+"s": "Vi sender to nervøse mennesker på blind date, og de blir med direkte fra fancy restaurant! I tillegg får vi besøk av Sex og Samfunn og vi blir med på en silikonoperasjon. ",
+"t": "Blind date",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_6AD66AB3945A4EADA5A304B68B387DBE.MP3"
+},
+"l_460e088b-4914-40a4-8e08-8b4914a0a4e4": {
+"d": "2012-04-19T22:17:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2393,
+"s": "Det hvite gullet, gledesdråpene eller mannsdressing – sæd har mange kallenavn. Reporter Jonas finner ut hvordan du kan lage det flytende stoffet og i tillegg drar han i spermbanken for å sjekke ut hvordan det er. Panelet er på besøk og er ikke helt enig når det kommer til spørsmålet om å svelge, eller ikke svelge. Seff svarer vi også på dine spørsmål om sex, kropp og følelser. Last ned og elsk det!",
+"t": "Sæd",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0419-0817_6347046346.mp3"
+},
+"l_487a9972-279d-4228-ba99-72279da22856": {
+"d": "2019-10-02T13:43:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1652,
+"s": "Sigurd kan ikke skjønne hvorfor gutter skal prøve en finger i rumpa, Martin elsker det og jentene har prøvd flere ganger. I denne ukas podkast går vi gjennom alt du måtte lure på rundt den magiske fingeren i rumpa. ",
+"t": "Den magiske fingeren i rumpa",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-10-02_1143_3327.MP3"
+},
+"l_489e23b5-b131-483c-9e23-b5b131983c6a": {
+"d": "2015-06-11T21:03:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2557,
+"s": "Hvordan kliner man best? Panelet gir deg tips og forteller om sine beste og dårligste klineerfaringer. Linn er nå gravid i 23. uke og vi blir med på svangerskapskontroll. I tillegg svarer Sex og Samfunn på alt du lurer på om sex, kropp og følelser!",
+"t": "Klining",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT63212_EC13A43106CA486D9E0B7A6E96DF8923.MP3"
+},
+"l_4974b4ec-4d70-4f2f-b4b4-ec4d701f2f00": {
+"d": "2013-10-25T13:34:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 4392,
+"s": "Vi får besøk av 25 år gamle Elisabeth som alt i alt har seks piercinger, hvorav tre i tunga en en i underlivet. Hun forteller hvordan det er å ha sex med en metallklump i tissen. Jonas har vært på besøk i et tatoveringsstudio og fått høre om alle de rare tingene folk vil ha nedentil. Vi er innom ukas dokumentar som handler om HIV hvor vi er på besøk hos en fetisjklubb. ",
+"t": "Pynt på kroppen",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1025-1134_6351829783.mp3"
+},
+"l_49d6adf9-ffd5-4b02-96ad-f9ffd58b026e": {
+"d": "2014-06-23T14:27:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2189,
+"s": "Vi treffer Are som ble omskåret som liten og får høre hans erfaringer og tanker om skikken. Vi får også en oppdatering fra Emilie og hennes graviditet. SUSS-lege Ida svarer også på en masse spørsmål, i tillegg til at vi deler ut kondomer. ",
+"t": "Are er omskåret ",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0623-1227_6353912345.mp3"
+},
+"l_4b643ba9-ec75-4a07-a43b-a9ec754a070a": {
+"d": "2013-08-22T22:38:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3216,
+"s": "Kent Johansson forteller historien om hvordan han som 30-åring ble voldtatt. Vi besøker Overgrepsmottaket i Oslo. SUSS svarer på meldinger. Vi har konkurranse og vi prøver å finne ut hvor kjærester finner hverandre.",
+"t": "Voldtekt",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0822-0838_6351280078.mp3"
+},
+"l_4b7204fb-b47c-4431-b204-fbb47ce4310c": {
+"d": "2014-04-10T21:34:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2535,
+"s": "I dag starter vi med det store spørsmålet: Å svelge eller ikke svelge? Vi finner ut hva som er digg og hva som ikke er fullt så digg ved denne mye omtalte aktiviteten. Vi tar også for oss selvtillit ved forelskelse. Blir den bedre eller verre? Som alltid er SMS-innboksen åpen og vi hiver oss over.",
+"t": "Svelging",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0410-0734_6353275540.mp3"
+},
+"l_4f649d61-c89d-4158-a49d-61c89df1581d": {
+"d": "2015-02-26T19:24:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2886,
+"s": "Vi treffer \"Glenn\" som sliter med sexavhengighet. Han forteller hva som gjør det vanskelig og hvorfor han har valgt å oppsøke hjelp. I tillegg får vi historier om de store forelskelsene og svar på spørsmål om sex, kropp og følelser! ",
+"t": "Sexavhengig",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_AA37D7D7D753491E8645C33CF835B173.MP3"
+},
+"l_506b875d-b5af-476c-ab87-5db5af276c5b": {
+"d": "2014-02-07T11:09:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2992,
+"s": "Det finnes utallige forskjellige fantasier, noen er vanlige og noen er ganske sære. Vi tar for oss begge deler i denne sendinga. Vi treffer tre studenter som lar oss komme inn i deres fantasiverden. De forteller om alt fra gruppesex til å forføre eldre menn. SUSS-lege Karina forteller om alt fra syflis til bytting av fastleger og reporter Lars Erik snakker med de som fantaserer og tenner på My Little Pony (!!!!). ",
+"t": "Fantasier",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0207-1009_6352736477.mp3"
+},
+"l_51e01745-dace-4375-a017-45daceb37521": {
+"d": "2012-12-21T16:56:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3511,
+"s": "Reporter Marie finner ut hvordan du kan gi den perfekte massasje til kjæresten din. I tillegg kommer panelet innom og forteller om de kreative gavene de har gitt og fått. Moro moro moro! Årets siste sending, last ned og nyt!",
+"t": "Sex i gave",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1221-0356_6349170254.mp3"
+},
+"l_521580ea-3f45-43b5-9580-ea3f45d3b50d": {
+"d": "2012-11-09T13:50:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3753,
+"s": "Reporter Marie sjekker om hun klarer å få 20 år gamle Ørjan kåt, ved å kile han. Vi svarer på SMS om skjeive tisser og angrepiller. Og dagens fabelaktige panel forteller hvor de ikke liker å bli tatt på. I tillegg kan du få vite hvordan du kan få pult om du er på ferie i India!",
+"t": "Ta på hverandre",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1109-1250_6348806236.mp3"
+},
+"l_528c493e-bb2f-401d-8c49-3ebb2f801d7c": {
+"d": "2015-05-21T21:42:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2765,
+"s": "Ukas panel diskuterer hvor det er best å bli tatt på. Men først treffer du Linn som er gravid. Vi skal følge henne gjennom hele graviditeten og starter med ultralyd. I tillegg til dette får du opplesning av erotiske folkeeventyr og som alltid svarer Sex og samfunn på spørsmål fra lytterne. ",
+"t": "Hvor føles det best å bli tatt på ?",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_653E4DCDD7D54D3696836C3AFB4ECE24.MP3"
+},
+"l_53705321-ef42-4eab-b053-21ef426eabd0": {
+"d": "2019-02-26T19:30:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1675,
+"s": "Juntafil er tilbake som podkast! Kristine oppdaget en merkelig lyst, panelet snakker om sex etter krangler, og vi møter Goddess Hel som som drapstruer folk som blir kåte av det. ",
+"t": "Kåt av dårlig stemning",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-02-26_1830_1887.MP3"
+},
+"l_54b61c21-6994-4c77-b61c-2169943c7723": {
+"d": "2013-12-13T14:22:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3629,
+"s": "Vi tar for oss diskusjonen om hvorfor denne type sex blir så spennende for enkelte. Niklas og Anette kommer inn i studio og forteller om erfaringer og meninger. Reporter Line tar for seg ABC i analsex, hva må du tenke på og hva må du gjøre. Spørsmålene renner inn og alle får svar.  ",
+"t": "Hva må man tenke på før man prøver analsex?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1213-0122_6352253790.mp3"
+},
+"l_558de31f-6100-4ebb-8de3-1f61002ebb20": {
+"d": "2019-04-17T11:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 520,
+"s": "Kan fjellvettreglene overføres til sex? Og hva gjør du når du er sprengkåt på vei til hytta? Hør Juntafils påskespesial!",
+"t": "Fjellsexreglene",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-17_1100_1907.MP3"
+},
+"l_59c1351f-fe9a-46d7-8135-1ffe9a46d7ba": {
+"d": "2013-11-21T21:39:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 4075,
+"s": "Reporter Line finner ut hvorfor vi tiltrekkes av mennesker som lukter godt, og hva vil godt egentlig si? Anette og Espen forteller om hvordan det lukter nedentil både hos gutter og jenter. Det renner inn med spørsmål om sex, kropp og følelser og vi svarer på alle. Finner forøvrig ut at det finnes herpesfabrikker! Last ned og runk! ;)",
+"t": "Lukt",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1121-0839_6352066325.mp3"
+},
+"l_5a517f08-7115-4a70-917f-087115ca7070": {
+"d": "2019-06-03T14:10:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1270,
+"s": "Kan menn få orgasme uten at det kommer sæd? Er det farlig å få glidemiddel i munnen? Får man tarmbakterier i vulva når man sitter på do? Marius fra Sex og samfunn svarer! Men først: gikk salget av purreløk opp etter Nasjonal runkekveld?",
+"t": "Q&A: Glidemiddel i munnen og dotaktikker",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-03_1210_350.MP3"
+},
+"l_5b4544e0-4646-4788-8544-e04646e78823": {
+"d": "2016-04-22T10:24:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2382,
+"s": "Vi er halvveis i vårt sølibat-eksperiment med Thea og Christian. Hvordan går det etter to uker uten sex og onani? Vi får også besøk av Nils Petter fra Sex og samfunn og det blir klinetips med dagens panel!",
+"t": "Sølibat og klining",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-4-22_824_2819.MP3"
+},
+"l_5e6ce0d9-5a93-4fdf-ace0-d95a93cfdf30": {
+"d": "2019-09-04T16:49:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1645,
+"s": "Elida har tenkt mye over hvordan hun kan ta gode bilder. Knut, Maja og Jørgen liker å få dem tilsendt – men ikke hva som helst! Og Stine fra Sex og samfunn rydder opp i hva som er greit og ikke greit.",
+"t": "Hvordan ta bra nakenbilder?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-09-04_1449_2607.MP3"
+},
+"l_5ffa5bea-20ef-4118-ba5b-ea20ef71188a": {
+"d": "2016-10-07T10:44:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2415,
+"s": "Dagens panel er innom og svarer på spørsmål og forteller om svelging. Hva smaker det egentlig? Og hvor digg er det for gutten? Er det avgjørende? I tillegg får vi som vanlig besøk av Sex og samfunn som snakker om alt fra abort til stram forhud.",
+"t": "Svelge eller ikke svelge?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-10-7_844_2209.MP3"
+},
+"l_625d3b19-8cd2-4b78-9d3b-198cd2eb78c0": {
+"d": "2014-10-27T17:15:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2004,
+"s": "Jentepanelet svarer på alt - og Jonas sjekker hvem som har klamydia ute på gata.",
+"t": "Alt du lurer på om jenter",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1027-0415_6355002339.mp3"
+},
+"l_62cdb3e8-e112-402a-8db3-e8e112a02a62": {
+"d": "2013-11-11T16:17:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3695,
+"s": "Vi får besøk av Espen som en kveld fikk drømmeinvitasjonen; en trekant med to jenter. Men det gikk kanskje ikke helt som det skulle da de skulle sette i gang. Reporter Line finner ut hvorfor folk er så gira på å ha denne trekanten. Og vi svarer på masse rare, fine, søte og bra spørsmål om sex, kropp og følelser.  ",
+"t": "En ikke helt vellykket trekant",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1111-0317_6351977999.mp3"
+},
+"l_6427d843-a2c1-4629-a7d8-43a2c18629ea": {
+"d": "2013-02-28T21:18:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3164,
+"s": "Grete har prøvd analdusj, Panelet forteller om hygiene og intimbarbering, Siste episoden med \"kristne om...\" I dag: kåtskap, Hvem lesber-konkurransen og SUSS svarer på meldinger om #sexkroppogfølelser",
+"t": "Rett før sex! ",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0228-0818_6349767962.mp3"
+},
+"l_659fedee-47c4-4352-9fed-ee47c4b352f5": {
+"d": "2013-06-20T22:23:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2498,
+"s": "Fiskespa, erogene soner, og meldinger.",
+"t": "Erogene soner",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0620-0823_6350735666.mp3"
+},
+"l_660fdd29-6531-4ea3-8fdd-296531eea3c1": {
+"d": "2013-03-15T12:18:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3108,
+"s": "Panelet diskuterer faking av orgasme, vi lærer om orgasme under føding, konkurranse - og SUSS svarer på SMS!",
+"t": "Ekte og fake orgasmer",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0315-1118_6349894317.mp3"
+},
+"l_67387237-044f-4e57-b872-37044f5e57ef": {
+"d": "2019-05-08T13:28:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1468,
+"s": "Det florerer med frykt og fordommer om herpes. Men er det egentlig så farlig? Tarjei, Sara og Knut er litt redde for det, legen forteller hva det er, og Vilde forteller om hvordan det er å ha herpes på tissen. ",
+"t": "Hvorfor er vi så redde for herpes?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-08_1128_1737.MP3"
+},
+"l_6851beb3-ed5d-4d27-91be-b3ed5d2d2719": {
+"d": "2015-03-19T20:18:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2646,
+"s": "Vi får besøk av jentepanelet som gir tips og triks til gutta om hvordan de skal gå ned på jenter. Anders fra Sex og samfunn er på plass og svarer på spørsmål og vi får også et gjenhør med Andreas som er polyamorøs. ",
+"t": "Oralsex på jenter og polyamorøs",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_568D89A4B626432CA615CFBB2B743941.MP3"
+},
+"l_6ad39c51-0e8a-4504-939c-510e8ae504d2": {
+"d": "2016-04-08T09:35:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2758,
+"s": "Juntafil har besøk av Are som har gjort noe som står høyt oppe på fantasilista til mange. I tillegg treffer vi Christian og Thea som skal leve sølibat i én måned. Hvordan vil det gå utover forholdet til Thea? Og hvordan vil livet til single Christian endre seg? Juntafil skal følge de gjennom den kommende måneden.",
+"t": "Firkant",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-4-8_735_3200.MP3"
+},
+"l_6c7f60e3-f295-407f-bf60-e3f295007f5a": {
+"d": "2015-04-16T21:32:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2861,
+"s": "Det finnes en oppskrift på forelskelse og den skal vi selvfølgelig teste ut. Kristine fra Sex og samfunn svarer på masse spørsmål som tikker inn i sms-innboksen og vi får besøk av dagens kjærestepanel! ",
+"t": "Oppskrift på forelskelse",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_A0A932E665B64A0C8446732E045907F8.MP3"
+},
+"l_6c836f1b-fe2c-48ae-836f-1bfe2cd8ae93": {
+"d": "2013-11-01T11:17:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 4158,
+"s": "Vi treffer Nikoline og Maria som er i begynnelsen av 20-årene, men har veldig ulikt syn på den store kjærligheten. Maria er forlovet og har truffet mannen i sitt liv, mens Nikoline er ikke langt unna å gi opp dette med kjærligheten. Reporter Jonas finner ut hvordan man kan vite at man har truffet den rette og han oppsøker en spåmann. Vi svarer på alle spørsmål som kommer opp og Ida Fladen er ukas kjendis. ",
+"t": "Finne den rette",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1101-1017_6351889800.mp3"
+},
+"l_7081ad9d-b6f7-400e-81ad-9db6f7700ed0": {
+"d": "2013-11-29T11:43:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3552,
+"s": "Reporter Line dykker inn i to parforhold for å finne ut hvor ofte de har sex, og hva de synes er for lite. Vi går inn i studenters sexvaner med Marie Eddestad fra kondomeriet. Det blir spørsmål om knekking av penis og slikking av rumpe når SUSS er på besøk. Line sjekker også når folk var forelska sist. ",
+"t": "Hvor ofte skal man ligge?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1129-1043_6352131876.mp3"
+},
+"l_723c78f2-da5e-4182-bc78-f2da5e718242": {
+"d": "2015-10-09T10:59:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2642,
+"s": "Folk må kline mer! Sex og Samfunn er tilstede og svarer på masse spørsmål, og endelig får vi treffe Linn igjen. Etter å ha fulgt graviditeten uke for uke, har hun endelig fått barn. Vi får vite alt om fødselen og tiden fremover. Vi skal også snakke om sjalusi. For blir gutter sjalu for andre ting enn jenter?",
+"t": "Klining, keisersnitt og sjalusi",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_06611BFFE0CE4BCDABD767E3CCBBD9A9.MP3"
+},
+"l_7286a9d6-cd06-4cab-86a9-d6cd06ccab73": {
+"d": "2013-03-07T21:49:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3253,
+"s": "Hvis kjærlighet tar slutt bør du kanskje du slå opp! Panelet forteller deg hvordan du skal gjøre det. Og ikke minst HVOR du skal gjøre det? Reporter Grete har snakket med en kjæreste hun slo opp med. Vi leker ”Hvem lesber” (Norges kanskje aller mest populære selskapslek) – og SUSS svarer på meldingene deres om SEX, KROPP OG FØLELSER!",
+"t": "Hvordan slå opp",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0307-0849_6349828636.mp3"
+},
+"l_74f1c13d-ac29-4877-b1c1-3dac29f877a3": {
+"d": "2013-10-11T11:45:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3679,
+"s": "Vi får besøk av Selma og Carl Joakim som forteller hvordan de har fått vite, og sagt ifra om kjønnssykdommer. Jonas har funnet en robot som har masse myter om båte klamydia, herpes og HIV og avliver alle sammen. Vi svarer på spørsmål om alt fra jenter som spruter under sex til størrelser på ballene. Moromoro! ",
+"t": "Kjønnsykdommer",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1011-0945_6351708169.mp3"
+},
+"l_7615c16c-3ef0-451f-95c1-6c3ef0751f4b": {
+"d": "2014-11-28T15:07:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2603,
+"s": "Hvordan sjekker du opp på riktig måte? Panelet er innom og forteller sine historier som sjekkere og ikke minst, det å bli sjekka opp. SUSS-lege Per Olav svarer på spørsmål og vi får et nytt dypdykk i strippeverden! ",
+"t": "Hvordan sjekker du opp på riktig måte? ",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1128-0207_6355278053.mp3"
+},
+"l_77bf2b77-5afe-472e-bf2b-775afe972e90": {
+"d": "2017-02-10T14:16:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2551,
+"s": "En klassisk myte er at gutter vil sove etter sex, mens jenter vil prate. Er det sånn at gutter blir trøtte av orgasme? Reporter Remi finner ut om dette stemmer og Trine fra Sex og samfunn snakker om alt fra røde prikker på tissen til kjønnssykdommer. Også får vi en aldri så liten rapport om sexen i den nye Fifty shades-filmen!",
+"t": "Blir man trøtt av orgasme?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-02-10_1316_2590.MP3"
+},
+"l_77d28893-10d0-45ac-9288-9310d055acb4": {
+"d": "2013-05-23T22:15:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3058,
+"s": "Dagens sending handler om sexlyst og når den er ulik mellom partnere. Panelet kommer innom og forteller hvordan de avviser folk i bingen, og ikke minst om de har noen tips for å gjøre kjæresten kåt igjen! Reporter Grete finner ut om gutter føler press til å være \"den kåte\". SUSS svarer på meldinger, som alltid!",
+"t": "Når sexlysten ikke matcher",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0523-0815_6350493709.mp3"
+},
+"l_79bfe897-13bc-4265-bfe8-9713bc12650e": {
+"d": "2015-02-20T09:58:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2800,
+"s": "Dagens panel er på plass og snakker om det å prate under sex. Det blir både grovt, moro og kanskje litt pinlig. Nils Petter fra Sex og samfunn er på plass og svarer på spørsmål om graviditet, ubeskytta sex og sædceller i hodet. Vi får også P3lytternes sextips og de er heite! ",
+"t": "Hva er god dirty talk?",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_EC70359C95094FC587BF8DB65911EBD4.MP3"
+},
+"l_7bd7a6be-d402-4b60-97a6-bed402ab6020": {
+"d": "2014-06-06T12:53:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2793,
+"s": "Vi treffer Tor Ivar som er en vanlig mann som på kvelden tar på sminke og kjole og er dragartist. Jonas blir med inn på sminkerommet for å se hvordan forvandlingen er. Panelet forteller om sin beste sex ever og forklarer hva som skal til få at det skal bli full klaff.  ",
+"t": "Dragshow og god sex",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0606-1053_6353764930.mp3"
+},
+"l_7e0865a1-ac0a-4f2e-8865-a1ac0a8f2ec0": {
+"d": "2013-01-11T12:41:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3633,
+"s": "Vi jobber oss gjennom alle gode grunner for å være singel og for å være sammen noen, og alle ulempene ved begge deler. Reporter Jonas slår opp i statistikken og sjekker ut hvor mange som egentlig er alene og hvem som har samboere. I tillegg kommer som alltid panelet innom og forteller når de skulle ønske de hadde en kjæreste, og hva som er fordelene ved å være alene. Og MASSE SMS da. Gøygøygøy!",
+"t": "Singel vs. sammen",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0111-1141_6349350129.mp3"
+},
+"l_7e180bc0-be37-477d-980b-c0be37077d77": {
+"d": "2013-05-22T14:14:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3075,
+"s": "Hvor mye er det egentlig vanlig å runke? Hvor pleier folk egentlig å runke? Dette og mye mer får du svar på i dagens Juntafil sending. Panelet forteller sjokkerende historier som får deg til å le til du tisser i buksa. I tillegg har reporter Grete sjekker ut en «pornoside» som bare viser ansiktene til folk som får orgasme. Som alltid svarer vi på spørsmål om sex, kropp og følelser.",
+"t": "Hvor mye er det egentlig vanlig å runke?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0522-1214_6350482171.mp3"
+},
+"l_7e2f4e4d-d55e-43c0-af4e-4dd55e33c052": {
+"d": "2017-01-31T14:46:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2659,
+"s": "Er det sant at det står folk i kø for å ligge med kjendiser? Hva er det egentlig som gjør at vi får lyst til å ligge med kjente folk? Reporter Remi treffer Stian Staysman som forteller og forklarer. Sex og samfunn svarer på spørsmål og det vil høytlesning av noen særdeles grove tekster.",
+"t": "Hvorfor vil vi ligge med kjendiser?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-01-31_1346_3023.MP3"
+},
+"l_7f1adc93-3158-43e5-9adc-93315813e512": {
+"d": "2014-10-31T14:48:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2652,
+"s": "Hvor ofte er vi egentlig kåte? Vil alle ha sex hele tiden? Vi treffer tre jenter som føler at det er akkurat sånn, bare at det ikke gjelder de. Vi får ærlige og fine tanker om å ikke ville ligge hele tiden og følelsen av å ikke ville onanere. SUSS-lege Per Olav svarer på spørsmål og vi finner ut hvilke kjendiser folk vil ligge med. ",
+"t": "Hvilke kjendiser vil folk ligge med?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1031-0148_6355036054.mp3"
+},
+"l_8045f473-86e5-41aa-85f4-7386e531aa21": {
+"d": "2019-06-19T15:18:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1356,
+"s": "Kjæresteparet Hanna og Alexander har bra sex, men bestemmer seg for å prøve noe nytt: bondage. ",
+"t": "Piffe opp sexlivet",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-19_1318_2471.MP3"
+},
+"l_8064f7e4-4a27-485c-a4f7-e44a27c85cb5": {
+"d": "2019-12-19T15:29:00+01:00",
+"i": "https://gfx.nrk.no/xzLhvV0czTjEMTunR_Wybw48pr-70kXMRmixZFqbAGVg",
+"n": 3932,
+"s": "Juntafils høydepunkter fra et tiår med store endringer når det kommer til sex, kropp og følelser. Årtiet startet med at Tuva Fellman ble programleder, samtidig som fremtidig reporter Remi Horgar satt i en sokkel-leilighet og oppdaget at TV-en hans hadde en kanal som viste porno med en stor svart sladd over hele skjermen. \n\n2010-tallet har inneholdt TV-sex, sexvideoer på Snapchat, naken-Thomas, Grete som prøver analdusj, My little pony-fetisjer og mye mer. ",
+"t": "Slik var 2010-tallets sex, kropp og følelser",
+"u": "https://podkast.nrk.no/fil/juntafil/a7426bd3-11b4-4701-ab76-b148fe6163f9_0_ID192MP3.mp3"
+},
+"l_80c6debc-994f-4e1c-86de-bc994f5e1c6c": {
+"d": "2019-10-09T13:53:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1905,
+"s": "Vi i Juntafil har tatt turen til Hønefoss for å møte de herlige elevene på Ringerike folkehøgskole. Visste du at vi har 54 kroppsvæsker? og hvor mange bakterier utveksles når man kliner? Med oss har vi storfint besøk fra Åsmund Eikenes som har skrevet boka Sprut, som handler en haug av disse væskene og Stine Solli fra sex og samfunn som gir oss svar på hvor effektivt stilisering som \"prevensjonsmiddel\".\n\n",
+"t": "Q&A Live: Sæd, svette og tårer",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-10-09_1153_1224.MP3"
+},
+"l_80f8a844-9563-4ff3-b8a8-449563aff364": {
+"d": "2012-03-22T20:48:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2936,
+"s": "Vi får besøk av dagens panel hvor alle forteller om sine sorger. Elisabeth fikk sin da hun bare var 12 år og Anders har egentlig ikke hatt kjærlighetssorg og forteller om det. Vår reporter Christian sjekker om det å lage musikk ut av kjærlighetssorg kan hjelpe og vi svarer såklart på spørsmål om sex, kropp og følelser med SUSS. I tillegg kommer Siri Kristiansen fra Lørdagsrådet innom og Petter Bøckman tar oss med inn i dyreriket. ",
+"t": "Kjærlighetssorg",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0322-0748_6346804292.mp3"
+},
+"l_810abbab-d544-4afd-8abb-abd544cafd89": {
+"d": "2014-08-14T21:27:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2698,
+"s": "Vi treffer Camilla på 21 år som har stomi og poser på magen. Hun forteller hvordan det er å leve med det, møte nye gutter og ikke minst ha sex. Vi hører også fra Emilie som er 17 år og gravid. SUSS-lege Erik er på plass og svarer på spørsmål om sex, kropp og følelser.",
+"t": "Sex med stomi",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0814-0727_6354364133.mp3"
+},
+"l_81990b74-f3c5-4d2e-990b-74f3c59d2e3a": {
+"d": "2016-08-19T13:39:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2415,
+"s": "Juntafil er endelig tilbake på lufta og vi starter med det beste! Vi får nemlig besøk av Merethe og Sverre som er kjærester og har stomi, begge to. Vi får bli med inn i livet deres, på deres oppturer og nedturer. Vi får som alltid besøk av Sex og samfunn som svarer på spørsmål om sex, kropp og følelser!",
+"t": "Sex med stomi",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-8-19_1139_2632.MP3"
+},
+"l_8226eee9-0603-4b38-a6ee-e906037b38d9": {
+"d": "2013-06-06T21:55:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3452,
+"s": "Hvor mange kan man ligge med? Mange av oss har lyst til å si at det er greit å ligge med så mange man vil og at det ikke er noen forskjell på gutter og jenter, men reporter Grete lurer på om det egentlig er sant? Er det bare noe vi sier og egentlig dømmer inni oss? \nPanelet kommer innom og forteller hvor mange de har ligget med og hva de tenker om det å ha ligget med ”for mange”. Masse rare og fine spørsmål om sex, kropp og følelser tikker inn og vi svarer på alle.",
+"t": "Antall sexpartnere",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0606-0755_6350614537.mp3"
+},
+"l_857f9df8-ebdd-49d7-bf9d-f8ebdd69d727": {
+"d": "2012-06-14T22:15:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3053,
+"s": "Guttepanelet forteller om hva slags pupper de egentlig liker og hvordan drømmepuppen ser ut. Reporter Jonas kårer verdens største pupper (!) og treffer Marte på 21 år som har tatt silikon. I tillegg er det lesbekonkurranse og mye mye mer! Last ned og bli kåt!",
+"t": "Pupper",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0614-0815_6347530187.mp3"
+},
+"l_87446691-9866-4f4a-8466-9198667f4a68": {
+"d": "2014-02-28T08:28:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2729,
+"s": "Vi får først besøk av dagens undertøypanel som forteller om sine preferanser når det kommer til det lille tøystykket. Vi kler også av oss og diskuterer forskjellen på å stå i truse og bikini. Vi treffer Jørgen på 18 år som er lam fra livet og ned. Han forteller hvordan han sjekker damer og ikke minst hvordan han har sex. ",
+"t": "Seksuelt aktiv og lam",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0228-0728_6352916971.mp3"
+},
+"l_876a50a5-53bb-41c5-aa50-a553bb91c524": {
+"d": "2014-12-19T14:01:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2931,
+"s": "Vi får besøk av \"Lasse\" som har på kort tid fått over 10 000 følgere på snapchat hvor han legger ut drøye sex videoer. Han forteller og forklarer i dagens sending. Kristine svarer på spørsmål og reporter Karen finner ut hvorfor vi blir flaue og om det er sunt. ",
+"t": "Sexvideo på snapchat",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1219-0101_6355459100.mp3"
+},
+"l_883d44ce-06e7-4ac3-bd44-ce06e76ac311": {
+"d": "2013-05-02T22:07:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3081,
+"s": "Panelet forteller hva som gjør dem UTENTE i senga. Grete forteller om fittefis og kukost! Konkurransen \"Kroppen min\" - SUSS svarer på meldingene deres...",
+"t": "Turn off",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0502-0807_6350312220.mp3"
+},
+"l_8a5e89e7-ea58-4d2c-9e89-e7ea581d2c41": {
+"d": "2020-02-27T15:45:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 605,
+"s": "Etter et brudd bestemmer Vilde seg for at hun så fort som mulig skal ha sex igjen. Dette blir en uke med gjentatte forsøk, morsekode på puppene og en alt for stor penis. ",
+"t": "Kjappis: Vilde vil tilbake på hesten",
+"u": "https://podkast.nrk.no/fil/juntafil/7c0446cf-0857-4bed-9a5c-4e1237ddb424_0_ID192MP3.mp3"
+},
+"l_8caacddc-a65b-46f5-aacd-dca65bb6f564": {
+"d": "2017-02-17T11:05:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2830,
+"s": "Hva betyr det egentlig å være aseksuell? Og hvilke former for det finnes? Reporter Remi treffer tre personer som beskriver seg selv som nettopp dette, men på forskjellig måte. Sex og samfunn kommer som vanlig innom. I tillegg tar vi et dykk ned i ukas P3dokumentar \"Blakk meg kåt!\" som handler om økonomiske fetisjer. ",
+"t": "Aseksuell",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-02-17_1005_251.MP3"
+},
+"l_8eafb88d-d677-4876-afb8-8dd677187689": {
+"d": "2019-11-27T13:39:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 360,
+"s": "På en overnattingsfest i en gigantisk hytte får Mikkel muligheten til å oppleve en stor fantasi: Sex med kjæresten i samme rom som et vennepar. Men det oppstår et problem... går det an å bli for kåt?",
+"t": "Kjappis: For kåt til å få stå",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-11-27_1239_2870.MP3"
+},
+"l_8f57b77f-bde3-43cb-97b7-7fbde333cbfe": {
+"d": "2012-08-17T15:32:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3521,
+"s": "Dagens panel serverer sine førstegangshistorier på et sølvfat og avgjør om det er lurt eller ikke å drikke første gang man skal pøke. Reporter Jonas forteller deg, trinn for trinn, hva du bør gjøre og ikke gjøre den dagen du skal miste jomfrudommen. Vi svarer på masse SMS om sex, kropp og følelser og det er GØY! Last ned og kos deg ;)",
+"t": "Sex for første gang",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0817-0132_6348080740.mp3"
+},
+"l_8ffab45e-cb6a-4a07-bab4-5ecb6a7a074e": {
+"d": "2013-04-11T22:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3367,
+"s": "Reporter Grete er med på silikonoperasjon og får sett alt som er å se. Panelet forteller hvordan de liker å bli tatt på puppene og hvordan titsa ser ut. I tillegg treffer vi Ida Helen som fikk brystkreft i svært ung alder.  Også er det såklart masse annet snakk om sex, kropp og følelser!",
+"t": "Silikonpupper og andre pupper",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0411-0800_6350129805.mp3"
+},
+"l_902f63f7-2e64-4f3e-af63-f72e64ff3ec4": {
+"d": "2015-12-11T10:41:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2799,
+"s": " Vi treffer vi Erik som har en testikkel og Emilie som har delt skjedevegg. Men først får vi besøk av dagens panel som forteller om faking av orgasmer. Hvordan gjør de det? Og hvorfor gjør de det? Som alltid svarer vi også på spørsmål om sex, kropp og følelser. ",
+"t": "Annerledes nedentil",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-12-11_941_1942.MP3"
+},
+"l_92422441-4f47-4c7f-8224-414f475c7f1b": {
+"d": "2015-06-19T12:10:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2517,
+"s": "Hva har vi alle til felles når vi ser etter drømmedama eller mannen? Det får du vite i dagens sending. Vi får også svar på en drøss med spørsmål, blant annet hva som skjer om man har en finger i rumpa og biter negler etterpå. Vi hopper tilbake i livet til Linn hvor det nå er bekkenløsning. ",
+"t": "Drømmedama, bekkenløsning og finger i rumpa",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT63838_6A02D386309748AAB641668D22FD8D9A.MP3"
+},
+"l_92c5e4cb-0c6f-4562-85e4-cb0c6fc5622c": {
+"d": "2020-01-30T14:35:00+01:00",
+"i": "https://gfx.nrk.no/FcraiiJSWMwHVsKV5qlwcw4Yn71rPc2QOawT3KPXskxg",
+"n": 1091,
+"s": "Ah! Maja tester om sexen blir annerledes når hun ikke lager lyd, Hilmar synes hyling er sexy og Emma lager ekstra lyd når hun føler seg ferdig. Blir sexen bedre av høy stønning?",
+"t": "Lyden av sex",
+"u": "https://podkast.nrk.no/fil/juntafil/762d11ae-71fc-4b1f-b65d-5f8eed0481a8_0_ID192MP3.mp3"
+},
+"l_944e7405-aba5-45c0-8e74-05aba5f5c013": {
+"d": "2016-11-11T10:33:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2709,
+"s": "Hvordan rimmer man egentlig? Reporter Remi drar ut og treffer Emilie som elsker rimming! I tillegg snakker vi om forelskelse med dagens panel. Og Sex og samfunn svarer på alt fra kondomallergi til hvor ofte det er vanlig å onanere.",
+"t": "Rimming",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-11-11_933_2625.MP3"
+},
+"l_947fbc8b-1402-4bcf-bfbc-8b1402cbcf84": {
+"d": "2013-11-15T11:38:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3845,
+"s": "Vi får besøk av en fyr som ikke vil ha sex når han har drukket, en som bare vil ha sex når hun har drukket og en som fikk en litt merkelig overraskelse da hun hadde med en full man hjem. Reporter Line finner ut hvorfor vi blir så utrolig kåte når vi drikker. Vi svarer også på spørmål om sex, kropp og følelser og ukas kjendis til \"Favorittkroppsdel\" er Jaa9. ",
+"t": "Sex på fylla",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1115-1038_6352010898.mp3"
+},
+"l_94fcb26f-309a-4aac-bcb2-6f309a2aac9a": {
+"d": "2013-02-01T15:21:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2794,
+"s": "Jørn Kaarstad er vikar i denne ukens Juntafil. Sammen med SUSS-lege Lars, panalet og reporter Jonas tar han opp hva en gjør når en er interessert i noen? Hva sier en? Hva gjør en? Det får du forhåpentligvis svar på i denne sendinga. Last ned og kos deg.",
+"t": "Interessert - Hva nå?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0201-0221_6349532541.mp3"
+},
+"l_950e090c-0b65-47fe-8e09-0c0b6557fef1": {
+"d": "2019-08-21T15:17:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2237,
+"s": "Pornoindustrien er til tider grusom, farlig, gir et forvridd blikk på både kropp og sex - men likevel ser vi på det. Hvorfor? Vi møter Kine som lyver om å se på porno, Anne Sofie som har bestemt seg for å bli pornoskuespiller, panelet som snakker om hva de liker å se på, og Bente som forsker på hvordan pornoen påvirker oss. Går det an å se på porno med god samvittighet?",
+"t": "Porno med god samvittighet",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-08-21_1317_2200.MP3"
+},
+"l_9599b567-804e-47b4-99b5-67804e37b4ed": {
+"d": "2019-10-23T12:24:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 418,
+"s": "Erlend forteller om noe veldig mange gutter frykter, nemlig å ryke strengen. Men hva skal man gjøre da, når det fossblør fra kuken? Erlend fikk panikk.",
+"t": "Kjappis: Når strengen ryker",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-10-23_1024_1738.MP3"
+},
+"l_96110e43-87cf-4520-910e-4387cf95209f": {
+"d": "2012-03-29T22:13:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2501,
+"s": "Doggy, spansk omelett, hotdog og 69’ern, det finnes mange sexstillinger. Vi prøver å finne ut hvilken som er best ved hjelp av dagens panel. Karianne forteller at hun måtte avslutte ganske så kjapt da hun fikk krampe i beinet da hun prøvde for mye og Andres og Annika sier helt tydelig at 69’ern ikke er så digg som folk skal ha det til. Reporter Christian finner også ut hvor navnet misjonærstilling kommer fra. Som alltid svarer vi på SMS fra lyttere om sex, kropp og følelser. Og Zoolog Petter Bøckman gir også noen råd til en sexfrustrert høne. ",
+"t": "Sexstillinger",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0329-0813_6346864883.mp3"
+},
+"l_9748479e-7d5d-4c31-8847-9e7d5d8c316a": {
+"d": "2013-03-21T21:02:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3163,
+"s": "Vi får besøk av Eline som har tatt abort. Reporter Grete forteller om ”Babybox” i Latvia. Vi forteller deg prosedyren hvis du velger å ta abort. Konkurranse, Tuva forteller om porno for blinde – og SUSS svarer på deres spørsmål om sex, kropp og følelser.",
+"t": "Hvordan er det å ta abort?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0321-0802_6349949296.mp3"
+},
+"l_9769064c-52ff-455a-a906-4c52ff655ae2": {
+"d": "2012-11-01T21:00:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3392,
+"s": "Ryktene sier at det er glattbarbert man skal være i dag. Men stemmer det? Dagens panel forteller deg hvordan de liker frisyren der nede og hvordan de selv har det. Reporter Marie tar med Aslak på voksing, noe som sies å være veldig smertefullt, så Aslak er nervøs. Vi svarer også på SMS om klamydia, angrepiller og forelskelser, så last ned og kos deg. ",
+"t": "Kjønnshår",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1101-0800_6348731691.mp3"
+},
+"l_977cdf8c-05b3-40f6-bcdf-8c05b350f60e": {
+"d": "2019-04-24T13:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1059,
+"s": "Ruth (22) la fort merke til at hun var den siste i vennegjengen som ikke hadde hatt sex, og det er hun enda. Hun har bestemt seg for at det ikke haster. ",
+"t": "Jeg har ikke hatt sex",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-24_1100_3578.MP3"
+},
+"l_97d379d3-3c2e-4f6c-9379-d33c2e0f6c41": {
+"d": "2020-02-20T13:00:00+01:00",
+"i": "https://gfx.nrk.no/GuSqK5vHKNN7WoGs9gq82wOkEm-a1MKpc71qhpKX9zGg",
+"n": 443,
+"s": "Maja har en avtale med en fyr: De skal fortsette å ha sex fram til de møter noen andre. På sin egen bursdag spør hun: Har du ligget med noen? Nei, sier han. ",
+"t": "Kjappis: Klamydia i bursdagsgave",
+"u": "https://podkast.nrk.no/fil/juntafil/ff5a97fc-0c86-4b05-a8de-849ae0fa6a81_0_ID192MP3.mp3"
+},
+"l_9849d3b2-e6db-4a4b-89d3-b2e6db2a4b16": {
+"d": "2012-12-07T12:21:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3399,
+"s": "Reporter Marie finner ut hva som egentlig skjer når man omskjærer gutter. Hun drar inn på operasjonssalen og sjekker ut instrumentene som brukes. Guttepanelet svarer på spørsmål fra jenter på gata, alt fra misunnelse til hvordan de liker å bli runket. I tillegg får du vite hva jenter synes om det å suge. ",
+"t": "Pikken",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1207-1121_6349047642.mp3"
+},
+"l_98cc55f3-9f6d-4251-8c55-f39f6d02513d": {
+"d": "2014-02-20T20:19:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2760,
+"s": "Vi får servert historier om første gang på et sølvfat i dagens sending. Vi er både på jorder, hjemme i senga og på DDE-konsert. Vi treffer også to 20åringer som fortsatt er jomfru og ikke er så sikre på om de vil ha sex. SUSS-lege Ida svarer på spørsmål om lommefitte, fisting og oneninghtstands. ",
+"t": "Første gang",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0220-0719_6352852080.mp3"
+},
+"l_9ac86b37-13cc-492c-886b-3713cc392c8b": {
+"d": "2020-03-04T15:32:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 892,
+"s": "Hvordan er det å være den som ikke vil ha barn og som snakker åpent om det? Kristin vil sterilisere seg og har villet det lenge. ",
+"t": "Kristin (26) vil sterilisere seg",
+"u": "https://podkast.nrk.no/fil/juntafil/eee71e0b-9658-43af-9f0a-8af96bb541ef_0_ID192MP3.mp3"
+},
+"l_9b5ce4e9-176d-4084-9ce4-e9176d408459": {
+"d": "2019-04-08T13:03:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1274,
+"s": "Hvordan skal man forholde seg til fetisjer? Hvordan gi jenter orgasmer? Og hva skjer med eggene i kroppen når man går på p-piller? Dette er noen av spørsmålene vi tar for oss i ukas Q&A!",
+"t": "Q&A: Kåt av boblejakke",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-08_1103_4072.MP3"
+},
+"l_9db92bd6-ab0c-4157-b92b-d6ab0cd15761": {
+"d": "2016-09-02T09:49:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2857,
+"s": "Vi får høre historien til \"Sara\" som ble filmet med skjult kamera, mens hun hadde sex. Hun forteller om tanker og reaksjoner rundt det som skjedde. I tillegg snakker vi om sex, kropp og følelser med Sex og samfunn. Og Emma Clare Gabrielsen kommer innom og snakker om intimkirurgi. ",
+"t": "Sara ble filmet mens hun hadde sex",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-9-2_749_762.MP3"
+},
+"l_9f0bef04-b9fd-4580-8bef-04b9fd6580b3": {
+"d": "2019-09-25T13:25:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1730,
+"s": "Andrea på 18 år kan få så vondt i underlivet at hun kollapser. I denne episoden dykker vi inn i en sykdom som er vanskelig, nemlig endometriose. Dette er en diagnose som veldig få snakker om, og som flere lider av uten å vite det. ",
+"t": "Endometriose = mensen x 1000 + atombombe",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-09-25_1125_1712.MP3"
+},
+"l_9f1ef269-2bf4-41be-9ef2-692bf471be5e": {
+"d": "2012-11-29T21:27:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2235,
+"s": "Vi får høre hva slags musikk dagens panel liker å pøke til og ikke minst, hva de ikke vil skal komme på stereoen når de har kasta trusa. Vi får vite hvordan vi kan få oss noe når vi er på utenlandsreise, nærmere bestemt Hellas. Og det flommer over av SMS om sex, kropp og følelser som vi så klart svarer på. ",
+"t": "Musikk og sex",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1129-0827_6348981768.mp3"
+},
+"l_a0b8b8d2-bb8b-4c12-b8b8-d2bb8b5c121e": {
+"d": "2019-06-10T12:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 894,
+"s": "Stine fra Sex og samfunn svarer på spørsmål om alt fra tørking til naturlig prevensjon. ",
+"t": "Q&A: Aldersforskjell og naturlig prevensjon",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-10_1000_2912.MP3"
+},
+"l_a18b2317-1445-4eb9-8b23-1714454eb96d": {
+"d": "2013-06-13T22:34:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3433,
+"s": "Tuva Fellmann og reporter Grete Husebø lurer på hvor lenge folk mener at et samleie bør vare? Grete tar med seg spørsmålet ut på gata og spør alle som ser ut som de er et par! Panelet kommer innom og forteller blant annet om hva som er deres lengste og koreste samleie noensinne. Her får du svar som er på alt fra tre sekunder til 11 timer!  SUSS-lege Ida er innom for å svare på spørsmål om sex,kropp og følelser og produsent-vikaren setter i gang en nokså vanskelig konkurranse. ",
+"t": "Lengde på samleie",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0613-0834_6350675255.mp3"
+},
+"l_a1a14caa-5d6a-4f13-a14c-aa5d6a8f137d": {
+"d": "2014-02-13T20:00:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2788,
+"s": "Vi finner ut hva som egentlig definerer utroskap. Er det klining, sex eller bare kos? Vi får også høre hvordan det er å være den tredje parten, den som noen er utro med. I tillegg treffer vi en 21 åring som polyamorøs. Det vil si at han gjerne vil ha flere forhold på en gang og forteller hvordan det er. Vi gir tips til bedre og mer romantisk sex til Valentinesdag i morra!",
+"t": "Når er man utro?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0213-0700_6352789092.mp3"
+},
+"l_a2fd2c26-396c-4264-bd2c-26396c526404": {
+"d": "2013-09-13T12:07:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 4052,
+"s": "Vi får besøk av Marius på 22 år som er stripper. Han forteller om sine kleineste oppdrag og hvordan det var å være bekymra for at \"utstyret\" var for lite. Reporter Sigrid utfordrer seg selv på nakenfronten og inviterer til middag hjemme, naken. SUSS svarer på spørsmål og svar fra alle lyttere og Asbjørn Slettemark beskriver sin favoritt kroppsdel. ",
+"t": "Naken",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0913-1007_6351466378.mp3"
+},
+"l_a31e908c-2431-4cd1-9e90-8c2431acd1af": {
+"d": "2019-06-05T11:14:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1405,
+"s": "Spytt, bakterier og kløning - hvorfor er ikke klining ekkelt? Hva skjer med oss når det går feil og hvordan blir det riktig? ",
+"t": "Hvorfor er ikke klining ekkelt?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-05_0914_2854.MP3"
+},
+"l_a41954a1-cce4-45f4-9954-a1cce415f458": {
+"d": "2019-05-22T16:35:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 482,
+"s": "Hvordan får man til sex med kjæresten når man er på ferie med familien? Det blir en hemmelig kjappis! ",
+"t": "Kjappis: Hemmelig sex",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-22_1435_1777.MP3"
+},
+"l_a56a6e43-f4cc-480e-aa6e-43f4ccf80ea0": {
+"d": "2014-03-07T08:09:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2800,
+"s": "Vi treffer Oda som forteller at hun faker sine orgasmer. Hvordan hun gjør det og hvorfor får du høre her. Vi får besøk av panelet som forteller om hemmeligheter i forhold. De tar for seg alt fra utroskap til promping. ",
+"t": "Hemmeligheter i forhold - er det greit å fake?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0307-0709_6352977307.mp3"
+},
+"l_a7a37d3e-6e03-4e64-a37d-3e6e030e64e6": {
+"d": "2014-09-05T12:49:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2577,
+"s": "Er tatoveringer sexy? Vi får besøk av dagens panel som deler sine meninger og historier. SUSS-lege Kristine svarer på spørsmål om det er innafor å bli kåt av traktorer og mer til. Jonas finner ut om man kan få lyst til å runke av tegneserier.",
+"t": "Sexy tatoveringer og tegneserier om sex",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0905-1049_6354551120.mp3"
+},
+"l_abf950d0-1106-437f-b950-d01106937f83": {
+"d": "2019-06-17T14:41:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 774,
+"s": "Kan man få klamydia munnen, og hvorfor får vi egentlig fittefis? Stine fra Sex og Samfunn melder at gonoré er på vei opp, og svarer på spørsmål som har kommet inn på juntafil.no! ",
+"t": "Q&A: Fittefis og gonoré ",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-17_1241_2109.MP3"
+},
+"l_ad766721-edf3-4311-b667-21edf3331158": {
+"d": "2012-05-11T14:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2761,
+"s": "Reporter Jonas har funnet ut hva folk kaller den lille blomsten sin og spør om de tror den er normal. Dagens panel snakker om hvor mye utseende har/ikke har å si, og vi får besøk av Eva Mohn som har skrevet boka Venus – norske kvinner sett nedenfra. I tillegg skal du få høre hvilken by i Norge som er verst å strippe i og et historisk tilbakeblikk på p-pilla. Som alltid svarer vi også på SMS om sex, kropp og følelser.",
+"t": "Fitta",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0511-1200_6347233455.mp3"
+},
+"l_afa0bf13-eef2-4af1-a0bf-13eef23af11f": {
+"d": "2014-08-29T15:16:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2446,
+"s": "Vi får besøk av dagens panel som forteller om sine fantasier. Hva tenker de på og synes de man burde jobbe for å leve ut sine fantasier? Vi hører om humørsvingninger fra Emilie og det går i kukost, spiraler og forelskelse.  ",
+"t": "Skal man leve ut fantasier?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0829-0116_6354491537.mp3"
+},
+"l_afe72022-2cdf-4344-a720-222cdf7344df": {
+"d": "2015-10-01T20:30:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2683,
+"s": "Hvordan forholder blinde seg til porno? Har noe et skreddersydd tilbud? Bruker de bare lyden? Reporter Remi treffer to jenter som ikke ser, som forteller om deres forhold til porno. Vi snakker også om utsagnet «gutter er kåtere enn jenter» med dagens panel. Og som alltid er Sex og samfunn innom og svarer på spørsmål. ",
+"t": "Porno for blinde",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_B7D840FB96C9417AB39AF87A0D980532.MP3"
+},
+"l_b1bf3cbe-3cc9-4f73-bf3c-be3cc9bf738c": {
+"d": "2019-03-11T13:16:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1310,
+"s": "Marius fra Sex og Samfunn svarer på spørsmål om forberedelse til analsex, hvilke matvarer som kan brukes som glidemiddel og hvordan man skal forholde seg til at kjæresten legger på seg. ",
+"t": "Q&A: Forberedelse til analsex, blue balls og bruk av babyolje",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-11_1216_2278.MP3"
+},
+"l_b38ac5a1-b60a-4283-8ac5-a1b60a128357": {
+"d": "2014-06-16T13:59:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2530,
+"s": "Dagens panel tar for seg diskusjonen om man burde svelge eller ikke svelge. Hva smaker det? Hvor digg er det egentlig for gutten? Og blir sex bedre av det? I tillegg ser Jonas på hvordan man kan få det som man vil i forhold. SUSS-lege Erik forteller svarer på spørsmål om kjønnssykdommer i vann og hjemmestripping. ",
+"t": "Hva smaker sæd?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0616-1159_6353851696.mp3"
+},
+"l_b3bc0b50-17a3-40a1-bc0b-5017a3e0a17c": {
+"d": "2019-04-29T13:31:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1377,
+"s": "Hva gjør man om man synes at man selv lukter ekkelt? Hvordan sier du ifra til kjæresten at du har lyst til å bruke strap-on? Og når må man egentlig bytte ut p-staven? Dette er noen av spørsmålene som Trine fra Sex og Samfunn svarer på. ",
+"t": "Q&A: Strap-on og vond lukt i underlivet ",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-29_1131_3468.MP3"
+},
+"l_b8d6eed5-a85e-4ea6-96ee-d5a85ecea6b2": {
+"d": "2019-03-20T12:35:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1409,
+"s": "Hvordan blir sexlivet når man plutselig blir lam fra livet og ned? Vi møter Jørgen og blir med han og kjæresten inn på soverommet for å se hvilke hjelpemidler de har. Martha forteller hva man kan gjøre når man opplever fittefis, og Anja forsto ikke hvorfor kroppen hennes ikke virket tiltrukket av menn.",
+"t": "Å miste kontroll over kroppen",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-20_1135_1981.MP3"
+},
+"l_ba0ae275-dcbe-4d8e-8ae2-75dcbe9d8e86": {
+"d": "2012-05-03T22:27:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1625,
+"s": "Reporter Christian avslører webcam-runkerne, vi hører hvordan det går med cybersex-teknologien, panelet snakker om sine erfaringer på området, Caroline Andersen deler sine hemmeligheter, vi får høre historien om sadomasochisme og SUSS svarer på dine spørsmål. Puh! DET var mye.",
+"t": "Cybersex",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0503-0827_6347167377.mp3"
+},
+"l_bf73df52-74a2-4b70-b3df-5274a20b70c8": {
+"d": "2019-05-06T13:04:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1377,
+"s": "Kan man få orgasme av trening? Tar vi for lett på abort? Og hva gjør man med for mye forhud? Dagens spørsmål er definitivt varierte!",
+"t": "Q&A: Kan man få orgasme av styrketrening?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-06_1104_3787.MP3"
+},
+"l_c0077acf-fd26-47c7-877a-cffd2637c7a6": {
+"d": "2016-11-24T19:00:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2206,
+"s": "Vi snakker penisstørrelser, dusjhodeorgasmer og mye mer med Sex og Samfunn, og Marte og Ola forteller om sine flaueste sexopplevelser!",
+"t": "Flauser i senga",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-11-24_180_1409.MP3"
+},
+"l_c1b382d9-34e4-4e58-b382-d934e48e5824": {
+"d": "2016-06-10T11:56:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2748,
+"s": "Dagens sending starter med spørsmål om sex, kropp og følelser med Sex og samfunn. Etter hvert får vi bli med inn i livet til Viktor Inge som ble voldtatt av en kvinne i sitt eget hjem. Han forteller om hendelsen, tanker om anmeldelse og frykten for å fortelle det til noen. ",
+"t": "Voldtatt av en kvinne",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-6-10_956_3672.MP3"
+},
+"l_c5ed2ba9-3d1e-4ddd-ad2b-a93d1e8dddd7": {
+"d": "2013-02-07T21:00:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3385,
+"s": "Panelet kjører i gang med konkurranse om hvem som klarer å tre på et kondom på en banan, med munnen! Vi får et ny innblikk i den kristne ungdomsverden, og ukas tema er onanering. I tillegg svarer vi som alltid på SMS om sex, kropp og følelser. ",
+"t": "Prevensjon",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0207-0800_6349436726.mp3"
+},
+"l_c699260b-cd11-45d8-9926-0bcd1145d8e4": {
+"d": "2017-03-01T11:38:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2046,
+"s": "I dag snakker vi om sex vi rett og slett angrer på. Den sexen som kom ut fra den kjedelige Tinderdaten eller fra fyren man møtte i burgerkøen. Sex og samfunn kommer også på besøk og svarer på spørsmål om alt fra menskopp til kuklås!",
+"t": "Sexen vi angrer",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2017-03-01_1038_3209.MP3"
+},
+"l_c9b67fb5-e5af-4376-b67f-b5e5af83767c": {
+"d": "2019-04-22T13:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1213,
+"s": "Sex og Samfunn svarer på alt fra forelskelse, til aldersgrense på p-piller, til bollemus. ",
+"t": "Q&A: Forelskelse og bollemus",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-22_1100_1372.MP3"
+},
+"l_cc48dbe8-4372-4154-88db-e843728154dd": {
+"d": "2019-07-10T08:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 336,
+"s": "Hilmar elsker å slikke fitte, men en dag får han spørsmål om å gjøre noe annet. ",
+"t": "Kjappis: Smaken av rumpe",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-07-10_0600_1487.MP3"
+},
+"l_ce1c3563-6b8e-41f8-9c35-636b8ec1f8db": {
+"d": "2019-12-04T16:19:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 419,
+"s": "Petter har som oftest sex med menn, men nå skal han ha sex med en dame. Hvordan gjorde han det igjen? Er ikke det litt som å sykle?",
+"t": "Kjappis: Litt som å sykle",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-12-04_1519_3225.MP3"
+},
+"l_ce6bacc2-3f3d-4a02-abac-c23f3d3a02b1": {
+"d": "2019-05-13T12:46:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1778,
+"s": "I dagens Q&A tar vi for oss både squirting, herpes og det å bli kåt av avføring. Det er Trine fra Sex og Samfunn som svarer på spørsmålene, sammen med programleder Tuva. ",
+"t": "Q&A: Squirting og herpesoppdatering",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-13_1046_3764.MP3"
+},
+"l_cf7a6126-2d15-4dc8-ba61-262d15ddc80b": {
+"d": "2015-09-04T09:34:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2670,
+"s": "Dagens panel er på plass og forteller om sine flauser under og etter selve økta. Vi drar også ut med reporter Grete som vil finne ut hvor lenge et vanlig samleie egentlig skal vare. Sex og samfunn er selvsagt også på plass og svarer på dine spørsmål.",
+"t": "Sexflauser",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT65905_85BD812599774333939AF2E3E95961B3.MP3"
+},
+"l_d01f43d0-c75e-4446-9f43-d0c75e6446f8": {
+"d": "2014-01-23T20:00:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2843,
+"s": "Både programleder Tuva, Espen og Anette har alle forelsket seg i noen som de kanskje ikke burde forelsket seg i, eller hvor det hvert fall vil oppstå en del problemer. Reporter Lars Erik tar for seg den litt mer \"ulovlige\" kjærligheten og finner ut hvordan man kan bli kvitt den. Det er masse spørsmål om rare, søte, fine og morsomme ting når det kommer til sex, kropp og følelser.  ",
+"t": "Umulig forelskelse ",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0123-0700_6352602666.mp3"
+},
+"l_d059b082-8c64-49be-99b0-828c64d9be92": {
+"d": "2013-02-21T21:15:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3052,
+"s": "Er det slik at jenter blir forelska i alle de ligger med? Vi finner ut hva som skjer inni kroppen rett før, midt i - og rett etter sex. Panelet forteller hvordan det er rett etter sex med en one night stand. Og vi prøver å nøste opp i problemet: \"hvor skal man gjøre av spermen etter sex\". I serien vår om kristine får vi i dag høre om utroskap. Konkurransen Hvem lesber. Og SUSS svarer på dine spm. om sex, kropp og følelser.",
+"t": "Rett etter sex!",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0221-0815_6349707472.mp3"
+},
+"l_d09252b9-daaf-483c-9252-b9daafd83c03": {
+"d": "2020-02-05T14:55:00+01:00",
+"i": "https://gfx.nrk.no/a8QEgGUYFiOqwWnutfEEawQYfr1UTgJ8z_GQCmMNjs_w",
+"n": 463,
+"s": "\"Du slår ut på min gaydar!\", sier folk til Ådne. De tror han er homofil. Det er han ikke. ",
+"t": "Alle tror Ådne er homofil",
+"u": "https://podkast.nrk.no/fil/juntafil/4d2135bd-ade8-4468-b4e6-8af3cf080daf_0_ID192MP3.mp3"
+},
+"l_d1bd9234-8630-4eeb-bd92-3486304eeb77": {
+"d": "2019-03-04T13:04:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1312,
+"s": "Hver mandag får du svar på dine spørsmål om sex, kropp og følelser. Denne uka skal vi blant annet innom promping under orgasme, hvordan man vet om man er homofil og om Viagra er løsningen for ereksjonssvikt. ",
+"t": "Q&A: Herpes, promping ved orgasme og Viagra",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-04_1204_1139.MP3"
+},
+"l_d20ac1d7-4985-4f1b-8ac1-d749854f1b59": {
+"d": "2012-12-13T21:31:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3332,
+"s": "Vi prøver å finne ut av dette med nettdating. Er det flaut å si at man driver med det? Er det farlig? Er det skummelt? Og hvor fort kan man skaffe seg en date? ALT dette får du svar på i denne sendinga. I tillegg får du vite hvordan du kan få pult i Kina, hvordan du blir kvitt klamydia og hva riming er.",
+"t": "Nettdating",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1213-0831_6349102748.mp3"
+},
+"l_d2561a78-24ae-4295-961a-7824ae2295d3": {
+"d": "2019-03-27T15:11:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1350,
+"s": "Panelet prøver å bli enige om hva som skal til for at noen skal komme på lista deres over antall sexpartnere, og forfatteren A.N.P. forteller om hvorfor hun ville  vente med vaginalsex, men ha analsex istedenfor.   ",
+"t": "Når telles det som sex?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-27_1411_350.MP3"
+},
+"l_d47bd784-f887-4335-bbd7-84f8870335c1": {
+"d": "2015-04-09T21:22:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2892,
+"s": "Vi får besøk av dagens panel som forteller om alt fra sin første orgasme og om hvordan det egentlig kjennes ut. Det blir eventyrkonkurranse og Nils Petter svarer på spørsmål om sex, kropp og følelser. Moromoromoro! ",
+"t": "Hva er en god orgasme?",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT63212_ACBC00BB261547FA87743311B21DD08B.MP3"
+},
+"l_d5ca22a8-0335-4c57-8a22-a80335fc576d": {
+"d": "2012-10-04T22:30:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3238,
+"s": "Reporter Jonas snakker med en samlivsterapaut for å finne ut hvordan man på best mulig måte, kan gå frem for å få det som man vil i forholdet. Hvordan legger man det for eksempel frem at man vi reise et år til Amerika? Her får du tipsene. I tillegg kommer dagens panel innom og forteller hvordan de sier ifra i senga, når de vil ha en annen type sex, og ikke minst, har de blitt sagt ifra? Gjett om. Vi svarer på spørsmål om alt fra klamydia til forelskelse til fingring. Last ned og kos deg!",
+"t": "Hvordan få det som man vil?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1004-0830_6348497945.mp3"
+},
+"l_d740c65f-9d73-4c9a-80c6-5f9d73ac9ab6": {
+"d": "2012-05-02T17:01:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2575,
+"s": "Reporter Jonas har snakker med en 21 år gammel kristen jente som vil vente med sex til hun har giftet seg, er det verdt det? Og hvordan hadde det egentlig gått om hun og kjæresten hadde bodd sammen? I tillegg kommer panelet innom og avgjør om det er noen mulighet for et kjæresteforhold etter en one night stand? Seff svarer vi også på dine sprøsmål om sex, kropp og følelser og ikke minst får vi et godt innblikk i en strippers verden i spalten \"Hemmeligheter med Caroline Andresen\" ",
+"t": "Når skal vi ha sex?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0502-0301_6347156840.mp3"
+},
+"l_d79b6081-cf08-437e-9b60-81cf08737eae": {
+"d": "2015-11-19T19:00:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2500,
+"s": "Dagens panel snakker om det store spørsmålet om hvor mange man kan ligge med. Er de fornøyd med sitt eget tall? Vi får også besøk av Nils Petter fra Sex og samfunn som svarer på spørsmål om sex, kropp og følelser. Og vi tar et lite tilbakeblikk til dagen hvor reporter Lars Erik sjekka om han hadde damepupper.  \n",
+"t": "Hvor mange kan man ligge med? ",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-11-19_180_4235.MP3"
+},
+"l_d7f52fdd-05f6-4511-b52f-dd05f6851164": {
+"d": "2019-03-06T13:18:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1776,
+"s": "Petter får vondt når han har sex og bestemmer seg for å ta en operasjon. Må han da lære seg å ha sex på nytt? Tarjei og Knut tar en titt under forhuden, og Thea oppdager kukost på seg selv.",
+"t": "Stram forhud",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-06_1218_1842.MP3"
+},
+"l_dad2f334-bac2-4b1a-92f3-34bac21b1a1b": {
+"d": "2013-08-15T22:10:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3816,
+"s": "Ute, inne borte eller hjemme. Vi snakker om rare steder å ha sex på og får høre tre ganske rause historier om det. I tillegg sjekker Jonas ut hva som skjer om man blir tatt av politiet mens man har sex utendørs. SUSS kommer innom en time og svarer på spørsmål om klamydia, forelskelse og vi får høre om rare hormoner. Jonas kårer Norges mest sexy parti og det blir gjettekonkurranse når Ronny Brede Aase beskriver en kroppsdel han liker godt. ",
+"t": "Sex på rare steder",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0815-0810_6351219428.mp3"
+},
+"l_db9b17f7-2728-4112-9b17-f7272851125d": {
+"d": "2014-11-21T13:57:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2656,
+"s": "Vi treffer Marius og Charli i vår nye serie om stripping. I dagens sending forteller de om forberedelsene og ikke minst kostyme. SUSS-lege Kristine svarer på alle mulige spørsmål om sex og kropp. Og panelet er innom for å snakke om ekskjærester. ",
+"t": "Marius og Charli er strippere",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1121-1257_6355217155.mp3"
+},
+"l_df4cbcb8-0c5e-413c-8cbc-b80c5ed13c7a": {
+"d": "2012-10-11T22:25:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3564,
+"s": "Reporter Jonas kårer det ultimale kallenavnet på kjønnsorganene. Det renner inn mailer og Jonas sliter med å velge. Dagens panel forteller hva de kaller sine private områder og hva det styggeste ordet om tissen, er. Det blir besvart en haug av sms med spørsmål om sex, kropp og følelser, og det er jo helt fabelaktig å høre på. Reporter Marie finner også ut hva man kaller kjæresten sin rundt omkring i landet. Moro moro moro!",
+"t": "Kallenavn",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-1011-0825_6348558394.mp3"
+},
+"l_e0006794-c719-46f6-8067-94c71996f6b1": {
+"d": "2019-11-06T14:06:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2521,
+"s": "I dag tar vi for oss alle spørsmål som er fra eller om kvinnen, jenta, transkvinnen, innovertissen, puppene, håret, eggene, hormonene, lårene. \n\n",
+"t": "Q&A: Alt om kvinner!",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-11-06_1306_1890.MP3"
+},
+"l_e1ae73a9-c51e-4c1f-ae73-a9c51e9c1f92": {
+"d": "2019-07-24T08:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 344,
+"s": "Torstein har ingen problemer med å stå naken foran fremmede, før dagen kommer. Hvordan kan han lære seg å strippe på én dag?",
+"t": "Kjappis: Strippet for en kasse øl",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-07-24_0600_3366.MP3"
+},
+"l_e1b5b709-23af-48d0-b5b7-0923af98d042": {
+"d": "2019-11-13T15:05:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2248,
+"s": "Jente 28 lurer på om det er noe galt med henne. Hun gråter nemlig etter orgasme og lurer på om noe er feil eller er flere som opplever dette? Juntafil tar saken og treffer Martha som har opplevd det flere ganger. Men hvorfor skjer det egentlig?",
+"t": "Er det vanlig å gråte etter orgasme?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-11-13_1405_4172.MP3"
+},
+"l_e1d01a50-1913-426d-901a-501913c26d37": {
+"d": "2014-09-18T21:00:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2494,
+"s": "Vi treffer Bård og Pogo som forteller om sine erfaringer og preferanser når det kommer til BDSM. SUSS-lege Erik svarer på alle spørsmål om sex, kropp og følelser. I tillegg får vi vite hvorfor man egentlig får morrabrød. ",
+"t": "BDSM og morrabrød",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0918-0700_6354663573.mp3"
+},
+"l_e2ccb3d2-aa94-47ce-8cb3-d2aa9467cec9": {
+"d": "2016-12-09T12:55:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2824,
+"s": "Sex og samfunn svarer på alt av spørsmål vi får inn og vi hører også om en nittenåring som bestemte seg for å slutte å onanere. ",
+"t": "Kan man bli gravid av å få sæd i navlen?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-12-9_1155_1484.MP3"
+},
+"l_e4717115-de08-42a6-b171-15de0872a64e": {
+"d": "2014-05-16T12:32:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2637,
+"s": "I dagens sending er det rødmegaranti. Vi får høre historien om da Christian bruker en dildo som forsvinner opp og ikke kommer ut. Vi snakker legevakt, trikk og sykehus med en dildo i magen. Panelet forteller om sine flauser i senga og SUSS-lege Erik svarer på spørsmål.",
+"t": "De pinligste historiene ",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0516-1032_6353583324.mp3"
+},
+"l_e6453545-e116-4cd6-8535-45e1160cd694": {
+"d": "2019-06-26T16:41:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2460,
+"s": "Christina jobber som stripper i Oslo. Knut, Thea og Torstein har vært på strippeklubb med varierende suksess. Kirsti vil gjøre det forbudt. ",
+"t": "Er det greit å gå på strippeklubb?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-26_1441_758.MP3"
+},
+"l_e6f4a97a-d236-421c-b4a9-7ad236621c61": {
+"d": "2013-10-18T12:18:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 4004,
+"s": "Vi får utenlandsbesøk, tidligere pornostjerne Sasha Grey kommer innom og forteller om sin pornokarriere og hvordan den har inspirert henne til å skrive bok. Hun forteller også om tabber hun har gjort på pornosettet. I tillegg viser Jonas porno til fire 18åringer for å se om det er noe som kan funke for de. Inboxen er også full av spørsmål som vi svarer på. ",
+"t": "Sasha Grey på besøk",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-1018-1018_6351768860.mp3"
+},
+"l_e792703b-3240-49b5-9270-3b324039b57d": {
+"d": "2014-09-12T13:31:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2997,
+"s": "Vi får høre pinlige datehistorier fra dagens gjester og det er gøy! SUSS-lege Kristina forteller om det er farlig med sperm i øyet og hvordan omgangssjuke og sex kan henge sammen. Emilie forteller om fødselen og vi sjekker hvor mange som må spørres før vi finner noen med kjønnssykdommer på festival. ",
+"t": "Våre verste dates",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0912-1131_6354611845.mp3"
+},
+"l_e7d1eed0-97c5-474d-91ee-d097c5774d1e": {
+"d": "2014-08-22T13:45:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2822,
+"s": "Vi får besøk av Berit og Thomas som mildt sagt stiller på hver sin side av diskusjonen om man skal ha hår på kroppen eller ikke. Vi sjekker hvor mange som har hatt BDSM på Hove festivalen og SUSS svarer på spørsmål om alt! ",
+"t": "Hår, BDSM og golden showers",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0822-1145_6354430484.mp3"
+},
+"l_e7f0474a-2f9b-48cd-b047-4a2f9b38cda5": {
+"d": "2012-08-24T12:08:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3938,
+"s": "Vår SUSSlege Lars svarer på alle spørsmål som kommer opp om alt fra p-plaster til pesar. Reporter Jonas kjører testing av ulike kondomer og finner ut om det en gang i fremtiden kommer til å finnes p-piller for menn. Dagens panel er også innom og forteller hva de bruer (og ikke bruker) og tar opp diskusjonen om hvem sitt ansvar det er, både i forhold til kondomer og til uønsket graviditet. Og, seff masse til som konkurransen \"Hvem LESBER?\". Gøy!",
+"t": "Prevensjon",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0824-1008_6348139985.mp3"
+},
+"l_e8c62e4a-43c4-49a5-862e-4a43c459a5a8": {
+"d": "2016-01-07T19:25:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2046,
+"s": "Juntafil starter året med en stor erotisk novelle-konkurranse! Du kan delta og vinne et reisegavekort på 5000 kr. Vi får besøk av Cathrine som er forfatter og gir deg tips til hvordan en erotisk novelle bør være og til hvordan du kan komme i gang med å skrive. Og i tillegg til dette blir det som alltid spørsmål og svar om sex, kropp og følelser!",
+"t": "Erotiske noveller!",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-1-7_1825_1766.MP3"
+},
+"l_e90f86a7-7b48-4383-8f86-a77b489383b0": {
+"d": "2014-11-07T11:51:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3294,
+"s": "Vi treffer Maria på 22 år som er eskortepike. Hun forteller om sitt liv, tanke om penger, frykt for avsløring og rusa kunder. Prosenteret og Ungpro kommer innom og forteller om farer og ulemper ved det å selge sex. Vi svarer som vanlig også dine spørsmål om sex, kropp og følelser og det er GØY! ",
+"t": "Maria er eskortepike",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-1107-1051_6355095437.mp3"
+},
+"l_e9f815b5-509c-4394-b815-b5509cc394a6": {
+"d": "2015-12-18T08:51:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2175,
+"s": "Årets siste Juntafil sending tar opp spørsmål som har kommet inn til Juntafil tidligere. Det blir kløe i rumpa, analsex og svetteproblematikk. I tillegg får vi besøk av to uheldige mennesker som har blitt busta midt i selve akten! Vi tar også et lite tilbakeblikk til da reporter Grete testa analdusj. ",
+"t": "Busta!",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-12-18_751_3654.MP3"
+},
+"l_ea64f5a2-3ab1-4552-a4f5-a23ab18552d0": {
+"d": "2013-04-04T22:36:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2795,
+"s": "Panelet forteller om sine rareste fantasier, Reporter Grete har snakket med Cupido - som er blitt eksperter på folk sine sexfantasier... og SUSS svarer på meldingene deres om sex, kropp og følelser!",
+"t": "Rare fantasier",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2013-0404-0836_6350070472.mp3"
+},
+"l_eb0e8575-e6e8-491d-8e85-75e6e8391d89": {
+"d": "2015-08-21T13:03:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2742,
+"s": "I dag har Juntafil besøk av selveste Thomas Numme fra Senkveld på TV2. Han skal prøve seg som programleder og skal intervjue panelet om fingring. I tillegg blir det snakk om runking, og Sex og samfunn svarer på alt du lurer på om sex, kropp og følelser!",
+"t": "Fingring og runking",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_1A020E705BA043868CCC3115A7093EB4.MP3"
+},
+"l_ee190977-1a36-48aa-9909-771a36f8aa65": {
+"d": "2016-06-20T18:50:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2361,
+"s": "I dag tar vi for oss bekymringer som kommer med sommeren, som vi kanskje ikke snakker så mye om. Det blir som vanlig spørsmål og svar fra Sex og samfunn og det blir diskusjon om det å sole seg toppløs!",
+"t": "Sommerbekymringer",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-6-20_1650_741.MP3"
+},
+"l_ee7992f3-7eda-4eab-b992-f37eda6eabb3": {
+"d": "2019-03-13T13:09:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1445,
+"s": "Katarina kler av seg på fest, Hilmar skal være naken på scenen, Linn Sophie jobber naken, og panelet prøver å kle av seg på en sexy måte. ",
+"t": "Hvordan være naken?",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-03-13_1209_2314.MP3"
+},
+"l_f08705e7-cda6-4172-8705-e7cda6117218": {
+"d": "2012-08-10T16:33:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3002,
+"s": "Dagens panel forteller om gangen de strippa og ikke minst avgjør de om man bør prøve seg på litt amatør stripping. Ollie Wemskog kommer innom og forteller hvordan det er å ta av seg alle klæra foran gode kollegaer. Reporter Christian har snakket med kvinnegruppa Ottar og hvorfor de vil forby stripping og programleder Tuva forteller om da hun var på strippeklubb i sommer.",
+"t": "Stripping",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0810-0233_6348020629.mp3"
+},
+"l_f23163f8-1db1-4350-b163-f81db1435090": {
+"d": "2015-10-30T10:55:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2479,
+"s": "Vi svarer på alle spørsmål om sex, kropp og følelser! I tillegg skal vi få bli med inn i en het natt hvor Marte og hennes venninne bestemte seg for å gjennomføre en fantasi.",
+"t": "Sex, kropp og sexfantasier",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-10-30_955_3519.MP3"
+},
+"l_f2721442-c8ec-4eff-b214-42c8ec9eff17": {
+"d": "2014-05-23T12:57:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2545,
+"s": "Vi treffer Thomas som ELSKER å være naken. Idet reporter Jonas kommer inn i stua hans, hiver han klæra med en eneste gang. Vi får også besøk av panelet som forteller hvordan og hvordan man ikke skal gjøre det slutt. Og hva de selv har opplevd.",
+"t": "Digg å være naken?",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2014-0523-1057_6353643968.mp3"
+},
+"l_f411f49b-708d-4a2d-91f4-9b708d7a2deb": {
+"d": "2015-05-07T21:39:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3283,
+"s": "Hvordan er det å leve med en vagina som kjennes ut som et stort sår? Det vet Sigrid alt om. Hun har nemlig sykdommen Vestibulitt. Hun forteller om hvordan det er å ha det, og vi får også besøk av fysioterapeut Ingrid Næss som er spesialist på kvinnehelse og Thea Marie Stormo som jobber med et produkt som kan hjelpe mot Vaginisme. I tillegg til alt dette skal Jonas teste russen for kjønnssykdommer og Nils Petter svare på spørsmål om sex, kropp og følelser!",
+"t": "Når sex gjør vondt",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT63067_F0F2FBB3F3574B5485498043395A8EF9.MP3"
+},
+"l_f52d8143-4467-4f42-ad81-434467df42d0": {
+"d": "2019-05-16T15:17:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2128,
+"s": "Erik ble kåt da kjæresten slutta på p-piller, Ida valgte kobberspiral, Jasmin valgte p-stav og lege Kaveh Rashidi forteller alt vi trenger å vite om hormoner, prevensjon og de skumle bivirkningene.",
+"t": "Hormonell prevensjon og bivirkninger",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-05-16_1317_982.MP3"
+},
+"l_f565344b-4e71-455b-a534-4b4e71055bc9": {
+"d": "2016-09-28T14:42:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2539,
+"s": "Mange forbinder one night stands med kleine morninger, dårlig sex og klønete klining. Men likevel har vi det hele tiden! Hvorfor det? Hva får vi ut av å ha one night stand? Dagens panel svarer og deler sine historier. I tillegg svarer Sex og samfunn på alt du måtte lure på!",
+"t": "ONS",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-9-28_1242_4105.MP3"
+},
+"l_f5ea0950-98ac-4d4b-aa09-5098ac6d4bb0": {
+"d": "2019-06-24T13:31:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1152,
+"s": "Kan man bli allergisk mot kjæresten? Hva gjør jeg om jeg blir kåt av snapfilteret mitt? Marius fra Sex og Samfunn svarer på alle spørsmål!",
+"t": "Q&A: Kåt av snapfilter",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-06-24_1131_1361.MP3"
+},
+"l_f6cf314f-8203-4d31-8f31-4f82032d3167": {
+"d": "2015-05-29T14:24:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2742,
+"s": "Vi starter sendinga med med en oppdatering fra Linn som er 32 år og inni sitt fjerde svangerskap. Det blir høytlesning fra \"Erotiske folkeeventyr\" og Nils Petter svarer på spørsmål. Vi drar også til sexleketøybutikken og finner ut hvorfor det er så innmari flaut å i det hele tatt gå inn der: ",
+"t": "Hvorfor er det så flaut å kjøpe sexleketøy?",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_BA9BA0FC2B7E46E5904D94B3C3F427F9.MP3"
+},
+"l_f81e351f-1b39-4590-9e35-1f1b39c59094": {
+"d": "2020-04-02T14:32:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1225,
+"s": "Vilde og Maja er seksuelt frustrerte og tester Tinder. Der opplever de en enorm pågang og avtaler begge en date midt under korona-karantene. Er det lettere å få seg kjæreste i krisetid?",
+"t": "Kåt i karantene",
+"u": "https://podkast.nrk.no/fil/juntafil/20879546-6989-460e-a1bb-32fecb4e7d2c_0_ID192MP3.mp3"
+},
+"l_f868e109-130f-4126-a8e1-09130f912677": {
+"d": "2012-06-01T16:15:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2278,
+"s": "Dagens panel hopper inn i diskusjonen om hvordan man skal fortelle noen om at man har gitt de kjønnssykdommer. Vår reporter Christian går ut på gata og spør om folk har hatt kjønnssykdommer. Eller er det egentlig det han gjør? Som alltid svarer SUSS på spørsmål om sex, kropp og følelser og vi tar en titt inn i pornoindustrien med Caroline Andersen. ",
+"t": "Kjønnssykdommer ",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0601-0215_6347415733.mp3"
+},
+"l_f8b0fd20-180d-4811-b0fd-20180d481144": {
+"d": "2016-11-18T10:55:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2724,
+"s": "I dag starter vi med spørsmål om sex, kropp og følelser. Vi skal snakke om klamydia, p-piller, vasking av endetarm og det som er. Dagens panel kommer også innom og forteller om de litt spesse stedene de har hatt seg!",
+"t": "Sex på rare steder",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-11-18_955_4225.MP3"
+},
+"l_f8df6183-bd63-4d81-9f61-83bd63bd81c7": {
+"d": "2016-01-25T17:45:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2028,
+"s": "Juntafils erotiske novellekonkurranse fortsetter og i dag får du høre utdrag fra \"Behov i stillhet\" og \"Førsteklasses billett til Mile High Club\". Vi får også besøk av Kristine fra Sex og samfunn som svarer på spørsmål om sex, kropp og følelser.",
+"t": "Fantasi på fly og fest",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2016-1-25_1645_50.MP3"
+},
+"l_fa79e277-72d6-4b02-b9e2-7772d6eb02cb": {
+"d": "2015-11-27T09:36:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2687,
+"s": "Kan man kline mens man har i en snus? Og hva skjer om du gir oralsex mens du gir snus? Det får du vite i dagens sending. Vi får også besøk av Kristine fra Sex og samfunn som svarer på alt fra mensen til forelskelse. Vi lager også Juntafils julekalender! <3",
+"t": "Snus og sex",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2015-11-27_836_92.MP3"
+},
+"l_fc94c135-202a-4b81-94c1-35202a8b8156": {
+"d": "2019-04-03T13:35:00+02:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 1408,
+"s": "Hvor er klitoris? Hva er den egentlig? Og hvordan skal man bruke den? Eir bruker den når hun er stressa, Torstein og Knut finner den, Linda piercer den og Luca sin klitoris ble mye større. ",
+"t": "Alt om klitoris",
+"u": "https://podkast.nrk.no/fil/juntafil/juntafil_2019-04-03_1135_768.MP3"
+},
+"l_fc959ed1-0df4-4fda-959e-d10df41fda4c": {
+"d": "2015-03-12T20:18:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 3116,
+"s": "Vi får besøk av dagens guttepanel som gir tips og triks til oralsex. Vi svarer på spørsmål om klamydia, svie, kløe og det som er. I tillegg tar vi et dypdykk ned i kjærlighetsbrevets historie! Og det er MORO!",
+"t": "Oralsex og kjærlighetsbrev",
+"u": "https://podkast.nrk.no/fil/juntafil/NRKDT59384_01FD90CCAEFC455992D771C31CE0C04A.MP3"
+},
+"l_ff6301ce-d390-4b56-a301-ced3901b56c2": {
+"d": "2012-03-16T16:04:00+01:00",
+"i": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"n": 2827,
+"s": "Reporter Jonas forteller hvordan du lettest kan ta av bhen til dama. Panelet forteller om vonde og gode minner etter utallige oppvarminger. Harald Eia forteller om sitt første kyss og vi svarer selvfølgelig på SMS om sex, kropp og følelser. ",
+"t": "Forspill",
+"u": "https://podkast.nrk.no/fil/juntafil/nrk_juntafil_2012-0316-0304_6346750715.mp3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "juntafil",
+"image": "https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ",
+"subtitle": "P3s sexopplysningsprogram som dykker ned i store og små tema. Hver onsdag gir Juntafil deg prat om alt fra kukost til kjærlighetssorg.",
+"title": "Juntafil"
+},
+"v": 2
 }

@@ -1,191 +1,1524 @@
 {
-"l_00edb55c-c724-4f47-adb5-5cc7241f472d": "https://podkast.nrk.no/fil/kommentert/a79e80e9-08cf-47c1-b83b-8faa34563aed_0_ID192MP3.mp3",
-"l_00ff1a22-18e4-4ce1-bf1a-2218e44ce1be": "https://podkast.nrk.no/fil/kommentert/ae6a69bd-fc38-4653-bb30-16063d4bd533_0_ID192MP3.mp3",
-"l_0289a97a-2824-4837-89a9-7a2824783724": "https://podkast.nrk.no/fil/kommentert/fb73832f-733a-40ef-8a29-1b26e77dacc2_0_ID192MP3.mp3",
-"l_05f50522-79aa-4d81-b505-2279aa1d813d": "https://podkast.nrk.no/fil/kommentert/1f7f7c27-814a-4f60-8c67-713982dee31a_0_ID192MP3.mp3",
-"l_08567662-b565-40c4-9676-62b56560c4f9": "https://podkast.nrk.no/fil/kommentert/08567662-b565-40c4-9676-62b56560c4f9_1_ID192MP3.mp3",
-"l_0947e1d8-d1e2-4d9f-87e1-d8d1e2cd9f66": "https://podkast.nrk.no/fil/kommentert/0947e1d8-d1e2-4d9f-87e1-d8d1e2cd9f66_1_ID192MP3.mp3",
-"l_09678a7d-6033-4936-a78a-7d6033093625": "https://podkast.nrk.no/fil/kommentert/09678a7d-6033-4936-a78a-7d6033093625_1_ID192MP3.mp3",
-"l_09c9774c-1b4c-46e5-8977-4c1b4c56e5c2": "https://podkast.nrk.no/fil/kommentert/18e6e7bf-d5cf-4a8d-bd26-04cf72258bda_0_ID192MP3.mp3",
-"l_0d16dc85-6b70-46a9-96dc-856b7066a9ae": "https://podkast.nrk.no/fil/kommentert/1238ba2f-da3c-4815-adce-14cb6d2972d3_0_ID192MP3.mp3",
-"l_0f4df73a-19d4-4f37-8df7-3a19d43f37b0": "https://podkast.nrk.no/fil/kommentert/a47d8051-16cf-47b4-a09e-ab415bba5738_0_ID192MP3.mp3",
-"l_0f6d744e-c8ec-4f33-ad74-4ec8ecdf337b": "https://podkast.nrk.no/fil/kommentert/32a9fd09-8dc1-49a8-9f31-39616c965f52_0_ID192MP3.mp3",
-"l_0fb00f1f-1811-4ce4-b00f-1f18111ce45a": "https://podkast.nrk.no/fil/kommentert/222823c1-ee6b-4ead-bdb4-33cc385c8739_0_ID192MP3.mp3",
-"l_10383b81-7269-4a62-b83b-817269ba6286": "https://podkast.nrk.no/fil/kommentert/10383b81-7269-4a62-b83b-817269ba6286_1_ID192MP3.mp3",
-"l_1047e78b-cb60-4c61-87e7-8bcb60ec6120": "https://podkast.nrk.no/fil/kommentert/5afff26a-2967-4013-9aa0-9de727310b06_0_ID192MP3.mp3",
-"l_11622694-cb3c-4180-a226-94cb3c318016": "https://podkast.nrk.no/fil/kommentert/2cc3c081-72f0-4b32-b75d-9daa7bdaf3d1_0_ID192MP3.mp3",
-"l_11a592f7-24ad-4b34-a592-f724addb34d7": "https://podkast.nrk.no/fil/kommentert/11a592f7-24ad-4b34-a592-f724addb34d7_1_ID192MP3.mp3",
-"l_12b26c20-ea0f-4435-b26c-20ea0f5435cf": "https://podkast.nrk.no/fil/kommentert/40036d1c-38d6-45d9-b4c5-31af647dd283_0_ID192MP3.mp3",
-"l_1395a217-f372-4e7a-95a2-17f3724e7a25": "https://podkast.nrk.no/fil/kommentert/4eec7333-c8aa-48ec-8b3b-9f27f22e3ceb_0_ID192MP3.mp3",
-"l_17317a3a-7c5b-44b8-b17a-3a7c5b84b8c5": "https://podkast.nrk.no/fil/kommentert/17317a3a-7c5b-44b8-b17a-3a7c5b84b8c5_1_ID192MP3.mp3",
-"l_1b208cb3-db57-41eb-a08c-b3db57b1eb22": "https://podkast.nrk.no/fil/kommentert/0b25609b-f478-409f-8505-991c21abfda8_0_ID192MP3.mp3",
-"l_1de0cc32-3d43-4419-a0cc-323d439419a7": "https://podkast.nrk.no/fil/kommentert/abed372e-2fca-4bf6-b5b2-61bd0a749a16_0_ID192MP3.mp3",
-"l_20a50992-73ad-407a-a509-9273add07a6d": "https://podkast.nrk.no/fil/kommentert/c937ea05-b973-44c8-97d7-629b9dabbf8a_0_ID192MP3.mp3",
-"l_216bc4d4-3c2e-468f-abc4-d43c2e368f67": "https://podkast.nrk.no/fil/kommentert/b2881af7-a4b7-4beb-9aa3-cd6d237b7e36_0_ID192MP3.mp3",
-"l_22ae53c5-c85d-4039-ae53-c5c85dd03940": "https://podkast.nrk.no/fil/kommentert/d93a9ce8-6680-4ff7-9ad3-9addbf0452d8_0_ID192MP3.mp3",
-"l_285fbd3f-4aa1-4e26-9fbd-3f4aa16e261c": "https://podkast.nrk.no/fil/kommentert/4d9579aa-5d2d-4d85-9ec5-e517a2268216_0_ID192MP3.mp3",
-"l_2b5c9456-7c61-4700-9c94-567c6177006e": "https://podkast.nrk.no/fil/kommentert/2b5c9456-7c61-4700-9c94-567c6177006e_1_ID192MP3.mp3",
-"l_2be51e98-84db-4449-a51e-9884db84496d": "https://podkast.nrk.no/fil/kommentert/2be51e98-84db-4449-a51e-9884db84496d_1_ID192MP3.mp3",
-"l_2d51a25e-6517-45a4-91a2-5e651745a443": "https://podkast.nrk.no/fil/kommentert/2d51a25e-6517-45a4-91a2-5e651745a443_1_ID192MP3.mp3",
-"l_2f1cccb2-d803-4743-9ccc-b2d803774309": "https://podkast.nrk.no/fil/kommentert/424490a6-ceb7-4788-b7a6-9f2786b3f197_0_ID192MP3.mp3",
-"l_2f592db5-c8d6-4304-992d-b5c8d6c30450": "https://podkast.nrk.no/fil/kommentert/2f592db5-c8d6-4304-992d-b5c8d6c30450_1_ID192MP3.mp3",
-"l_31033784-f671-46c9-8337-84f671c6c99e": "https://podkast.nrk.no/fil/kommentert/31033784-f671-46c9-8337-84f671c6c99e_1_ID192MP3.mp3",
-"l_319464af-2680-4f79-9464-af26803f79d8": "https://podkast.nrk.no/fil/kommentert/319464af-2680-4f79-9464-af26803f79d8_1_ID192MP3.mp3",
-"l_31d82741-0adc-4d58-9827-410adced58e9": "https://podkast.nrk.no/fil/kommentert/f850641b-876b-4d66-8108-e867dd53dde2_0_ID192MP3.mp3",
-"l_336708fe-f703-43c7-a708-fef703b3c75d": "https://podkast.nrk.no/fil/kommentert/3a31bf07-549c-4824-8cb6-bd03d4359930_0_ID192MP3.mp3",
-"l_350d278a-1b91-4bc3-8d27-8a1b917bc38f": "https://podkast.nrk.no/fil/kommentert/350d278a-1b91-4bc3-8d27-8a1b917bc38f_1_ID192MP3.mp3",
-"l_360c4105-4997-4ea1-8c41-054997bea116": "https://podkast.nrk.no/fil/kommentert/681f6157-956e-40c0-9da4-63862720dff5_0_ID192MP3.mp3",
-"l_3809038f-422a-47a3-8903-8f422a07a37d": "https://podkast.nrk.no/fil/kommentert/775a3fda-22f6-44e0-8765-e5134f2fe91c_0_ID192MP3.mp3",
-"l_399d4560-2ec7-40f8-9d45-602ec740f86f": "https://podkast.nrk.no/fil/kommentert/fa2d9535-b668-46b8-b000-4e6ad93d4767_0_ID192MP3.mp3",
-"l_3a69765e-4260-4960-a976-5e4260696064": "https://podkast.nrk.no/fil/kommentert/33af5304-e53e-488d-bb73-13f2a1499480_0_ID192MP3.mp3",
-"l_3b473ed7-adb2-48e7-873e-d7adb2a8e732": "https://podkast.nrk.no/fil/kommentert/3b473ed7-adb2-48e7-873e-d7adb2a8e732_1_ID192MP3.mp3",
-"l_3bb6aa52-d1f3-4553-b6aa-52d1f3f55329": "https://podkast.nrk.no/fil/kommentert/3bb6aa52-d1f3-4553-b6aa-52d1f3f55329_1_ID192MP3.mp3",
-"l_3c2e703f-d744-4cdc-ae70-3fd7446cdcd1": "https://podkast.nrk.no/fil/kommentert/64aa132b-c76e-4254-b880-ab217dcd4aec_0_ID192MP3.mp3",
-"l_3dd1cac4-f282-4667-91ca-c4f282166706": "https://podkast.nrk.no/fil/kommentert/72e0b75d-2df9-40d0-b971-e9afc787ecc8_0_ID192MP3.mp3",
-"l_3e9066e2-02e7-4045-9066-e202e7b0454f": "https://podkast.nrk.no/fil/kommentert/3e9066e2-02e7-4045-9066-e202e7b0454f_1_ID192MP3.mp3",
-"l_3ffe2146-8248-420f-be21-468248320fd7": "https://podkast.nrk.no/fil/kommentert/3ffe2146-8248-420f-be21-468248320fd7_1_ID192MP3.mp3",
-"l_41a0b7c8-f80c-4fc8-a0b7-c8f80c6fc840": "https://podkast.nrk.no/fil/kommentert/79b355c9-3010-41af-b98f-01d49edbc625_0_ID192MP3.mp3",
-"l_43126c2e-14ea-47f7-926c-2e14ea37f7ae": "https://podkast.nrk.no/fil/kommentert/eaabd190-8a82-4b43-93ac-995e7504369a_0_ID192MP3.mp3",
-"l_4333b92a-f9a8-4993-b3b9-2af9a8b99378": "https://podkast.nrk.no/fil/kommentert/9d8d1802-81e7-4762-ab11-309af2092c8e_0_ID192MP3.mp3",
-"l_4685b762-0c9f-438d-85b7-620c9f038d91": "https://podkast.nrk.no/fil/kommentert/cb8c43e7-d690-431c-815c-0c2fbf37a261_0_ID192MP3.mp3",
-"l_46c93472-46a9-4c80-8934-7246a9cc8058": "https://podkast.nrk.no/fil/kommentert/46c93472-46a9-4c80-8934-7246a9cc8058_1_ID192MP3.mp3",
-"l_4808ba4d-2f3a-4943-88ba-4d2f3ac9431e": "https://podkast.nrk.no/fil/kommentert/4808ba4d-2f3a-4943-88ba-4d2f3ac9431e_1_ID192MP3.mp3",
-"l_4a89bc6f-a3a1-445a-89bc-6fa3a1545a82": "https://podkast.nrk.no/fil/kommentert/d3df1934-708e-45be-90e3-ff91f732eadd_0_ID192MP3.mp3",
-"l_4b525ed3-9ee3-402c-925e-d39ee3902c3a": "https://podkast.nrk.no/fil/kommentert/b07513ce-8fff-4257-aeb0-e10d3dc33110_0_ID192MP3.mp3",
-"l_4c035248-e46d-441f-8352-48e46da41f07": "https://podkast.nrk.no/fil/kommentert/4c035248-e46d-441f-8352-48e46da41f07_1_ID192MP3.mp3",
-"l_4f9b9895-1530-4e7f-9b98-951530be7f19": "https://podkast.nrk.no/fil/kommentert/4f9b9895-1530-4e7f-9b98-951530be7f19_1_ID192MP3.mp3",
-"l_51158caa-29bb-41b9-958c-aa29bba1b99c": "https://podkast.nrk.no/fil/kommentert/51158caa-29bb-41b9-958c-aa29bba1b99c_2_ID192MP3.mp3",
-"l_53994319-2b66-4b41-9943-192b664b412b": "https://podkast.nrk.no/fil/kommentert/aef5b587-5fe7-4372-879e-ca01da1409a9_0_ID192MP3.mp3",
-"l_549c0de6-cb89-48e0-9c0d-e6cb89b8e0c5": "https://podkast.nrk.no/fil/kommentert/555f927f-6894-466e-8913-016d7ee3e011_0_ID192MP3.mp3",
-"l_5799cd54-5cc0-4849-99cd-545cc07849ec": "https://podkast.nrk.no/fil/kommentert/121d8fb4-4ab0-4582-8774-35aa9fa61fb6_0_ID192MP3.mp3",
-"l_58197d90-50d1-4be6-997d-9050d17be618": "https://podkast.nrk.no/fil/kommentert/bbf894e3-034b-4e24-b2c9-3ee4b19b7b2b_0_ID192MP3.mp3",
-"l_5827584d-fee0-4618-a758-4dfee0a61833": "https://podkast.nrk.no/fil/kommentert/66036356-5f5b-4eb4-8903-b54bcc0e67ea_0_ID192MP3.mp3",
-"l_5a65609f-6f10-4c5d-a560-9f6f105c5d67": "https://podkast.nrk.no/fil/kommentert/5a65609f-6f10-4c5d-a560-9f6f105c5d67_1_ID192MP3.mp3",
-"l_5cb45aac-df04-458c-b45a-acdf04858c63": "https://podkast.nrk.no/fil/kommentert/3328b9ae-a22a-469d-afbf-a4ca9cb47c66_0_ID192MP3.mp3",
-"l_5cc594f9-f659-437b-8594-f9f659937b29": "https://podkast.nrk.no/fil/kommentert/3829cbd0-52d5-4f0f-9d38-116bd80368c8_0_ID192MP3.mp3",
-"l_5ce47d6f-c6e2-4e91-a47d-6fc6e2fe91e3": "https://podkast.nrk.no/fil/kommentert/5ce47d6f-c6e2-4e91-a47d-6fc6e2fe91e3_1_ID192MP3.mp3",
-"l_5cf19204-4493-4108-b192-044493e10806": "https://podkast.nrk.no/fil/kommentert/66fde9f9-ce03-40b0-9ed8-04c86416d94c_0_ID192MP3.mp3",
-"l_5e1fdce1-fac8-42f9-9fdc-e1fac882f92b": "https://podkast.nrk.no/fil/kommentert/5e1fdce1-fac8-42f9-9fdc-e1fac882f92b_1_ID192MP3.mp3",
-"l_5f028948-e638-4334-8289-48e638a33416": "https://podkast.nrk.no/fil/kommentert/47bc6bed-ffef-4850-bc81-80750f8643a6_0_ID192MP3.mp3",
-"l_5f2059c2-a430-4113-a059-c2a430d11378": "https://podkast.nrk.no/fil/kommentert/9f387bf3-26d3-4af7-b12a-9a269f148633_0_ID192MP3.mp3",
-"l_612e5b31-5e02-4f59-ae5b-315e02df5993": "https://podkast.nrk.no/fil/kommentert/612e5b31-5e02-4f59-ae5b-315e02df5993_1_ID192MP3.mp3",
-"l_61546db1-320d-4024-946d-b1320de02460": "https://podkast.nrk.no/fil/kommentert/fbb08231-0c97-42e1-8820-c16995d62465_0_ID192MP3.mp3",
-"l_623852e8-ee02-4eb1-b852-e8ee024eb1dd": "https://podkast.nrk.no/fil/kommentert/623852e8-ee02-4eb1-b852-e8ee024eb1dd_1_ID192MP3.mp3",
-"l_62e3ce45-9e2f-4e5a-a3ce-459e2f7e5a1b": "https://podkast.nrk.no/fil/kommentert/963459c1-0f05-4b40-a86f-7a2d77de0049_0_ID192MP3.mp3",
-"l_63780732-be7f-4319-b807-32be7fd31947": "https://podkast.nrk.no/fil/kommentert/63780732-be7f-4319-b807-32be7fd31947_1_ID192MP3.mp3",
-"l_643a4899-5dd4-48b5-ba48-995dd488b576": "https://podkast.nrk.no/fil/kommentert/33b5ec15-c7a3-40e6-ba46-da656a0d52d4_0_ID192MP3.mp3",
-"l_64801cf0-1e77-4c01-801c-f01e777c018e": "https://podkast.nrk.no/fil/kommentert/ecb0b48c-3e09-4763-8dad-788a2a44a24f_0_ID192MP3.mp3",
-"l_64ae8d25-b640-4c71-ae8d-25b6404c718e": "https://podkast.nrk.no/fil/kommentert/53ed81e9-5d16-4ac2-8444-132b39aafd92_0_ID192MP3.mp3",
-"l_66a7da37-9ece-4688-a7da-379ece8688e7": "https://podkast.nrk.no/fil/kommentert/94365cb8-58ff-4003-87e5-9c5477413ffb_0_ID192MP3.mp3",
-"l_670ca9d9-b206-40fc-8ca9-d9b20690fc55": "https://podkast.nrk.no/fil/kommentert/9cc20a05-80b8-44a4-a812-7e607608ccfe_0_ID192MP3.mp3",
-"l_68c1d225-99f1-4bb2-81d2-2599f1dbb2de": "https://podkast.nrk.no/fil/kommentert/0cd42770-edd6-4e4e-86d1-531f341446ab_0_ID192MP3.mp3",
-"l_69dc89c4-598d-4c1a-9c89-c4598d5c1a8e": "https://podkast.nrk.no/fil/kommentert/69dc89c4-598d-4c1a-9c89-c4598d5c1a8e_1_ID192MP3.mp3",
-"l_69e7aba8-31a6-4099-a7ab-a831a640991f": "https://podkast.nrk.no/fil/kommentert/69e7aba8-31a6-4099-a7ab-a831a640991f_1_ID192MP3.mp3",
-"l_6a26a03b-77b6-4857-a6a0-3b77b6985700": "https://podkast.nrk.no/fil/kommentert/6a26a03b-77b6-4857-a6a0-3b77b6985700_1_ID192MP3.mp3",
-"l_6af10d21-2b08-4efc-b10d-212b083efcfb": "https://podkast.nrk.no/fil/kommentert/1532aa4e-8e94-4167-8ca7-dd9a8df5b7e3_0_ID192MP3.mp3",
-"l_6c68e949-4b38-4a98-a8e9-494b385a98d7": "https://podkast.nrk.no/fil/kommentert/6c68e949-4b38-4a98-a8e9-494b385a98d7_1_ID192MP3.mp3",
-"l_6c88960c-41c1-4ea5-8896-0c41c1cea558": "https://podkast.nrk.no/fil/kommentert/d5c4736d-f341-4861-bc5d-ee81932f78f3_0_ID192MP3.mp3",
-"l_6d1658be-aa38-4967-9658-beaa385967f9": "https://podkast.nrk.no/fil/kommentert/559db64c-ecf3-475a-b1d8-5ac4d1b001a9_0_ID192MP3.mp3",
-"l_6d40ef71-1456-438e-80ef-711456738e88": "https://podkast.nrk.no/fil/kommentert/6d40ef71-1456-438e-80ef-711456738e88_1_ID192MP3.mp3",
-"l_6f81158f-c63e-4e24-8115-8fc63e9e2457": "https://podkast.nrk.no/fil/kommentert/6ba51ac2-cc1a-4da2-9f4f-6ac44979f025_0_ID192MP3.mp3",
-"l_705e3c45-a7aa-48d2-9e3c-45a7aa98d2c0": "https://podkast.nrk.no/fil/kommentert/705e3c45-a7aa-48d2-9e3c-45a7aa98d2c0_1_ID192MP3.mp3",
-"l_720693f9-f4b7-4bae-8693-f9f4b72bae7c": "https://podkast.nrk.no/fil/kommentert/10c8805b-165e-4238-bceb-3362bc3f319b_0_ID192MP3.mp3",
-"l_72ddf0fe-b617-4e37-9df0-feb617de37db": "https://podkast.nrk.no/fil/kommentert/dcf0d35b-9565-47ba-b851-281bc0088ed7_0_ID192MP3.mp3",
-"l_742f9cfb-bb9b-4b3d-af9c-fbbb9b5b3d83": "https://podkast.nrk.no/fil/kommentert/742f9cfb-bb9b-4b3d-af9c-fbbb9b5b3d83_1_ID192MP3.mp3",
-"l_74f00ced-6f71-4907-b00c-ed6f7199070d": "https://podkast.nrk.no/fil/kommentert/c0056fd5-669c-4415-abd9-51afcb970d9a_0_ID192MP3.mp3",
-"l_757e7a7a-5218-4cdf-be7a-7a5218ecdf08": "https://podkast.nrk.no/fil/kommentert/757e7a7a-5218-4cdf-be7a-7a5218ecdf08_1_ID192MP3.mp3",
-"l_76912e7c-cde5-47b4-912e-7ccde517b4c7": "https://podkast.nrk.no/fil/kommentert/287ea8a6-e3a1-47e2-adf6-d8c8727d6236_0_ID192MP3.mp3",
-"l_779c6f19-1674-4bd6-9c6f-1916744bd6f7": "https://podkast.nrk.no/fil/kommentert/da5993f5-46cb-428d-9c5e-39ebaf0bb654_0_ID192MP3.mp3",
-"l_77bb56cc-867c-4218-bb56-cc867cd21802": "https://podkast.nrk.no/fil/kommentert/77bb56cc-867c-4218-bb56-cc867cd21802_1_ID192MP3.mp3",
-"l_783bd5e2-77f1-464d-bbd5-e277f1a64d4e": "https://podkast.nrk.no/fil/kommentert/783bd5e2-77f1-464d-bbd5-e277f1a64d4e_1_ID192MP3.mp3",
-"l_7922c080-3508-40f4-a2c0-80350820f49c": "https://podkast.nrk.no/fil/kommentert/390d39f8-c08b-4d99-a7f8-846f1e06ad80_0_ID192MP3.mp3",
-"l_7946b92b-478e-476f-86b9-2b478e976fe3": "https://podkast.nrk.no/fil/kommentert/7946b92b-478e-476f-86b9-2b478e976fe3_1_ID192MP3.mp3",
-"l_7a71ef0b-c7f3-4203-b1ef-0bc7f35203c8": "https://podkast.nrk.no/fil/kommentert/811807f0-684e-4e38-8a8d-b90e453eaf20_0_ID192MP3.mp3",
-"l_7c410bcb-529a-4f07-810b-cb529a8f07ff": "https://podkast.nrk.no/fil/kommentert/fd0f2ff1-330d-4464-9476-50b397b35635_0_ID192MP3.mp3",
-"l_7cafba6a-a1f5-4fd9-afba-6aa1f59fd968": "https://podkast.nrk.no/fil/kommentert/5381ba00-f591-46dc-bc0a-c9b9e05dcf37_0_ID192MP3.mp3",
-"l_7da301af-0880-49a5-a301-af088009a55f": "https://podkast.nrk.no/fil/kommentert/b79e4285-83ea-4e8c-b7a8-83e8ddd1c734_0_ID192MP3.mp3",
-"l_7fbec1b4-c16b-449e-bec1-b4c16b849ed0": "https://podkast.nrk.no/fil/kommentert/7fbec1b4-c16b-449e-bec1-b4c16b849ed0_1_ID192MP3.mp3",
-"l_80d25f28-99e2-4448-925f-2899e29448df": "https://podkast.nrk.no/fil/kommentert/c041ed2e-6a55-47c7-b349-a9fee628a37b_0_ID192MP3.mp3",
-"l_8138a963-fc43-4cdf-b8a9-63fc43fcdf28": "https://podkast.nrk.no/fil/kommentert/b0046519-bb65-4b29-8e36-f167e674f3df_0_ID192MP3.mp3",
-"l_86612dbd-b0b3-4469-a12d-bdb0b33469e9": "https://podkast.nrk.no/fil/kommentert/86612dbd-b0b3-4469-a12d-bdb0b33469e9_1_ID192MP3.mp3",
-"l_88d79595-6ad4-4235-9795-956ad432354d": "https://podkast.nrk.no/fil/kommentert/88d79595-6ad4-4235-9795-956ad432354d_1_ID192MP3.mp3",
-"l_894bb43a-97e6-47c3-8bb4-3a97e627c3a6": "https://podkast.nrk.no/fil/kommentert/894bb43a-97e6-47c3-8bb4-3a97e627c3a6_1_ID192MP3.mp3",
-"l_89a143df-fa29-4b80-a143-dffa296b808a": "https://podkast.nrk.no/fil/kommentert/20d7c2cf-f945-4c56-b22a-ffbb58ce9b13_0_ID192MP3.mp3",
-"l_8b4bb5a0-ec9e-4da5-8bb5-a0ec9ecda58e": "https://podkast.nrk.no/fil/kommentert/bb9d4d02-b145-4edf-8005-d196db3cb8e8_0_ID192MP3.mp3",
-"l_9014bf9c-b302-43c5-94bf-9cb30263c5d7": "https://podkast.nrk.no/fil/kommentert/6ff4e789-3ff2-417e-90f9-5650dc8e6081_0_ID192MP3.mp3",
-"l_936efd9f-e3c5-4c95-aefd-9fe3c52c9556": "https://podkast.nrk.no/fil/kommentert/08a98f68-f91f-4e2a-b87d-9a350ec020ff_0_ID192MP3.mp3",
-"l_97d25fc9-969e-46d4-925f-c9969ee6d486": "https://podkast.nrk.no/fil/kommentert/f99fe328-4b32-4823-9d99-9efe41fc45a6_0_ID192MP3.mp3",
-"l_9f360fa0-2735-49e1-b60f-a0273559e11f": "https://podkast.nrk.no/fil/kommentert/435a6359-eebe-4a18-9c10-e40baa98fb8a_0_ID192MP3.mp3",
-"l_9f565b59-961a-41f8-965b-59961a01f8d1": "https://podkast.nrk.no/fil/kommentert/9f565b59-961a-41f8-965b-59961a01f8d1_1_ID192MP3.mp3",
-"l_a0cc1fd8-c66d-424e-8c1f-d8c66dd24ea7": "https://podkast.nrk.no/fil/kommentert/2a2f58f9-6712-4a78-ab71-5070ddc4ec24_0_ID192MP3.mp3",
-"l_a201a280-8d85-4318-81a2-808d852318a2": "https://podkast.nrk.no/fil/kommentert/1c3c0c9f-c880-4229-adb8-0b8e41de3fad_0_ID192MP3.mp3",
-"l_a241675f-274e-4191-8167-5f274eb19148": "https://podkast.nrk.no/fil/kommentert/afcc395c-4cc1-4cb2-ac32-04bcef1ab865_0_ID192MP3.mp3",
-"l_a310b860-256a-4e0e-90b8-60256a4e0e7c": "https://podkast.nrk.no/fil/kommentert/72812e78-472d-49af-ad65-f3a214b3915b_0_ID192MP3.mp3",
-"l_a60bde90-bb38-4355-8bde-90bb38e35527": "https://podkast.nrk.no/fil/kommentert/89e44881-aca3-44e3-aa8c-68ccf58986ce_0_ID192MP3.mp3",
-"l_a7a80bff-b6f3-482b-a80b-ffb6f3282b39": "https://podkast.nrk.no/fil/kommentert/1e0ec920-5486-45ac-b251-752a5e5d83fa_0_ID192MP3.mp3",
-"l_a92c6a05-b51d-40f9-ac6a-05b51dc0f9fe": "https://podkast.nrk.no/fil/kommentert/1a8d731f-f2c6-4144-a468-c862ef0f92e7_0_ID192MP3.mp3",
-"l_a96a8aeb-44e9-4dc0-aa8a-eb44e99dc04a": "https://podkast.nrk.no/fil/kommentert/23c06a82-6351-4422-a8ec-975a288a3164_0_ID192MP3.mp3",
-"l_ad770292-3e96-4001-b702-923e964001bb": "https://podkast.nrk.no/fil/kommentert/84e6424c-4b0c-417f-be06-ff9e32353033_0_ID192MP3.mp3",
-"l_ae3618a2-881d-412f-b618-a2881da12f08": "https://podkast.nrk.no/fil/kommentert/a92983c6-4fb7-4519-893a-43d9475e9d03_0_ID192MP3.mp3",
-"l_aebbc445-3af1-4ad8-bbc4-453af12ad84d": "https://podkast.nrk.no/fil/kommentert/e30b7fa1-c9fa-47be-b7ee-a435e249a993_0_ID192MP3.mp3",
-"l_b02a09d6-9438-4253-aa09-d69438b25381": "https://podkast.nrk.no/fil/kommentert/b02a09d6-9438-4253-aa09-d69438b25381_1_ID192MP3.mp3",
-"l_b1fe62ba-7520-4ede-be62-ba75208edec6": "https://podkast.nrk.no/fil/kommentert/b1fe62ba-7520-4ede-be62-ba75208edec6_1_ID192MP3.mp3",
-"l_b245d744-f589-4e77-85d7-44f5894e77b0": "https://podkast.nrk.no/fil/kommentert/f60c65ee-3eed-481f-b1a0-7fca7177de15_0_ID192MP3.mp3",
-"l_b24a8619-b60e-4a41-8a86-19b60e0a41ce": "https://podkast.nrk.no/fil/kommentert/a43c5d51-6ede-4bf2-88c3-b04efe0ad955_0_ID192MP3.mp3",
-"l_b3a153c7-9363-46fe-a153-c7936316fe9d": "https://podkast.nrk.no/fil/kommentert/6d7e2ed0-14b9-4ba5-98cd-d6bfb6e7711a_0_ID192MP3.mp3",
-"l_b763226d-ce64-4e61-a322-6dce645e6199": "https://podkast.nrk.no/fil/kommentert/1a3e6eee-ee56-4a78-93e8-7b25ef2d5cd8_0_ID192MP3.mp3",
-"l_b7f81f38-1fad-4eb0-b81f-381faddeb016": "https://podkast.nrk.no/fil/kommentert/b7f81f38-1fad-4eb0-b81f-381faddeb016_1_ID192MP3.mp3",
-"l_bbca14da-1915-4feb-8a14-da1915ffeb3b": "https://podkast.nrk.no/fil/kommentert/740734a9-c471-4ae3-a491-0f9bc89574e3_0_ID192MP3.mp3",
-"l_bd3b1a35-0442-44f9-bb1a-350442f4f943": "https://podkast.nrk.no/fil/kommentert/220c3d22-0864-48e6-8b3f-389a3eae86ec_0_ID192MP3.mp3",
-"l_bd64c350-d725-4afa-a4c3-50d7251afa4e": "https://podkast.nrk.no/fil/kommentert/131515a0-2215-4236-8d74-723ee99ec7dd_0_ID192MP3.mp3",
-"l_be07b39b-beec-426f-87b3-9bbeecc26f21": "https://podkast.nrk.no/fil/kommentert/356f16ff-8b6f-4246-abf8-47184f19bb17_0_ID192MP3.mp3",
-"l_c063dd0d-ec28-44b9-a3dd-0dec28d4b941": "https://podkast.nrk.no/fil/kommentert/b906c218-5bc7-4287-9eb4-9d69b3528971_0_ID192MP3.mp3",
-"l_c0d983f6-5999-4eee-9983-f659995eeee7": "https://podkast.nrk.no/fil/kommentert/c0d983f6-5999-4eee-9983-f659995eeee7_1_ID192MP3.mp3",
-"l_c5d0008c-63d8-45d6-9000-8c63d815d637": "https://podkast.nrk.no/fil/kommentert/c5d0008c-63d8-45d6-9000-8c63d815d637_1_ID192MP3.mp3",
-"l_c62457f2-6c7f-4350-a457-f26c7f835030": "https://podkast.nrk.no/fil/kommentert/c2110366-56f4-428f-bc68-60cc47d49bb0_0_ID192MP3.mp3",
-"l_c6dc2759-602c-415e-9c27-59602cf15eaf": "https://podkast.nrk.no/fil/kommentert/0539073e-27e4-4a22-92e9-c56717156160_0_ID192MP3.mp3",
-"l_c78c5dd0-b51b-4fe8-8c5d-d0b51bbfe886": "https://podkast.nrk.no/fil/kommentert/c78c5dd0-b51b-4fe8-8c5d-d0b51bbfe886_1_ID192MP3.mp3",
-"l_cb04ef2f-72b8-43d4-84ef-2f72b823d42e": "https://podkast.nrk.no/fil/kommentert/a2010452-a600-405d-84be-b3ee267a06b4_0_ID192MP3.mp3",
-"l_cb76c5e4-c6fa-43f4-b6c5-e4c6fa53f4c4": "https://podkast.nrk.no/fil/kommentert/9d606054-4e2d-4c0e-9f85-4341cd655dd2_0_ID192MP3.mp3",
-"l_cf404c17-b02b-4fce-804c-17b02bffcebe": "https://podkast.nrk.no/fil/kommentert/cf404c17-b02b-4fce-804c-17b02bffcebe_1_ID192MP3.mp3",
-"l_d08c03f5-1f72-4fbc-8c03-f51f72cfbc7f": "https://podkast.nrk.no/fil/kommentert/d08c03f5-1f72-4fbc-8c03-f51f72cfbc7f_1_ID192MP3.mp3",
-"l_d1f3858a-1871-463b-b385-8a1871963b0d": "https://podkast.nrk.no/fil/kommentert/d1f3858a-1871-463b-b385-8a1871963b0d_1_ID192MP3.mp3",
-"l_d2657cc2-7fa2-42fc-a57c-c27fa252fc34": "https://podkast.nrk.no/fil/kommentert/d2657cc2-7fa2-42fc-a57c-c27fa252fc34_1_ID192MP3.mp3",
-"l_d31585ca-fe04-4e1a-9585-cafe04ee1ad5": "https://podkast.nrk.no/fil/kommentert/876efb60-fc2f-40e7-9be9-76ee3bc63532_0_ID192MP3.mp3",
-"l_d398be74-94f9-4e0b-98be-7494f97e0b55": "https://podkast.nrk.no/fil/kommentert/d398be74-94f9-4e0b-98be-7494f97e0b55_2_ID192MP3.mp3",
-"l_d53b17c0-d958-46e8-bb17-c0d95856e8c8": "https://podkast.nrk.no/fil/kommentert/d53b17c0-d958-46e8-bb17-c0d95856e8c8_1_ID192MP3.mp3",
-"l_d5dd0de2-42b2-43ad-9d0d-e242b233adb1": "https://podkast.nrk.no/fil/kommentert/f5d71f8f-a317-4de8-bf5f-b0b385e3be2d_0_ID192MP3.mp3",
-"l_d7e98046-aa8e-4447-a980-46aa8ed44746": "https://podkast.nrk.no/fil/kommentert/cecfda4a-5477-400f-b774-8a5fedaac4c3_0_ID192MP3.mp3",
-"l_d89999cd-9274-47ce-9999-cd927427ce65": "https://podkast.nrk.no/fil/kommentert/d89999cd-9274-47ce-9999-cd927427ce65_1_ID192MP3.mp3",
-"l_d8d392b7-3eba-452c-9392-b73eba452c59": "https://podkast.nrk.no/fil/kommentert/d8d392b7-3eba-452c-9392-b73eba452c59_1_ID192MP3.mp3",
-"l_d8d69b67-eeaf-4ce5-969b-67eeaf5ce59d": "https://podkast.nrk.no/fil/kommentert/d8d69b67-eeaf-4ce5-969b-67eeaf5ce59d_1_ID192MP3.mp3",
-"l_db2b7097-be44-4271-ab70-97be44f271bd": "https://podkast.nrk.no/fil/kommentert/db2b7097-be44-4271-ab70-97be44f271bd_1_ID192MP3.mp3",
-"l_dd142d5e-0b33-4251-942d-5e0b33a251fc": "https://podkast.nrk.no/fil/kommentert/dd142d5e-0b33-4251-942d-5e0b33a251fc_2_ID192MP3.mp3",
-"l_de08e3d8-48e9-4a15-88e3-d848e96a1568": "https://podkast.nrk.no/fil/kommentert/de08e3d8-48e9-4a15-88e3-d848e96a1568_1_ID192MP3.mp3",
-"l_e04f2e95-1d78-44fb-8f2e-951d78e4fbc0": "https://podkast.nrk.no/fil/kommentert/ea232faf-707e-47da-aa7f-881b788de358_0_ID192MP3.mp3",
-"l_e12a7f8b-a122-4952-aa7f-8ba12229521c": "https://podkast.nrk.no/fil/kommentert/c4793949-8e91-4425-a6f4-4cd830b66489_0_ID192MP3.mp3",
-"l_e185d2c8-1afc-4f6e-85d2-c81afc3f6e47": "https://podkast.nrk.no/fil/kommentert/c2c2cd05-c1c7-4532-b99a-dc7f876c9b6f_0_ID192MP3.mp3",
-"l_e18f7c82-e903-42d5-8f7c-82e903e2d551": "https://podkast.nrk.no/fil/kommentert/e18f7c82-e903-42d5-8f7c-82e903e2d551_1_ID192MP3.mp3",
-"l_e4de0a93-bdac-4996-9e0a-93bdaca996a5": "https://podkast.nrk.no/fil/kommentert/0257b3ee-113c-48e4-942e-4b6415e0c11f_0_ID192MP3.mp3",
-"l_e6611d67-b96d-4e34-a11d-67b96d2e3412": "https://podkast.nrk.no/fil/kommentert/c8a8a4f1-8809-4161-9a39-68ac4e03c1f6_0_ID192MP3.mp3",
-"l_e6ef52e2-449d-4377-af52-e2449d33776d": "https://podkast.nrk.no/fil/kommentert/e844e19d-dc30-4dec-bd14-04292ec3084a_0_ID192MP3.mp3",
-"l_e72c273b-7a23-4f90-ac27-3b7a238f9027": "https://podkast.nrk.no/fil/kommentert/e72c273b-7a23-4f90-ac27-3b7a238f9027_1_ID192MP3.mp3",
-"l_e7c21d86-c02a-4696-821d-86c02a56960a": "https://podkast.nrk.no/fil/kommentert/53cec563-a136-4f16-87b6-999fa7f6c449_0_ID192MP3.mp3",
-"l_e7e53b60-ae4f-45e1-a53b-60ae4f85e175": "https://podkast.nrk.no/fil/kommentert/af09816a-040d-4992-89d4-d962cbcd5d25_0_ID192MP3.mp3",
-"l_e7f7e44f-2942-478e-b7e4-4f2942a78e81": "https://podkast.nrk.no/fil/kommentert/60449488-4f03-462f-836b-cfe053f377e6_0_ID192MP3.mp3",
-"l_e81138e1-2bfe-4bc3-9138-e12bfe0bc301": "https://podkast.nrk.no/fil/kommentert/ff154d2d-73dd-4f21-8bdc-321d54ef7575_0_ID192MP3.mp3",
-"l_e8f565c6-3532-4d0a-b565-c63532dd0a8f": "https://podkast.nrk.no/fil/kommentert/42ff7aea-1bb0-4cda-8c17-8cae3e17d14b_0_ID192MP3.mp3",
-"l_ebd5b1ca-bb1a-4aa1-95b1-cabb1a7aa195": "https://podkast.nrk.no/fil/kommentert/ebd5b1ca-bb1a-4aa1-95b1-cabb1a7aa195_1_ID192MP3.mp3",
-"l_ecccd83e-1614-4591-8cd8-3e1614a59192": "https://podkast.nrk.no/fil/kommentert/1c437204-625b-4002-9237-8694d5bb0153_0_ID192MP3.mp3",
-"l_eea4af10-d309-440f-a4af-10d309b40fba": "https://podkast.nrk.no/fil/kommentert/eea4af10-d309-440f-a4af-10d309b40fba_1_ID192MP3.mp3",
-"l_ef0faea1-2862-4a8e-8fae-a12862aa8e4c": "https://podkast.nrk.no/fil/kommentert/ef56530f-322d-4d78-95e4-c374f391e60c_0_ID192MP3.mp3",
-"l_ef1bb3d4-815a-4628-9bb3-d4815a662825": "https://podkast.nrk.no/fil/kommentert/ef1bb3d4-815a-4628-9bb3-d4815a662825_1_ID192MP3.mp3",
-"l_f0f6faa3-e944-41b3-b6fa-a3e94431b354": "https://podkast.nrk.no/fil/kommentert/3fb83293-cd7d-449d-abbe-817cfad844cf_0_ID192MP3.mp3",
-"l_f895ad34-b961-4cff-95ad-34b961acff0d": "https://podkast.nrk.no/fil/kommentert/f895ad34-b961-4cff-95ad-34b961acff0d_1_ID192MP3.mp3",
-"l_f9d12c82-85bd-4f65-912c-8285bd3f651f": "https://podkast.nrk.no/fil/kommentert/f966c4a3-62fa-4431-a1bb-60fe8997bcb2_0_ID192MP3.mp3",
-"l_fbd89e60-d452-4ff0-989e-60d452cff023": "https://podkast.nrk.no/fil/kommentert/4dc79a33-8b43-4906-9297-287efa18e54e_0_ID192MP3.mp3",
-"l_fc2e4ea1-54fe-4278-ae4e-a154feb278a1": "https://podkast.nrk.no/fil/kommentert/fc2e4ea1-54fe-4278-ae4e-a154feb278a1_1_ID192MP3.mp3",
-"l_fcabd587-2add-460b-abd5-872add260b42": "https://podkast.nrk.no/fil/kommentert/e3497e31-983a-46b5-ac16-7f601e2cd3cc_0_ID192MP3.mp3",
-"l_fd937d36-b50a-48ba-937d-36b50ab8baa8": "https://podkast.nrk.no/fil/kommentert/cbf0ec7d-67a0-401f-9fbf-09429613eb20_0_ID192MP3.mp3",
-"l_ffc93c32-dddd-45fe-893c-32dddd75fe67": "https://podkast.nrk.no/fil/kommentert/220d7439-0fe2-4ab0-a8dc-f79850c8d0eb_0_ID192MP3.mp3"
+"episodes": {
+"l_00edb55c-c724-4f47-adb5-5cc7241f472d": {
+"d": "2024-08-16T12:00:00+02:00",
+"i": "https://gfx.nrk.no/sbgGE18RJsopmwwvuLQqnwR7CnJYEPgmipUEbky-4-7w",
+"n": 1551,
+"s": "Trond Giske vil tilbake til Stortinget, KrF har ledertrøbbel og den politiske høsten er i full gang med ukas partilederdebatt.\n\nEpisoden er spilt inn i Arendal.",
+"t": "Trond Giske, partilederdebatt og KrF-trøbbel",
+"u": "https://podkast.nrk.no/fil/kommentert/a79e80e9-08cf-47c1-b83b-8faa34563aed_0_ID192MP3.mp3"
+},
+"l_00ff1a22-18e4-4ce1-bf1a-2218e44ce1be": {
+"d": "2023-04-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 1936,
+"s": "Valget i høst blir kampen om storbyene. Det er også tema for Tone Sofies påskelabyrint.",
+"t": "Politisk påskelabyrint: Kampen om storbyene",
+"u": "https://podkast.nrk.no/fil/kommentert/ae6a69bd-fc38-4653-bb30-16063d4bd533_0_ID192MP3.mp3"
+},
+"l_0289a97a-2824-4837-89a9-7a2824783724": {
+"d": "2023-09-06T16:57:00+02:00",
+"i": "https://gfx.nrk.no/FC5Ry-yMURhpEuHo3He9ZAC-1zIKAhhS-UvfgeOuXMUA",
+"n": 1055,
+"s": "Skolevalg-spesial: Unge Høyre med ellevill seier, og et klart blått flertall viser en overraskende retning.",
+"t": "Er Greta Thunberg-generasjonen død?",
+"u": "https://podkast.nrk.no/fil/kommentert/fb73832f-733a-40ef-8a29-1b26e77dacc2_0_ID192MP3.mp3"
+},
+"l_05f50522-79aa-4d81-b505-2279aa1d813d": {
+"d": "2023-10-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Gg8xrHUAsDqLV4Jw84U-EAeip6OguMAmqkUS-1oQPX9Q",
+"n": 1893,
+"s": "Det kommer 1000 ukrainske flyktninger i uka. Er vi egentlig rigga for å ta i mot dem?",
+"t": "Norge har aldri tatt i mot så mange flyktninger",
+"u": "https://podkast.nrk.no/fil/kommentert/1f7f7c27-814a-4f60-8c67-713982dee31a_0_ID192MP3.mp3"
+},
+"l_08567662-b565-40c4-9676-62b56560c4f9": {
+"d": "2025-09-10T15:25:00+02:00",
+"i": "https://gfx.nrk.no/Vl8DHucYCyrdFrW3H1xDDQobXjy1T47RtAybe3dUDyBQ",
+"n": 3113,
+"s": "Tidenes beste valg for Frp, hvordan skal Sylvi Listhaug bruke denne makten? Hvem kan bli Høyres nye leder? Hvordan er stemningen blant valgets tapere? Og kan vi legge skattekranglingen død nå?",
+"t": "Hvor mye makt får Sylvi Listhaug nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/08567662-b565-40c4-9676-62b56560c4f9_1_ID192MP3.mp3"
+},
+"l_0947e1d8-d1e2-4d9f-87e1-d8d1e2cd9f66": {
+"d": "2026-05-12T17:25:00+02:00",
+"i": "https://gfx.nrk.no/lfsmZLJbBAP8z77eEg3zCQ-En1dxpl0U5c-7XcmOfjEA",
+"n": 1730,
+"s": "En svekket Donald Trump drar til Kina for å møte president Xi Jinping. Er Kina i ferdmed å ta over rollen som verdens supermakt?\nOg vil Arbeiderpartiet greie å samle flertall for sitt reviderte nasjonalbudsjett?",
+"t": "Trumps stormaktsspill mot Kina: – Bekmørkt",
+"u": "https://podkast.nrk.no/fil/kommentert/0947e1d8-d1e2-4d9f-87e1-d8d1e2cd9f66_1_ID192MP3.mp3"
+},
+"l_09678a7d-6033-4936-a78a-7d6033093625": {
+"d": "2025-08-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/-CRiWQZXlqoy8MFSqa8N0QmDwuSG7erAZHTHOuT7-gnw",
+"n": 2449,
+"s": "Hvordan skal Erna Solberg greie å vinne dette valget? Rødgrønn side leder. Og Frp er fremdeles store: Kan statsminister-forvirring ødelegge alt?",
+"t": "Kommer Erna Solberg til å tape valget?",
+"u": "https://podkast.nrk.no/fil/kommentert/09678a7d-6033-4936-a78a-7d6033093625_1_ID192MP3.mp3"
+},
+"l_09c9774c-1b4c-46e5-8977-4c1b4c56e5c2": {
+"d": "2024-04-25T16:40:00+02:00",
+"i": "https://gfx.nrk.no/GWrwgQMG00uoNc18NBpCAw9nlbxvzo6lrtbZF_IsGbKg",
+"n": 2723,
+"s": "Kan Jan Christian Vestre redde Arbeiderpartiet? Glem rentekutt og bli vant til høyt rentenivå. Og kan 35 nye tiltak bedre menns likestilling?",
+"t": "Ap-kronprins, menns likestilling og glem rentekutt",
+"u": "https://podkast.nrk.no/fil/kommentert/18e6e7bf-d5cf-4a8d-bd26-04cf72258bda_0_ID192MP3.mp3"
+},
+"l_0d16dc85-6b70-46a9-96dc-856b7066a9ae": {
+"d": "2024-01-25T15:32:00+01:00",
+"i": "https://gfx.nrk.no/dTikKFrswYJ6aawVv36nfAngO4UduTyYD9p7zrTH_4wA",
+"n": 1978,
+"s": "Helseminister Ingvild Kjerkol blir beskyldt for juks og kopiering i masteroppgaven sin, og viser siste rentemøte nå at toppen er nådd?",
+"t": "Helseminister-trøbbel og er rentetoppen nådd?",
+"u": "https://podkast.nrk.no/fil/kommentert/1238ba2f-da3c-4815-adce-14cb6d2972d3_0_ID192MP3.mp3"
+},
+"l_0f4df73a-19d4-4f37-8df7-3a19d43f37b0": {
+"d": "2023-11-30T14:52:00+01:00",
+"i": "https://gfx.nrk.no/mBlwo3oaHY1xhpfREGeDKQyZZfnXPpC8SLVlbrXb4INA",
+"n": 2983,
+"s": "Uro i Arbeiderpartiet, både på TV og i virkeligheten. Og Norges styggeste bygg er faktisk verdt en prat.",
+"t": "Arbeiderpartiet, Makta og Norges styggeste bygg",
+"u": "https://podkast.nrk.no/fil/kommentert/a47d8051-16cf-47b4-a09e-ab415bba5738_0_ID192MP3.mp3"
+},
+"l_0f6d744e-c8ec-4f33-ad74-4ec8ecdf337b": {
+"d": "2023-05-26T05:30:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 2177,
+"s": "Norge sliter med å nå klimamålene, hvorfor det? Og er det egentlig synd på pensjonistene? Årets trygdeoppgjør ble rekordhøyt.",
+"t": "Hvorfor sliter Norge med å nå klimamålene?",
+"u": "https://podkast.nrk.no/fil/kommentert/32a9fd09-8dc1-49a8-9f31-39616c965f52_0_ID192MP3.mp3"
+},
+"l_0fb00f1f-1811-4ce4-b00f-1f18111ce45a": {
+"d": "2024-03-14T15:55:00+01:00",
+"i": "https://gfx.nrk.no/DMohSaa3LNhcVuVOU1ME2wNw0gWjLGqsmuOKDxijx1VQ",
+"n": 2531,
+"s": "Sandra Borch mister mastergrad, Per-Willy Amundsen etterforskes av politiet, og vibeflation: Folk tror økonomien er verre enn det den er.",
+"t": "Sandra Borch fratatt masteren sin",
+"u": "https://podkast.nrk.no/fil/kommentert/222823c1-ee6b-4ead-bdb4-33cc385c8739_0_ID192MP3.mp3"
+},
+"l_10383b81-7269-4a62-b83b-817269ba6286": {
+"d": "2026-03-12T15:00:00+01:00",
+"i": "https://gfx.nrk.no/FQM5HsBJTy_M_ZK6VdUniQI5R9NEIIf6LnHsUEiGMPTg",
+"n": 1990,
+"s": "Jonas Gahr Støre vil gi serveringssteder lov til å servere øl på natten, under sommerens VM i fotball. Men nå møter han motstand fra sine egne.\nOg Affeksjonsverdi er nominert til 9 priser under årets Oscar-utdeling. Kan de virkelig vinne?",
+"t": "Statsminister i øl-bråk og Affeksjonsverdi",
+"u": "https://podkast.nrk.no/fil/kommentert/10383b81-7269-4a62-b83b-817269ba6286_1_ID192MP3.mp3"
+},
+"l_1047e78b-cb60-4c61-87e7-8bcb60ec6120": {
+"d": "2023-12-07T17:30:00+01:00",
+"i": "https://gfx.nrk.no/vARoIwuBAYkJ_t9LfACu0wIrhd21zkP1YMufAo4g5xGg",
+"n": 2454,
+"s": "Industripartiet vokser forbi MDG. Norsk ungdom er dårlige i matte. Og Lars Nehru har vært på klimatoppmøtet i Dubai.",
+"t": "Industripartiet større enn MDG, dårlige matteskills og klimatoppmøtet",
+"u": "https://podkast.nrk.no/fil/kommentert/5afff26a-2967-4013-9aa0-9de727310b06_0_ID192MP3.mp3"
+},
+"l_11622694-cb3c-4180-a226-94cb3c318016": {
+"d": "2025-01-30T15:28:00+01:00",
+"i": "https://gfx.nrk.no/pwMkxGjbzVHwqzK4vzi6nQO6KM8u1uoeXHfhFx1djbjw",
+"n": 2709,
+"s": "Første ettpartiregjering på 25 år når Senterpartiet forlater Arbeiderpartiet. Donald Trump gir ikke opp Grønland og er forbanna på den amerikanske sentralbanken, og så snakker vi selvfølgelig om Oljefondsjefens sms-utveksling med Elon Musk.",
+"t": "Senterpartiet ut av regjering: Hva skjer nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/2cc3c081-72f0-4b32-b75d-9daa7bdaf3d1_0_ID192MP3.mp3"
+},
+"l_11a592f7-24ad-4b34-a592-f724addb34d7": {
+"d": "2025-09-17T15:50:00+02:00",
+"i": "https://gfx.nrk.no/tE2q-GNf2igy_AUYY5r09w4cbmtcelBw-MNdwpdziDDQ",
+"n": 2971,
+"s": "Nytt drama i kongefamilien: Dokumentar og offentlig krangling. Og Tonje Brenna flyttes fra regjering til Stortinget, straff eller statsministerskole?",
+"t": "Sjaman og prinsesse med kongehus-bråk",
+"u": "https://podkast.nrk.no/fil/kommentert/11a592f7-24ad-4b34-a592-f724addb34d7_1_ID192MP3.mp3"
+},
+"l_12b26c20-ea0f-4435-b26c-20ea0f5435cf": {
+"d": "2023-08-25T06:00:00+02:00",
+"i": "https://gfx.nrk.no/65aPhb6LIoWyLD-4LJjGmgmcYnpQYX0fV5D5PQVRq0dQ",
+"n": 2105,
+"s": "Hva kan Økokrim finne? Og, regjeringen gjenåpner politistasjoner politiet ikke vil ha. Hvorfor? ",
+"t": "Ola Borten Moe etterforskes av Økokrim for innsidehandel",
+"u": "https://podkast.nrk.no/fil/kommentert/40036d1c-38d6-45d9-b4c5-31af647dd283_0_ID192MP3.mp3"
+},
+"l_1395a217-f372-4e7a-95a2-17f3724e7a25": {
+"d": "2024-11-06T17:32:00+01:00",
+"i": "https://gfx.nrk.no/1Pjm-EfcPco0bSXqxVmZLAe5MfL6AFhphsqZta1JgoSg",
+"n": 2007,
+"s": "Hvor mye makt får Donald Trump når han blir president for andre gang? Hva skjer med økonomien her hjemme og i verden? Krigen i Ukraina? Og hvordan blir det for amerikanerne fremover?",
+"t": "Hvordan blir verden med Trump 2.0?",
+"u": "https://podkast.nrk.no/fil/kommentert/4eec7333-c8aa-48ec-8b3b-9f27f22e3ceb_0_ID192MP3.mp3"
+},
+"l_17317a3a-7c5b-44b8-b17a-3a7c5b84b8c5": {
+"d": "2025-11-24T12:43:00+01:00",
+"i": "https://gfx.nrk.no/whJy8rHNJMc-mWsCphI47g2aXnKg-xnvY-8HgxLXwLFA",
+"n": 1218,
+"s": "Har Russland skrevet det amerikanske fredsforslaget? Hva må Ukraina gå med på for at det skal bli fred? Og vil Russland egentlig ha fred?",
+"t": "Har Russland skrevet fredsforslaget?",
+"u": "https://podkast.nrk.no/fil/kommentert/17317a3a-7c5b-44b8-b17a-3a7c5b84b8c5_1_ID192MP3.mp3"
+},
+"l_1b208cb3-db57-41eb-a08c-b3db57b1eb22": {
+"d": "2025-05-08T14:52:00+02:00",
+"i": "https://gfx.nrk.no/VgRaQuapswQUu30fqrcRPQ49w7RE468hKTqSvhi86ycg",
+"n": 2397,
+"s": "De første reelle konsekvensene av tollkrigen er nå synlige. Spoiler alert: De går utover USA. Og småpartiene sliter. Trenger vi dem egentlig?",
+"t": "Tollkrigen treffer nå USA for fullt",
+"u": "https://podkast.nrk.no/fil/kommentert/0b25609b-f478-409f-8505-991c21abfda8_0_ID192MP3.mp3"
+},
+"l_1de0cc32-3d43-4419-a0cc-323d439419a7": {
+"d": "2024-03-21T16:47:00+01:00",
+"i": "https://gfx.nrk.no/boStTHfMyJ_1dK5cref2cAfFQLFm6rbq-JKm1XzmjF0A",
+"n": 2081,
+"s": "Per-Willy Amundsen, Hadia Tajik, Emilie Enger Mehl, mange politikere går en usikker fremtid i møte. Ny skatt skal hindre Sveits-utflytting, og hva med bare en valuta i hele verden?",
+"t": "Usikre politikere, Exit-skatt og verdensvaluta",
+"u": "https://podkast.nrk.no/fil/kommentert/abed372e-2fca-4bf6-b5b2-61bd0a749a16_0_ID192MP3.mp3"
+},
+"l_20a50992-73ad-407a-a509-9273add07a6d": {
+"d": "2024-05-16T16:02:00+02:00",
+"i": "https://gfx.nrk.no/PYQAULaFZCJgX8sJ55MYWgnOSkFtVOOPdkLHe8IMt9kw",
+"n": 2142,
+"s": "De er dobbelt så mange som oss, men vi bruker over dobbelt så mye offentlige penger som det Sverige gjør. Og tre mektige politiske ringrever takker for seg på Stortinget.",
+"t": "Norsk pengebruk, mektig trio gir seg, Bjørnar Moxnes",
+"u": "https://podkast.nrk.no/fil/kommentert/c937ea05-b973-44c8-97d7-629b9dabbf8a_0_ID192MP3.mp3"
+},
+"l_216bc4d4-3c2e-468f-abc4-d43c2e368f67": {
+"d": "2024-02-12T13:55:00+01:00",
+"i": "https://gfx.nrk.no/OLvJzeaHV5cl1oOmWNeaXwTYd7-4yTlA3NBs_CUOx-sA",
+"n": 1307,
+"s": "Trond Giske er valgt til ny nestleder for Trondheim Arbeiderparti, men ikke uten bråk. Hva er det han egentlig vil? ",
+"t": "EKSTRAEPISODE: Hvorfor mer bråk om Trond Giske nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/b2881af7-a4b7-4beb-9aa3-cd6d237b7e36_0_ID192MP3.mp3"
+},
+"l_22ae53c5-c85d-4039-ae53-c5c85dd03940": {
+"d": "2025-03-20T14:39:00+01:00",
+"i": "https://gfx.nrk.no/FTRVsD9Ke13R3_soygxqawG3Ymkw714j0fMkjUS7MHBA",
+"n": 2571,
+"s": "Merker du at du har fått bedre råd? Dyrtiden er nå historie. Zelenskyj i Norge, hvorfor er han det? Og Høyre har fått nytt slagord, og en mulig ny lederkandidat.",
+"t": "Dyrtiden over. Men merker du det?",
+"u": "https://podkast.nrk.no/fil/kommentert/d93a9ce8-6680-4ff7-9ad3-9addbf0452d8_0_ID192MP3.mp3"
+},
+"l_285fbd3f-4aa1-4e26-9fbd-3f4aa16e261c": {
+"d": "2023-06-23T06:00:00+02:00",
+"i": "https://gfx.nrk.no/Jbcv9IiKpYLR_Fo99ctTBgN9E5MMjxX9l2N4fEDwHAhQ",
+"n": 1993,
+"s": "Høyeste rentenivå på 15 år, og kunnskapsminister Tonje Brenna innrømmer alvorlige feil.",
+"t": "Renta går bare oppover. Når tar det slutt?",
+"u": "https://podkast.nrk.no/fil/kommentert/4d9579aa-5d2d-4d85-9ec5-e517a2268216_0_ID192MP3.mp3"
+},
+"l_2b5c9456-7c61-4700-9c94-567c6177006e": {
+"d": "2026-04-28T14:35:00+02:00",
+"i": "https://gfx.nrk.no/RrlGfkgPpduto9o0Djmy1wxIt7rGwuCpMpsbUSi-fATQ",
+"n": 1996,
+"s": "Frp og Sylvi Listhaug har i lang tid vært landets største parti, samtidig som mindretallsregjeringen til Støre har samarbeidsproblemer. Kan hun bli statsminister nå?\n\nOg full fyr i barnefotballen: Lag beskyldes for topping og elitesatsing.",
+"t": "Skandaler og suksess: Kan Sylvi bli statsminister nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/2b5c9456-7c61-4700-9c94-567c6177006e_1_ID192MP3.mp3"
+},
+"l_2be51e98-84db-4449-a51e-9884db84496d": {
+"d": "2025-09-05T13:38:00+02:00",
+"i": "https://gfx.nrk.no/iQ4GgHYiieTlQ6Snj6WAdgodXl04Sji8J20tfVAGQtaQ",
+"n": 2807,
+"s": "Miljøpartiet De Grønne er plutselig landets fjerde største parti, og sikrer rødgrønn seier på mange målinger. Men ulike målinger viser ulike ting: Så hvem vinner valget?",
+"t": "Hvem vinner valget?",
+"u": "https://podkast.nrk.no/fil/kommentert/2be51e98-84db-4449-a51e-9884db84496d_1_ID192MP3.mp3"
+},
+"l_2d51a25e-6517-45a4-91a2-5e651745a443": {
+"d": "2026-03-26T16:28:00+01:00",
+"i": "https://gfx.nrk.no/3RXWF7mszWchn_z4cIRZNAdDZsZJlJbt4PomDDfSzjnw",
+"n": 1860,
+"s": "Prisene på bensin og diesel har ført til et politisk drama, og mange partier vil nå gjøre drivstoff billigere. Men er det lurt?\nOg i Danmark sitter en piperøykende mann og smiler: Han bestemmer hvem landets neste statsminister blir.",
+"t": "Dramatisk bensinkrangel: – Har felt regjering før",
+"u": "https://podkast.nrk.no/fil/kommentert/2d51a25e-6517-45a4-91a2-5e651745a443_1_ID192MP3.mp3"
+},
+"l_2f1cccb2-d803-4743-9ccc-b2d803774309": {
+"d": "2024-12-19T15:51:00+01:00",
+"i": "https://gfx.nrk.no/KpapKTotfxeufVahfrOOWgJg3xpYnsJD3izdpiAXRkZQ",
+"n": 2469,
+"s": "Har Støre slått ned kuppforsøket? Eller må han gå av? Og endelig gode nyheter fra Norges Bank, eller - vent nå litt.",
+"t": "Har Støre slått kuppmakerne?",
+"u": "https://podkast.nrk.no/fil/kommentert/424490a6-ceb7-4788-b7a6-9f2786b3f197_0_ID192MP3.mp3"
+},
+"l_2f592db5-c8d6-4304-992d-b5c8d6c30450": {
+"d": "2026-06-25T15:25:00+02:00",
+"i": "https://gfx.nrk.no/KzJx73keSJn1-x5GwICp_AqHOSp2dZJ_U8z-z8IcaHmg",
+"n": 1966,
+"s": "Ukraina slår hardere og lengre til inn i Russland, hvor uroen og misnøyen øker. Har Vladimir Putin fremdeles kontroll? \nOg kan en skattekommisjon roe ned skattebråket?",
+"t": "Hvor trygt sitter Putin? – Ukraina mye sterkere nå",
+"u": "https://podkast.nrk.no/fil/kommentert/2f592db5-c8d6-4304-992d-b5c8d6c30450_1_ID192MP3.mp3"
+},
+"l_31033784-f671-46c9-8337-84f671c6c99e": {
+"d": "2026-04-23T15:00:00+02:00",
+"i": "https://gfx.nrk.no/dhzdz3HadKzf-g9581Jb7gkAmZ4RBblHfXnhyDm9IgZQ",
+"n": 2021,
+"s": "Vi er midt oppi verdens verste energikrise. Hvor lenge skal den vare? Hvorfor greier ikke Donald Trump å avslutte krigen?\nOg hvem skal styre Norge fremover, når ingen av de store partiene greier å samle flertall?",
+"t": "Energikrisen kan lamme alt: – Amatørenes festaften",
+"u": "https://podkast.nrk.no/fil/kommentert/31033784-f671-46c9-8337-84f671c6c99e_1_ID192MP3.mp3"
+},
+"l_319464af-2680-4f79-9464-af26803f79d8": {
+"d": "2026-01-06T14:27:00+01:00",
+"i": "https://gfx.nrk.no/juMBwLb_S3arkR9T5DgLPgXVBDe5Ieb-e9CvjVhhb2aw",
+"n": 1431,
+"s": "Vil USA og Trump ta Grønland med militærmakt? Og hvis et Nato-medlem tar et annet Nato-land med makt, hva skjer egentlig da?",
+"t": "Hva skjer hvis Trump tar Grønland?",
+"u": "https://podkast.nrk.no/fil/kommentert/319464af-2680-4f79-9464-af26803f79d8_1_ID192MP3.mp3"
+},
+"l_31d82741-0adc-4d58-9827-410adced58e9": {
+"d": "2024-06-28T05:50:00+02:00",
+"i": "https://gfx.nrk.no/E2o4VmLnLFIbYtLC-Zv32gjiQv1hezNKFx19n0PeAoYg",
+"n": 2162,
+"s": "Jens Stoltenberg slutter i Nato, men hva skal han nå? Billige flybilletter i nord gjør folk sinte og opprørte, og må vi venne oss til flere turister fremover?",
+"t": "Stoltenberg, flykaos og Norge-turisme",
+"u": "https://podkast.nrk.no/fil/kommentert/f850641b-876b-4d66-8108-e867dd53dde2_0_ID192MP3.mp3"
+},
+"l_336708fe-f703-43c7-a708-fef703b3c75d": {
+"d": "2024-03-25T15:42:00+01:00",
+"i": "https://gfx.nrk.no/qZiu21z-lvzcWgrUTONFNg1mimlaN49qwhyyb1uOmOjQ",
+"n": 2319,
+"s": "Vi svarer på lytterspørsmål i hele episoden: Hvorfor kan jeg ikke kjøpe meg inn i Oljefondet? Legalisere cannabis? Kan Erna bli statsminister? Og mye mer.",
+"t": "PÅSKESPESIAL: Legalisering, oljeutfasing, russetid",
+"u": "https://podkast.nrk.no/fil/kommentert/3a31bf07-549c-4824-8cb6-bd03d4359930_0_ID192MP3.mp3"
+},
+"l_350d278a-1b91-4bc3-8d27-8a1b917bc38f": {
+"d": "2025-12-18T16:30:00+01:00",
+"i": "https://gfx.nrk.no/ygzQoIxzBrdERvC6koveNAeKrQAjriy9tZk44TDrbpgw",
+"n": 2763,
+"s": "Det er skjebnedager for Ukraina. Får vi fred neste år? Eller kan det bli verre og spre seg? \n\nVi snakker om hvordan vi tror 2026 blir: Når slutter Jens Stoltenberg? Når får vi se Ine Eriksen Søreide i debatt med Sylvi Listhaug? Vil Støre fortsette som før? Og ikke minst: Får vi lov til å drikke øl på pub under Norges kamper i VM?",
+"t": "Fred i Ukraina? Stoltenberg ut? Vi spår 2026",
+"u": "https://podkast.nrk.no/fil/kommentert/350d278a-1b91-4bc3-8d27-8a1b917bc38f_1_ID192MP3.mp3"
+},
+"l_360c4105-4997-4ea1-8c41-054997bea116": {
+"d": "2023-06-02T05:30:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 2066,
+"s": "Justisministeren får TikTok-kjeft. Alle trodde boligprisene skulle ned, men de øker jo som bare det. Og enmannsparti stjeler laksefokus.",
+"t": "Hvorfor blir det så mye bråk rundt Emilie Enger Mehl?",
+"u": "https://podkast.nrk.no/fil/kommentert/681f6157-956e-40c0-9da4-63862720dff5_0_ID192MP3.mp3"
+},
+"l_3809038f-422a-47a3-8903-8f422a07a37d": {
+"d": "2023-11-08T06:00:00+01:00",
+"i": "https://gfx.nrk.no/l4DbEqyegBKnC8ayBjVkYg2c7V3iNjtLN_cAe9An3sYw",
+"n": 1651,
+"s": "Sentralbanksjef-spesial: Ida Wolden Bache er gjest. Vi spør om alt vi lurer på om styringsrente og fremtiden.",
+"t": "Hvor stopper renta og når blir den lavere?",
+"u": "https://podkast.nrk.no/fil/kommentert/775a3fda-22f6-44e0-8765-e5134f2fe91c_0_ID192MP3.mp3"
+},
+"l_399d4560-2ec7-40f8-9d45-602ec740f86f": {
+"d": "2023-04-28T06:00:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 2074,
+"s": "Hvorfor er plutselig så mange opptatt av kjernekraft? \nJordbruksoppgjøret er i gang og matvareprisene blir dyrere til uka.",
+"t": "Hvorfor snakker så mange om kjernekraft nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/fa2d9535-b668-46b8-b000-4e6ad93d4767_0_ID192MP3.mp3"
+},
+"l_3a69765e-4260-4960-a976-5e4260696064": {
+"d": "2023-10-12T19:45:00+02:00",
+"i": "https://gfx.nrk.no/J-KZzhN8Zn3x2C_yWgEjmQ-EyIrxglHhlGdrswK_Rk1w",
+"n": 2614,
+"s": "Tre lyspunkt fra økonomiverden, og hvorfor er Israel og Palestina så betent inn i norsk politikk? Sigurd Falkenberg Mikkelsen er gjest på sistnevnte.",
+"t": "Puh. Endelig noen gode økonominyheter!",
+"u": "https://podkast.nrk.no/fil/kommentert/33af5304-e53e-488d-bb73-13f2a1499480_0_ID192MP3.mp3"
+},
+"l_3b473ed7-adb2-48e7-873e-d7adb2a8e732": {
+"d": "2026-09-01T15:13:00+02:00",
+"i": "https://gfx.nrk.no/z5ctqILWCgahsTm1sYOfgQJL8H2UDEL48TrYlHWVBBpA",
+"n": 1833,
+"s": "Marius Borg Høiby på slottet vekker reaksjoner. Hva slags signal sender kongehuset? \nOg Islands nei til EU: Hvor sure ble de egentlig i Brussel?",
+"t": "Høiby på slottet: Hvilket signal sender kongehuset?",
+"u": "https://podkast.nrk.no/fil/kommentert/3b473ed7-adb2-48e7-873e-d7adb2a8e732_1_ID192MP3.mp3"
+},
+"l_3bb6aa52-d1f3-4553-b6aa-52d1f3f55329": {
+"d": "2026-08-12T17:46:00+02:00",
+"i": "https://gfx.nrk.no/yNOhJZ01XgpNm96hOTi3XAcmIoFCiVhipxEYNmLR4D6g",
+"n": 1877,
+"s": "Ine Eriksen Søreide tar et kraftig oppgjør med Frp-leder Sylvi Listhaug. \nDebatten-programleder Steinar Suvatne tar et ikke så kraftig oppgjør med Kommentert.\nOg vi debriefer VM-roing. Opptaket er tatt under Arendalsuka.",
+"t": "Hvorfor angriper Høyre Sylvi Listhaug?",
+"u": "https://podkast.nrk.no/fil/kommentert/3bb6aa52-d1f3-4553-b6aa-52d1f3f55329_1_ID192MP3.mp3"
+},
+"l_3c2e703f-d744-4cdc-ae70-3fd7446cdcd1": {
+"d": "2023-11-23T17:30:00+01:00",
+"i": "https://gfx.nrk.no/LQe3GOcRkkqRzpfePSSYGgcWKGoHT7rAVgP8cmFcBAtQ",
+"n": 1466,
+"s": "Burde vi ha dårlig samvittighet for å handle på Black Friday?  ",
+"t": "–Et kjøpehelvete vi ikke trenger",
+"u": "https://podkast.nrk.no/fil/kommentert/64aa132b-c76e-4254-b880-ab217dcd4aec_0_ID192MP3.mp3"
+},
+"l_3dd1cac4-f282-4667-91ca-c4f282166706": {
+"d": "2024-11-21T14:50:00+01:00",
+"i": "https://gfx.nrk.no/ulPWqHrA6GgWchzDNty8IgpKpulssjRRgloZi4palcEg",
+"n": 2292,
+"s": "Blir kronprinsessens sønn behandlet annerledes av politiet? Og hva betyr alle disse sakene for Kongehuset? \nJens Stoltenberg får ny jobb i et lukka elitenettverk.",
+"t": "Får Marius Borg Høiby spesialbehandling?",
+"u": "https://podkast.nrk.no/fil/kommentert/72e0b75d-2df9-40d0-b971-e9afc787ecc8_0_ID192MP3.mp3"
+},
+"l_3e9066e2-02e7-4045-9066-e202e7b0454f": {
+"d": "2026-05-28T14:50:00+02:00",
+"i": "https://gfx.nrk.no/8DToICzjZFkzvXQ2rn6qLwEbeIWAByJrWj3FtXGIoXXQ",
+"n": 1817,
+"s": "Hva er mest provoserende? Minoritetsungdom som banker opp en russ på 17. mai, eller en Frp-topp som deler et usladdet bilde av gjerningspersonene?\n\nOg sier unge politikere drøye ting med vilje kun for å komme på TV?",
+"t": "Russ banket opp: Voldsvideo provoserer",
+"u": "https://podkast.nrk.no/fil/kommentert/3e9066e2-02e7-4045-9066-e202e7b0454f_1_ID192MP3.mp3"
+},
+"l_3ffe2146-8248-420f-be21-468248320fd7": {
+"d": "2026-02-10T15:00:00+01:00",
+"i": "https://gfx.nrk.no/LS5iwJAzeOv2_Inw3b_olw75P8R-FeO-cC7edsV6TRUg",
+"n": 1412,
+"s": "Kan det hende at Jeffrey Epstein var involvert i etterretning? Selv om bevisene mangler er det et spørsmål flere og flere stiller seg.\n\nRettelse: I en tidligere versjon av denne episoden blir det sagt at det er sannsynlig at Terje Rød-Larsen, Mona Juul og Thorbjørn Jagland har gjort noe ulovlig. Denne formuleringen er tatt bort. Det riktige er at Terje Rød-Larsen er siktet av Økokrim for medvirkning til grov korrupsjon, Mona Juul er siktet av Økokrim for grov korrupsjon og Thorbjørn Jagland er mistenkt for grov korrupsjon av Økokrim. Denne rettelsen ble gjort 10. februar 22:15.",
+"t": "Var Jeffrey Epstein spion?",
+"u": "https://podkast.nrk.no/fil/kommentert/3ffe2146-8248-420f-be21-468248320fd7_1_ID192MP3.mp3"
+},
+"l_41a0b7c8-f80c-4fc8-a0b7-c8f80c6fc840": {
+"d": "2024-02-15T16:00:00+01:00",
+"i": "https://gfx.nrk.no/MgwO74_3jXDueqTldYTOAwDKm2E0ptkLgaRzL0fG-A9w",
+"n": 2358,
+"s": "Norsk Industri-sjef brukte millioner på jakthytte og sjøfly, kan det bli krig i Norge? Og hvorfor kan vi ikke kjøpe oss inn i oljefondet?",
+"t": "Sjøfly og jakthytte, krigsfare og oljefondet",
+"u": "https://podkast.nrk.no/fil/kommentert/79b355c9-3010-41af-b98f-01d49edbc625_0_ID192MP3.mp3"
+},
+"l_43126c2e-14ea-47f7-926c-2e14ea37f7ae": {
+"d": "2024-01-04T19:00:00+01:00",
+"i": "https://gfx.nrk.no/TWubCAzkBh3KDn5_DIKzUA_mYlyAHiJ8yAjejWa69Qwg",
+"n": 2498,
+"s": "Bør Kong Harald gjøre som danske Dronning Margrethe? Får vi bedre råd i år? Og hvilke saker kommer til å prege 2024?",
+"t": "Bør Kong Harald pensjonere seg?",
+"u": "https://podkast.nrk.no/fil/kommentert/eaabd190-8a82-4b43-93ac-995e7504369a_0_ID192MP3.mp3"
+},
+"l_4333b92a-f9a8-4993-b3b9-2af9a8b99378": {
+"d": "2024-03-07T16:45:00+01:00",
+"i": "https://gfx.nrk.no/BhlfOwzdxRJMQR8fKrYsMwCaVpc11hsZcEP4pGhiBpww",
+"n": 2276,
+"s": "Bør russetiden flyttes og russeklær gjøres forbudt? Frp gjør det veldig bra for tiden.  Og ingen visste om kinoforbud i kirketiden, gitt.",
+"t": "Flytt russetiden, Sylvi Listhaug og kinoforbud",
+"u": "https://podkast.nrk.no/fil/kommentert/9d8d1802-81e7-4762-ab11-309af2092c8e_0_ID192MP3.mp3"
+},
+"l_4685b762-0c9f-438d-85b7-620c9f038d91": {
+"d": "2024-09-26T16:32:00+02:00",
+"i": "https://gfx.nrk.no/SN3QPtcWD1WMVsHEWdgGbQGbMo8iqCoZ7Nk5r-uoHmuA",
+"n": 2186,
+"s": "Hvorfor er det alltid bråk i Arbeiderpartiet? Og store forskjeller mellom unge og godt voksne i synet på hva som er en sykedag.",
+"t": "Krangling i Arbeiderpartiet, sykefravær og innvandring",
+"u": "https://podkast.nrk.no/fil/kommentert/cb8c43e7-d690-431c-815c-0c2fbf37a261_0_ID192MP3.mp3"
+},
+"l_46c93472-46a9-4c80-8934-7246a9cc8058": {
+"d": "2026-02-19T14:37:00+01:00",
+"i": "https://gfx.nrk.no/zHfuz4qBu-eukKkn8RyTxgZkRn3LcTwOm3bLhr6_Q0Tg",
+"n": 2242,
+"s": "Kronprinsesse Mette-Marits omfattende kontakt med Epstein, rettssaken mot Marius Borg Høiby. Sjaman Durek. Til tross for mange skandaler er støtten til kongehuset sterk. Hvorfor det?",
+"t": "Kongehusskandaler i kø: Hvorfor så sterk støtte?",
+"u": "https://podkast.nrk.no/fil/kommentert/46c93472-46a9-4c80-8934-7246a9cc8058_1_ID192MP3.mp3"
+},
+"l_4808ba4d-2f3a-4943-88ba-4d2f3ac9431e": {
+"d": "2026-02-01T16:06:00+01:00",
+"i": "https://gfx.nrk.no/gPXetWUUjNOIqFs4W4HkIAfCdPhOyQguFybkrQsMZtqQ",
+"n": 1522,
+"s": "Hva slags forhold hadde kronprinsesse Mette-Marit og Jeffrey Epstein? Og hvilke konsekvenser kan det få?\n\nRettelse: I en tidligere versjon av episoden ble det sagt at Mette-Marit skrev til Jeffrey Epstein at hun var på middag med presidenten i Maldivene. Det riktige er at det var omvendt. Denne setningen er tatt bort fra episoden. Endringen ble gjort 16:30, 1. februar.",
+"t": "Mette-Marit og Epstein: – Uhyre alvorlig",
+"u": "https://podkast.nrk.no/fil/kommentert/4808ba4d-2f3a-4943-88ba-4d2f3ac9431e_1_ID192MP3.mp3"
+},
+"l_4a89bc6f-a3a1-445a-89bc-6fa3a1545a82": {
+"d": "2024-02-01T16:00:00+01:00",
+"i": "https://gfx.nrk.no/tArJXQ8oq8Ylv8bKtWofSQI-OxgPS_XErreFe87QCklQ",
+"n": 2246,
+"s": "DNB tjener mer enn aldri før på grunn av rentehoppene, nytt liv i sekstimersdag-debatten og Norge fortsetter omstridt Gaza-bistand.",
+"t": "Rentefest for DNB, sekstimersdag og Gaza-bistand",
+"u": "https://podkast.nrk.no/fil/kommentert/d3df1934-708e-45be-90e3-ff91f732eadd_0_ID192MP3.mp3"
+},
+"l_4b525ed3-9ee3-402c-925e-d39ee3902c3a": {
+"d": "2025-06-18T14:13:00+02:00",
+"i": "https://gfx.nrk.no/Ki_LI1bgGR40nLYTRJ1wjg66seUYc2tH5KB6H45XLUpA",
+"n": 2340,
+"s": "Angrepene på begge sider fortsetter, men hvor nær er vi en amerikansk involvering? Og hva vil egentlig Israel oppnå? Og så snakker vi litt om at mange politikere sier vi har dårlig råd i Norge, men har vi egentlig det?",
+"t": "Israel og Iran: Hva gjør USA nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/b07513ce-8fff-4257-aeb0-e10d3dc33110_0_ID192MP3.mp3"
+},
+"l_4c035248-e46d-441f-8352-48e46da41f07": {
+"d": "2025-09-25T14:42:00+02:00",
+"i": "https://gfx.nrk.no/iY9KkB8waX9hpFLXEhg-wguPLT71svgWxh43s-kM33tA",
+"n": 2533,
+"s": "Oslo sentrum: To 13-åringer kaster granater. Sylvi Listhaug sier vi nå har svenske tilstander i Norge, men har hun rett? I tillegg til det: Har likestillingspolitikken gått for langt?",
+"t": "Har Listhaug rett i svenske tilstander?",
+"u": "https://podkast.nrk.no/fil/kommentert/4c035248-e46d-441f-8352-48e46da41f07_1_ID192MP3.mp3"
+},
+"l_4f9b9895-1530-4e7f-9b98-951530be7f19": {
+"d": "2026-08-20T14:05:00+02:00",
+"i": "https://gfx.nrk.no/PtfbUvQOdWVk0adQk7m0iwRRKy7cdImaFnMwIx9UzyGQ",
+"n": 1815,
+"s": "Leder for FpU trekker seg etter varsel, men avviser påstander om upassende oppførsel. Og netthets og trusler, hvor mye skal politikerne tåle?",
+"t": "FpU-leder trekker seg: Har politikken et alkoproblem?",
+"u": "https://podkast.nrk.no/fil/kommentert/4f9b9895-1530-4e7f-9b98-951530be7f19_1_ID192MP3.mp3"
+},
+"l_51158caa-29bb-41b9-958c-aa29bba1b99c": {
+"d": "2026-01-29T14:13:00+01:00",
+"i": "https://gfx.nrk.no/TyVMBn2rDvCFDNLCIaHslguJWw5teh877JkazeVmPiCw",
+"n": 2322,
+"s": "Kritikken mot Donald Trump øker og øker. Har amerikanerne fått nok? Og hva er det Trump endrer nå? \nOg gullprisen har aldri vært høyere. En urolig verden får skylden, men hva betyr det egentlig?",
+"t": "Har USA fått nok av ICE?",
+"u": "https://podkast.nrk.no/fil/kommentert/51158caa-29bb-41b9-958c-aa29bba1b99c_2_ID192MP3.mp3"
+},
+"l_53994319-2b66-4b41-9943-192b664b412b": {
+"d": "2025-01-16T14:35:00+01:00",
+"i": "https://gfx.nrk.no/FTRVsD9Ke13R3_soygxqawG3Ymkw714j0fMkjUS7MHBA",
+"n": 2748,
+"s": "Kan vi få en ny finanskrise? Det vil i så fall gå ut over Oljefondet, pensjonen din og fondsparingen din. Og har Jonas Gahr Støre snudd skuta? Ap på vei oppover.",
+"t": "Frykt for amerikansk børsboble",
+"u": "https://podkast.nrk.no/fil/kommentert/aef5b587-5fe7-4372-879e-ca01da1409a9_0_ID192MP3.mp3"
+},
+"l_549c0de6-cb89-48e0-9c0d-e6cb89b8e0c5": {
+"d": "2025-01-02T15:16:00+01:00",
+"i": "https://gfx.nrk.no/MdyNMPeZwwFj4-DXXD-GHAYYyJ6KcNQRb3H1JuGQXvfA",
+"n": 2438,
+"s": "Hva skjer til høyre i politikken? Har vi fått et nytt politisk høyre i Norge og i verden? Hvorfor så mye kaos med tog og jernbane? Og hvilke saker følger vi med på i år? Mange spørsmål. Vi prøver å svare.",
+"t": "Listhaug, Trump og nye bevegelser verden over",
+"u": "https://podkast.nrk.no/fil/kommentert/555f927f-6894-466e-8913-016d7ee3e011_0_ID192MP3.mp3"
+},
+"l_5799cd54-5cc0-4849-99cd-545cc07849ec": {
+"d": "2024-10-17T16:20:00+02:00",
+"i": "https://gfx.nrk.no/uC_NC4h5Gv8CjHlec9_epgVaPXsD1H9V5p9q8fhZ0jiQ",
+"n": 2353,
+"s": "Hvorfor er det egentlig lov å handle på Temu? Fakkeltog og bråk: Politikere over hele Norge kutter og legger ned skoler. Og hvorfor så vanskelig å følge med på matvarepriser?",
+"t": "Forby Temu? Skolebråk og matpriser",
+"u": "https://podkast.nrk.no/fil/kommentert/121d8fb4-4ab0-4582-8774-35aa9fa61fb6_0_ID192MP3.mp3"
+},
+"l_58197d90-50d1-4be6-997d-9050d17be618": {
+"d": "2025-03-06T14:53:00+01:00",
+"i": "https://gfx.nrk.no/PbH2DiNq3jekY1icJKb42weLbHQtWE7Ofz8-uL3Ddytw",
+"n": 2209,
+"s": "Norge øker Ukraina-støtten, men vi er verdens rikeste land, burde vi ikke bidra med mer? Og med Gro Holm på laget i denne episoden snakker vi også om handelskrig, nytt Zelenskyj- og Trump-møte og hva EU gjør nå.",
+"t": "Burde Norge gi mer til Ukraina?",
+"u": "https://podkast.nrk.no/fil/kommentert/bbf894e3-034b-4e24-b2c9-3ee4b19b7b2b_0_ID192MP3.mp3"
+},
+"l_5827584d-fee0-4618-a758-4dfee0a61833": {
+"d": "2023-05-12T06:00:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 1961,
+"s": "Stemmer det at svenskene nå drar på omvendt svenskehandel til Norge?\nOg er det for tette bånd mellom politikere og journalister?",
+"t": "Svensk jubel over svak norsk krone",
+"u": "https://podkast.nrk.no/fil/kommentert/66036356-5f5b-4eb4-8903-b54bcc0e67ea_0_ID192MP3.mp3"
+},
+"l_5a65609f-6f10-4c5d-a560-9f6f105c5d67": {
+"d": "2026-04-09T14:06:00+02:00",
+"i": "https://gfx.nrk.no/a7E3fgtDmmr0cDBH8WVfYwKVsG96v4UJ0Xmus28n_DzQ",
+"n": 2021,
+"s": "Donald Trumps utsagn blir mer og mer ekstreme. Har han mistet det? \nOg Jonas Gahr Støre sliter i Stortinget. Kan det ende med kabinettspørsmål?",
+"t": "Har Trump mistet det? – Sitter på atomkofferten",
+"u": "https://podkast.nrk.no/fil/kommentert/5a65609f-6f10-4c5d-a560-9f6f105c5d67_1_ID192MP3.mp3"
+},
+"l_5cb45aac-df04-458c-b45a-acdf04858c63": {
+"d": "2024-06-06T16:46:00+02:00",
+"i": "https://gfx.nrk.no/JyJU6z2XcH-CBIYTFd1r6Qz0WAarhjiyi6-Y6Ny7wB0Q",
+"n": 2799,
+"s": "Kan Sylvi Listhaug bli statsminister? Er det en sak at en statsråd kliner med ekspedisjonssjefen sin? Og, mange norske bedrifter betaler ikke skatt.",
+"t": "Statsminister Listhaug, skatt og statsrådklining",
+"u": "https://podkast.nrk.no/fil/kommentert/3328b9ae-a22a-469d-afbf-a4ca9cb47c66_0_ID192MP3.mp3"
+},
+"l_5cc594f9-f659-437b-8594-f9f659937b29": {
+"d": "2025-02-06T19:05:00+01:00",
+"i": "https://gfx.nrk.no/XoArhEz2di8mPR6G2jmzaw6yFhIvA5jbSXTKkVaClLEw",
+"n": 2042,
+"s": "Eksperter mener det er sløseri.",
+"t": "Stopper han havvind-satsningen?",
+"u": "https://podkast.nrk.no/fil/kommentert/3829cbd0-52d5-4f0f-9d38-116bd80368c8_0_ID192MP3.mp3"
+},
+"l_5ce47d6f-c6e2-4e91-a47d-6fc6e2fe91e3": {
+"d": "2026-04-16T14:53:00+02:00",
+"i": "https://gfx.nrk.no/iGghwcqNGxaTfjHDUiWvJwNd7g4FzsSzidid74wJMj4w",
+"n": 1791,
+"s": "Flere og flere påstår at Norges Bank tar feil i å sette opp styringsrenten for å få ned prisveksten. Tar Norges Bank feil? Og hva med politikernes ansvar?",
+"t": "Renter og prisvekst: Tar Norges Bank feil?",
+"u": "https://podkast.nrk.no/fil/kommentert/5ce47d6f-c6e2-4e91-a47d-6fc6e2fe91e3_1_ID192MP3.mp3"
+},
+"l_5cf19204-4493-4108-b192-044493e10806": {
+"d": "2023-05-05T06:00:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 2011,
+"s": "Vi går igjennom lederegenskapene til Jonas Gahr Støre, og så lurer vi på ny: Hvor mye skal egentlig renta opp?",
+"t": "Hvorfor går det galt for Jonas Gahr Støre?",
+"u": "https://podkast.nrk.no/fil/kommentert/66fde9f9-ce03-40b0-9ed8-04c86416d94c_0_ID192MP3.mp3"
+},
+"l_5e1fdce1-fac8-42f9-9fdc-e1fac882f92b": {
+"d": "2026-01-15T14:49:00+01:00",
+"i": "https://gfx.nrk.no/xW3IuTTV8zs8wOqMt7CMcwoMntouhzA1WDdTBy8hREuQ",
+"n": 2164,
+"s": "Fullt kaos i Minnesota, kan noen stanse ICE? \nKan Danmarks superminister redde Grønland fra å bli amerikansk? Og Trumps jakt på motstandere treffer nå verdens viktigste bankmann.",
+"t": "Kan noen stoppe ICE?",
+"u": "https://podkast.nrk.no/fil/kommentert/5e1fdce1-fac8-42f9-9fdc-e1fac882f92b_1_ID192MP3.mp3"
+},
+"l_5f028948-e638-4334-8289-48e638a33416": {
+"d": "2024-01-19T06:00:00+01:00",
+"i": "https://gfx.nrk.no/Lu5gXxojHnSiSK03dUt9VAVdVZb9rGu2sVe1vKGqAXJQ",
+"n": 2576,
+"s": "Har boikott egentlig noe å si? Hva holder helseministeren på med? Og hvorfor så mye mas om at Anniken Huitfeldt blir ny USA-ambassadør?",
+"t": "Israel-boikott, sykehus og ambassadør-bråk",
+"u": "https://podkast.nrk.no/fil/kommentert/47bc6bed-ffef-4850-bc81-80750f8643a6_0_ID192MP3.mp3"
+},
+"l_5f2059c2-a430-4113-a059-c2a430d11378": {
+"d": "2023-09-28T12:51:00+02:00",
+"i": "https://gfx.nrk.no/VvvDb7Q-h0xO6QiRIrxL0QbQG7d0Q2hM0kPjpF_HP87w",
+"n": 2192,
+"s": "De siste ukene har vært blodige. Hva er grunnene til gjengvolden i Sverige?",
+"t": "Kan gjengvolden i Sverige også skje i Norge?",
+"u": "https://podkast.nrk.no/fil/kommentert/9f387bf3-26d3-4af7-b12a-9a269f148633_0_ID192MP3.mp3"
+},
+"l_612e5b31-5e02-4f59-ae5b-315e02df5993": {
+"d": "2025-11-20T15:36:00+01:00",
+"i": "https://gfx.nrk.no/Vs9QHkv2EdAsKRjQ3irWXAZ1ZaZptrm3QeQjhSTipOvg",
+"n": 2572,
+"s": "Hvorfor får Norge toll fra EU? \nStore integreringsproblemer i Norge, samtidig som innvandring blir strengere i store deler av Europa. \nOg har vi en KI-boble? Hva skjer hvis den sprekker?",
+"t": "Har vi en KI-boble?",
+"u": "https://podkast.nrk.no/fil/kommentert/612e5b31-5e02-4f59-ae5b-315e02df5993_1_ID192MP3.mp3"
+},
+"l_61546db1-320d-4024-946d-b1320de02460": {
+"d": "2024-10-31T14:30:00+01:00",
+"i": "https://gfx.nrk.no/D7jU2LUzeOwgHczvuFqOjwzk16guNo_Ylqjr9uEFRn0w",
+"n": 2762,
+"s": "Hvem vinner det amerikanske presidentvalget? Hvorfor så mye drittslenging? Hvor er egentlig politikken? \nOla Borten Moe og Sylvi Listhaug i ny og uvant duo. Og blir det orden på sykefraværet?",
+"t": "Presidentvalg i USA, norske populister og sykefravær",
+"u": "https://podkast.nrk.no/fil/kommentert/fbb08231-0c97-42e1-8820-c16995d62465_0_ID192MP3.mp3"
+},
+"l_623852e8-ee02-4eb1-b852-e8ee024eb1dd": {
+"d": "2026-05-21T15:27:00+02:00",
+"i": "https://gfx.nrk.no/9J2NlvqTZQVsGFDyzSmcRgR_Fw9gXTgsfjIWuOGuVylg",
+"n": 1882,
+"s": "USA trekker tilbake soldater fra Europa og Donald Trump sår tvil om Natos verdi. Hvem skal forsvare Norge ved krig? \nOg så lurer vi: Hvor er Ine Eriksen Søreide?",
+"t": "Trumps Nato-tvil: Hvem skal forsvare Norge ved krig?",
+"u": "https://podkast.nrk.no/fil/kommentert/623852e8-ee02-4eb1-b852-e8ee024eb1dd_1_ID192MP3.mp3"
+},
+"l_62e3ce45-9e2f-4e5a-a3ce-459e2f7e5a1b": {
+"d": "2023-03-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 1964,
+"s": "Alt du trenger å vite om mulig ny finanskrise akkurat nå. I tillegg til det kårer vi de kuleste og kjedeligste politiske landsmøtene.",
+"t": "Blir det ny finanskrise nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/963459c1-0f05-4b40-a86f-7a2d77de0049_0_ID192MP3.mp3"
+},
+"l_63780732-be7f-4319-b807-32be7fd31947": {
+"d": "2026-08-28T20:34:00+02:00",
+"i": "https://gfx.nrk.no/c-JfmvbGph-uj3IfgLLbmQYmDlOnJdzwS1qtArl1YeEA",
+"n": 1952,
+"s": "Norge har mistet en konge og fått en ny. Hva tar vi med oss fra kong Harald? Og hva slags konge blir Haakon?",
+"t": "Hva slags konge blir Haakon?",
+"u": "https://podkast.nrk.no/fil/kommentert/63780732-be7f-4319-b807-32be7fd31947_1_ID192MP3.mp3"
+},
+"l_643a4899-5dd4-48b5-ba48-995dd488b576": {
+"d": "2023-10-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/vQw6SwUi2JSAsODPp5C2KwyE1JNUpCt0vCR9VJ_-KkBQ",
+"n": 2140,
+"s": "Hvordan sikrer vi at folk som kan jobbe, har en jobb å gå til? Og statsminister Støre bytter ut en haug med statsråder.",
+"t": "Er det for lett å være sykemeldt?",
+"u": "https://podkast.nrk.no/fil/kommentert/33b5ec15-c7a3-40e6-ba46-da656a0d52d4_0_ID192MP3.mp3"
+},
+"l_64801cf0-1e77-4c01-801c-f01e777c018e": {
+"d": "2025-04-09T15:02:00+02:00",
+"i": "https://gfx.nrk.no/5JUaZueusAWVE2d7lDb6VwIVJmkWZMZyKnI-nX8ZEzXw",
+"n": 2220,
+"s": "Mange måneder med frykt og uro for Norges konsekvenser av Donald Trumps tollkrig, men har frykten vært helt reell?",
+"t": "Har regjeringen lurt oss?",
+"u": "https://podkast.nrk.no/fil/kommentert/ecb0b48c-3e09-4763-8dad-788a2a44a24f_0_ID192MP3.mp3"
+},
+"l_64ae8d25-b640-4c71-ae8d-25b6404c718e": {
+"d": "2024-02-29T15:03:00+01:00",
+"i": "https://gfx.nrk.no/tfd-HPA2874z-64WwdLSygmBAtInfoIDakJDkCaxFgkA",
+"n": 2283,
+"s": "Menn og likestillingsutfordringer. Kontrollkomiteen på Stortinget med historisk kritikk, og er det tegn til boligkollaps?",
+"t": "Gutter og likestilling, boligkollaps og habilitet",
+"u": "https://podkast.nrk.no/fil/kommentert/53ed81e9-5d16-4ac2-8444-132b39aafd92_0_ID192MP3.mp3"
+},
+"l_66a7da37-9ece-4688-a7da-379ece8688e7": {
+"d": "2023-09-14T07:15:00+02:00",
+"i": "https://gfx.nrk.no/7-Aj9FggNUwiVJUl5sf1Ng1hQ7P1sh8UgLiCQQCf7R2w",
+"n": 1994,
+"s": "Ikke bare bytta folk parti, men også politisk side. Vi prøver å finne årsakene som ligger bak.",
+"t": "Rekordmange bytta politisk side. Hvorfor?",
+"u": "https://podkast.nrk.no/fil/kommentert/94365cb8-58ff-4003-87e5-9c5477413ffb_0_ID192MP3.mp3"
+},
+"l_670ca9d9-b206-40fc-8ca9-d9b20690fc55": {
+"d": "2023-11-03T16:15:00+01:00",
+"i": "https://gfx.nrk.no/DBrpCn_JCPUbSnmKCf7mHwpVy0U0JFwW8H2bq6cAnmww",
+"n": 1076,
+"s": "Ekstraepisode: Økokrim skal ikke etterforske Erna Solberg eller Sindre Finnes. Men hva skjer egentlig fremover nå?",
+"t": "Økokrim dropper Erna-etterforskning. Hva skjer nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/9cc20a05-80b8-44a4-a812-7e607608ccfe_0_ID192MP3.mp3"
+},
+"l_68c1d225-99f1-4bb2-81d2-2599f1dbb2de": {
+"d": "2023-08-18T11:35:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 2493,
+"s": "Vi er i Arendal og har sett partilederdebatten, og hørt Norges Bank sette opp renta nok en gang. Virker det?",
+"t": "Det blir en mørk og tung økonomisk høst",
+"u": "https://podkast.nrk.no/fil/kommentert/0cd42770-edd6-4e4e-86d1-531f341446ab_0_ID192MP3.mp3"
+},
+"l_69dc89c4-598d-4c1a-9c89-c4598d5c1a8e": {
+"d": "2025-11-27T14:24:00+01:00",
+"i": "https://gfx.nrk.no/qyiBGJm3lAS6q2wAlNlTfgu892X-cCI2u1ase5kwaFkA",
+"n": 2002,
+"s": "Kunnskapsminister Kari Nessa Nordtun er i hyttetrøbbel. Og visste du at en av fire nordmenn under 50 år har innvandrerbakgrunn? Hva skjer når innvandringen øker?",
+"t": "Kari Nessa Nordtun i hyttetrøbbel",
+"u": "https://podkast.nrk.no/fil/kommentert/69dc89c4-598d-4c1a-9c89-c4598d5c1a8e_1_ID192MP3.mp3"
+},
+"l_69e7aba8-31a6-4099-a7ab-a831a640991f": {
+"d": "2025-10-15T16:45:00+02:00",
+"i": "https://gfx.nrk.no/6rWH-5i0ylK1btZWBjbIQQHkt3iIATIg0xl4U3ZwLhJA",
+"n": 1987,
+"s": "Trygve Slagsvold Vedum er rasende på Jonas Gahr Støre og Arbeiderpartiet etter at regjeringen la frem forslag til statsbudsjett. \n\nOg disse politikerne, fører de oss bak lyset? Mange store og planlagte prosjekter blir aldri noe av.",
+"t": "Vedum forbanna på Støre",
+"u": "https://podkast.nrk.no/fil/kommentert/69e7aba8-31a6-4099-a7ab-a831a640991f_1_ID192MP3.mp3"
+},
+"l_6a26a03b-77b6-4857-a6a0-3b77b6985700": {
+"d": "2026-06-16T17:57:00+02:00",
+"i": "https://gfx.nrk.no/QNfgm9cWp09_stIQlHTKQweveYhH1_P9JsvnTwT4nFbg",
+"n": 1536,
+"s": "Donald Trump har signert en avtale om å lage en avtale med Iran. Men ingen har sett denne avtalen. Kan vi stole på dette? Og er krigen over nå?\nOg hva sitter vi igjen med etter Marius Borg Høiby-dommen?",
+"t": "Trumps Iran-avtale: Betyr det at krigen er over?",
+"u": "https://podkast.nrk.no/fil/kommentert/6a26a03b-77b6-4857-a6a0-3b77b6985700_1_ID192MP3.mp3"
+},
+"l_6af10d21-2b08-4efc-b10d-212b083efcfb": {
+"d": "2024-10-10T16:17:00+02:00",
+"i": "https://gfx.nrk.no/Ml6RObsI_OXjTqIG5pe_pgN2ypnwSCPX_6MjLD4IcrVw",
+"n": 2370,
+"s": "Regjeringen får massevis av kritikk for å være uærlige. Kan vi kjøpe oss ut av klimautfordringene? Og oljepengene våre, hvorfor bruker vi ikke mer? Denne episoden inneholder også et politisk drama fra Stavanger.",
+"t": "Har vi en sleip regjering?",
+"u": "https://podkast.nrk.no/fil/kommentert/1532aa4e-8e94-4167-8ca7-dd9a8df5b7e3_0_ID192MP3.mp3"
+},
+"l_6c68e949-4b38-4a98-a8e9-494b385a98d7": {
+"d": "2026-01-21T21:33:00+01:00",
+"i": "https://gfx.nrk.no/w0D6862s6iQtvAjV_Y4B8QdKztd3UubKZXydc-yV8khA",
+"n": 1235,
+"s": "Selvskryt, løgner og Europa-fornærmelser. Donald Trumps tale i Sveits skaper sterke reaksjoner. \nOg Trump sier han ikke vil ta Grønland med makt, men hva betyr det?",
+"t": "Trumps tale: – Verste jeg har sett",
+"u": "https://podkast.nrk.no/fil/kommentert/6c68e949-4b38-4a98-a8e9-494b385a98d7_1_ID192MP3.mp3"
+},
+"l_6c88960c-41c1-4ea5-8896-0c41c1cea558": {
+"d": "2023-04-21T06:00:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 2285,
+"s": "Oppskrift på hvordan vinne et valg, og så spør vi: Hvordan ble Krf så små og Rødt så store?",
+"t": "Slik vinner du et valg",
+"u": "https://podkast.nrk.no/fil/kommentert/d5c4736d-f341-4861-bc5d-ee81932f78f3_0_ID192MP3.mp3"
+},
+"l_6d1658be-aa38-4967-9658-beaa385967f9": {
+"d": "2024-10-07T16:02:00+02:00",
+"i": "https://gfx.nrk.no/SSYvg4CUtAW_nP2iVyQA6APr5E2s_WRDIuNR4mJyR6LA",
+"n": 1482,
+"s": "Ekstraepisode om statsbudsjettet. Studentene får mindre, vi når ikke klimamålene våre, rekordmye oljepenger - men vent litt, det går jo egentlig ganske bra?",
+"t": "Bruker regjeringen for mye av fremtidens penger?",
+"u": "https://podkast.nrk.no/fil/kommentert/559db64c-ecf3-475a-b1d8-5ac4d1b001a9_0_ID192MP3.mp3"
+},
+"l_6d40ef71-1456-438e-80ef-711456738e88": {
+"d": "2026-05-07T15:23:00+02:00",
+"i": "https://gfx.nrk.no/jc2vXRH334GYco-FER5O9A5M5p8snWztIEA9fnhhH0Ew",
+"n": 2059,
+"s": "USA trekker tilbake soldater fra Europa. Vil Russland utnytte muligheten til å teste Nato? Og kan Svalbard være den testen?\nTV2s skjulte mobilopptak av Frp-rådgiver kan endre forholdet mellom journalister og politikere.",
+"t": "Nato svekket: Vil Russland teste Svalbard?",
+"u": "https://podkast.nrk.no/fil/kommentert/6d40ef71-1456-438e-80ef-711456738e88_1_ID192MP3.mp3"
+},
+"l_6f81158f-c63e-4e24-8115-8fc63e9e2457": {
+"d": "2024-06-20T16:17:00+02:00",
+"i": "https://gfx.nrk.no/MfgBe_hHD9tu2PysLwS9kQ--S6QCiAI5PDyPOur0JVcw",
+"n": 2592,
+"s": "Det finnes gode grunner til at Norges Bank ikke kutter renta. Fungerer egentlig barnetrygden? Og vi ser frem mot stortingsvalget neste år.",
+"t": "Styringsrente, føde flere barn og valget neste år",
+"u": "https://podkast.nrk.no/fil/kommentert/6ba51ac2-cc1a-4da2-9f4f-6ac44979f025_0_ID192MP3.mp3"
+},
+"l_705e3c45-a7aa-48d2-9e3c-45a7aa98d2c0": {
+"d": "2025-11-06T15:53:00+01:00",
+"i": "https://gfx.nrk.no/EjOds6fMpQBuZu906BUUmAIjteSj3y16-bTLdyW9MjvQ",
+"n": 2159,
+"s": "Ine Eriksen Søreide vil bli Høyre-leder, men hvem er hun egentlig? \nElon Musk vil ha 10.000 milliarder kroner i lønn. Hvor mye makt har de disse få super-superrike mennene i verden?",
+"t": "Ine vil bli leder og Musk vil ha 10.000 milliarder",
+"u": "https://podkast.nrk.no/fil/kommentert/705e3c45-a7aa-48d2-9e3c-45a7aa98d2c0_1_ID192MP3.mp3"
+},
+"l_720693f9-f4b7-4bae-8693-f9f4b72bae7c": {
+"d": "2023-03-24T06:00:00+01:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 2110,
+"s": "Renta går oppover, men når er det slutt? Og Høyre har blitt større enn hele venstresida, vi har noen teorier om hvorfor.",
+"t": "Hvor mange ganger skal Norges Bank heve renta?",
+"u": "https://podkast.nrk.no/fil/kommentert/10c8805b-165e-4238-bceb-3362bc3f319b_0_ID192MP3.mp3"
+},
+"l_72ddf0fe-b617-4e37-9df0-feb617de37db": {
+"d": "2025-02-18T15:06:00+01:00",
+"i": "https://gfx.nrk.no/YKzB__aGX4coXnDet0x3UA4vJ4DSJmZt5yuJvcyylPew",
+"n": 2296,
+"s": "USA vil ikke ha med Europa eller Ukraina på fredsforhandlinger, og har samtidig sådd tvil i forholdet mellom Europa og USA. Hva er det som egentlig skjer?",
+"t": "Blir det fred eller farligere nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/dcf0d35b-9565-47ba-b851-281bc0088ed7_0_ID192MP3.mp3"
+},
+"l_742f9cfb-bb9b-4b3d-af9c-fbbb9b5b3d83": {
+"d": "2025-10-07T19:19:00+02:00",
+"i": "https://gfx.nrk.no/Sf6ZrW7JWsxfLToBkf-mhgu6xOenZwI-HzXpqcC_8-aA",
+"n": 1343,
+"s": "Påstander om trusler og drittpakker. Nå er to av Norges rikeste menn i full konflikt for åpen scene i rettssalen. Hva krangler de om? Og dreier det seg kun om penger?",
+"t": "Milliardærkrangel i retten: – Helt vanvittig",
+"u": "https://podkast.nrk.no/fil/kommentert/742f9cfb-bb9b-4b3d-af9c-fbbb9b5b3d83_1_ID192MP3.mp3"
+},
+"l_74f00ced-6f71-4907-b00c-ed6f7199070d": {
+"d": "2023-09-20T19:54:00+02:00",
+"i": "https://gfx.nrk.no/j7poSlbvV6sauKtHbbgSLQPoYGHiA513VmxghKlmdgJw",
+"n": 1938,
+"s": "Kan hun bli statsminister på ny etter dette her?",
+"t": "Hva kommer til å skje med Erna Solberg nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/c0056fd5-669c-4415-abd9-51afcb970d9a_0_ID192MP3.mp3"
+},
+"l_757e7a7a-5218-4cdf-be7a-7a5218ecdf08": {
+"d": "2026-09-03T15:11:00+02:00",
+"i": "https://gfx.nrk.no/I0QmE81nkhzsVWnnXjYcswSaBs3FIxeaz912q6A9owCw",
+"n": 1634,
+"s": "Vladimir Putin går hardt ut mot Norge, etter at et russisk skip på Svalbard er satt i norsk arrest. Hvilke konsekvenser kan det få?<",
+"t": "Putin kraftig ut mot Norge: Kan det dra oss inn i krigen?",
+"u": "https://podkast.nrk.no/fil/kommentert/757e7a7a-5218-4cdf-be7a-7a5218ecdf08_1_ID192MP3.mp3"
+},
+"l_76912e7c-cde5-47b4-912e-7ccde517b4c7": {
+"d": "2024-10-24T15:00:00+02:00",
+"i": "https://gfx.nrk.no/w7vRTUUOuwyT42kWQVSFagcRwNK1v1Ulsn6Mw_ccVauA",
+"n": 2191,
+"s": "Vet du egentlig hva som er den vanlige prisen for maten du handler i butikken? Greier norske politikere å prioritere i vanskelige saker framover? Og hvordan går det egentlig med ..verdensøkonomien?",
+"t": "Forvirrende matpriser, politikernes store test og verdensøkonomien",
+"u": "https://podkast.nrk.no/fil/kommentert/287ea8a6-e3a1-47e2-adf6-d8c8727d6236_0_ID192MP3.mp3"
+},
+"l_779c6f19-1674-4bd6-9c6f-1916744bd6f7": {
+"d": "2025-05-28T14:58:00+02:00",
+"i": "https://gfx.nrk.no/BvqlWphYX0nZ1BPx-CWr7AHP1zACymlX90dX8mHxTN2Q",
+"n": 1844,
+"s": "Hvor går grensen for hva en stortingspolitiker kan ha av inntekt ved siden av jobben? Og Stoltenberg med skattelotto.",
+"t": "Greit at politikere tjener godt på si?",
+"u": "https://podkast.nrk.no/fil/kommentert/da5993f5-46cb-428d-9c5e-39ebaf0bb654_0_ID192MP3.mp3"
+},
+"l_77bb56cc-867c-4218-bb56-cc867cd21802": {
+"d": "2026-01-19T12:35:00+01:00",
+"i": "https://gfx.nrk.no/tE3qTEH9AOf4fEkYZsMTdQFaV1elGRA00Iq5xOcRt6CA",
+"n": 1608,
+"s": "Ekstraepisode: Donald Trump truer Norge og andre europeiske land fordi han vil ha Grønland. Er det nå vi i Europa sier stopp til Trump?",
+"t": "Trump truer Norge og Europa",
+"u": "https://podkast.nrk.no/fil/kommentert/77bb56cc-867c-4218-bb56-cc867cd21802_1_ID192MP3.mp3"
+},
+"l_783bd5e2-77f1-464d-bbd5-e277f1a64d4e": {
+"d": "2026-03-01T16:12:00+01:00",
+"i": "https://gfx.nrk.no/0CM7VvnAWsR6R8y8cGt_7AQ7MzZ9mCwefySr3bpM59zg",
+"n": 1159,
+"s": "USA og Israels angrep mot Iran er det største i midtøsten siden Irak-krigen. Irans øverste leder Ali Khamenei er drept, hva skjer nå? Kan det bli revolusjon i Iran? Og hvor stor kan denne krigen bli?",
+"t": "Irans leder drept: Hva skjer nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/783bd5e2-77f1-464d-bbd5-e277f1a64d4e_1_ID192MP3.mp3"
+},
+"l_7922c080-3508-40f4-a2c0-80350820f49c": {
+"d": "2025-02-27T14:55:00+01:00",
+"i": "https://gfx.nrk.no/xvglvoUcw99QK_OT_7ij4gI4hAicjhaVg9UFWOA1b4eQ",
+"n": 2911,
+"s": "USA og Ukraina er enige om en mineralavtale, er det første steg til varig fred? Og sykefraværet i Norge er fremdeles rekordhøyt, vi forklarer de viktigste årsakene.",
+"t": "Kan en mineralavtale skape fred?",
+"u": "https://podkast.nrk.no/fil/kommentert/390d39f8-c08b-4d99-a7f8-846f1e06ad80_0_ID192MP3.mp3"
+},
+"l_7946b92b-478e-476f-86b9-2b478e976fe3": {
+"d": "2026-08-25T16:08:00+02:00",
+"i": "https://gfx.nrk.no/S9HEzpvfwV0m7OGavfKXfQma2V8jevpZrQHSk02qVc1g",
+"n": 1124,
+"s": "Reportere utenfor sykehuset. Nesten daglige oppdateringer fra Kongehuset. Hvorfor er kong Harald så viktig for så mange?",
+"t": "Kongens sykdom: – Folks infobehov er umettelig",
+"u": "https://podkast.nrk.no/fil/kommentert/7946b92b-478e-476f-86b9-2b478e976fe3_1_ID192MP3.mp3"
+},
+"l_7a71ef0b-c7f3-4203-b1ef-0bc7f35203c8": {
+"d": "2024-12-12T14:42:00+01:00",
+"i": "https://gfx.nrk.no/FTRVsD9Ke13R3_soygxqawG3Ymkw714j0fMkjUS7MHBA",
+"n": 2280,
+"s": "Hva er årsakene til at strømmen er dyr nå? Og hvorfor er LO-leder Peggy Hessen Følsvik forbanna?",
+"t": "Hvorfor er strømmen dyr?",
+"u": "https://podkast.nrk.no/fil/kommentert/811807f0-684e-4e38-8a8d-b90e453eaf20_0_ID192MP3.mp3"
+},
+"l_7c410bcb-529a-4f07-810b-cb529a8f07ff": {
+"d": "2025-03-02T19:35:00+01:00",
+"i": "https://gfx.nrk.no/B0uKXvsexCZOPXLPnWjfOwNsCXhUZfWmaF3Cnignw3nw",
+"n": 2045,
+"s": "Hva gjør europeiske ledere nå? Og hvor lenge kan Ukraina forsvare seg selv uten støtte fra USA? Sofie Høgestøl er gjest hos oss.",
+"t": "EKSTRAEPISODE: Hva gjør Europa nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/fd0f2ff1-330d-4464-9476-50b397b35635_0_ID192MP3.mp3"
+},
+"l_7cafba6a-a1f5-4fd9-afba-6aa1f59fd968": {
+"d": "2023-06-09T05:30:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 1958,
+"s": "Mange reagerer på at Alfie Haaland, pappa til Erling Braut Haaland, flytter til Sveits. Og Høyre oppfører seg som om de er i regjering.",
+"t": "Pappa Alfie Haaland flytter til Sveits",
+"u": "https://podkast.nrk.no/fil/kommentert/5381ba00-f591-46dc-bc0a-c9b9e05dcf37_0_ID192MP3.mp3"
+},
+"l_7da301af-0880-49a5-a301-af088009a55f": {
+"d": "2023-04-18T15:45:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 1060,
+"s": "Flere enn 20.000 arbeidere er tatt ut i streik, og det varsles om enda flere i dagene som kommer. Hvorfor ble det streik?",
+"t": "Derfor ble det storstreik",
+"u": "https://podkast.nrk.no/fil/kommentert/b79e4285-83ea-4e8c-b7a8-83e8ddd1c734_0_ID192MP3.mp3"
+},
+"l_7fbec1b4-c16b-449e-bec1-b4c16b849ed0": {
+"d": "2026-03-10T15:14:00+01:00",
+"i": "https://gfx.nrk.no/QNfgm9cWp09_stIQlHTKQweveYhH1_P9JsvnTwT4nFbg",
+"n": 1195,
+"s": "Irans beste våpen mot amerikanske bomber og raketter er økonomisk kaos. Hvor lenge tåler Trump at prisene stiger?",
+"t": "Iran-krigen: Kan oljeprisen stoppe Trump?",
+"u": "https://podkast.nrk.no/fil/kommentert/7fbec1b4-c16b-449e-bec1-b4c16b849ed0_1_ID192MP3.mp3"
+},
+"l_80d25f28-99e2-4448-925f-2899e29448df": {
+"d": "2024-04-11T15:31:00+02:00",
+"i": "https://gfx.nrk.no/rEfWVFN7ZfYIcapZ_pfEFw9fGnFuguOHG-3KqHj2phPw",
+"n": 2485,
+"s": "Må helseministeren gå av? Hvorfor er Temu så billig og burde du handle der? Og gode inflasjonsnyheter.",
+"t": "Temu, prisvekst og statsrådtrøbbel",
+"u": "https://podkast.nrk.no/fil/kommentert/c041ed2e-6a55-47c7-b349-a9fee628a37b_0_ID192MP3.mp3"
+},
+"l_8138a963-fc43-4cdf-b8a9-63fc43fcdf28": {
+"d": "2023-12-12T12:33:00+01:00",
+"i": "https://gfx.nrk.no/VRPif4S5ZqiDw3GTAzB3igNcD8PWPz0hHOvdHdIbFWdw",
+"n": 1011,
+"s": "Leder for hemmelige tjenester måtte gå på dagen, men hva skjer egentlig med Emilie Enger Mehl?",
+"t": "EKSTRAEPISODE: Hva skjer med Emile Enger Mehl?",
+"u": "https://podkast.nrk.no/fil/kommentert/b0046519-bb65-4b29-8e36-f167e674f3df_0_ID192MP3.mp3"
+},
+"l_86612dbd-b0b3-4469-a12d-bdb0b33469e9": {
+"d": "2026-05-19T17:24:00+02:00",
+"i": "https://gfx.nrk.no/DGAPujoZIGLtQSw9NcN29wjYWiX2zu_3aK3qrThVaPOA",
+"n": 2043,
+"s": "Ukraina angriper Russland og hovedstaden Moskva hardere og hardere. Hvordan er situasjonen i krigen nå?\nOg politiske slagord: Funker de? Bryr folk seg om det? Nå vil SV ha et nytt et og ber om hjelp.",
+"t": "Ukraina med massivt angrep: Kan de snu krigen?",
+"u": "https://podkast.nrk.no/fil/kommentert/86612dbd-b0b3-4469-a12d-bdb0b33469e9_1_ID192MP3.mp3"
+},
+"l_88d79595-6ad4-4235-9795-956ad432354d": {
+"d": "2025-09-09T04:06:00+02:00",
+"i": "https://gfx.nrk.no/iRDJlXaY__VRuSOEQBbNpwQzWih-ftCVNgVda9IhsxeQ",
+"n": 1648,
+"s": "Jonas Gahr Støre blir statsminister i fire nye år. Men hvordan skal Norge styres nå som han må samarbeide med Rødt, SV, MDG og Senterpartiet?\n\nOg Høyre med dårligste valg på 20 år. Hva gikk galt?",
+"t": "Dramatisk valgnatt: Støres skjøre flertall",
+"u": "https://podkast.nrk.no/fil/kommentert/88d79595-6ad4-4235-9795-956ad432354d_1_ID192MP3.mp3"
+},
+"l_894bb43a-97e6-47c3-8bb4-3a97e627c3a6": {
+"d": "2025-10-02T14:15:00+02:00",
+"i": "https://gfx.nrk.no/b4lHmDM5wtRne502Z_Ca0QTMrPmXVZixqArFKxFGUSXw",
+"n": 3032,
+"s": "Droner har skapt uro og bekymring i Norge og Danmark. Men russisk hybridkrig har pågått lenge i Norge. Hva er det Russland vil? Truer Putin Norge? \n\nOg Jens Stoltenberg med ny bok. Er det bare hyllest og ingen kritikk å få når det gjelder den mannen?",
+"t": "Hybridkrig: Truer Putin Norge?",
+"u": "https://podkast.nrk.no/fil/kommentert/894bb43a-97e6-47c3-8bb4-3a97e627c3a6_1_ID192MP3.mp3"
+},
+"l_89a143df-fa29-4b80-a143-dffa296b808a": {
+"d": "2023-10-04T18:25:00+02:00",
+"i": "https://gfx.nrk.no/35qZa4dbTz0PHavaLK28pwczqNjdyKp8htSVtOlNlgkw",
+"n": 2326,
+"s": "Vi diskuterer hvordan det kan gå med Erna Solberg, og så lurer vi også på hvorfor bankene tjener så mye på at renta går oppover. ",
+"t": "Tre mulige utfall for Erna Solberg",
+"u": "https://podkast.nrk.no/fil/kommentert/20d7c2cf-f945-4c56-b22a-ffbb58ce9b13_0_ID192MP3.mp3"
+},
+"l_8b4bb5a0-ec9e-4da5-8bb5-a0ec9ecda58e": {
+"d": "2023-10-06T16:00:00+02:00",
+"i": "https://gfx.nrk.no/JAc6W61lrIm-3twL46sUUg6LeQZN6bJNN0409OCyF7gg",
+"n": 1231,
+"s": "Hvordan blir ditt økonomiske liv i 2024? Vi går igjennom det viktigste fra statsbudsjettet.",
+"t": "Ekstraepisode: Alt du trenger å vite om statsbudsjettet",
+"u": "https://podkast.nrk.no/fil/kommentert/bb9d4d02-b145-4edf-8005-d196db3cb8e8_0_ID192MP3.mp3"
+},
+"l_9014bf9c-b302-43c5-94bf-9cb30263c5d7": {
+"d": "2023-11-10T06:00:00+01:00",
+"i": "https://gfx.nrk.no/jSTFPEeR-mHI4ul6QDGnxA2lX5OSCJfduNq4voa3Zfhg",
+"n": 2575,
+"s": "Kan vi stole på at laksen i butikken har vært frisk? Og hvem sliter egentlig mest etter kontrollkomiteens høringer?",
+"t": "Kan vi stole på at vi betaler for frisk laks?",
+"u": "https://podkast.nrk.no/fil/kommentert/6ff4e789-3ff2-417e-90f9-5650dc8e6081_0_ID192MP3.mp3"
+},
+"l_936efd9f-e3c5-4c95-aefd-9fe3c52c9556": {
+"d": "2025-06-13T13:43:00+02:00",
+"i": "https://gfx.nrk.no/dvMSxWe61n5lER5JHXO0FQW_afOq2w4d1eW9IgJU-P4g",
+"n": 1132,
+"s": "Israel og Iran er i full krig med hverandre etter et historisk stort Israelsk angrep. Hvorfor skjer dette nå? Og hva blir konsekvensene?",
+"t": "EKSTRAEPISODE: Hvorfor angriper Israel Iran nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/08a98f68-f91f-4e2a-b87d-9a350ec020ff_0_ID192MP3.mp3"
+},
+"l_97d25fc9-969e-46d4-925f-c9969ee6d486": {
+"d": "2023-09-12T03:23:00+02:00",
+"i": "https://gfx.nrk.no/f69jT1iICVQYIDLFYEzH8wx5lfXYPl-5LnAVyRI_xzqw",
+"n": 1231,
+"s": "Hvordan skjedde det? Hva skjer med storbyene? Og hvordan kommer du til å merke forskjellen? Ekstraepisode om valget.",
+"t": "Hva betyr det at Høyre nå er Norges største parti?",
+"u": "https://podkast.nrk.no/fil/kommentert/f99fe328-4b32-4823-9d99-9efe41fc45a6_0_ID192MP3.mp3"
+},
+"l_9f360fa0-2735-49e1-b60f-a0273559e11f": {
+"d": "2023-08-31T13:37:00+02:00",
+"i": "https://gfx.nrk.no/SMBzKOrzkcaa7KcPRiHPywju0g2badwJydj4ZbeazSvw",
+"n": 1743,
+"s": "Anniken Huitfeldt har brutt habilitetsregelverket, burde hun visst bedre? ",
+"t": "Norges utenriksminister i trøbbel på grunn av mannens aksjekjøp",
+"u": "https://podkast.nrk.no/fil/kommentert/435a6359-eebe-4a18-9c10-e40baa98fb8a_0_ID192MP3.mp3"
+},
+"l_9f565b59-961a-41f8-965b-59961a01f8d1": {
+"d": "2025-09-02T21:18:00+02:00",
+"i": "https://gfx.nrk.no/1XmRFrZWi9_9x7KTHhpYpwB_euoIYuWKxTYiu4AfUwWw",
+"n": 1390,
+"s": "Tidenes beste skolevalg for Frp, og stort borgerlig flertall. Hva kan dette ha å si for stortingsvalget?",
+"t": "Ung blå bølge: Kan den gi maktskifte?",
+"u": "https://podkast.nrk.no/fil/kommentert/9f565b59-961a-41f8-965b-59961a01f8d1_1_ID192MP3.mp3"
+},
+"l_a0cc1fd8-c66d-424e-8c1f-d8c66dd24ea7": {
+"d": "2025-03-27T15:42:00+01:00",
+"i": "https://gfx.nrk.no/UXJ1ewr0kl1JDfR57Tkc8ga26CZZ3tHGPkuA8lwVTxeA",
+"n": 2119,
+"s": "Norges Bank dropper rentekutt, men spår samtidig at renta skal ned to ganger i år. Tør du stole på det? Og handlekurven din kunne vært 10.000 kroner billigere, norsk landsbrukspolitikk står i veien.",
+"t": "Kan vi bare glemme rentekutt i år?",
+"u": "https://podkast.nrk.no/fil/kommentert/2a2f58f9-6712-4a78-ab71-5070ddc4ec24_0_ID192MP3.mp3"
+},
+"l_a201a280-8d85-4318-81a2-808d852318a2": {
+"d": "2025-08-12T15:25:00+02:00",
+"i": "https://gfx.nrk.no/RCGcEUPI62CwjfJOB5Xtzwifq9M7uk31K9O5dHtKpugQ",
+"n": 2234,
+"s": "Endelig tilbake! Vi snakker om Oljefond-bråket og at valgkampen endelig er i gang. Kan Støre stå løpet helt ut, eller greier Erna Solberg å snu dette?",
+"t": "Har Stoltenberg tabbet seg ut?",
+"u": "https://podkast.nrk.no/fil/kommentert/1c3c0c9f-c880-4229-adb8-0b8e41de3fad_0_ID192MP3.mp3"
+},
+"l_a241675f-274e-4191-8167-5f274eb19148": {
+"d": "2024-02-22T15:59:00+01:00",
+"i": "https://gfx.nrk.no/I3huWty2TkcVwxCxJtF0EA88mH7Rq_5cOqtkGOOBtM4A",
+"n": 2272,
+"s": "Til tross for dyre tider bruker vi penger på ferier, ukrainske flyktninger redder fraflytting fra Nord-Norge og vi venter på mange spennende saker.",
+"t": "Feriebonanza, fraflytting i nord og skandaler i sikte?",
+"u": "https://podkast.nrk.no/fil/kommentert/afcc395c-4cc1-4cb2-ac32-04bcef1ab865_0_ID192MP3.mp3"
+},
+"l_a310b860-256a-4e0e-90b8-60256a4e0e7c": {
+"d": "2024-04-18T16:08:00+02:00",
+"i": "https://gfx.nrk.no/PxUImrcq-u7eQo_NC24L5ARVgrOoKlP6x0VbSq1Q-lAA",
+"n": 2349,
+"s": "Hvorfor er bøndene så sinte? Og hva skyldes det politiske rotet? En gammel u-landsregel gjør det enda billigere å handle på Temu, og litt om aktiv dødshjelp.",
+"t": "Sinte bønder, hvorfor billig på Temu og aktiv dødshjelp",
+"u": "https://podkast.nrk.no/fil/kommentert/72812e78-472d-49af-ad65-f3a214b3915b_0_ID192MP3.mp3"
+},
+"l_a60bde90-bb38-4355-8bde-90bb38e35527": {
+"d": "2025-04-03T13:25:00+02:00",
+"i": "https://gfx.nrk.no/KvEWBE8AuTEShDFyVwLt8AqtVyuaD7mIOhTWOKGd7yGA",
+"n": 2459,
+"s": "Verdensmarkedet skjelver. Hva er det Donald Trump gjør nå?\nHvorfor ble hjemmefødsler et fenomen? Og hvordan ble Arbeiderpartiet så store?",
+"t": "Donald Trump. Handelskrig. Hva skjer?",
+"u": "https://podkast.nrk.no/fil/kommentert/89e44881-aca3-44e3-aa8c-68ccf58986ce_0_ID192MP3.mp3"
+},
+"l_a7a80bff-b6f3-482b-a80b-ffb6f3282b39": {
+"d": "2024-06-13T21:37:00+02:00",
+"i": "https://gfx.nrk.no/3FQGce62-9RENoHSGzpOXwSFlQau9_JL4QuXGhSJ6GPQ",
+"n": 2715,
+"s": "Har Norge et kriminalitetsproblem? Og EU-valget viser et sterkt ytre høyre, men hva betyr det egentlig?",
+"t": "Vippsran, kriminalitet og EU-valg",
+"u": "https://podkast.nrk.no/fil/kommentert/1e0ec920-5486-45ac-b251-752a5e5d83fa_0_ID192MP3.mp3"
+},
+"l_a92c6a05-b51d-40f9-ac6a-05b51dc0f9fe": {
+"d": "2024-08-29T15:00:00+02:00",
+"i": "https://gfx.nrk.no/uhBReKhASmPL3kF2VOnDZgTclsdM0PxRLc8hEJqGN2mQ",
+"n": 2451,
+"s": "Står Trond Giske bak et kupp i jakten på stortingsplass? Olje og gass tilsynelatende mer populært enn fornybar energi. Og spennende bråk i velferdsutvalg.",
+"t": "Giske-kupp? Oljefeber og velferdsprofitt",
+"u": "https://podkast.nrk.no/fil/kommentert/1a8d731f-f2c6-4144-a468-c862ef0f92e7_0_ID192MP3.mp3"
+},
+"l_a96a8aeb-44e9-4dc0-aa8a-eb44e99dc04a": {
+"d": "2023-06-30T06:00:00+02:00",
+"i": "https://gfx.nrk.no/_ZKyPmQlgV0RgomSbxJ0sQ1XnredrAOBAUteTvZKoRDg",
+"n": 2103,
+"s": "Er det greit at folk ikke håndhilser? Og Norges Bank forklarer for dårlig hvorfor de setter opp renta, mener Cecilie.",
+"t": "Håndhilsevideo skaper sterke reaksjoner",
+"u": "https://podkast.nrk.no/fil/kommentert/23c06a82-6351-4422-a8ec-975a288a3164_0_ID192MP3.mp3"
+},
+"l_ad770292-3e96-4001-b702-923e964001bb": {
+"d": "2025-03-13T15:00:00+01:00",
+"i": "https://gfx.nrk.no/wZCw0gc-kkpzjaqf7mi-uAEpLWguV26IhxwtnEiF5x-w",
+"n": 1920,
+"s": "Elon Musk og Donald Trump lager mye støy, men er det noe system bak der? Og økende interesse for norsk EU-medlemskap.",
+"t": "Trump & Musk: Er det noe system her?",
+"u": "https://podkast.nrk.no/fil/kommentert/84e6424c-4b0c-417f-be06-ff9e32353033_0_ID192MP3.mp3"
+},
+"l_ae3618a2-881d-412f-b618-a2881da12f08": {
+"d": "2024-11-14T14:36:00+01:00",
+"i": "https://gfx.nrk.no/vQ9mT4MthAoaQ48RQQl3qALU_xxWOukFP70eCUZoovTg",
+"n": 2506,
+"s": "Kommer Trond Giske og Hadia Tajik til å overleve høstens maktkamper og gjøre politisk comeback? Vi beklager Temu-rot, og så snakker vi om at kryptovaluta har nådd elleville høyder etter at Trump vant valget.",
+"t": "Ap-bråk igjen, og igjen. Kryptoboom og Temu",
+"u": "https://podkast.nrk.no/fil/kommentert/a92983c6-4fb7-4519-893a-43d9475e9d03_0_ID192MP3.mp3"
+},
+"l_aebbc445-3af1-4ad8-bbc4-453af12ad84d": {
+"d": "2024-11-28T14:55:00+01:00",
+"i": "https://gfx.nrk.no/q4CIf4MRb0BcKs7nsxakywDWpzkeNUmY1buEvW1z8OcQ",
+"n": 2286,
+"s": "Arbeiderpartiet er i krise og gjør det dårlig på målingene. Kan nestleder og kronprinsesse Tonje Brenna redde partiet?\nTrumponomics! Hvordan blir det med handelskrig, massedeportasjon og skattekutt?",
+"t": "Kan Tonje Brenna redde Arbeiderpartiet?",
+"u": "https://podkast.nrk.no/fil/kommentert/e30b7fa1-c9fa-47be-b7ee-a435e249a993_0_ID192MP3.mp3"
+},
+"l_b02a09d6-9438-4253-aa09-d69438b25381": {
+"d": "2026-06-11T15:59:00+02:00",
+"i": "https://gfx.nrk.no/-a3dSgh7zuogkk-U8LHbowoQsJ1iHOwwZ7U27OuSvkdA",
+"n": 1640,
+"s": "Snart kommer dommen i rettssaken mot Marius Borg Høiby. Hva slags straff er det snakk om?",
+"t": "Høiby: Hva betyr straffen for fremtiden til kongefamilien?",
+"u": "https://podkast.nrk.no/fil/kommentert/b02a09d6-9438-4253-aa09-d69438b25381_1_ID192MP3.mp3"
+},
+"l_b1fe62ba-7520-4ede-be62-ba75208edec6": {
+"d": "2026-08-14T12:35:00+02:00",
+"i": "https://gfx.nrk.no/RTDNHOf5_FQUU1B20rFY4glTSywcxzVynslvMdPAK4hg",
+"n": 1393,
+"s": "Norge tjener mye penger hver dag. Oljefondet er gigantisk. Men politikerne krangler om drivstoff, mat- og strømpriser. Og mange sier det er krise. Men er det egentlig det? \n\nOg vi debriefer sesongens første partilederdebatt. Episoden er spilt inn under Arendalsuka.",
+"t": "Svartmaler de med vilje? – Åpenbart bevisst",
+"u": "https://podkast.nrk.no/fil/kommentert/b1fe62ba-7520-4ede-be62-ba75208edec6_1_ID192MP3.mp3"
+},
+"l_b245d744-f589-4e77-85d7-44f5894e77b0": {
+"d": "2025-01-09T15:27:00+01:00",
+"i": "https://gfx.nrk.no/s89pSkIHhRq1YN5tz-F8GQUVJYkLT_lLHvFZY7N1bAnw",
+"n": 2954,
+"s": "Innblanding i tysk valgkamp, kaller statsministeren i Storbritannia for medskyldig til voldtekt, deler falske nyheter om Støre og heier på at Grønland skal bli en del av USA. Hva holder Elon Musk egentlig på med? Og så snakker vi om sløsing av offentlige penger.",
+"t": "Hva er det egentlig Elon Musk vil?",
+"u": "https://podkast.nrk.no/fil/kommentert/f60c65ee-3eed-481f-b1a0-7fca7177de15_0_ID192MP3.mp3"
+},
+"l_b24a8619-b60e-4a41-8a86-19b60e0a41ce": {
+"d": "2023-11-17T06:00:00+01:00",
+"i": "https://gfx.nrk.no/YMzzNkd3klt3dIzkngCw1QMAmsWfbgLL8AOZD8_qUiqA",
+"n": 2154,
+"s": "Vi har ikke nok folk i Norge til å jobbe på sykehusene våre. Og tør egentlig Høyre-folk å si sin ærlige mening?",
+"t": "Norge har for få folk til de viktige jobbene",
+"u": "https://podkast.nrk.no/fil/kommentert/a43c5d51-6ede-4bf2-88c3-b04efe0ad955_0_ID192MP3.mp3"
+},
+"l_b3a153c7-9363-46fe-a153-c7936316fe9d": {
+"d": "2024-09-12T15:45:00+02:00",
+"i": "https://gfx.nrk.no/TBGQzmmYmKBCmH5nWtI15w14Bzl-fbJjRxbyjKv1Pefw",
+"n": 2703,
+"s": "Hvorfor har vi så høyt sykefravær? Og hva skyldes økningen blant de unge? Ellevilt ordfører-rot i Stavanger og har Erna Solberg mista det?",
+"t": "Ungt sykefravær, Stavanger-bråk og Erna Solberg",
+"u": "https://podkast.nrk.no/fil/kommentert/6d7e2ed0-14b9-4ba5-98cd-d6bfb6e7711a_0_ID192MP3.mp3"
+},
+"l_b763226d-ce64-4e61-a322-6dce645e6199": {
+"d": "2024-05-09T14:20:00+02:00",
+"i": "https://gfx.nrk.no/1tWS4hjkA6m22fMoZS2hzgVHVi5mCLy_8qrfqvRJFNEg",
+"n": 1719,
+"s": "Leder for Rød Ungdom fyrte opp store deler av det politiske Norge. Den svenske sentralbanken setter ned styringsrenta, hva betyr det for Norge? Og bør vi ha flere folkeavstemninger?",
+"t": "Rødt-bråk, svenske renter og folkeavstemning",
+"u": "https://podkast.nrk.no/fil/kommentert/1a3e6eee-ee56-4a78-93e8-7b25ef2d5cd8_0_ID192MP3.mp3"
+},
+"l_b7f81f38-1fad-4eb0-b81f-381faddeb016": {
+"d": "2026-06-04T14:16:00+02:00",
+"i": "https://gfx.nrk.no/Md_5G231kar6fcBInXongQEyk2Im62Kj1tM_19NzD0hg",
+"n": 1312,
+"s": "Mette-Marits sykdom har blitt mye verre og familien samles på hjemme på Skaugum. Samtidig ventes det snart dom i rettssaken mot hennes sønn. Har kongefamilien vært i vanskeligere tider enn dette?\n\nOg Cecilie slutter. Vi tar et siste farvel.",
+"t": "Kongefamiliens vanskelige tid: – Svært alvorlig",
+"u": "https://podkast.nrk.no/fil/kommentert/b7f81f38-1fad-4eb0-b81f-381faddeb016_1_ID192MP3.mp3"
+},
+"l_bbca14da-1915-4feb-8a14-da1915ffeb3b": {
+"d": "2024-01-22T13:50:00+01:00",
+"i": "https://gfx.nrk.no/iDzxrMs41AfoTOaDrHrviAzgvfs1vdCFgGFaRs00qkwA",
+"n": 1578,
+"s": "Først gikk forsknings- og høyere utdanningsminister Sandra Borch av etter å ha innrømmet kopiering i masteroppgaven sin. Nå blir Ingvild Kjerkol beskyldt for det samme.",
+"t": "EKSTRAEPISODE: Må Ingvild Kjerkol gå av?",
+"u": "https://podkast.nrk.no/fil/kommentert/740734a9-c471-4ae3-a491-0f9bc89574e3_0_ID192MP3.mp3"
+},
+"l_bd3b1a35-0442-44f9-bb1a-350442f4f943": {
+"d": "2025-01-22T16:45:00+01:00",
+"i": "https://gfx.nrk.no/aW8PhdpF9G5KCdgxuip-NAHeTkwj5HoAPmKZIffa4n_Q",
+"n": 2346,
+"s": "Full splid mellom Arbeiderpartiet og Senterpartiet, nå er det ekte krise i regjering. Og Donald Trump med tidenes KI-satsing. Full fres i amerikansk økonomi.",
+"t": "Regjeringskrise: Kan Senterpartiet trekke seg?",
+"u": "https://podkast.nrk.no/fil/kommentert/220c3d22-0864-48e6-8b3f-389a3eae86ec_0_ID192MP3.mp3"
+},
+"l_bd64c350-d725-4afa-a4c3-50d7251afa4e": {
+"d": "2024-05-28T21:10:00+02:00",
+"i": "https://gfx.nrk.no/PnmfsnEZMfX0gMwvbFad7ANpbg6UKCR587zkib8Y_Unw",
+"n": 1611,
+"s": "Eksamener kan bli avlyst, politifolk er i streik og politikerne krangler. Hva handler denne streiken om? Og hvorfor er den spesiell?",
+"t": "Hvorfor er det streik nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/131515a0-2215-4236-8d74-723ee99ec7dd_0_ID192MP3.mp3"
+},
+"l_be07b39b-beec-426f-87b3-9bbeecc26f21": {
+"d": "2024-12-02T20:15:00+01:00",
+"i": "https://gfx.nrk.no/hAvDS_yNDceV6aaqXDZwWwnUxQjl4Ko4HgRU8la1yOvQ",
+"n": 927,
+"s": "Nå pågår det samtaler blant sentrale personer i Arbeiderpartiet som handler om at Støre må trekke seg. Er han ferdig?",
+"t": "EKSTRAEPISODE: Må Jonas Gahr Støre gå?",
+"u": "https://podkast.nrk.no/fil/kommentert/356f16ff-8b6f-4246-abf8-47184f19bb17_0_ID192MP3.mp3"
+},
+"l_c063dd0d-ec28-44b9-a3dd-0dec28d4b941": {
+"d": "2025-04-23T13:50:00+02:00",
+"i": "https://gfx.nrk.no/-6yyZAjRREOPykjBxe5ZpQr8nIxfVtm3o8jWv7RupoaA",
+"n": 2096,
+"s": "Trump truer med å sparke sentralbanksjefen, hva skjer hvis han blander egne meninger inn i verdens viktigste bank? Og Stoltenberg og Støre på vei til det hvite hus og Trump-møte.",
+"t": "Hvorfor blir Stoltenberg med Støre til Trump?",
+"u": "https://podkast.nrk.no/fil/kommentert/b906c218-5bc7-4287-9eb4-9d69b3528971_0_ID192MP3.mp3"
+},
+"l_c0d983f6-5999-4eee-9983-f659995eeee7": {
+"d": "2026-05-04T14:55:00+02:00",
+"i": "https://gfx.nrk.no/kPX5pAtRwtY048ef7jlviAexznnDN0dUQSu1R9ANpxow",
+"n": 1188,
+"s": "Frp-rådgiver med rasistiske uttalelser i skjult TV2-opptak. Kalte pakistanere for minusvarianter, og sa de helst ikke bør få flere barn.",
+"t": "Har Frp et rasismeproblem?",
+"u": "https://podkast.nrk.no/fil/kommentert/c0d983f6-5999-4eee-9983-f659995eeee7_1_ID192MP3.mp3"
+},
+"l_c5d0008c-63d8-45d6-9000-8c63d815d637": {
+"d": "2026-02-12T14:34:00+01:00",
+"i": "https://gfx.nrk.no/mlquoOV3K361d5oCFxCi1g6OHse_axx8zB_p0IsfEgtA",
+"n": 2117,
+"s": "Epstein-skandalene pirker borti Høyres kommende partileder, Ine Eriksen Søreide. \nDe ble kalt konspiratoriske, men har Epstein-skandalene nå bevist at enkelte faktisk hadde rett? \nOg har Norges Bank egentlig kontroll på prisveksten?",
+"t": "Epstein-saken: – Problem for Ine Eriksen Søreide",
+"u": "https://podkast.nrk.no/fil/kommentert/c5d0008c-63d8-45d6-9000-8c63d815d637_1_ID192MP3.mp3"
+},
+"l_c62457f2-6c7f-4350-a457-f26c7f835030": {
+"d": "2024-09-18T15:40:00+02:00",
+"i": "https://gfx.nrk.no/KfYiwus4rPmvPO2GdRhSHQ94rlbJFe9SkgfPjpRORrbg",
+"n": 2674,
+"s": "Regjeringen kaster seg inn i kampen om å være tøffest ovenfor de kriminelle. Kan Bollestad-saken ødelegge borgerlig samarbeid? Og hvorfor pumper vi penger ut til distriktene?",
+"t": "Kampen om de kriminelle, Bollestad og studielån",
+"u": "https://podkast.nrk.no/fil/kommentert/c2110366-56f4-428f-bc68-60cc47d49bb0_0_ID192MP3.mp3"
+},
+"l_c6dc2759-602c-415e-9c27-59602cf15eaf": {
+"d": "2024-08-23T05:00:00+02:00",
+"i": "https://gfx.nrk.no/5c_9haolDba3-mlVHcm0fgSwJO1_pfekNOmJUpe0dqhA",
+"n": 2044,
+"s": "Olaug Bollestad går av som partileder, er det bra eller dårlig med svak kronekurs? Og de tre største dagligvarekjedene får kjeft.",
+"t": "Bollestad, norsk krone og ulovlig prissamarbeid",
+"u": "https://podkast.nrk.no/fil/kommentert/0539073e-27e4-4a22-92e9-c56717156160_0_ID192MP3.mp3"
+},
+"l_c78c5dd0-b51b-4fe8-8c5d-d0b51bbfe886": {
+"d": "2025-08-28T23:27:00+02:00",
+"i": "https://gfx.nrk.no/Mf8E_pRZcrZ0RIL_AGpMAwmnNIFI28mg4i7DEA6bSxig",
+"n": 1561,
+"s": "Nicolai Tangen er gjest. Vi snakker om Israel-bråket, hvordan han ser på USA nå hvor halve oljefondet er investert og hvorfor Europa ikke får det helt til.",
+"t": "EKSTRAEPISODE: Oljefondsjefen om Israel-bråket",
+"u": "https://podkast.nrk.no/fil/kommentert/c78c5dd0-b51b-4fe8-8c5d-d0b51bbfe886_1_ID192MP3.mp3"
+},
+"l_cb04ef2f-72b8-43d4-84ef-2f72b823d42e": {
+"d": "2024-02-08T18:35:00+01:00",
+"i": "https://gfx.nrk.no/htVi1BU0aUsnImuIOfsKxwIeoTe5mXRbbPFMTjLUe3MA",
+"n": 2183,
+"s": "Unge velgere i mange land er mer konservative enn foreldrene sine, får vi mer lønn i år? Og nå kastes mobilene ut av klasserommene.",
+"t": "Mer lønn, mobilforbud og unge konservative",
+"u": "https://podkast.nrk.no/fil/kommentert/a2010452-a600-405d-84be-b3ee267a06b4_0_ID192MP3.mp3"
+},
+"l_cb76c5e4-c6fa-43f4-b6c5-e4c6fa53f4c4": {
+"d": "2024-05-23T15:41:00+02:00",
+"i": "https://gfx.nrk.no/m0yaj-_MIxEZ-jGbWFX8FgeOlYrOoXarCaPB3LNh2W9w",
+"n": 2763,
+"s": "Hvorfor anerkjenner Norge Palestina nå? Analysebyrå med ellevill spådom om fremtidens boligpriser, og - er det greit med shorts på jobb? En klassiker.",
+"t": "Palestina, ellevill boligprisvekst og shorts på jobb",
+"u": "https://podkast.nrk.no/fil/kommentert/9d606054-4e2d-4c0e-9f85-4341cd655dd2_0_ID192MP3.mp3"
+},
+"l_cf404c17-b02b-4fce-804c-17b02bffcebe": {
+"d": "2025-10-30T14:38:00+01:00",
+"i": "https://gfx.nrk.no/FrBdoeMQuMVZ_0WE728WIA2lDQxdRhmgisJ721DAd_9w",
+"n": 2304,
+"s": "Høyre leter etter ny leder, men hvorfor tar det så lang tid? Hva sier favoritten Ine Eriksen Søreide? Og kan Ola Svenneby ta over?\n\nOg Krfu-leder i abortkrangel etter uttalelser mange synes er problematiske. Hva er lov å mene?",
+"t": "Kan Ola Svenneby ta over Høyre?",
+"u": "https://podkast.nrk.no/fil/kommentert/cf404c17-b02b-4fce-804c-17b02bffcebe_1_ID192MP3.mp3"
+},
+"l_d08c03f5-1f72-4fbc-8c03-f51f72cfbc7f": {
+"d": "2026-03-20T10:48:00+01:00",
+"i": "https://gfx.nrk.no/TIMM7mLR06fM6qrB5Fi3KgZAHmlN_y3fNvcexx6tNrow",
+"n": 1466,
+"s": "Kronprinsesse Mette-Marit har i sju uker latt være å svare på spørsmål om hvorfor hun hadde omfattende kontakt med Jeffrey Epstein. Nå har hun svart, men er det godt nok?",
+"t": "Nå snakker Mette-Marit: – Gjenoppretter ikke tillit",
+"u": "https://podkast.nrk.no/fil/kommentert/d08c03f5-1f72-4fbc-8c03-f51f72cfbc7f_1_ID192MP3.mp3"
+},
+"l_d1f3858a-1871-463b-b385-8a1871963b0d": {
+"d": "2026-03-05T15:16:00+01:00",
+"i": "https://gfx.nrk.no/CaUWy5gWYm9Oo1NpMoVHOwSnfJBXH-m5ARHb35OgOJPg",
+"n": 1673,
+"s": "Rettssaken mot kronprinsessens sønn, Marius Borg Høiby, har vart i en måned. Nå tegner det seg et bilde av en verden hvor sex, rus og kjendiser er vanlige ingredienser. Hva slags del av Norge er dette?",
+"t": "Rus, sex og kjendiser: Rettssaken viser Høibys verden",
+"u": "https://podkast.nrk.no/fil/kommentert/d1f3858a-1871-463b-b385-8a1871963b0d_1_ID192MP3.mp3"
+},
+"l_d2657cc2-7fa2-42fc-a57c-c27fa252fc34": {
+"d": "2026-06-02T14:43:00+02:00",
+"i": "https://gfx.nrk.no/r1FA4H0NFssEtMc2_HzwdAcsK_y7tXNhyW9-Quj2JuZQ",
+"n": 1368,
+"s": "Donald Trump vil ha en slutt på Iran-krigen, men Israels krig mot Libanon står i veien. «Du er faen meg gal», skal Trump ha sagt til Natanyahu på telefon. Rakner forholdet nå?",
+"t": "Trump i vill telefonkrangel med Netanyahu",
+"u": "https://podkast.nrk.no/fil/kommentert/d2657cc2-7fa2-42fc-a57c-c27fa252fc34_1_ID192MP3.mp3"
+},
+"l_d31585ca-fe04-4e1a-9585-cafe04ee1ad5": {
+"d": "2024-04-04T15:20:00+02:00",
+"i": "https://gfx.nrk.no/NsjubdiXsH-HP7BLr4dLWgN0a3-HUxkk9Eo8ucodnpRA",
+"n": 2288,
+"s": "Regjeringen vil ha flere unge inn i militæret, stemmer i Arbeiderpartiet vil innføre pliktår for unge og hvorfor er kronekursen så svak?",
+"t": "Flere inn i førstegangstjeneste, kronekurs og lønnsoppgjør",
+"u": "https://podkast.nrk.no/fil/kommentert/876efb60-fc2f-40e7-9be9-76ee3bc63532_0_ID192MP3.mp3"
+},
+"l_d398be74-94f9-4e0b-98be-7494f97e0b55": {
+"d": "2025-10-09T15:07:00+02:00",
+"i": "https://gfx.nrk.no/SYsd76Vug7teLI2u-YiATALOD2inPxVJxcavSuOLv7Iw",
+"n": 3020,
+"s": "Første steg på vei til fred i Gaza og Donald Trump får æren, men kan han få Nobels fredspris? Og hvor forbanna på Norge blir han hvis han ikke får den? \n\nDet svenske kriminelle nettverket Foxtrot med granatangrep i Norge. Hva kan vi lære av Sverige? Svensk kommentator gir oss noen innblikk i hva Norge bør unngå.",
+"t": "Får Donald Trump fredsprisen nå?",
+"u": "https://podkast.nrk.no/fil/kommentert/d398be74-94f9-4e0b-98be-7494f97e0b55_2_ID192MP3.mp3"
+},
+"l_d53b17c0-d958-46e8-bb17-c0d95856e8c8": {
+"d": "2026-01-08T14:15:00+01:00",
+"i": "https://gfx.nrk.no/kSFcqZMs0cwB9u62v9Pwxwlp9EA6s5kmkDQBg37dfExA",
+"n": 2197,
+"s": "USA og Grønland. Svalbard og Russland. Hvordan kan Norge bli påvirket av det som skjer nå? Kan Russland ta Svalbard?",
+"t": "Kan Russland ta Svalbard?",
+"u": "https://podkast.nrk.no/fil/kommentert/d53b17c0-d958-46e8-bb17-c0d95856e8c8_1_ID192MP3.mp3"
+},
+"l_d5dd0de2-42b2-43ad-9d0d-e242b233adb1": {
+"d": "2024-10-03T15:52:00+02:00",
+"i": "https://gfx.nrk.no/0AUVkziFjF5MNf2btp800w6mAnVHSZvgZpWXFQaYrosw",
+"n": 2636,
+"s": "Bjørnar Moxnes kjemper for sitt politiske liv i Rødt. Nesten alle partiene vil ha strengere innvandring, hvorfor? Og krigen i Midtøsten påvirker oljeprisen. Hva betyr det?",
+"t": "Strengere innvandring, Bjørnar Moxnes og oljepris",
+"u": "https://podkast.nrk.no/fil/kommentert/f5d71f8f-a317-4de8-bf5f-b0b385e3be2d_0_ID192MP3.mp3"
+},
+"l_d7e98046-aa8e-4447-a980-46aa8ed44746": {
+"d": "2023-06-16T06:00:00+02:00",
+"i": "https://gfx.nrk.no/kOy089TkBWYqJsJDiXMkCwy5bTkSTIMeGVSyoFbVnnig",
+"n": 1992,
+"s": "Justisministeren får kritikk for Pride-skytingen, og Freia-boikotten kom nesten ut av intet og er nå på vei bort igjen. Eller?",
+"t": "Hvorfor vil ikke Emilie Enger Mehl si unnskyld?",
+"u": "https://podkast.nrk.no/fil/kommentert/cecfda4a-5477-400f-b774-8a5fedaac4c3_0_ID192MP3.mp3"
+},
+"l_d89999cd-9274-47ce-9999-cd927427ce65": {
+"d": "2026-03-04T16:58:00+01:00",
+"i": "https://gfx.nrk.no/BWg2ZgJvPAF9_Vijq2PRJQEi2vldKPYsLQ4a8u6wiVtg",
+"n": 1771,
+"s": "Jonas Gahr Støre er gjest.\nHvorfor tviholder Norge på folkerett, når så mange andre heier på et nytt og bedre regime i Iran? \nOg Epstein-gransking: Systemsvikt i Norge eller enkeltpersoner som ødelegger?",
+"t": "Støre-spesial: Iran og Epstein-gransking",
+"u": "https://podkast.nrk.no/fil/kommentert/d89999cd-9274-47ce-9999-cd927427ce65_1_ID192MP3.mp3"
+},
+"l_d8d392b7-3eba-452c-9392-b73eba452c59": {
+"d": "2026-03-19T15:53:00+01:00",
+"i": "https://gfx.nrk.no/xNXCOypuz8AHyM1KcLVzcAnW8ygIeAmOyS1TDwYJqqUg",
+"n": 1767,
+"s": "Hva er verst for Marius Borg Høiby? Mange år i fengsel eller å få brettet ut detaljer fra hele livet hans i media? \nOg oljeprisen stiger og stiger: Hva skjer med verden hvis den fortsetter å øke?",
+"t": "Nachspiel og sex: – Media har mistet gangsynet",
+"u": "https://podkast.nrk.no/fil/kommentert/d8d392b7-3eba-452c-9392-b73eba452c59_1_ID192MP3.mp3"
+},
+"l_d8d69b67-eeaf-4ce5-969b-67eeaf5ce59d": {
+"d": "2025-12-11T13:52:00+01:00",
+"i": "https://gfx.nrk.no/hlCYSzYYOTSPgY7OcH4DHwfFKVAyvHjAysdE7Tl1eLhA",
+"n": 1439,
+"s": "Ola Svenneby og Henrik Asheim er innstilt som nestledere i Høyre, og sammen med Ine Eriksen Søreide blir de trolig partiets nye toppledelse. \n\nOg så snakker vi om norsk presse og NRK er venstrevridde, eller ei.",
+"t": "Høyres nye stjernetrio",
+"u": "https://podkast.nrk.no/fil/kommentert/d8d69b67-eeaf-4ce5-969b-67eeaf5ce59d_1_ID192MP3.mp3"
+},
+"l_db2b7097-be44-4271-ab70-97be44f271bd": {
+"d": "2026-09-10T13:55:00+02:00",
+"i": "https://gfx.nrk.no/OnkY5gDlrPQSNAl2H4Ga1Q4ZJWrt2DXLZvLST26Hu5xQ",
+"n": 1180,
+"s": "Norske 15-åringer med elendige resultater i Pisa-undersøkelsen 2025. Noe er feil, men hva? Er det politikerne? Skolen? Ungdommene eller foreldrene?",
+"t": "Pisa-tall sjokkerer: Hvem har skylda?",
+"u": "https://podkast.nrk.no/fil/kommentert/db2b7097-be44-4271-ab70-97be44f271bd_1_ID192MP3.mp3"
+},
+"l_dd142d5e-0b33-4251-942d-5e0b33a251fc": {
+"d": "2025-10-22T14:43:00+02:00",
+"i": "https://gfx.nrk.no/L3WAQfFILmB9sEkdcxstigz4K1PLSYXfNzGuOKSYWzHA",
+"n": 2220,
+"s": "Hva er det Arbeiderpartiet egentlig holder på med? Løgn? Feil? Elendig håndtering, mener i alle fall Lars Nehru Sand.\n\nOg Fredrik Solvang slutter i Debatten. Men hva skal han nå? Fredrik svarer.",
+"t": "Fredrik Solvang om hvorfor han slutter",
+"u": "https://podkast.nrk.no/fil/kommentert/dd142d5e-0b33-4251-942d-5e0b33a251fc_2_ID192MP3.mp3"
+},
+"l_de08e3d8-48e9-4a15-88e3-d848e96a1568": {
+"d": "2025-12-03T15:40:00+01:00",
+"i": "https://gfx.nrk.no/C71GCF8eS2BfRJ7jvYrdewX4rMHKthIsjORoBz9og-Pw",
+"n": 1830,
+"s": "Hva var det som gjorde at SV og MDG snudde? Regjeringskrisen er avblåst.\nOg vi snakker om vårt eget kaos og forsøker å beklage.",
+"t": "Drill baby, drill. Er dette trygg styring?",
+"u": "https://podkast.nrk.no/fil/kommentert/de08e3d8-48e9-4a15-88e3-d848e96a1568_1_ID192MP3.mp3"
+},
+"l_e04f2e95-1d78-44fb-8f2e-951d78e4fbc0": {
+"d": "2025-01-28T13:21:00+01:00",
+"i": "https://gfx.nrk.no/wJFNFIpbR-JthtTSZlOzRAjGpwogTqQKvGR8yV4stkaQ",
+"n": 1261,
+"s": "Ekstraepisode! Hva er kinesiske DeepSeek? Og hvorfor mener folk at det er en stor greie?",
+"t": "EKSTRAEPISODE: Hva er egentlig DeepSeek?",
+"u": "https://podkast.nrk.no/fil/kommentert/ea232faf-707e-47da-aa7f-881b788de358_0_ID192MP3.mp3"
+},
+"l_e12a7f8b-a122-4952-aa7f-8ba12229521c": {
+"d": "2025-02-13T14:20:00+01:00",
+"i": "https://gfx.nrk.no/kvwj-w9RU8x8CrDMK6Awnwm45ZAWOUE5jOPQvoQT2y9w",
+"n": 2581,
+"s": "Kan vi kalle det som nå skjer i USA for et kupp? Donald Trump, med god hjelp fra Elon Musk, utfordrer de etablerte demokratiske spillereglene. Og Norge er utsatt for et politisk jordskjelv.",
+"t": "Kupp i USA? Og politisk jordskjelv i Norge.",
+"u": "https://podkast.nrk.no/fil/kommentert/c4793949-8e91-4425-a6f4-4cd830b66489_0_ID192MP3.mp3"
+},
+"l_e185d2c8-1afc-4f6e-85d2-c81afc3f6e47": {
+"d": "2025-04-07T13:54:00+02:00",
+"i": "https://gfx.nrk.no/UWRATM7ruBP1mvixhRUSQwqJWhYgJlKyV3J9hVRoWFPg",
+"n": 1255,
+"s": "Hvor lenge kan Donald Trump se børser over hele verden falle? Hvordan påvirker denne uroen verden og sparepengene dine?",
+"t": "EKSTRAEPISODE: Bryr Trump seg om børsfallet?",
+"u": "https://podkast.nrk.no/fil/kommentert/c2c2cd05-c1c7-4532-b99a-dc7f876c9b6f_0_ID192MP3.mp3"
+},
+"l_e18f7c82-e903-42d5-8f7c-82e903e2d551": {
+"d": "2026-02-03T18:57:00+01:00",
+"i": "https://gfx.nrk.no/ZNm4wZQ8-VJzVJ5HFJbP9g17Tw24DkPGm0jrUjGGQRzg",
+"n": 1462,
+"s": "Torbjørn Jagland har hatt alle de viktigste stillingene i Norge. Nå avslører Epstein-dokumentene en side vi aldri har sett før, og som han har løyet om.",
+"t": "Jagland og Epstein: Er dette korrupsjon?",
+"u": "https://podkast.nrk.no/fil/kommentert/e18f7c82-e903-42d5-8f7c-82e903e2d551_1_ID192MP3.mp3"
+},
+"l_e4de0a93-bdac-4996-9e0a-93bdaca996a5": {
+"d": "2024-04-12T15:57:00+02:00",
+"i": "https://gfx.nrk.no/v6MFIorKF9RPbOWaiOA_nQrHJrFblVC3eq-60p1qNNYA",
+"n": 1534,
+"s": "Helseminister Ingvild Kjerkol går av som helseminister. Men hvorfor?",
+"t": "EKSTRAEPISODE: Hvorfor måtte Ingvild Kjerkol gå av?",
+"u": "https://podkast.nrk.no/fil/kommentert/0257b3ee-113c-48e4-942e-4b6415e0c11f_0_ID192MP3.mp3"
+},
+"l_e6611d67-b96d-4e34-a11d-67b96d2e3412": {
+"d": "2025-05-15T14:49:00+02:00",
+"i": "https://gfx.nrk.no/kQmwXZPu_KEtOhgcgAdoggxNeyM_Ox7Mlvyry-bhb6Kw",
+"n": 2216,
+"s": "Donald Trumps angrep på mangfold presser seg for alvor inn i landet og særlig næringslivet. Husker du skolenedleggelser fra ifjor? Nå slår dette også innover storbyene.",
+"t": "Har Trumps woke-krig kommet til Norge?",
+"u": "https://podkast.nrk.no/fil/kommentert/c8a8a4f1-8809-4161-9a39-68ac4e03c1f6_0_ID192MP3.mp3"
+},
+"l_e6ef52e2-449d-4377-af52-e2449d33776d": {
+"d": "2023-09-08T06:00:00+02:00",
+"i": "https://gfx.nrk.no/ZCopo10q4E-_aav3f75drAJjxUE6CMjhqXZWxHwyz-BQ",
+"n": 1650,
+"s": "Hva slags valg er årets valg? Hvem vinner storbyene? Og hva slags Norge våkner vi opp til dagen etter årets valg?",
+"t": "Hvem vinner valget på mandag? ",
+"u": "https://podkast.nrk.no/fil/kommentert/e844e19d-dc30-4dec-bd14-04292ec3084a_0_ID192MP3.mp3"
+},
+"l_e72c273b-7a23-4f90-ac27-3b7a238f9027": {
+"d": "2026-03-24T15:49:00+01:00",
+"i": "https://gfx.nrk.no/Y1kRTCGry1-5jF9LgTRSSwBaPIxvrx_QdzIlIBZPGVfQ",
+"n": 909,
+"s": "Donald Trump sier USA har hatt gode og produktive samtaler med Iran. Men, Iran sier at de ikke har snakket sammen. Og mens det skjer holder verdensøkonomien pusten.",
+"t": "Har Donald Trump diktet opp fredsforslag?",
+"u": "https://podkast.nrk.no/fil/kommentert/e72c273b-7a23-4f90-ac27-3b7a238f9027_1_ID192MP3.mp3"
+},
+"l_e7c21d86-c02a-4696-821d-86c02a56960a": {
+"d": "2023-05-19T05:30:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 1744,
+"s": "Alle partiene er enige om at skjermtid må gjøres noe med, men hva? \nOg USA kan gå tom for penger, burde vi være stressa?",
+"t": "Skal politikerne bestemme hvor mye vi skjermtid vi kan ha?",
+"u": "https://podkast.nrk.no/fil/kommentert/53cec563-a136-4f16-87b6-999fa7f6c449_0_ID192MP3.mp3"
+},
+"l_e7e53b60-ae4f-45e1-a53b-60ae4f85e175": {
+"d": "2023-11-02T19:50:00+01:00",
+"i": "https://gfx.nrk.no/k1T75x3SiTaCrQcps8FWSw-gprV8B6FUrSK297tF7XtQ",
+"n": 1984,
+"s": "Er vi midt i en boligkrise vi ikke er klar over? Vi svarer også på lytterspørsmål og snakker om TV-serien «Makta».",
+"t": "Er vi på vei mot en boligkrise?",
+"u": "https://podkast.nrk.no/fil/kommentert/af09816a-040d-4992-89d4-d962cbcd5d25_0_ID192MP3.mp3"
+},
+"l_e7f7e44f-2942-478e-b7e4-4f2942a78e81": {
+"d": "2023-04-14T06:00:00+02:00",
+"i": "https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg",
+"n": 2187,
+"s": "Hva er grunnene til at Arbeiderpartiet sliter? Og nok en gang går prisveksten opp og kronekursen ned. Hvorfor?",
+"t": "Hvorfor gjør Arbeiderpartiet det så dårlig?",
+"u": "https://podkast.nrk.no/fil/kommentert/60449488-4f03-462f-836b-cfe053f377e6_0_ID192MP3.mp3"
+},
+"l_e81138e1-2bfe-4bc3-9138-e12bfe0bc301": {
+"d": "2024-12-05T14:59:00+01:00",
+"i": "https://gfx.nrk.no/6hIb8Y1CAde8q_HJw0wvlQE04L2nLHHDJIKcFrKa3Zcw",
+"n": 2638,
+"s": "Arbeiderpartiet har mange utfordringer, kan Trond Giske løse en av dem? Og hva skjer egentlig med Ap-opprøret mot Jonas Gahr Støre? Blir det enklere å komme inn på boligmarkedet? Gladnyhet for folk som vil inn, eller?",
+"t": "Bør Sylvi Listhaug frykte Trond Giske?",
+"u": "https://podkast.nrk.no/fil/kommentert/ff154d2d-73dd-4f21-8bdc-321d54ef7575_0_ID192MP3.mp3"
+},
+"l_e8f565c6-3532-4d0a-b565-c63532dd0a8f": {
+"d": "2025-05-22T14:08:00+02:00",
+"i": "https://gfx.nrk.no/eDu4oNIzHOTqj4ESXmxULg6TLQki6u80wyO-1KMTvjwg",
+"n": 2696,
+"s": "Partiet FOR er sponset av en pro-russisk norsk betongmiliardær. Er det dette PST har advart oss om? Og endelig slutt på forvirrende tilbud i matbutikkene?",
+"t": "Partiet FOR: Er dette russisk valgpåvirkning?",
+"u": "https://podkast.nrk.no/fil/kommentert/42ff7aea-1bb0-4cda-8c17-8cae3e17d14b_0_ID192MP3.mp3"
+},
+"l_ebd5b1ca-bb1a-4aa1-95b1-cabb1a7aa195": {
+"d": "2025-11-12T15:54:00+01:00",
+"i": "https://gfx.nrk.no/9U_rzYsXxN8TxwagxAde8AUpXefekQykho2lXlZltXmw",
+"n": 2317,
+"s": "Oskar Westerlin har meldt flytting til Sveits. Får vi en guttastrøm til utlandet nå? Og greier ikke politikere å få seg andre jobber enn i PR-bransjen?",
+"t": "Oskar Westerlin flytter til Sveits",
+"u": "https://podkast.nrk.no/fil/kommentert/ebd5b1ca-bb1a-4aa1-95b1-cabb1a7aa195_1_ID192MP3.mp3"
+},
+"l_ecccd83e-1614-4591-8cd8-3e1614a59192": {
+"d": "2025-06-12T14:05:00+02:00",
+"i": "https://gfx.nrk.no/m7SCo-oi8eyXrr5ZQOoVswfBQdIhuRzZGNadAAA8dmpQ",
+"n": 2152,
+"s": "Feriepenger er som å ha økonomisk barnevakt, i følge Cecilie. – Gi meg mine egne penger. \nOg Norge har aldri nådd et klimamål uten kvotekjøp. Hvorfor bruke masse penger hjemme når vi kan kjøpe billige kvoter ute?",
+"t": "Feriepenger er økonomisk barnevakt",
+"u": "https://podkast.nrk.no/fil/kommentert/1c437204-625b-4002-9237-8694d5bb0153_0_ID192MP3.mp3"
+},
+"l_eea4af10-d309-440f-a4af-10d309b40fba": {
+"d": "2026-02-05T18:45:00+01:00",
+"i": "https://gfx.nrk.no/L_-3ZktSw2H3pqvOOl03bwJ0CiyPKprXtZNmeHxuwqpw",
+"n": 1623,
+"s": "Terje Rød-Larsen og Mona Juul. Norges kanskje mektigste diplomatpar. Nå forteller Epstein-dokumentene en ny historie.",
+"t": "Mektig diplomatpar i Epstein-trøbbel",
+"u": "https://podkast.nrk.no/fil/kommentert/eea4af10-d309-440f-a4af-10d309b40fba_1_ID192MP3.mp3"
+},
+"l_ef0faea1-2862-4a8e-8fae-a12862aa8e4c": {
+"d": "2023-03-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/kOy089TkBWYqJsJDiXMkCwy5bTkSTIMeGVSyoFbVnnig",
+"n": 1953,
+"s": "Politisk bråk om lakseskatt, og til tross for dårlig råd bruker vi penger på ferier og shopping som før.",
+"t": "Skattebråk og har vi egentlig dårlig råd?",
+"u": "https://podkast.nrk.no/fil/kommentert/ef56530f-322d-4d78-95e4-c374f391e60c_0_ID192MP3.mp3"
+},
+"l_ef1bb3d4-815a-4628-9bb3-d4815a662825": {
+"d": "2026-02-26T15:00:00+01:00",
+"i": "https://gfx.nrk.no/xJKtngNlP5uyuybDKYXIUAaMc7gFIWD_3GLySVWTwhdg",
+"n": 2209,
+"s": "Børge Brende, leder av Verdens økonomiske forum, trekker seg på grunn av kontakten med Epstein. Og nå sitter mange hjemme og tenker at vi har en elite her i Norge med altfor tette bånd, stemmer det? Og er vi i media en del av dette problemet?",
+"t": "Børge Brende går av: Fortsatt ting vi lurer på",
+"u": "https://podkast.nrk.no/fil/kommentert/ef1bb3d4-815a-4628-9bb3-d4815a662825_1_ID192MP3.mp3"
+},
+"l_f0f6faa3-e944-41b3-b6fa-a3e94431b354": {
+"d": "2023-12-21T14:55:00+01:00",
+"i": "https://gfx.nrk.no/lLTIJAWpf9FerlT9ql34pA9F4fIAWhzWqiNEKQvTVdlQ",
+"n": 3389,
+"s": "Det har vært et politisk skandaleår, vi har fått dårligere råd og Norge har blitt blåere enn du tror. Vi oppsummerer 2023. ",
+"t": "Et politisk skandaleår",
+"u": "https://podkast.nrk.no/fil/kommentert/3fb83293-cd7d-449d-abbe-817cfad844cf_0_ID192MP3.mp3"
+},
+"l_f895ad34-b961-4cff-95ad-34b961acff0d": {
+"d": "2025-08-21T14:25:00+02:00",
+"i": "https://gfx.nrk.no/7gi02pbcNpFUrE5PdGvAOA1BFd03fRuBgOBsSIeiAyWQ",
+"n": 2311,
+"s": "Denne valgkampen er den mest forvirrende noensinne. Det kastes ut tall her og der, og resultatet? En haug med forvirra velgere. Og, bør du egentlig stemme taktisk?",
+"t": "Tidenes mest forvirrende valgkamp",
+"u": "https://podkast.nrk.no/fil/kommentert/f895ad34-b961-4cff-95ad-34b961acff0d_1_ID192MP3.mp3"
+},
+"l_f9d12c82-85bd-4f65-912c-8285bd3f651f": {
+"d": "2025-04-30T16:35:00+02:00",
+"i": "https://gfx.nrk.no/pz_Pak7PpELe129bkD7GGQKi0NnWBtY2Z_oOdvlBFzXw",
+"n": 1875,
+"s": "Jørn Eggum trekker seg og vil ikke lenger bli LO-leder. Det skjer etter noen voldsomme dager med krangling om taushetsavtale, skjevt maktforhold og publiserte sexmeldinger.",
+"t": "Trekker seg etter hemmelig forhold",
+"u": "https://podkast.nrk.no/fil/kommentert/f966c4a3-62fa-4431-a1bb-60fe8997bcb2_0_ID192MP3.mp3"
+},
+"l_fbd89e60-d452-4ff0-989e-60d452cff023": {
+"d": "2024-05-02T16:08:00+02:00",
+"i": "https://gfx.nrk.no/L6ogHcoRRDiaIb3167oOpgmgrhwojF7RTAGQlTL11pfw",
+"n": 2394,
+"s": "Fpu-leder Simen Velle innrømmer cannabis-dom, det krangles om hvordan man skal løse gjengkriminalitet og Trump vil ha mer innflytelse over sentralbanken.",
+"t": "Simen Velles cannabis-fortid, gjengkriminalitet og Trump",
+"u": "https://podkast.nrk.no/fil/kommentert/4dc79a33-8b43-4906-9297-287efa18e54e_0_ID192MP3.mp3"
+},
+"l_fc2e4ea1-54fe-4278-ae4e-a154feb278a1": {
+"d": "2025-12-01T12:38:00+01:00",
+"i": "https://gfx.nrk.no/c5GcC7W1CLXar7eWAn80ugfHVwkC0Uu_kU89-xJhsIFA",
+"n": 1354,
+"s": "Det er fullt kaos på rødgrønn side: Hvis ikke Jonas Gahr Støre greier å få flertall for statsbudsjettet så må han gå av. Men hva skjer da?",
+"t": "Må Støre gå? Og Listhaug ta over?",
+"u": "https://podkast.nrk.no/fil/kommentert/fc2e4ea1-54fe-4278-ae4e-a154feb278a1_1_ID192MP3.mp3"
+},
+"l_fcabd587-2add-460b-abd5-872add260b42": {
+"d": "2024-01-11T15:30:00+01:00",
+"i": "https://gfx.nrk.no/as-fvWCpRg-zOdcuoXGQxgN6jXNZ5fD1ILhEvnT1pepQ",
+"n": 2428,
+"s": "– Er det ingen voksne hjemme? Cecilie ranter om hvordan norske kommuner bygger ned naturen vår, burde vi forby fyrverkeri? Og nå starter Norge med gruvedrift på havbunnen.",
+"t": "Ødelagte naturområder, fyrverkeriforbud og gruvedrift på havbunnen",
+"u": "https://podkast.nrk.no/fil/kommentert/e3497e31-983a-46b5-ac16-7f601e2cd3cc_0_ID192MP3.mp3"
+},
+"l_fd937d36-b50a-48ba-937d-36b50ab8baa8": {
+"d": "2024-09-05T15:58:00+02:00",
+"i": "https://gfx.nrk.no/bIbeT0O5pyYtmNZRFs159A4OhmjA8umLQcJwGsPK4W0A",
+"n": 2517,
+"s": "Plutselig løper alle etter Sylvi Listhaug i kampen mot ungdomskriminelle, Stavanger-ordfører i pengetrøbbel og i høstens USA-valg står økonomien på spill.",
+"t": "Ungdomskriminalitet, USA-valg og ordfører-bråk",
+"u": "https://podkast.nrk.no/fil/kommentert/cbf0ec7d-67a0-401f-9fbf-09429613eb20_0_ID192MP3.mp3"
+},
+"l_ffc93c32-dddd-45fe-893c-32dddd75fe67": {
+"d": "2025-06-05T13:50:00+02:00",
+"i": "https://gfx.nrk.no/kyhs8a3gTv4tEzu6d9Zr8AYvBXxUaTrFWfyy0gyqESaA",
+"n": 2368,
+"s": "Kan Erna Solberg snu Høyres elendige målinger frem mot valget? Kokain havner ikke på rullebladet, hva ligger egentlig i den nye rusreformen?",
+"t": "Krise i Høyre: Kan Erna Solberg fikse dette?",
+"u": "https://podkast.nrk.no/fil/kommentert/220d7439-0fe2-4ab0-a8dc-f79850c8d0eb_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Nyheter",
+"id": "kommentert",
+"image": "https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q",
+"subtitle": "De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.",
+"title": "Kommentert"
+},
+"v": 2
 }

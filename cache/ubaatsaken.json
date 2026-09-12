@@ -1,7 +1,52 @@
 {
-"l_4b78dba1-d5be-4b22-b8db-a1d5bedb22a3": "https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-06_1117_3435.MP3",
-"l_5a6872e4-45c0-48f4-a872-e445c0c8f486": "https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-07_0203_1068.MP3",
-"l_703a56c3-b453-4724-ba56-c3b45347244a": "https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-21_0203_475.MP3",
-"l_a6ef5c56-704e-4955-af5c-56704ee955bd": "https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-15_0203_507.MP3",
-"l_e6fa2167-48bc-4ba2-ba21-6748bc4ba2a4": "https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-04-18_0103_300.MP3"
+"episodes": {
+"l_4b78dba1-d5be-4b22-b8db-a1d5bedb22a3": {
+"d": "2018-03-06T15:27:00+01:00",
+"i": "https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A",
+"n": 66,
+"s": "Onsdag 7. mars kommer første episode av podkasten om Ubåtsaken i Danmark. Emma Clare Gabrielsen følger rettssaken mot Peter Madsen. Han er tiltalt for å ha drept og partert den unge journalisten Kim Wall i selvbygget ubåt.",
+"t": "Snart kommer podkasten \"Ubåtsaken\"",
+"u": "https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-06_1117_3435.MP3"
+},
+"l_5a6872e4-45c0-48f4-a872-e445c0c8f486": {
+"d": "2018-03-07T03:03:00+01:00",
+"i": "https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A",
+"n": 2179,
+"s": "De siste som så Kim Wall og Peter Madsen stevne ut i ubåten, synes de så ut som et forelsket par. \nTimer senere var hun død, og han pågrepet. ",
+"t": "Siste reis (1:4)",
+"u": "https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-07_0203_1068.MP3"
+},
+"l_703a56c3-b453-4724-ba56-c3b45347244a": {
+"d": "2018-03-21T03:03:00+01:00",
+"i": "https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A",
+"n": 2789,
+"s": "Hvem får seg til å partere et lik?\nVi har snakket med mennesker som trodde de kjente Peter Madsen, ubåt- og rakettentusiasten som står tiltalt for å ha drept Kim Wall om bord i den hjemmelagede ubåten Nautilus natten mellom 10. og 11. august i fjor. ",
+"t": "Hvem er Peter Madsen? (3:4)",
+"u": "https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-21_0203_475.MP3"
+},
+"l_a6ef5c56-704e-4955-af5c-56704ee955bd": {
+"d": "2018-03-15T03:03:00+01:00",
+"i": "https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A",
+"n": 2461,
+"s": "Kim Wall reiste verden rundt på jobb som journalist for en rekke internasjonale medier. \nLikevel skulle hun miste livet i havet bare noen mil fra hjembyen Trelleborg,  i en ubåt.",
+"t": "Kim Wall - mer enn bare et offer (2:4)",
+"u": "https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-15_0203_507.MP3"
+},
+"l_e6fa2167-48bc-4ba2-ba21-6748bc4ba2a4": {
+"d": "2018-04-18T03:03:00+02:00",
+"i": "https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A",
+"n": 2856,
+"s": "Det går ikke så bra for Peter Madsen i byretten i København – \nmen ennå har ingen kunnet fastslå dødsårsaken med sikkerhet. \nHva kommer det til å bety? \nOg hva vil de sakkyndige si om hans psyke? ",
+"t": "Skyldig? (4:4)",
+"u": "https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-04-18_0103_300.MP3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "ubaatsaken",
+"image": "https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A",
+"subtitle": "NRK følger rettssaken mot Peter Madsen. Han er tiltalt for å ha drept og partert den unge journalisten Kim Wall i selvbygget ubåt.",
+"title": "Ubåtsaken"
+},
+"v": 2
 }

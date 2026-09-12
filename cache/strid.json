@@ -1,39 +1,308 @@
 {
-"l_023c6b1b-d8a3-4728-bc6b-1bd8a3772800": "https://podkast.nrk.no/fil/strid/023c6b1b-d8a3-4728-bc6b-1bd8a3772800_ID192MP3.mp3",
-"l_02acc46e-9e0e-4531-acc4-6e9e0e8531e4": "https://podkast.nrk.no/fil/strid/02acc46e-9e0e-4531-acc4-6e9e0e8531e4_1_ID192MP3.mp3",
-"l_06e1211f-6f5b-4b51-a121-1f6f5b0b5143": "https://podkast.nrk.no/fil/strid/06e1211f-6f5b-4b51-a121-1f6f5b0b5143_1_ID192MP3.mp3",
-"l_13525e13-a97d-4e17-925e-13a97dce17d4": "https://podkast.nrk.no/fil/strid/13525e13-a97d-4e17-925e-13a97dce17d4_ID192MP3.mp3",
-"l_1d3efd88-5cf8-4410-befd-885cf8d410fb": "https://podkast.nrk.no/fil/strid/1d3efd88-5cf8-4410-befd-885cf8d410fb_1_ID192MP3.mp3",
-"l_2a9b629f-4fbb-4b8c-9b62-9f4fbbfb8c6a": "https://podkast.nrk.no/fil/strid/37af3406-eae4-4021-a63f-b627fa371647_0_ID192MP3.mp3",
-"l_39396a46-dad3-4ad2-b96a-46dad35ad2a8": "https://podkast.nrk.no/fil/strid/ab437884-61b1-46c8-b6ae-bb89a62d14b4_0_ID192MP3.mp3",
-"l_3f6e7185-a284-4a8d-ae71-85a2847a8d12": "https://podkast.nrk.no/fil/strid/64c3b26c-491b-46f0-852b-1089a0952b3f_0_ID192MP3.mp3",
-"l_52df7e58-5d48-400e-9f7e-585d48200e04": "https://podkast.nrk.no/fil/strid/52df7e58-5d48-400e-9f7e-585d48200e04_1_ID192MP3.mp3",
-"l_53b1f558-6b30-4380-b1f5-586b3053804e": "https://podkast.nrk.no/fil/strid/35120dbb-4f77-40d3-b7a1-0d03d1f294d2_0_ID192MP3.mp3",
-"l_5e5a209a-b2fd-4cb0-9a20-9ab2fd1cb0a9": "https://podkast.nrk.no/fil/strid/5e5a209a-b2fd-4cb0-9a20-9ab2fd1cb0a9_ID192MP3.mp3",
-"l_6ff9786a-626c-42bf-b978-6a626c82bf5c": "https://podkast.nrk.no/fil/strid/6ff9786a-626c-42bf-b978-6a626c82bf5c_1_ID192MP3.mp3",
-"l_73d9a80e-de3a-4cf2-99a8-0ede3a1cf209": "https://podkast.nrk.no/fil/strid/73d9a80e-de3a-4cf2-99a8-0ede3a1cf209_ID192MP3.mp3",
-"l_7415b7a2-22a7-45ca-95b7-a222a715ca80": "https://podkast.nrk.no/fil/strid/7415b7a2-22a7-45ca-95b7-a222a715ca80_1_ID192MP3.mp3",
-"l_74977d21-9d27-42dc-977d-219d2762dc30": "https://podkast.nrk.no/fil/strid/74977d21-9d27-42dc-977d-219d2762dc30_ID192MP3.mp3",
-"l_79e3439a-5834-48c5-a343-9a583438c5d3": "https://podkast.nrk.no/fil/strid/79e3439a-5834-48c5-a343-9a583438c5d3_ID192MP3.mp3",
-"l_84fe99ad-7c8d-49e3-be99-ad7c8d39e319": "https://podkast.nrk.no/fil/strid/fcf1c766-7c33-4594-81ff-71364ce4bfd6_0_ID192MP3.mp3",
-"l_8ec43ba9-758a-43f6-843b-a9758af3f6dd": "https://podkast.nrk.no/fil/strid/8ec43ba9-758a-43f6-843b-a9758af3f6dd_1_ID192MP3.mp3",
-"l_9664b401-523e-4f3f-a4b4-01523e0f3f1a": "https://podkast.nrk.no/fil/strid/9664b401-523e-4f3f-a4b4-01523e0f3f1a_1_ID192MP3.mp3",
-"l_a67e3af1-67e2-401e-be3a-f167e2d01eea": "https://podkast.nrk.no/fil/strid/a67e3af1-67e2-401e-be3a-f167e2d01eea_ID192MP3.mp3",
-"l_ade4e0ee-6ae6-4b3f-a4e0-ee6ae62b3f82": "https://podkast.nrk.no/fil/strid/ade4e0ee-6ae6-4b3f-a4e0-ee6ae62b3f82_1_ID192MP3.mp3",
-"l_aebb8226-9b8e-4852-bb82-269b8ef85216": "https://podkast.nrk.no/fil/strid/c82a40ab-7477-4d8f-a66e-c50a5df09ed8_0_ID192MP3.mp3",
-"l_b2d5acde-3498-4434-95ac-de3498f43415": "https://podkast.nrk.no/fil/strid/b2d5acde-3498-4434-95ac-de3498f43415_ID192MP3.mp3",
-"l_b443a5f1-f73f-4eac-83a5-f1f73fdeac95": "https://podkast.nrk.no/fil/strid/b443a5f1-f73f-4eac-83a5-f1f73fdeac95_1_ID192MP3.mp3",
-"l_b776cbaa-0776-4c47-b6cb-aa0776cc4700": "https://podkast.nrk.no/fil/strid/fbfaf8ec-3812-4ff7-b22a-7463f288ca0d_0_ID192MP3.mp3",
-"l_bd48ef5e-2c89-4694-88ef-5e2c892694bb": "https://podkast.nrk.no/fil/strid/bd48ef5e-2c89-4694-88ef-5e2c892694bb_1_ID192MP3.mp3",
-"l_c9455f5d-d538-4604-855f-5dd53836043f": "https://podkast.nrk.no/fil/strid/c9455f5d-d538-4604-855f-5dd53836043f_ID192MP3.mp3",
-"l_cc8605fe-4de9-4503-8605-fe4de925030e": "https://podkast.nrk.no/fil/strid/7c522def-31ba-4f02-b1c5-bd3d9cca3799_0_ID192MP3.mp3",
-"l_d59122ab-df9b-40e6-9122-abdf9be0e662": "https://podkast.nrk.no/fil/strid/d59122ab-df9b-40e6-9122-abdf9be0e662_1_ID192MP3.mp3",
-"l_db1aadce-af09-4b04-9aad-ceaf09eb04de": "https://podkast.nrk.no/fil/strid/db1aadce-af09-4b04-9aad-ceaf09eb04de_ID192MP3.mp3",
-"l_de301b59-7f24-4645-b01b-597f2436456f": "https://podkast.nrk.no/fil/strid/b9ea2e20-0511-4585-b895-6fd7e6ce1ac3_0_ID192MP3.mp3",
-"l_e15a6607-b7d1-45d4-9a66-07b7d1a5d448": "https://podkast.nrk.no/fil/strid/37a788a1-899e-4baa-a693-582f65af0d3a_0_ID192MP3.mp3",
-"l_e2bd976a-82a4-4cde-bd97-6a82a41cded8": "https://podkast.nrk.no/fil/strid/e2bd976a-82a4-4cde-bd97-6a82a41cded8_1_ID192MP3.mp3",
-"l_ece580ce-0623-4fb2-a580-ce06239fb256": "https://podkast.nrk.no/fil/strid/ece580ce-0623-4fb2-a580-ce06239fb256_ID192MP3.mp3",
-"l_ee400ef3-129d-49fd-800e-f3129df9fdd9": "https://podkast.nrk.no/fil/strid/f46d14ee-ae1b-4d3a-9e1b-f41740b03538_0_ID192MP3.mp3",
-"l_fb642c23-73bf-442f-a42c-2373bf642f70": "https://podkast.nrk.no/fil/strid/fb642c23-73bf-442f-a42c-2373bf642f70_1_ID192MP3.mp3",
-"l_ff7610d6-01bd-4095-b610-d601bd4095c5": "https://podkast.nrk.no/fil/strid/970b2d0f-2107-43e4-948d-f964cc79da08_0_ID192MP3.mp3"
+"episodes": {
+"l_023c6b1b-d8a3-4728-bc6b-1bd8a3772800": {
+"d": "2026-01-03T06:02:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3416,
+"s": "Birkebeinerne leker katt og mus med Erling og Magnus. Sverre begynner for alvor å konstruere fortellingen om seg selv.   ",
+"t": "Geriljakrigen",
+"u": "https://podkast.nrk.no/fil/strid/023c6b1b-d8a3-4728-bc6b-1bd8a3772800_ID192MP3.mp3"
+},
+"l_02acc46e-9e0e-4531-acc4-6e9e0e8531e4": {
+"d": "2026-08-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3394,
+"s": "En veldig gammel og slu rev går ut av tiden. Håkon driver amfibisk krigføring mot Ribbungene i elvene på Østlandet.",
+"t": "Elvekrigen",
+"u": "https://podkast.nrk.no/fil/strid/02acc46e-9e0e-4531-acc4-6e9e0e8531e4_1_ID192MP3.mp3"
+},
+"l_06e1211f-6f5b-4b51-a121-1f6f5b0b5143": {
+"d": "2026-08-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3405,
+"s": "Helvete er løs og Skule gjør seg klar til slag i dypsnøen ved Gardermoen. Håkon seiler fra Nidaros til Oslo i en vanvittig fart.",
+"t": "Medvinden",
+"u": "https://podkast.nrk.no/fil/strid/06e1211f-6f5b-4b51-a121-1f6f5b0b5143_1_ID192MP3.mp3"
+},
+"l_13525e13-a97d-4e17-925e-13a97dce17d4": {
+"d": "2026-01-06T06:06:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3412,
+"s": "Birkebeinerne og baglerne tilbringer sommeren i Bergen – samtidig. Gateslagsmål, attentatforsøk og beleiring følger. ",
+"t": "Brannen",
+"u": "https://podkast.nrk.no/fil/strid/13525e13-a97d-4e17-925e-13a97dce17d4_ID192MP3.mp3"
+},
+"l_1d3efd88-5cf8-4410-befd-885cf8d410fb": {
+"d": "2026-06-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3404,
+"s": "Birkebeinerne får seg en overraskelse, og en liten kongssønn fraktes over fjellet på ski i historiens første Birkebeinerrenn.",
+"t": "Blodbryllupet",
+"u": "https://podkast.nrk.no/fil/strid/1d3efd88-5cf8-4410-befd-885cf8d410fb_1_ID192MP3.mp3"
+},
+"l_2a9b629f-4fbb-4b8c-9b62-9f4fbbfb8c6a": {
+"d": "2025-09-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3586,
+"s": "Erling bruker alle triks i boka for å få has på kongen. Erling og Magnus gjør en avtale med kirken som skal få store konsekvenser.",
+"t": "Kroningen",
+"u": "https://podkast.nrk.no/fil/strid/37af3406-eae4-4021-a63f-b627fa371647_0_ID192MP3.mp3"
+},
+"l_39396a46-dad3-4ad2-b96a-46dad35ad2a8": {
+"d": "2025-08-03T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3449,
+"s": "- Hei, jeg heter Øystein og er broren deres! Tenåringskongene kjemper for å bevare freden, men blir testosteronnivået for høyt?",
+"t": "Tenåringskongene",
+"u": "https://podkast.nrk.no/fil/strid/ab437884-61b1-46c8-b6ae-bb89a62d14b4_0_ID192MP3.mp3"
+},
+"l_3f6e7185-a284-4a8d-ae71-85a2847a8d12": {
+"d": "2025-08-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3394,
+"s": "Gregorius med gullhjelmen blir reddet av Kristin Kongsdatter. Øystein betaler prisen for å være for gjerrig.",
+"t": "Gjerrigknarken",
+"u": "https://podkast.nrk.no/fil/strid/64c3b26c-491b-46f0-852b-1089a0952b3f_0_ID192MP3.mp3"
+},
+"l_52df7e58-5d48-400e-9f7e-585d48200e04": {
+"d": "2026-08-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3391,
+"s": "Skule tar en skjebnesvanger avgjørelse og dronning Margrete må velge side i den forestående krigen mellom faren og ektemannen.",
+"t": "Dødsskvadronene",
+"u": "https://podkast.nrk.no/fil/strid/52df7e58-5d48-400e-9f7e-585d48200e04_1_ID192MP3.mp3"
+},
+"l_53b1f558-6b30-4380-b1f5-586b3053804e": {
+"d": "2025-07-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3343,
+"s": "Sigurd Slembe henter Magnus fra klosteret, men drar selv på ferie. To veslevoksne konger går til krig mot onkelen og fetteren.",
+"t": "Barnekongene",
+"u": "https://podkast.nrk.no/fil/strid/35120dbb-4f77-40d3-b7a1-0d03d1f294d2_0_ID192MP3.mp3"
+},
+"l_5e5a209a-b2fd-4cb0-9a20-9ab2fd1cb0a9": {
+"d": "2026-01-06T06:05:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3416,
+"s": "Sverres fiender samler seg rundt biskop Nikolas og gir seg selv et navn. Sverre og Nikolas møtes og slenger dritt til hverandre.  ",
+"t": "Baglerne ",
+"u": "https://podkast.nrk.no/fil/strid/5e5a209a-b2fd-4cb0-9a20-9ab2fd1cb0a9_ID192MP3.mp3"
+},
+"l_6ff9786a-626c-42bf-b978-6a626c82bf5c": {
+"d": "2026-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3417,
+"s": "En mystisk mann flykter fra fengsel ved hjelp av sjarme og sengetøy. Han vil bli baglerkonge, men ikke alle tror han er kongssønn.",
+"t": "Steinveggen",
+"u": "https://podkast.nrk.no/fil/strid/6ff9786a-626c-42bf-b978-6a626c82bf5c_1_ID192MP3.mp3"
+},
+"l_73d9a80e-de3a-4cf2-99a8-0ede3a1cf209": {
+"d": "2026-01-06T06:04:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3414,
+"s": "En truende gjeng med flotte skjegg kommer over havet. Paven får høre om hva Sverre holder på med og blir rasende.  ",
+"t": "Bannlysningen ",
+"u": "https://podkast.nrk.no/fil/strid/73d9a80e-de3a-4cf2-99a8-0ede3a1cf209_ID192MP3.mp3"
+},
+"l_7415b7a2-22a7-45ca-95b7-a222a715ca80": {
+"d": "2026-07-27T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3400,
+"s": "Skittentøyet luftes på et stort møte mellom rikets klokeste og mektigste. Håkon må fylle ut CV-en og går til angrep på Vermland.",
+"t": "Riksmøtet",
+"u": "https://podkast.nrk.no/fil/strid/7415b7a2-22a7-45ca-95b7-a222a715ca80_1_ID192MP3.mp3"
+},
+"l_74977d21-9d27-42dc-977d-219d2762dc30": {
+"d": "2026-01-03T06:03:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3413,
+"s": "Sverre snubler i et avgjørende øyeblikk, men får uventet hjelp av både en mystisk tåke og av Erling Skakkes overdrevne selvtillit. ",
+"t": "Fallet",
+"u": "https://podkast.nrk.no/fil/strid/74977d21-9d27-42dc-977d-219d2762dc30_ID192MP3.mp3"
+},
+"l_79e3439a-5834-48c5-a343-9a583438c5d3": {
+"d": "2026-01-06T06:07:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3416,
+"s": "Sverre tar kampen til Viken og beleirer baglernes festning i Tønsberg. Det krever all hans kløkt og får uante konsekvenser. ",
+"t": "Triksene ",
+"u": "https://podkast.nrk.no/fil/strid/79e3439a-5834-48c5-a343-9a583438c5d3_ID192MP3.mp3"
+},
+"l_84fe99ad-7c8d-49e3-be99-ad7c8d39e319": {
+"d": "2025-08-31T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3417,
+"s": "Kristin får en kjip oppgave, men snur den til sin fordel. Erling Skakke lager teater i Bergen, og får sønnen kronet til konge.",
+"t": "Liket",
+"u": "https://podkast.nrk.no/fil/strid/fcf1c766-7c33-4594-81ff-71364ce4bfd6_0_ID192MP3.mp3"
+},
+"l_8ec43ba9-758a-43f6-843b-a9758af3f6dd": {
+"d": "2026-06-15T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3375,
+"s": "Enkedronningen og den nye birkebeinerkongen tåler ikke trynet på hverandre. Når alt går galt på julefest, får dronningen skylda.",
+"t": "Juleselskapet",
+"u": "https://podkast.nrk.no/fil/strid/8ec43ba9-758a-43f6-843b-a9758af3f6dd_1_ID192MP3.mp3"
+},
+"l_9664b401-523e-4f3f-a4b4-01523e0f3f1a": {
+"d": "2026-07-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3416,
+"s": "En konge med useriøst navn får tilbud om prinsessen og halve kongeriket, hvis han er villig til å betale prisen.",
+"t": "Forliket",
+"u": "https://podkast.nrk.no/fil/strid/9664b401-523e-4f3f-a4b4-01523e0f3f1a_1_ID192MP3.mp3"
+},
+"l_a67e3af1-67e2-401e-be3a-f167e2d01eea": {
+"d": "2026-01-03T06:01:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3411,
+"s": "En ganske dårlig færøysk prest finner ut at han har en annen far enn han trodde. Det blir begynnelsen på et politisk jordskjelv.   ",
+"t": "Drømmene ",
+"u": "https://podkast.nrk.no/fil/strid/a67e3af1-67e2-401e-be3a-f167e2d01eea_ID192MP3.mp3"
+},
+"l_ade4e0ee-6ae6-4b3f-a4e0-ee6ae62b3f82": {
+"d": "2026-07-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3405,
+"s": "En ny generasjon får makten. En lav, uerfaren konge og en høy, rutinert jarl kniver om hvem som skal være rikets ansikt utad.",
+"t": "Kongevalget",
+"u": "https://podkast.nrk.no/fil/strid/ade4e0ee-6ae6-4b3f-a4e0-ee6ae62b3f82_1_ID192MP3.mp3"
+},
+"l_aebb8226-9b8e-4852-bb82-269b8ef85216": {
+"d": "2025-08-24T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3332,
+"s": "En gutt med veldig brede skuldre lager bråk langs Mørekysten. Erling og Gregorius krangler om hvem som er best på krigføring.",
+"t": "Isen",
+"u": "https://podkast.nrk.no/fil/strid/c82a40ab-7477-4d8f-a66e-c50a5df09ed8_0_ID192MP3.mp3"
+},
+"l_b2d5acde-3498-4434-95ac-de3498f43415": {
+"d": "2026-01-06T06:01:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3415,
+"s": "Sverre går i krigen med verdens største vikingskip og møter Magnus i et slag som bare én av dem kommer levende fra.  ",
+"t": "Likfisket  ",
+"u": "https://podkast.nrk.no/fil/strid/b2d5acde-3498-4434-95ac-de3498f43415_ID192MP3.mp3"
+},
+"l_b443a5f1-f73f-4eac-83a5-f1f73fdeac95": {
+"d": "2026-08-17T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3398,
+"s": "Uenighetene mellom Håkon og Skule tilspisser seg og får ringvirkninger på Island, i England og ved den tyske keiserens hoff.",
+"t": "Hertugen",
+"u": "https://podkast.nrk.no/fil/strid/b443a5f1-f73f-4eac-83a5-f1f73fdeac95_1_ID192MP3.mp3"
+},
+"l_b776cbaa-0776-4c47-b6cb-aa0776cc4700": {
+"d": "2025-06-22T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3281,
+"s": "En mann med sexy legger sprer genene sine litt for godt. En partylek ute av kontroll på Opplandene kan velte den skjøre freden.",
+"t": "Festen",
+"u": "https://podkast.nrk.no/fil/strid/fbfaf8ec-3812-4ff7-b22a-7463f288ca0d_0_ID192MP3.mp3"
+},
+"l_bd48ef5e-2c89-4694-88ef-5e2c892694bb": {
+"d": "2026-07-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3404,
+"s": "Mammaen til Håkon må ta en for laget. Akkurat i det det ser ut som at baglerne er beseiret reises opprørsfanen igjen på Østlandet.",
+"t": "Røverne",
+"u": "https://podkast.nrk.no/fil/strid/bd48ef5e-2c89-4694-88ef-5e2c892694bb_1_ID192MP3.mp3"
+},
+"l_c9455f5d-d538-4604-855f-5dd53836043f": {
+"d": "2026-01-03T06:00:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3411,
+"s": "Kristin får nok av Erling og viser ham fingeren. En gjeng som kaller seg birkebeinere ødelegger for Erling og Magnus.   ",
+"t": "Familiekonflikten",
+"u": "https://podkast.nrk.no/fil/strid/c9455f5d-d538-4604-855f-5dd53836043f_ID192MP3.mp3"
+},
+"l_cc8605fe-4de9-4503-8605-fe4de925030e": {
+"d": "2025-07-20T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3171,
+"s": "Et kinky dødsfall kaster om på kortene, og dronning Ingerid må handle raskt. Nykommeren Sigurds kamp om tronen begynner dårlig.",
+"t": "Veddemålet",
+"u": "https://podkast.nrk.no/fil/strid/7c522def-31ba-4f02-b1c5-bd3d9cca3799_0_ID192MP3.mp3"
+},
+"l_d59122ab-df9b-40e6-9122-abdf9be0e662": {
+"d": "2026-01-06T06:00:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3410,
+"s": "Etter flere harde kamper kommer Sverre til Magnus med et forslag. En mann ved navn Eirik dukker opp og påstår å være Sverres bror.  ",
+"t": "Forhandlingen",
+"u": "https://podkast.nrk.no/fil/strid/d59122ab-df9b-40e6-9122-abdf9be0e662_1_ID192MP3.mp3"
+},
+"l_db1aadce-af09-4b04-9aad-ceaf09eb04de": {
+"d": "2026-01-06T06:03:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3416,
+"s": "To fiender av Sverre velges til biskop. Kirken seiler opp som Sverres desidert verste og farligste fiende. ",
+"t": "Biskopene ",
+"u": "https://podkast.nrk.no/fil/strid/db1aadce-af09-4b04-9aad-ceaf09eb04de_ID192MP3.mp3"
+},
+"l_de301b59-7f24-4645-b01b-597f2436456f": {
+"d": "2025-07-13T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3330,
+"s": "Partyprinsen Magnus slutter å være partyprins, og får et annet tilnavn. Harald må finne en vei rundt Bergens katapulter.",
+"t": "Jernlenken",
+"u": "https://podkast.nrk.no/fil/strid/b9ea2e20-0511-4585-b895-6fd7e6ce1ac3_0_ID192MP3.mp3"
+},
+"l_e15a6607-b7d1-45d4-9a66-07b7d1a5d448": {
+"d": "2025-08-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3361,
+"s": "En metoo-sak splitter freden mellom de tre brødrene. To av dem rotter seg sammen, men blir satt på plass av en fyr med gullhjelm.",
+"t": "Gullhjelmen",
+"u": "https://podkast.nrk.no/fil/strid/37a788a1-899e-4baa-a693-582f65af0d3a_0_ID192MP3.mp3"
+},
+"l_e2bd976a-82a4-4cde-bd97-6a82a41cded8": {
+"d": "2026-09-07T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3401,
+"s": "Det er 21. april 1240, og Håkon møter Skule i Oslo, til et slag som kommer til å avgjøre de norske borgerkrigene.",
+"t": "Kirkegården",
+"u": "https://podkast.nrk.no/fil/strid/e2bd976a-82a4-4cde-bd97-6a82a41cded8_1_ID192MP3.mp3"
+},
+"l_ece580ce-0623-4fb2-a580-ce06239fb256": {
+"d": "2026-01-06T06:02:00+01:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3416,
+"s": "Sverre feirer seieren med et taktisk bryllup. Bergenserne setter fra seg ølkruset og plukker opp vinglasset.   ",
+"t": "Dynastiet ",
+"u": "https://podkast.nrk.no/fil/strid/ece580ce-0623-4fb2-a580-ce06239fb256_ID192MP3.mp3"
+},
+"l_ee400ef3-129d-49fd-800e-f3129df9fdd9": {
+"d": "2025-06-29T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3393,
+"s": "Partyprinsen Magnus prøver å vippe onkel Harald av pinnen. Og er kongen genial, eller splitter pine gal – eller begge deler?",
+"t": "Partyprinsen",
+"u": "https://podkast.nrk.no/fil/strid/f46d14ee-ae1b-4d3a-9e1b-f41740b03538_0_ID192MP3.mp3"
+},
+"l_fb642c23-73bf-442f-a42c-2373bf642f70": {
+"d": "2026-08-10T06:00:00+02:00",
+"i": "https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ",
+"n": 3400,
+"s": "Det er fred, men bare så vidt. Håkon ydmyker svigerfaren sin, og en ukjent sønn som gjør seg tilkjenne gir Skule noe å tenke på.",
+"t": "Vårbelgene",
+"u": "https://podkast.nrk.no/fil/strid/fb642c23-73bf-442f-a42c-2373bf642f70_1_ID192MP3.mp3"
+},
+"l_ff7610d6-01bd-4095-b610-d601bd4095c5": {
+"d": "2025-07-06T06:00:00+02:00",
+"i": "https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw",
+"n": 3409,
+"s": "Magnus inngår en allianse for å ta knekken på onkel Harald, men driter seg ut. Hærene barker sammen i Bohuslen.",
+"t": "Danskene",
+"u": "https://podkast.nrk.no/fil/strid/970b2d0f-2107-43e4-948d-f964cc79da08_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Dokumentar",
+"id": "strid",
+"image": "https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw",
+"subtitle": "Partyprinser, gærninger og kranglefanter – kongeslekta er full av sinnssyke historier! Med Aslak Sira Myhre og Ole-Albert Rønning Nordby.",
+"title": "Strid – de norske borgerkrigene"
+},
+"v": 2
 }

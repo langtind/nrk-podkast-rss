@@ -1,22 +1,172 @@
 {
-"l_33cd4f1f-447d-42d1-8d4f-1f447d72d1cc": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1808_1327.MP3",
-"l_41000d7a-e489-4149-800d-7ae48941493f": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1807_1786.MP3",
-"l_4673aa72-3c31-41e8-b3aa-723c3111e881": "https://podkast.nrk.no/fil/billis_og_bollos/aff8839e-d906-4560-9593-89685b6546ab_0_ID192MP3.mp3",
-"l_4aa29b13-cbd8-42be-a29b-13cbd8d2be8e": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1758_4227.MP3",
-"l_588bfdac-94ff-404a-8bfd-ac94fff04a1f": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1800_2063.MP3",
-"l_5da9b467-b513-410e-a9b4-67b513310e0c": "https://podkast.nrk.no/fil/billis_og_bollos/00dec43f-9f84-4385-b1b4-66a3e83121e2_0_ID192MP3.mp3",
-"l_6acc2413-7c02-484e-8c24-137c02084e77": "https://podkast.nrk.no/fil/billis_og_bollos/01ed2a4c-68d1-4ef2-8873-9bdd2897c330_0_ID192MP3.mp3",
-"l_782074e5-b8e7-4ba4-a074-e5b8e76ba424": "https://podkast.nrk.no/fil/billis_og_bollos/b2f3f461-4e3f-4131-bc20-e97e5b00985f_0_ID192MP3.mp3",
-"l_93b029ec-4839-4dae-b029-ec48398dae88": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1500_2778.MP3",
-"l_98810946-a921-45c5-8109-46a92105c5f7": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1802_122.MP3",
-"l_9947b5dd-bf30-4ff9-87b5-ddbf303ff970": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1811_2785.MP3",
-"l_9abcd97d-eac0-47be-bcd9-7deac077be05": "https://podkast.nrk.no/fil/billis_og_bollos/0bfc4e28-d44c-4058-9d51-2cfaeed3341c_0_ID192MP3.mp3",
-"l_9d0df3af-eefe-4b93-8df3-afeefe8b93d1": "https://podkast.nrk.no/fil/billis_og_bollos/7be202aa-1c58-4f69-8643-abc8a0033dce_0_ID192MP3.mp3",
-"l_b46092f6-3704-472a-a092-f63704c72ab2": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1810_582.MP3",
-"l_d4192bfe-663b-49ce-992b-fe663b59ce25": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1809_2479.MP3",
-"l_e44c2602-a021-49ed-8c26-02a02159edb5": "https://podkast.nrk.no/fil/billis_og_bollos/24ca0f9d-69a7-4dfb-bd24-b2c6002817c4_0_ID192MP3.mp3",
-"l_f2719978-051a-4923-b199-78051ae923f2": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1805_3521.MP3",
-"l_f489271e-33aa-460b-8927-1e33aa060bfb": "https://podkast.nrk.no/fil/billis_og_bollos/4d0c6743-cf7e-4a11-9a53-07696dcb0e2a_0_ID192MP3.mp3",
-"l_f9fb3f06-dcf6-46a1-bb3f-06dcf6a6a162": "https://podkast.nrk.no/fil/billis_og_bollos/8c5f9f8a-30b8-4d66-9eb2-ae715cdd5654_0_ID192MP3.mp3",
-"l_fa7bf1b4-738b-41a3-bbf1-b4738b41a3ef": "https://podkast.nrk.no/fil/billis_og_bollos/44064248-06c6-48dc-9db9-71e52161f5c6_0_ID192MP3.mp3"
+"episodes": {
+"l_33cd4f1f-447d-42d1-8d4f-1f447d72d1cc": {
+"d": "2019-02-14T19:08:00+01:00",
+"i": "https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA",
+"n": 635,
+"s": "Billis og Bollos drar på skogstur, men møter på en slu rev som vil ha tak i maten deres.",
+"t": "Skogsturen",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1808_1327.MP3"
+},
+"l_41000d7a-e489-4149-800d-7ae48941493f": {
+"d": "2019-02-14T19:07:00+01:00",
+"i": "https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA",
+"n": 697,
+"s": "Billis og Bollos leker med en krabbe på stranden, men blir plutselig fanget av en mystisk ninjadrage.",
+"t": "Ninjadragen",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1807_1786.MP3"
+},
+"l_4673aa72-3c31-41e8-b3aa-723c3111e881": {
+"d": "2020-09-25T05:55:00+02:00",
+"i": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"n": 849,
+"s": "Billis og Bollos har kappløp med de hjemmelagde kassebilene sine, når en slu rotte med superrask kassebil dukker opp og ødelegger alt.",
+"t": "Rotteracet",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/aff8839e-d906-4560-9593-89685b6546ab_0_ID192MP3.mp3"
+},
+"l_4aa29b13-cbd8-42be-a29b-13cbd8d2be8e": {
+"d": "2019-02-14T18:58:00+01:00",
+"i": "https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA",
+"n": 776,
+"s": "Billis og Bollos er på stranden og Bollos får en grusom flis i fingeren sin.",
+"t": "Den grusomme Herr Flis",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1758_4227.MP3"
+},
+"l_588bfdac-94ff-404a-8bfd-ac94fff04a1f": {
+"d": "2019-02-14T19:00:00+01:00",
+"i": "https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA",
+"n": 634,
+"s": "Billis og Bollos drar på fisketur, men en måke stjeler fiskestangen deres.",
+"t": "Fisketuren",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1800_2063.MP3"
+},
+"l_5da9b467-b513-410e-a9b4-67b513310e0c": {
+"d": "2020-09-25T05:50:00+02:00",
+"i": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"n": 725,
+"s": "Billis og Bollos hopper på trampoline, men Bollos tør ikke hoppe med andre. Billis hopper med en trampolinegal gris, som absolutt ikke bryr seg om sikkerhet.",
+"t": "Trampolinesvinet",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/00dec43f-9f84-4385-b1b4-66a3e83121e2_0_ID192MP3.mp3"
+},
+"l_6acc2413-7c02-484e-8c24-137c02084e77": {
+"d": "2020-09-25T05:00:00+02:00",
+"i": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"n": 784,
+"s": "Billis og Bollos skal bade i elven, men badeplassen deres er helt tom for vann. De finner en leken og lat bever som de må overtale til å fikse demningen, så de kan bade. ",
+"t": "Elveturen",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/01ed2a4c-68d1-4ef2-8873-9bdd2897c330_0_ID192MP3.mp3"
+},
+"l_782074e5-b8e7-4ba4-a074-e5b8e76ba424": {
+"d": "2020-09-25T05:20:00+02:00",
+"i": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"n": 664,
+"s": "Billis og Bollos dykker etter skjell med perler i, men de oppdager et sjømonster på bunnen av fjorden. Hvordan skal de få tak i perlene nå?",
+"t": "Sjømonsteret",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/b2f3f461-4e3f-4131-bc20-e97e5b00985f_0_ID192MP3.mp3"
+},
+"l_93b029ec-4839-4dae-b029-ec48398dae88": {
+"d": "2019-02-14T16:00:00+01:00",
+"i": "https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA",
+"n": 840,
+"s": "Billis og Bollos tar nøttene til ekornene og må vinne en dansekonkurranse for å unngå nøttefengsel.",
+"t": "Dansekonkurransen",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1500_2778.MP3"
+},
+"l_98810946-a921-45c5-8109-46a92105c5f7": {
+"d": "2019-02-14T19:02:00+01:00",
+"i": "https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA",
+"n": 666,
+"s": "Billis og Bollos elsker gjørmebad, men når en froskekonge nekter dem å bade i gjørmen sin blir det gjørmekamp.",
+"t": "Gjørmekongen",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1802_122.MP3"
+},
+"l_9947b5dd-bf30-4ff9-87b5-ddbf303ff970": {
+"d": "2019-02-14T19:11:00+01:00",
+"i": "https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA",
+"n": 681,
+"s": "Billis og Bollos låner verdens kuleste sykkel uten lov, og ødelegger den. Hva skal de gjøre nå?",
+"t": "Verdens kuleste sykkel",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1811_2785.MP3"
+},
+"l_9abcd97d-eac0-47be-bcd9-7deac077be05": {
+"d": "2020-09-25T05:10:00+02:00",
+"i": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"n": 832,
+"s": "Bollos har en stor floke på ryggen som han nekter å gre ut, men når floken henger seg opp i et stort dyr må Billis redde ham.",
+"t": "Floketrøbbel",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/0bfc4e28-d44c-4058-9d51-2cfaeed3341c_0_ID192MP3.mp3"
+},
+"l_9d0df3af-eefe-4b93-8df3-afeefe8b93d1": {
+"d": "2020-09-25T05:45:00+02:00",
+"i": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"n": 801,
+"s": "Billis og Bollos møter en veldig irriterende kråke som bare hermer etter dem. Hvordan skal de få hermekråka til å slutte å plage dem? ",
+"t": "Hermekråka",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/7be202aa-1c58-4f69-8643-abc8a0033dce_0_ID192MP3.mp3"
+},
+"l_b46092f6-3704-472a-a092-f63704c72ab2": {
+"d": "2019-02-14T19:10:00+01:00",
+"i": "https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA",
+"n": 632,
+"s": "Billis og Bollos blir uvenner og Billis finner seg en ny venn, en liten marihøne.",
+"t": "Uvenner",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1810_582.MP3"
+},
+"l_d4192bfe-663b-49ce-992b-fe663b59ce25": {
+"d": "2019-02-14T19:09:00+01:00",
+"i": "https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA",
+"n": 589,
+"s": "Billis og Bollos leker superhelter, men når de møter en villsau må de bli superhelter på ekte.",
+"t": "Superhelter",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1809_2479.MP3"
+},
+"l_e44c2602-a021-49ed-8c26-02a02159edb5": {
+"d": "2020-09-25T05:40:00+02:00",
+"i": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"n": 698,
+"s": "Billis og Bollos er på sparkesykkeltur når de møter en svært forsiktig hjort. De to små monstrene arrangerer et sparkesykkelkurs for den store hjortebukken.",
+"t": "Hjort På Hjul",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/24ca0f9d-69a7-4dfb-bd24-b2c6002817c4_0_ID192MP3.mp3"
+},
+"l_f2719978-051a-4923-b199-78051ae923f2": {
+"d": "2019-02-14T19:05:00+01:00",
+"i": "https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA",
+"n": 674,
+"s": "Billis og Bollos finner masse verdifulle gulløv og blir rike, men når en tyv stjeler alt løvet må Billis og Bollos jakte på tyven. ",
+"t": "Løvtyven",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1805_3521.MP3"
+},
+"l_f489271e-33aa-460b-8927-1e33aa060bfb": {
+"d": "2020-09-25T05:30:00+02:00",
+"i": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"n": 813,
+"s": "Billis og Bollos drar på bondegård for å bake boller, men får det ikke til. En gigantisk gjødselbille med superkrefter må redde bollefesten.",
+"t": "Muskelbilen",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/4d0c6743-cf7e-4a11-9a53-07696dcb0e2a_0_ID192MP3.mp3"
+},
+"l_f9fb3f06-dcf6-46a1-bb3f-06dcf6a6a162": {
+"d": "2020-09-25T05:05:00+02:00",
+"i": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"n": 669,
+"s": "Billis og Bollos bygger trehytte, men når en flygende tyv stjeler hytten deres må de pønske ut en måte å få hytten tilbake.",
+"t": "Flygetyven",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/8c5f9f8a-30b8-4d66-9eb2-ae715cdd5654_0_ID192MP3.mp3"
+},
+"l_fa7bf1b4-738b-41a3-bbf1-b4738b41a3ef": {
+"d": "2020-09-25T05:15:00+02:00",
+"i": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"n": 664,
+"s": "Billis og Bollos maler bilder i hagen, men Billis syns det er vanskelig å male fint. Når en snikete katt stjeler malingen deres, må de male bedre enn noen gang for å få den tilbake.",
+"t": "Malekatten",
+"u": "https://podkast.nrk.no/fil/billis_og_bollos/44064248-06c6-48dc-9db9-71e52161f5c6_0_ID192MP3.mp3"
+}
+},
+"meta": {
+"category": "Barn",
+"id": "billis_og_bollos",
+"image": "https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg",
+"subtitle": "Billis og Bollos er to små monstre som bor i lekeskuffen til lille Leandra. Bli med Billis og Bollos på deres morsomme og spennende eventyr.",
+"title": "Billis og Bollos"
+},
+"v": 2
 }
