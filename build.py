@@ -314,6 +314,8 @@ input:focus{outline:2px solid var(--acc);outline-offset:-1px;border-color:transp
 ul{list-style:none;margin:0;padding:0;display:grid;gap:9px}
 li{display:flex;gap:13px;align-items:center;padding:11px;background:var(--card);
 border:1px solid var(--line);border-radius:11px}
+li[hidden]{display:none}
+.empty{color:var(--dim);padding:14px 2px}
 li img{width:52px;height:52px;border-radius:7px;object-fit:cover;flex:none;background:var(--line)}
 li div{min-width:0;flex:1}
 h2{font-size:1rem;margin:0;font-weight:600}
@@ -338,9 +340,14 @@ NRKs egen CDN; denne siden serverer bare XML. Oppdatert {{DATE}}.</p>
 <footer>Innholdet tilhører NRK. Maskinlesbar liste:
 <a href="{{BASE}}/feeds.json">feeds.json</a>.</footer>
 </main><script>
-const q=document.getElementById('q'),items=[...document.querySelectorAll('#list li')];
-q.addEventListener('input',()=>{const v=q.value.toLowerCase().trim();
-for(const li of items) li.hidden = v && !li.dataset.t.includes(v);});
+const q=document.getElementById('q'),list=document.getElementById('list'),
+items=[...list.querySelectorAll('li')],
+empty=Object.assign(document.createElement('p'),{className:'empty',hidden:true,
+textContent:'Ingen treff.'});
+list.after(empty);
+q.addEventListener('input',()=>{const v=q.value.toLowerCase().trim();let n=0;
+for(const li of items){const hit=!v||li.dataset.t.includes(v);li.hidden=!hit;if(hit)n++;}
+empty.hidden=n>0;});
 document.getElementById('list').addEventListener('click',e=>{
 const b=e.target.closest('button'); if(!b) return;
 navigator.clipboard.writeText(b.dataset.u).then(()=>{
