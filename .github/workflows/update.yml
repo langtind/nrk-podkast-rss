@@ -1,0 +1,67 @@
+name: update feeds
+
+on:
+  schedule:
+    # Skjevt klokkeslett: GitHub utsetter cron-jobber mest på runde tider.
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+    inputs:
+      series:
+        description: "Komma-separert delmengde (tomt = alle)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bygg feeder
+        run: |
+          python build.py \
+            --base-url "${BASE_URL:-https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}}" \
+            --series "${{ inputs.series }}" \
+            --workers 12 \
+            --out site
+        env:
+          BASE_URL: ${{ vars.BASE_URL }}
+
+      - name: Commit cache
+        run: |
+          # Heartbeat: uten en commit deaktiverer GitHub cron-jobben etter 60 dager.
+          date -u +%Y-%m-%dT%H:%M:%SZ > cache/.heartbeat
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cache
+          git diff --quiet --cached || git commit -m "chore: refresh audio-url cache"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
